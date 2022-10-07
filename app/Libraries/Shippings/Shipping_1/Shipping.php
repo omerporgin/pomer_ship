@@ -10,11 +10,6 @@ use Illuminate\Support\Facades\Log;
 return new class extends AbstractShipping {
 
     /**
-     * @var bool
-     */
-    protected bool $isTest = true;
-
-    /**
      * @var string
      */
     protected string $testUrl = 'https://express.api.dhl.com/mydhlapi/test/';
@@ -86,6 +81,7 @@ return new class extends AbstractShipping {
                 200 => 'true',
                 201 => 'true',
                 400 => 'Wrong input parameters',
+                401 => 'Invalid Credentials',
                 404 => 'Not found',
                 422 => 'Wrong input parameters (schema validation error)',
                 500 => 'Process errors',
@@ -260,16 +256,18 @@ return new class extends AbstractShipping {
      */
     public function proofOfDelivery(string $tractkingNumber): bool
     {
+
         if ($this->createRequest) {
             $this->buildRequest(__FUNCTION__);
         }
 
         try {
-            $response = (object)Http::withBasicAuth($this->shipping->api_key, $this->shipping->api_secret)
+            dd($this->shipping->api_key, $this->shipping->api_secret);
+            $url = $this->getUrl('shipments/' . $tractkingNumber . '/proof-of-delivery');
+            $response = Http::withBasicAuth($this->shipping->api_key, $this->shipping->api_secret)
                 ->withHeaders([
                     'content-type' => 'application/json',
-                ])
-                ->get($this->getUrl($tractkingNumber . '/proof-of-delivery'));
+                ])->get($url);
 
             return $this->returnResponse($response);
 
@@ -318,10 +316,11 @@ return new class extends AbstractShipping {
         }
 
         try {
+            $url = $this->getUrl('shipments');
             $response = Http::withBasicAuth($this->shipping->api_key, $this->shipping->api_secret)
                 ->withHeaders([
                     'content-type' => 'application/json',
-                ])->post($this->getUrl('shipments'), $this->data);
+                ])->post($url, $this->data);
 
             return $this->returnResponse($response);
 
@@ -691,7 +690,7 @@ return new class extends AbstractShipping {
     {
         $data = $this->processPriceData($data);
 
-        if(empty($data)){
+        if (empty($data)) {
             throw new \Exception('Bu regionda kayıtlı ülke yok.');
         }
 

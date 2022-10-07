@@ -18,6 +18,7 @@ return new class($shipping) extends Request implements RequestInterface {
      */
     public function set()
     {
+
         $this->data = [
             "Shipment" => [
                 "ShipmentRatingOptions" => [
@@ -76,6 +77,10 @@ return new class($shipping) extends Request implements RequestInterface {
         $this->data['Request'] = [
             "SubVersion" => "1703",
         ];
+    }
+
+    public function setData($data){
+
     }
 
     /**

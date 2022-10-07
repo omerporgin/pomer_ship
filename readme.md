@@ -1,3 +1,7 @@
+# VERSION
+
+versiyon 2.1
+
 # INSTALL
 ### Dependencies
 
@@ -9,7 +13,7 @@ MySQL 5.7.33
 
 ### Install
 
-Aşağıdaki koöut girilip adımlar takip edilebilir.
+Konsolda aşağıdaki komut girilip adımlar takip edilerek install edilebilir.
 ```cmd
 php artisan install
 ```

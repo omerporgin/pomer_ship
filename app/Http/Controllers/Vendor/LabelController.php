@@ -38,7 +38,11 @@ class LabelController extends Controller
                 if ($shipping->withData($data)->createShipment()) {
                     $response = $shipping->response();
 
+                    // Add response
+                    $order->newLog($response);
+
                     if (!isset($response->shipmentTrackingNumber)) {
+
                         // shipmentTrackingNumber not exist
                         $errorList = [];
                         if (isset($response->detail)) {

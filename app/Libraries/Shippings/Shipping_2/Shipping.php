@@ -2,15 +2,13 @@
 
 namespace App\Libraries\Shippings\Shipping_2;
 
+use App\Events\ShippingPriceUpdated;
 use App\Libraries\Shippings\AbstractShipping;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Log;
+use App\Libraries\Shippings\Factory;
 
 return new class extends AbstractShipping {
-
-    /**
-     * @var bool
-     */
-    protected bool $isTest = true;
 
     /**
      * v1707 -> version
@@ -64,7 +62,7 @@ return new class extends AbstractShipping {
          */
         $this->response = array_values((array)$response)[0];
 
-        if ( $this->response->Response->ResponseStatus->Code == 0) {
+        if ($this->response->Response->ResponseStatus->Code == 0) {
             $this->setErrorList([
 
             ]);
@@ -105,10 +103,73 @@ return new class extends AbstractShipping {
      * @param float $length cm
      * @return float
      */
-    public static function calculateDesi(float $width, float $height, float $length): float
+    public function calculateDesi(object $request): float
     {
-        $desi = $width * $height * $length / 5000;
+        $desi = $request->width * $request->height * $request->length / 5000;
         return $desi;
+    }
+
+    /**
+     * Updates prices
+     *
+     * @param int $region
+     * @param int $maxDesi -> Max value for dhl = 70
+     * @return void
+     */
+    public function updateShippingPrices(int $region, int $maxDesi = 70)
+    {
+        set_time_limit(0);
+
+        $desi = 1;
+        while ($desi <= $maxDesi) {
+
+            try {
+
+                if (!$results = $this->rates([
+                    'region' => $region,
+                    'desi' => $desi,
+                ])) {
+                    throw new \Exception('Empty Results!');
+                }
+
+                $priceService = service('shippingPrices');
+
+                // Delete old data
+                $priceService->get()->where('shipping_id', $this->id)->where('desi', $desi)->where('region', $region)->delete();
+
+                foreach ($results as $result) {
+
+                    $saveResult = $priceService->save([
+                        'shipping_id' => $this->id,
+                        'service' => $result['name'],
+                        'desi' => $desi,
+                        'price' => $result['price'],
+                        'currency' => $result['currency'],
+                        'region' => $region,
+                        'data' => $result['data'],
+                    ]);
+
+                    if ($saveResult['result']) {
+                        $priceService->reset();
+                    }
+
+                }
+            } catch (\Exception $e) {
+                throw new \Exception($e->getMessage());
+            }
+
+            // Increase desi
+            if ($desi < 10) {
+                $increament = 0.5;
+            } else {
+                $increament = 1;
+            }
+            Log::debug($desi);
+
+            $desi += $increament;
+        }
+
+        event(new ShippingPriceUpdated($this));
     }
 
     /**
@@ -236,14 +297,14 @@ return new class extends AbstractShipping {
      * @param array $data
      * @return bool
      */
-    public function rates(): bool
+    public function rates(array $data): bool
     {
-        if ($this->createRequest) {
-            $this->buildRequest(__FUNCTION__);
-        }
+        $rateRequest = Factory::request('Rates', $this);
 
+        $rateRequest->setData($data);
         $url = $this->getUrl('ship/v1801/rating/Rate');
-
+        dd($rateRequest->build());
+        dd(12);
         try {
             $response = (object)Http::withHeaders($this->headerData([
                 'transId' => time(),

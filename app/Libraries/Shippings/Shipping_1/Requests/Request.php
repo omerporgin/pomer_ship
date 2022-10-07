@@ -97,6 +97,12 @@ class Request extends ShippingRequests
             "countryName" => "Turkey" // Always Turkey
         ];
 
+        foreach ($this->parseAddress($this->order->pickup_address) as $key => $line) {
+            if (!empty($line)) {
+                $return['addressLine' . $key] = $line;
+            }
+        }
+        /*
         $address = $this->order->pickup_address;
         if (strlen($address) < 45) {
             $return["addressLine1"] = $address; // max:45
@@ -116,6 +122,7 @@ class Request extends ShippingRequests
                 $line .= ' ' . $word;
             }
         }
+        */
         return $return;
     }
 

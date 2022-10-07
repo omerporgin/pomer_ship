@@ -71,8 +71,8 @@ return new class extends Migration {
 
 
 
-            $table->text('log')->nullable();
-            $table->text('data')->comment('First saved data')->nullable();
+            $table->longText('log')->nullable();
+            $table->longText('data')->comment('First saved data')->nullable();
 
             // Dates
             $table->dateTime('order_date', $precision = 0)->comment(' Siparişin verildiği tarih');

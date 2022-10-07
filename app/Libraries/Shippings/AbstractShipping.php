@@ -11,6 +11,11 @@ abstract class AbstractShipping
     use ErrorTrait;
 
     /**
+     * @var bool
+     */
+    protected bool $isTest = true;
+
+    /**
      * @var array
      */
     protected array $err = [];
@@ -152,6 +157,7 @@ abstract class AbstractShipping
         }
 
         $this->data = $r->build($this->requestData);
+
         return $this->data;
     }
 

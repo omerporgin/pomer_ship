@@ -354,4 +354,27 @@ return new class($shipping, $order) extends Request implements RequestInterface 
 
         return $return;
     }
+
+    /**
+     * @return string[]
+     */
+    public function pickupAddress(): array
+    {
+        $return = [
+            "postalCode" => $this->order->pickup_post_code,
+            "cityName" => $this->order->pickup_state_name,
+            "countryCode" => self::COUNTRY_CODE,
+            "provinceCode" => self::COUNTRY_CODE,
+            "countyName" => $this->order->pickup_city_name,
+            "countryName" => "Turkey" // Always Turkey
+        ];
+
+        foreach ($this->parseAddress($this->order->pickup_address) as $key => $line) {
+            if (!empty($line)) {
+                $return['addressLine' . $key] = $line;
+            }
+        }
+
+        return $return;
+    }
 };
