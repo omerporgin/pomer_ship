@@ -1,0 +1,118 @@
+﻿"null";"10.01";"Buğday ve mahlut: ";;
+"null";;" - Makarnalık buğday (durum buğdayı):";" ";" "
+"null";"1001.11.00.00.00";" - - Tohumluk ";"-";200
+"null";"1001.19.00.00.00";" - - Diğerleri";"-";200
+"null";;" - Diğerleri:";;
+"null";"1001.91";" - - Tohumluk:";;
+"null";"1001.91.10.00.00";" - - - Kaplıca (kızıl) buğday";"-";200
+"null";;" - - - Adi buğday ve mahlut:";;
+"null";"1001.91.20.00.11";" - - - - Adi buğday";"-";200
+"null";"1001.91.20.00.12";" - - - - Mahlut";"-";200
+"null";"1001.91.90.00.00";" - - - Diğerleri";"-";200
+"null";;" - - Diğerleri:";;
+"null";"1001.99.00.00.11";" - - - Adi buğday";"-";200
+"null";"1001.99.00.00.12";" - - - Mahlut";"-";200
+"null";"1001.99.00.00.13";" - - - Kaplıca (kızıl) buğday";"-";200
+"null";;;;
+"null";"10.02";"Çavdar ";;
+"null";"1002.10.00.00.00";" - Tohumluk ";"-";200
+"null";"1002.90.00.00.00";" - Diğerleri";"-";200
+"null";;;;
+"null";"10.03";"Arpa:";;
+"null";"1003.10";" - Tohumluk:";;
+"null";"1003.10.00.00.11";" - - Beyaz arpa";"-";200
+"null";"1003.10.00.00.19";" - - Diğerleri";"-";200
+"null";"1003.90";" - Diğerleri:";;
+"null";"1003.90.00.00.11";" - - Beyaz arpa";"-";200
+"null";"1003.90.00.00.12";" - - Maltlık arpa";"-";200
+"null";"1003.90.00.00.19";" - - Diğerleri";"-";200
+"null";;;;
+"null";"10.04";"Yulaf";;
+"null";"1004.10.00.00.00";"- Tohumluk";"-";200
+"null";"1004.90.00.00.00";"- Diğerleri";"-";200
+"null";;;;
+"null";"10.05";"Mısır: ";;
+"null";"1005.10";" - Tohumluk:";;
+"null";;" - - Melezler:";;
+"null";"1005.10.13.00.00";" - - - Üçlü melez";"-";200
+"null";"1005.10.15.00.00";" - - - Tek melez";"-";200
+"null";"1005.10.18.00.00";" - - - Diğerleri";"-";200
+"null";"1005.10.90.00.00";" - - Diğer tohumluklar";"-";200
+"null";"1005.90";" - Diğerleri :";;
+"null";"1005.90.00.00.11";" - - Cin mısırı (patlamış mısır-pop corn yapımında kullanılan mısır) ";"-";200
+"null";"1005.90.00.00.19";" - - Diğerleri";"-";200
+"null";;;;
+"null";"10.06";"Pirinç: ";;
+"null";"1006.10";" - Kavuz içinde bulunan pirinç (çeltik):";;
+"null";"1006.10.10.00.00";" - - Tohumluk olanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";"1006.10.30.00.00";" - - - Yuvarlak taneli";"-";50
+"null";"1006.10.50.00.00";" - - - Orta taneli";"-";50
+"null";;" - - - Uzun taneli:";;
+"null";"1006.10.71.00.00";" - - - - Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar";"-";50
+"null";"1006.10.79.00.00";" - - - - Uzunluk/genişlik oranı 3'e eşit veya büyük olanlar";"-";50
+"null";"1006.20";" - Kavuzu çıkarılmış (kahverengi) pirinç:";;
+"null";;" - - Yarı haşlanmış:";;
+"null";"1006.20.11.00.00";" - - - Yuvarlak taneli";"-";50
+"null";"1006.20.13.00.00";" - - - Orta taneli";"-";50
+"null";;" - - - Uzun taneli:";;
+"null";"1006.20.15.00.00";" - - - - Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar";"-";50
+"null";"1006.20.17.00.00";" - - - - Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";"1006.20.92.00.00";" - - - Yuvarlak taneli";"-";50
+"null";"1006.20.94.00.00";" - - - Orta taneli";"-";50
+"null";;" - - - Uzun taneli:";;
+"null";"1006.20.96.00.00";" - - - - Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar";"-";50
+"null";"1006.20.98.00.00";" - - - - Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar";"-";50
+"null";"1006.30";" - Yarı veya tam olarak değirmenden geçirilmiş pirinç (parlatıl-";;
+"null";;"   mış veya perdahlanmış olsun olmasın):";;
+"null";;" - - Yarı olarak değirmenden geçirilmiş pirinç:";;
+"null";;" - - - Yarı haşlanmış:";;
+"null";"1006.30.21.00.00";" - - - - Yuvarlak taneli";"-";50
+"null";"1006.30.23.00.00";" - - - - Orta taneli";"-";50
+"null";;" - - - - Uzun taneli:";;
+"null";"1006.30.25.00.00";" - - - - - Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar";"-";50
+"null";"1006.30.27.00.00";" - - - - - Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"1006.30.42.00.00";" - - - - Yuvarlak taneli";"-";50
+"null";"1006.30.44.00.00";" - - - - Orta taneli";"-";50
+"null";;" - - - - Uzun taneli:";;
+"null";"1006.30.46.00.00";" - - - - - Uzunluk/genişlik oranı 2'den büyük fakat 3'tenküçük olanlar";"-";50
+"null";"1006.30.48.00.00";" - - - - - Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar";"-";50
+"null";;" - - Tam olarak değirmenden geçirilmiş pirinç:";;
+"null";;" - - - Yarı haşlanmış:";;
+"null";"1006.30.61.00.00";" - - - - Yuvarlak taneli";"-";50
+"null";"1006.30.63.00.00";" - - - - Orta taneli";"-";50
+"null";;" - - - - Uzun taneli:";;
+"null";"1006.30.65.00.00";" - - - - - Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar";"-";50
+"null";"1006.30.67.00.00";" - - - - - Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"1006.30.92.00.00";" - - - - Yuvarlak taneli";"-";50
+"null";"1006.30.94.00.00";" - - - - Orta taneli";"-";50
+"null";;" - - - - Uzun taneli:";;
+"null";"1006.30.96.00.00";" - - - - - Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar";"-";50
+"null";"1006.30.98.00.00";" - - - - - Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar";"-";50
+"null";"1006.40.00.00.00";" - Kırık pirinçler";"-";50
+"null";;;;
+"null";"10.07";"Koca darı (Grain Sorghum):";;
+"null";"1007.10";" - Tohumluk:";;
+"null";"1007.10.10.00.00";" - - Melezler";"-";200
+"null";"1007.10.90.00.00";" - - Diğerleri";"-";200
+"null";"1007.90.00.00.00";" - Diğerleri";"-";200
+"null";;;;
+"null";"10.08";"Kara buğday, darı (cin ve kum darı), kuş yemi; diğer hububat";;
+"null";"1008.10.00.00.00";" - Kara buğday";"-";200
+"null";;" - Darı (cin ve kum darı)";;
+"null";"1008.21";" - - Tohumluk:";;
+"null";"1008.21.00.00.11";" - - - Darı";"-";200
+"null";"1008.21.00.00.12";" - - - Akdarı";"-";200
+"null";;" - - Diğerleri:";;
+"null";"1008.29.00.00.11";" - - - Darı";"-";200
+"null";"1008.29.00.00.12";" - - - Akdarı";"-";200
+"null";"1008.30.00.00.00";" - Kuş yemi";"-";200
+"null";"1008.40.00.00.00";" - Çatal Otu (Fonio) (Digitaria spp.)";"-";200
+"null";"1008.50.00.00.00";" - Kinoa (Chenopodium quinoa)";"-";200
+"null";"1008.60";" - Buğday ve çavdar melezi:";;
+"null";"1008.60.00.00.11";" - - Tohumluk";"-";200
+"null";"1008.60.00.00.19";" - - Diğerleri";"-";200
+"null";"1008.90.00.00.00";" - Diğer hububat";"-";200

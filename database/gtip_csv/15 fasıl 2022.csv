@@ -1,0 +1,477 @@
+﻿"null";"15.01";" Katı domuz yağı (lard dahil) ve kümes  hayvanlarının katı yağları";;
+"null";;" (02.09 ve 15.03 pozisyonlarındakiler hariç):";;
+"null";"1501.10";" - Lard :";;
+"null";"1501.10.10.00.00";" - - Sınai amaçlar için kullanılanlar (insan gıdası olarak kullanılan ürünlerin";;
+"null";;"      imalinde kullanılanlar hariç)";"-";75
+"null";"1501.10.90.00.00";" - - Diğerleri";"-";20
+"null";"1501.20";" - Diğer domuz yağı :";;
+"null";"1501.20.10.00.00";" - - Sınai amaçlar için kullanılanlar (insan gıdası olarak kullanılan ürünlerin";;
+"null";;"      imalinde kullanılanlar hariç)";"-";75
+"null";"1501.20.90.00.00";" - - Diğerleri";"-";20
+"null";"1501.90.00.00.00";" - Diğerleri";"-";20
+"null";;;;
+"null";"15.02";"Sığır, koyun veya keçi yağları ( 15.03 pozisyonundakiler hariç) :";;
+"null";"1502.10";" - Donyağı:";;
+"null";"1502.10.10.00.00";" - - Sınai amaçlar için kullanılanlar (insan gıdası olarak kullanılan ürünlerin";;
+"null";;"      imalinde kullanılanlar hariç)";"-";75
+"null";"1502.10.90.00.00";" - - Diğerleri";"-";40
+"null";"1502.90";" - Diğerleri:";;
+"null";"1502.90.10.00.00";" - - Sınai amaçlar için kullanılanlar (insan gıdası olarak kullanılan ";;
+"null";;"    ürünlerin imalinde kullanılanlar hariç)";"-";75
+"null";" ";" - - Diğerleri";;" "
+"null";"1502.90.90.00.11";" - - - Sığır yağları";"-";40
+"null";"1502.90.90.00.12";" - - - Koyun ve keçi yağları";"-";40
+"null";;;;
+"null";"1503.00";" Lard stearini, sıvı lard, oleostearin, oleoyağ ve sıvı don yağı";;
+"null";;"  (emülsiyon haline getirilmemiş, karıştırılmamış veya ";;
+"null";;"  başka şekilde hazırlanmamış):";;
+"null";;" - Lard stearini ve oleostearin:";;
+"null";;" - - Sınai amaçlar için kullanılanlar:";;
+"null";"1503.00.11.10.00";" - - - Lard stearini";"-";75
+"null";"1503.00.11.20.00";" - - - Oleostearin";"-";75
+"null";;" - - Diğerleri:";;
+"null";"1503.00.19.10.00";" - - - Lard stearini";"-";75
+"null";"1503.00.19.20.00";" - - - Oleostearin";"-";75
+"null";"1503.00.30.00.00";" -  Sınai amaçlar için kullanılan sıvı donyağı (insan gıdası olarak kullanılan";;
+"null";;"    ürünlerin imalinde kullanılanlar hariç)";"-";75
+"null";;" - Diğerleri:";;
+"null";"1503.00.90.10.00";" - - Sıvı lard";"-";75
+"null";"1503.00.90.90.00";" - - Diğerleri";"-";75
+"null";;;;
+"null";"15.04";"Balıkların veya deniz memelilerinin katı ve sıvı yağları ve bun-";;
+"null";;"ların fraksiyonları (rafine edilmiş olsun olmasın,fakat kimyasal";;
+"null";;"olarak değiştirilmemiş) :";;
+"null";"1504.10";" - Balık karaciğerlerinin sıvı yağları ve bunların fraksiyonları:";;
+"null";;" - - Gramında 2 500 ünite veya daha az A vitamini içerenler:";;
+"null";"1504.10.10.10.00";" - - - Tababette kullanılanlar";"-";20
+"null";"1504.10.10.90.00";" - - - Diğerleri";"-";20
+"null";;" - - Diğerleri:";;
+"null";"1504.10.91.00.00";" - - - Tütün balıklarından olanlar";"-";20
+"null";;" - - - Diğerleri:";;
+"null";"1504.10.99.10.00";" - - - - Tababette kullanılanlar";"-";20
+"null";"1504.10.99.90.00";" - - - - Diğerleri";"-";20
+"null";"1504.20";" - Balıkların katı ve sıvı yağları ve bunların fraksiyonları ( karaci -";;
+"null";;"   ğerlerin sıvı yağları hariç):";;
+"null";"1504.20.10.00.00";" - - Katı fraksiyonlar ";"-";60
+"null";"1504.20.90.00.00";" - - Diğerleri";"-";20
+"null";"1504.30";" - Deniz memelilerinin katı ve sıvı yağları ve bunların fraksiyonları:";;
+"null";"1504.30.10.00.00";" - - Katı fraksiyonlar";"-";60
+"null";;" - - Diğerleri";;" "
+"null";"1504.30.90.00.11";" - - - Balina  yağı ";"-";20
+"null";"1504.30.90.00.19";" - - - Diğerleri";"-";20
+"null";;;;
+"null";"1505.00";"Yapağı yağı ve bundan elde edilen yağlı maddeler (lanolin dahil):";;
+"null";"1505.00.10.00.00";" - Ham yapağı yağı";"-";40
+"null";;" - Diğerleri";;
+"null";"1505.00.90.00.11";" - - Lanolin";"-";40
+"null";"1505.00.90.00.19";" - - Diğerleri";"-";40
+"null";;;;
+"null";"1506.00";"Diğer hayvansal katı ve sıvı yağlar ve bunların fraksiyonları";;
+"null";;"(rafine edilmiş olsun olmasın, fakat kimyasal olarak değiştirilmemiş)";;" "
+"null";"1506.00.00.00.11";"- At cinsi hayvanlar, hipopotam, ayı, tavşan, kara yengeci, kaplumbağa ve ";;
+"null";;"  benzerlerinin katı yağları (kemik, kemik iliği ve döküntülerinden elde edilen ";;
+"null";;"  katı yağlar dahil)";"-";75
+"null";"1506.00.00.00.12";"- Paça yağları";"-";75
+"null";"1506.00.00.00.13";"- Sıvı kemik yağı";"-";75
+"null";"1506.00.00.00.19";"- Diğerleri";"-";75
+"null";;;;
+"null";"15.07";"Soya yağı ve fraksiyonları (rafine edilmiş olsun olmasın, fakat";;
+"null";;"kimyasal olarak değiştirilmemiş):";;
+"null";"1507.10";" - Ham yağ (sakızı ayrılmış olsun olmasın):";;
+"null";"1507.10.10.00.00";" - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1507.10.90.00.00";" - - Diğerleri";"-";40
+"null";"1507.90";" - Diğerleri:";;
+"null";"1507.90.10.00.00";" - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1507.90.90.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"15.08";"Yer fıstığı yağı ve fraksiyonları (rafine edilmiş olsun olmasın,";;
+"null";;"fakat kimyasal olarak değiştirilmemiş):";;
+"null";"1508.10";" - Ham yağ:";;
+"null";"1508.10.10.00.00";" - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1508.10.90.00.00";" - - Diğerleri";"-";40
+"null";"1508.90";" - Diğerleri:";;
+"null";"1508.90.10.00.00";" - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1508.90.90.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"15.09";"Zeytinyağı ve fraksiyonları (rafine edilmiş olsun olmasın, fakat";;
+"null";;"kimyasal olarak değiştirilmemiş) :";;
+"null";"1509.20.00.00.00";" - Ekstra saf zeytinyağı";"-";40
+"null";"1509.30";" - Saf zeytinyağı:";;
+"null";"1509.30.00.00.11";" - - Net ağırlığı 1 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";40
+"null";"1509.30.00.00.12";" - - Net ağırlığı 1 kg. ı geçen 2 kg. ı geçmeyen hazır ambalajlarda olanlar";"-";40
+"null";"1509.30.00.00.13";" - - Net ağırlığı 2 kg.ı geçen 5 kg. ı geçmeyen hazır ambalajlarda olanlar";"-";40
+"null";"1509.30.00.00.14";" - - Diğerleri";"-";40
+"null";"1509.40.00.00.00";" - Diğer saf zeytinyağı";"-";40
+"null";"1509.90";" - Diğerleri ";;
+"null";"1509.90.00.00.14";" - - Net ağırlığı 1 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";40
+"null";"1509.90.00.00.15";" - - Net ağırlığı 1 kg. ı geçen 2 kg. ı geçmeyen hazır ambalajlarda olanlar";"-";40
+"null";"1509.90.00.00.16";" - - Net ağırlığı 2 kg.ı geçen 5 kg. ı geçmeyen hazır ambalajlarda olanlar";"-";40
+"null";"1509.90.00.00.18";" - - Diğerleri";"-";40
+"null";;;;
+"null";;;;
+"null";"15.10";"Sadece zeytinden elde edilen diğer sıvı yağlar ve bunların";;
+"null";;"fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal";;
+"null";;"olarak değiştirilmemiş) (bu yağların ve fraksiyonlarının 15.09";;
+"null";;"pozisyonundaki yağlar ve fraksiyonları ile olan karışımları dahil):";;
+"null";"1510.10.00.00.00";" - Ham prina yağı";"-";40
+"null";"1510.90.00.00.00";" - Diğerleri";"-";40
+"null";;;;
+"null";"15.11";"Palm yağı ve fraksiyonları (rafine edilmiş olsun olmasın, fakat";;
+"null";;"kimyasal olarak değiştirilmemiş) :";;
+"null";"1511.10";" - Ham yağ:";;
+"null";"1511.10.10.00.00";" - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1511.10.90.00.00";" - - Diğerleri";"-";40
+"null";"1511.90";" - Diğerleri:";;
+"null";;" - - Katı fraksiyonlar:";;
+"null";;" - - - Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar";;
+"null";"1511.90.11.00.11";" - - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"          ürünlerin imalinde kullanılanlar hariç)";"-";60
+"null";"1511.90.11.00.19";" - - - - Diğerleri";"-";60
+"null";;" - - - Diğerleri";;
+"null";"1511.90.19.00.11";" - - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"           ürünlerin imalinde kullanılanlar hariç)";"-";60
+"null";;" - - - - Diğerleri:";;
+"null";"1511.90.19.00.21";" - - - - - Net ağırlığı 25.000 Kg'ye kadar olan ambalaj veya kaplarda bulunanlar";"-";60
+"null";"1511.90.19.00.29";" - - - - - Diğerleri";"-";60
+"null";;" - - Diğerleri:";;
+"null";"1511.90.91.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - Diğerleri";;
+"null";"1511.90.99.00.11";" - - - - Süper olein";"-";40
+"null";"1511.90.99.00.19";" - - - - Diğerleri";"-";40
+"null";"15.12";"Ayçiçeği tohumu, aspir veya pamuk tohumu yağları ve bunların";;
+"null";;"fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal olarak";;
+"null";;"değiştirilmemiş):";;
+"null";;" - Ayçiçeği tohumu veya aspir yağları ve bunların fraksiyonları:";;
+"null";"1512.11";" - - Ham yağlar:";;
+"null";"1512.11.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"1512.11.91.00.00";" - - - - Ayçiçeği tohumu yağı";"-";40
+"null";"1512.11.99.00.00";" - - - - Aspir yağı";"-";40
+"null";"1512.19";" - - Diğerleri:";;
+"null";"1512.19.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"1512.19.90.00.11";" - - - - Ayçiçeği tohumu yağı";"-";75
+"null";"1512.19.90.00.19";" - - - - Aspir yağı";"-";75
+"null";;" - Pamuk tohumu yağı ve fraksiyonları:";;
+"null";"1512.21";" - - Ham yağ (gossypolu alınmış olsun olmasın):";;
+"null";"1512.21.10.00.00";" - - - Teknik veya sınai amaçlarla kulIanılanlar (insan gıdası olarak kullanılan";;
+"null";;"         ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1512.21.90.00.00";" - - - Diğerleri";"-";40
+"null";"1512.29";" - - Diğerleri:";;
+"null";"1512.29.10.00.00";" - - -Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"       ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1512.29.90.00.00";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"15.13";"Hindistan cevizi (kopra), palm çekirdeği veya babassu yağları";;
+"null";;"ve bunların fraksiyonları (rafine edilmiş olsun olmasın ,fakat  ";;
+"null";;"kimyasal olarak değiştirilmemiş) :";;
+"null";;" - Hindistan cevizi (kopra) yağı ve fraksiyonları:";;
+"null";"1513.11";" - - Ham yağ:";;
+"null";"1513.11.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"1513.11.91.00.00";" - - - - Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar";"-";40
+"null";"1513.11.99.00.00";" - - - - Diğerleri";"-";40
+"null";"1513.19";" - - Diğerleri:";;
+"null";;" - - - Katı fraksiyonlar:";;
+"null";"1513.19.11.00.00";" - - - - Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar";"-";60
+"null";;" - - - - Diğerleri:";;
+"null";"1513.19.19.00.11";" - - - - - Net ağırlığı 25.000 Kg'ye kadar olan ambalaj veya konteynerlerde bulunanlar";"-";60
+"null";"1513.19.19.00.19";" - - - - - Diğerleri";"-";60
+"null";;" - - -  Diğerleri:";;
+"null";"1513.19.30.00.00";" - - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"           ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - -  Diğerleri:";;
+"null";"1513.19.91.00.00";" - - - - - Net ağırlığı 1 kg.  veya daha az olan hazır ambalajlarda bulunanlar";"-";40
+"null";;" - - - - - Diğerleri:";;
+"null";"1513.19.99.00.11";" - - - - - - Net ağırlığı 25.000 Kg'ye kadar olan ambalaj veya konteynerlerde bulunanlar";"-";40
+"null";"1513.19.99.00.19";" - - - - - - Diğerleri";"-";40
+"null";;" - Palm çekirdeği veya babassu yağları ve bunların fraksiyonları:";;
+"null";"1513.21";" - - Ham yağlar:";;
+"null";;" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç):";;
+"null";"1513.21.10.00.11";" - - - - Palm çekirdeği yağı";"-";40
+"null";"1513.21.10.00.19";" - - - - Babassu yağı";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"1513.21.30.00.00";" - - - - Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar";"-";40
+"null";" ";" - - - - Diğerleri:";;"  "
+"null";"1513.21.90.00.11";" - - - - - Palm çekirdeği yağı";"-";40
+"null";"1513.21.90.00.12";" - - - - - Babassu yağı";"-";40
+"null";"1513.29";" - - Diğerleri:";;
+"null";;" - - - Katı fraksiyonlar:";;
+"null";"1513.29.11.00.00";" - - - - Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar";"-";60
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Palm çekirdeği yağı:";;
+"null";"1513.29.19.00.11";" - - - - - - Net ağırlığı 25.000 Kg'ye kadar olan ambalaj veya konteynerlerde bulunanlar";"-";60
+"null";"1513.29.19.00.19";" - - - - - - Diğerleri";"-";60
+"null";"1513.29.19.00.29";" - - - - - Diğerleri";"-";60
+"null";;" - - - Diğerleri:";;
+"null";"1513.29.30.00.00";" - - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"           ürünlerin imalinde kullanılanlar hariç):";"-";40
+"null";;" - - - - Diğerleri:";;
+"null";"1513.29.50.00.00";" - - - - - Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda bulunanlar";"-";40
+"null";;" - - - - - Diğerleri :";;
+"null";"1513.29.90.00.11";" - - - - - - Palm çekirdeği yağı";"-";40
+"null";"1513.29.90.00.19";" - - - - - - Babassu yağı";"-";40
+"null";;;;
+"null";"15.14";"Rep, kolza ve hardal yağı ve bunların fraksiyonları (rafine edilmiş";;
+"null";;"olsun olmasın, fakat kimyasal olarak değiştirilmemiş)";;
+"null";;" - Düşük erusik asit muhtevalı rep veya kolza yağı ve  fraksiyonları:";;
+"null";"1514.11";" - - Ham yağlar :";;
+"null";"1514.11.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1514.11.90.00.00";" - - -  Diğerleri";"-";40
+"null";"1514.19";" - - Diğerleri :";;
+"null";"1514.19.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1514.19.90.00.00";" - - - Diğerleri";"-";40
+"null";;" - Diğerleri:";;
+"null";"1514.91";" - - Ham yağlar :";;
+"null";"1514.91.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1514.91.90.00.00";" - - - Diğerleri";"-";40
+"null";"1514.99";" - - Diğerleri :";;
+"null";"1514.99.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"      ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1514.99.90.00.00";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"15.15";"Diğer bitkisel veya mikrobiyal sabit katı ve sıvı yağlar (jojoba yağı dahil) ve";;
+"null";;" bunların fraksiyonları (rafine edilmiş olsun olmasın, fakat kimyasal";;
+"null";;"olarak değiştirilmemiş) :";;
+"null";;" - Keten tohumu yağı ve fraksiyonları :";;
+"null";"1515.11";" - - Ham yağ :";;
+"null";"1515.11.00.10.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1515.11.00.90.00";" - - - Diğerleri";"-";40
+"null";"1515.19";" - - Diğerleri :";;
+"null";"1515.19.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1515.19.90.00.00";" - - - Diğerleri";"-";40
+"null";;" - Mısır yağı ve fraksiyonları :";;
+"null";"1515.21";" - - Ham yağ :";;
+"null";"1515.21.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - Diğerleri";;
+"null";"1515.21.90.00.11";" - - - - Degum (sakızı giderilmiş) mısır yağı";"-";40
+"null";"1515.21.90.00.19";" - - - - Diğerleri";"-";40
+"null";"1515.29";" - - Diğerleri :";;
+"null";"1515.29.10.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"        ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1515.29.90.00.00";" - - - Diğerleri";"-";40
+"null";"1515.30";" - Hint yağı ve fraksiyonları:";;
+"null";"1515.30.10.00.00";" - - Dokumaya elverişli sentetik liflerin veya plastik maddelerin imalinde";;
+"null";;"      kullanılan aminoundekanoik asit üretimine mahsus olanlar";"-";40
+"null";"1515.30.90.00.00";" - - Diğerleri";"-";40
+"null";"1515.50";" - Susam yağı ve fraksiyonları:";;
+"null";;" - - Ham yağ:";;
+"null";"1515.50.11.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"       ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1515.50.19.00.00";" - - - Diğerleri";"-";40
+"null";;" - - Diğerleri:";;
+"null";"1515.50.91.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"       ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1515.50.99.00.00";" - - - Diğerleri";"-";40
+"null";"1515.60";" - Mikrobiyal katı ve sıvı yağlar ve fraksiyonları:";;
+"null";;" - - Ham yağ:";;
+"null";"1515.60.11.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"       ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"1515.60.51.00.00";" - - - - Katı, net ağırlığı 1 kg geçmeyen hazır ambalajlarda bulunanlar";"-";40
+"null";"1515.60.59.00.00";" - - - - Katı, diğerleri; sıvı";"-";40
+"null";;" - - Diğerleri:";;
+"null";"1515.60.60.00.00";" - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"       ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"1515.60.91.00.00";" - - - - Katı, net ağırlığı 1 kg geçmeyen hazır ambalajlarda bulunanlar";"-";40
+"null";"1515.60.99.00.00";" - - - - Katı, diğerleri; sıvı";"-";40
+"null";"1515.90";" - Diğerleri:";;
+"null";;" - - Çin ağacı yağı ; Jojoba ve outikika yağları; mersin ağacı mumu ve japon mumu; ";;
+"null";;"    bunların fraksiyonları :";;
+"null";;" - - - Jojoba yağı ve fraksiyonları:";;
+"null";"1515.90.11.11.00";" - - - - Ham yağ";"-";20
+"null";"1515.90.11.19.00";" - - - - Diğerleri";"-";20
+"null";"1515.90.11.90.00";" - - - Çin ağacı yağı;outikika yağı; mersin ağacı mumu ve japon mumu; ";;
+"null";;"       bunların fraksiyonları";"-";40
+"null";;" - - Tütün tohumu yağı ve fraksiyonları:";;
+"null";;" - - - Ham yağ:";;
+"null";"1515.90.21.00.00";" - - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"           ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1515.90.29.00.00";" - - - - Diğerleri";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"1515.90.31.00.00";" - - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"          ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";"1515.90.39.00.00";" - - - - Diğerleri";"-";40
+"null";;" - -Diğer yağlar ve bunların fraksiyonları:";;
+"null";;" - - - Ham yağlar:";;
+"null";"1515.90.40.00.00";" - - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"            ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - - Diğerleri:";;
+"null";"1515.90.51.00.00";" - - - - - Katı halde net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda";;
+"null";;"             olanlar";"-";40
+"null";"1515.90.59.00.00";" - - - - - Katı hallerde,diğer şekillerde ambalajlanmış olanlar; akışkan";"-";40
+"null";;" - - - Diğerleri :";;
+"null";"1515.90.60.00.00";" - - - - Teknik veya sınai amaçlarla kullanılanlar (insan gıdası olarak kullanılan";;
+"null";;"            ürünlerin imalinde kullanılanlar hariç)";"-";40
+"null";;" - - - - Diğerleri :";;
+"null";"1515.90.91.00.00";" - - - - - Katı halde net ağırlığı 1 kg.  veya daha az olan hazır ambalajlarda";;
+"null";;"            olanlar";"-";40
+"null";"1515.90.99.00.00";" - - - - - Katı halde, diğer şekillerde ambalajlanmış olanlar; akışkan";"-";40
+"null";;;;
+"null";"15.16";"Hayvansal, bitkisel veya mikrobiyal katı ve sıvı yağlar ve bunların fraksiyonları";;
+"null";;"(kısmen veya tamamen hidrojenize edilmiş, ara - esterlenmiş, ";;
+"null";;"tekrar esterlenmiş veya elaidik asitleşmiş) (rafine edilmiş olsun ";;
+"null";;"olmasın, fakat daha ileri bir işlem görmemiş) :";;
+"null";"1516.10";" - Hayvansal katı ve sıvı yağlar ve bunların fraksiyonları:";;
+"null";;" - - Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda satışa arz";;
+"null";;"      edilenler";;
+"null";"1516.10.10.00.11";" - - - Tamamen balık veya deniz memelilerinden elde edilmiş olanlar";"-";60
+"null";"1516.10.10.00.12";" - - - Domuz yağından elde edilenler";"-";60
+"null";"1516.10.10.00.19";" - - - Diğerleri";"-";60
+"null";;" - -  Diğerleri:";;
+"null";"1516.10.90.10.00";" - - - Sanayide kullanılan hidrojene edilmiş balina yağı";"-";60
+"null";;" - - - Diğerleri";;
+"null";"1516.10.90.90.11";" - - - - Tamamen balık veya deniz memelilerinden elde edilmiş olanlar";"-";60
+"null";"1516.10.90.90.12";" - - - - Domuz yağından elde edilenler";"-";60
+"null";"1516.10.90.90.19";" - - - - Diğerleri";"-";60
+"null";"1516.20";" - Bitkisel katı ve sıvı yağlar ve bunların fraksiyonları:";;
+"null";"1516.20.10.00.00";" - - Hidrojene hint yağı (opalwax)";"-";75
+"null";;" - - Diğerleri:";;
+"null";;" - - - Net ağırlığı 1 kg. veya daha az olan hazır ambalajlarda satışa arz ";;
+"null";;"        edilenler";;" "
+"null";"1516.20.91.00.11";" - - - - Pamuk yağı";"-";60
+"null";"1516.20.91.00.12";" - - - - Soya yağı";"-";60
+"null";"1516.20.91.00.13";" - - - - Yerfıstığı yağı";"-";60
+"null";"1516.20.91.00.14";" - - - - Zeytinyağı";"-";60
+"null";"1516.20.91.00.15";" - - - - Palm yağı";"-";60
+"null";"1516.20.91.00.16";" - - - - Ayçiçeği tohumu yağı";"-";60
+"null";"1516.20.91.00.17";" - - - - Hindistan cevizi (kopra) yağı";"-";60
+"null";"1516.20.91.00.18";" - - - - Rep yağı";"-";60
+"null";"1516.20.91.00.21";" - - - - Kolza yağı";"-";60
+"null";"1516.20.91.00.22";" - - - - Hardal yağı";"-";60
+"null";"1516.20.91.00.23";" - - - - Keten tohumu yağı";"-";60
+"null";"1516.20.91.00.24";" - - - - Mısır yağı";"-";60
+"null";"1516.20.91.00.25";" - - - - Hint yağı";"-";60
+"null";"1516.20.91.00.26";" - - - - Susam yağı";"-";60
+"null";"1516.20.91.00.27";" - - - - Babassu yağı";"-";60
+"null";"1516.20.91.00.28";" - - - - Palm çekirdeği yağı";"-";60
+"null";"1516.20.91.00.29";" - - - - Diğerleri";"-";60
+"null";;" - - - Diğerleri :";;
+"null";;" - - - - Teknik ve sınai amaçlarla kullanılan (insan gıdası olarak kullanılan";;
+"null";;"          ürünlerin imalinde kullanılanlar hariç) kolza, keten tohumu, rep";;
+"null";;"          tohumu, ayçiçeği tohumu,illipe, karite, makore, touloucouna ve ";;
+"null";;"          babassu yağları";;" "
+"null";"1516.20.95.00.11";" - - - - - Kolza yağı";"-";60
+"null";"1516.20.95.00.12";" - - - - - Keten tohumu yağı";"-";60
+"null";"1516.20.95.00.13";" - - - - - Rep tohumu yağı";"-";60
+"null";"1516.20.95.00.14";" - - - - - Ayçiçeği tohumu yağı";"-";60
+"null";"1516.20.95.00.15";" - - - - - Babassu yağları";"-";60
+"null";"1516.20.95.00.19";" - - - - - Diğerleri";"-";60
+"null";;" - - - - Diğerleri :";;
+"null";;" - - - - - Yerfıstığı, pamuk tohumu, soya  ve ayçiçeği tohumu ";;
+"null";;"           yağları; palm çekirdeği , illipe, hindistan cevizi,rep tohumu";;
+"null";;"           ve copaiba yağları hariç ve serbest yağ asitleri ağırlık itibariyle";;
+"null";;"           % 50'den az olan diğer yağlar";;" "
+"null";"1516.20.96.00.11";" - - - - - - Yerfıstığı yağı";"-";60
+"null";"1516.20.96.00.12";" - - - - - - Pamuk tohumu yağı";"-";60
+"null";"1516.20.96.00.13";" - - - - - - Soya yağı";"-";60
+"null";"1516.20.96.00.14";" - - - - - - Ayçiçeği tohumu yağı";"-";60
+"null";"1516.20.96.00.19";" - - - - - - Diğerleri";"-";60
+"null";;" - - - - - Diğerleri";;" "
+"null";"1516.20.98.00.11";" - - - - - - Zeytinyağı";"-";60
+"null";"1516.20.98.00.12";" - - - - - - Palm yağı";"-";60
+"null";"1516.20.98.00.13";" - - - - - - Palm çekirdeği  yağı";"-";60
+"null";"1516.20.98.00.14";" - - - - - - Hardal yağı";"-";60
+"null";"1516.20.98.00.15";" - - - - - - Mısır yağı";"-";60
+"null";"1516.20.98.00.16";" - - - - - - Hint yağı";"-";60
+"null";"1516.20.98.00.17";" - - - - - - Susam yağı";"-";60
+"null";"1516.20.98.00.18";" - - - - - - Hindistan cevizi yağı";"-";60
+"null";"1516.20.98.00.21";" - - - - - - Rep yağı";"-";60
+"null";"1516.20.98.00.29";" - - - - - - Diğerleri";"-";60
+"null";"1516.30";" - Mikrobiyal katı ve sıvı yağlar ve fraksiyonları:";;
+"null";"1516.30.91.00.00";" - - Net ağırlığı 1 kg geçmeyen hazır ambalajlarda bulunanlar";"-";60
+"null";"1516.30.98.00.00";" - - Diğerleri";"-";60
+"null";"15.17";"Margarin; bu fasılda yer alan hayvansal, bitkisel veya mikrobiyal katı ve sıvı ";;
+"null";;"yağların veya farklı katı veya sıvı yağ fraksiyonlarının yenilen";;
+"null";;"karışımları veya müstahzarları ( 15.16 pozisyonundaki yenilen ";;
+"null";;"katı veya sıvı yağlar ve bunların fraksiyonları hariç) :";;
+"null";"1517.10";" - Margarin (sıvı margarin hariç):";;
+"null";"1517.10.10.00.00";" - - Ağırlık itibariyle içindeki katı süt yağı oranı % 10 'u geçen fakat";;
+"null";;"      % 15'i geçmeyenler";"-";75
+"null";"1517.10.90.00.00";" - - Diğerleri";"-";60
+"null";"1517.90";" - Diğerleri:";;
+"null";"1517.90.10.00.00";" - - Ağırlık itibariyle içindeki katı süt yağı oranı % 10'u geçen fakat";;
+"null";;"       % 15 'i geçmeyenler";"-";75
+"null";;" - - Diğerleri:";;
+"null";"1517.90.91.00.00";" - - - Sabit bitkisel sıvı yağlar (akışkan, karıştırılmış)";"-";40
+"null";"1517.90.93.00.00";" - - - Eşyanın kalıptan çıkarılmasında kullanılan yenilen karışım ve";;
+"null";;"        müstahzarlar";"-";25
+"null";"1517.90.99.00.00";" - - - Diğerleri";"-";60
+"null";;;;
+"null";"1518.00";"Hayvansal, bitkisel veya mikrobiyal katı ve sıvı yağlar ve bunların fraksiyonları";;
+"null";;"(kaynatılmış, oksitlenmiş, suyu alınmış, kükürtlenmiş, üflenmiş,";;
+"null";;"vakum veya inert gaz içinde ısıyla polimerize edilmiş veya kimyasal";;
+"null";;"olarak başka bir şekilde değiştirilmiş) ( 15.16 pozisyonundakiler";;
+"null";;"hariç) tarifenin başka bir yerinde belirtilmeyen veya yer almayan";;
+"null";;"bu fasıldaki hayvansal, bitkisel veya mikrobiyal katı veya sıvı yağların veya";;
+"null";;"farklı katı veya sıvı yağ fraksiyonlarının yenilmeyen";;
+"null";;"karışımları veya müstahzarları:";;
+"null";"1518.00.10.00.00";" - Linoksin";"-";50
+"null";;" - Teknik ve sınai amaçlarla kullanılan (insan gıdası olarak kullanılan";;
+"null";;"    ürünlerin imalinde kullanılanlar hariç) bitkisel sabit sıvı yağlar ";;
+"null";;"    (akışkan, karıştırılmış):";;
+"null";"1518.00.31.00.00";" - - Ham olanlar";"-";40
+"null";"1518.00.39.00.00";" - - Diğerleri";"-";40
+"null";;" - Diğerleri:";;
+"null";"1518.00.91.00.00";" - - Hayvansal, bitkisel veya mikrobiyal katı ve sıvı yağlar ve bunların fraksiyonları";;
+"null";;"      (kaynatılmış ,oksitlenmiş, suyu alınmış veya vakum veya inert gaz ";;
+"null";;"      içinde ısıyla polimerize edilmiş veya kimyasal olarak başka bir şekil-";;
+"null";;"      de değiştirilmiş) (15.16 pozisyonundakiler hariç)";"-";40
+"null";;" - - Diğerleri :";;
+"null";;" - - - Hayvansal veya hayvansal, bitkisel veya mikrobiyal katı ve sıvı yağların  ve";;
+"null";;"        bunların fraksiyonlarının yenilmeyen karışımları veya müstahzarları :";;
+"null";"1518.00.95.10.00";" - - - - Sanayide kullanılan sıvı yağlar";"-";40
+"null";"1518.00.95.90.00";" - - - - Diğerleri";"-";40
+"null";"1518.00.99.00.00";" - - - Diğerleri";"-";40
+"null";;;;
+"null";" [ 15.19 ]";;;
+"null";;;;
+"null";"1520.00";"Ham gliserol; gliserollü sular ve gliserollü lesivler:";" ";" "
+"null";"1520.00.00.10.00";" - Ham gliserol";"-";40
+"null";"1520.00.00.90.00";" - Diğerleri";"-";40
+"null";;;;
+"null";"15.21";"Bitkisel mumlar (trigliseritler hariç), bal mumu veya diğer böcek";;
+"null";;"mumları, ispermeçet (rafine edilmiş veya boyanmış olsun olmasın):";;
+"null";"1521.10";" - Bitkisel mumlar";;
+"null";"1521.10.00.10.00";" - - Ham bitkisel mumlar";"-";20
+"null";"1521.10.00.90.00";" - - Diğerleri";"-";20
+"null";"1521.90";" - Diğerleri:";;
+"null";"1521.90.10.00.00";" - - İspermeçet (rafine edilmiş veya boyanmış olsun olmasın)";"-";40
+"null";;" - - Balmumu veya diğer böcek mumları (rafine edilmiş veya boyanmış";;
+"null";;"      olsun olmasın):";;
+"null";;" - - - Ham olanlar";;" "
+"null";"1521.90.91.00.11";" - - - - Balmumu ";"-";40
+"null";"1521.90.91.00.19";" - - - - Diğer böcek mumları ";"-";40
+"null";;" - - - Diğerleri";;" "
+"null";"1521.90.99.00.11";" - - - - Balmumu ";"-";40
+"null";"1521.90.99.00.19";" - - - - Diğer böcek mumları ";"-";40
+"null";;;;
+"null";;;;
+"null";"1522.00";"Degra;yağlı maddeler veya hayvansal veya bitkisel mumların işlenmesinden";;
+"null";;"meydana gelen artıklar:";;
+"null";"1522.00.10.00.00";" - Degra";"-";30
+"null";;" - Yağlı maddelerin veya bitkisel yada hayvansal mumların işlenme -";;
+"null";;"    sinden meydana gelen artıklar:";;
+"null";;" - - Zeytinyağı karakterine haiz sıvı yağ içerenler:";;
+"null";"1522.00.31.00.00";" - - - Sabun ham maddeleri";"-";40
+"null";"1522.00.39.00.00";" - - - Diğerleri";"-";40
+"null";;" - - Diğerleri:";;
+"null";"1522.00.91.00.00";" - - - Yağ tortuları ve posaları; sabun hammaddeleri";"-";40
+"null";"1522.00.99.00.00";" - - - Diğerleri";"-";40

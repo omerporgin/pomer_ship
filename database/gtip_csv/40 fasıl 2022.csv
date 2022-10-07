@@ -1,0 +1,289 @@
+﻿"null";"40.01";"Tabii kauçuk, balata, güta -perka, guayül, çıkıl (chicle) ve benzeri";;
+"null";;"tabii sakızlar (ilk şekillerde veya levha, tabaka veya şerit halinde):";;
+"null";"4001.10";" - Tabii kauçuk lateksi (prevulkanize edilmiş olsun olmasın):";;
+"null";"4001.10.00.10.00";" - - Prevulkanize edilmiş tabii kauçuk lateksi";"-";"15"
+"null";"4001.10.00.20.00";" - - Prevulkanize edilmemiş tabii kauçuk lateksi";"-";"50"
+"null";;" - Tabii kauçuk (diğer şekillerde):";" ";
+"null";"4001.21.00.00.00";" - - Füme yapraklar (RSS)";"-";"15"
+"null";"4001.22.00.00.00";" - - Teknik yönden belirlenmiş tabii kauçuk (TSNR)";"-";"15"
+"null";"4001.29";" - - Diğerleri:";" ";
+"null";"4001.29.00.10.00";" - - - Krep kauçuk";"-";"40"
+"null";"4001.29.00.90.00";" - - - Diğerleri ";"-";"15"
+"null";"4001.30.00.00.00";" - Balata, güta -perka; guayül, çıkıl (chicle) ve benzeri tabii sakızlar";"-";"15"
+"null";;;" ";
+"null";"40.02";"Sentetik kauçuk veya sıvı yağlardan türetilen taklit kauçuk (ilk ";" ";
+"null";;"şekillerde veya levha, tabaka, şerit halinde) ; 40.01 pozisyonundaki ";;
+"null";;"herhangi bir ürünün bu pozisyondaki herhangi bir ürünle olan ";;
+"null";;"karışımları (ilk şekillerde veya levha, tabaka, şerit halinde):";;
+"null";;" - Stiren-butadien kauçuk (SBR); karboksilenmiş stiren-butadien ";;
+"null";;"    kauçuk  (XSBR):";;
+"null";"4002.11.00.00.00";" - - Lateks şeklinde";"-";"10"
+"null";"4002.19";" - - Diğerleri:";;
+"null";"4002.19.10.00.00";" - - - Emilsiyon polimerizasyonu ile üretilen stiren-butadien kauçuk (E-SBR) ";;
+"null";;"       (balyalar halinde)";"-";"10"
+"null";"4002.19.20.00.00";" - - - Solisyon polimerizasyonu ile üretilen stiren-butadien-stiren ";;
+"null";;"       blok kopolimerleri (SBS termoplastik elostomerler) (granül, parça veya";;
+"null";;"       toz halinde)";"-";"10"
+"null";"4002.19.30.00.00";" - - - Solisyon polimerizasyonu ile üretilen stiren-butadien kauçuk (E-SBR) ";;
+"null";;"       (balyalar halinde)";"-";"10"
+"null";"4002.19.90.00.00";" - - - Diğerleri";;
+"null";;;;
+"null";"4002.20.00.00.00";" - Butadien kauçuk (BR)";"-";"10"
+"null";;" - İzobüten-izopren (bütil) kauçuk (IIR); halojenli izobüten -izopren ";;
+"null";;"   kauçukları (CIIR veya BIIR):";;
+"null";"4002.31.00.00.00";" - - İzobüten - İzopren (butil) kauçuk (IRR)";"-";"10"
+"null";"4002.39.00.00.00";" - - Diğerleri";"-";"10"
+"null";;" - Kloropren (klor butadien) kauçuk (CR):";;
+"null";"4002.41.00.00.00";" - - Lateks şeklinde";"-";"10"
+"null";"4002.49.00.00.00";" - - Diğerleri";"-";"10"
+"null";;" - Akrilonitril  - butadien kauçuk (NBR):";;
+"null";"4002.51.00.00.00";" - - Lateks şeklinde";"-";"10"
+"null";"4002.59.00.00.00";" - - Diğerleri";"-";"10"
+"null";"4002.60.00.00.00";" - İzopren kauçuk (IR)";"-";"10"
+"null";"4002.70.00.00.00";" - Etilen  - propilen  - konjuge olmamış dien kauçuk (EPDM)";"-";"10"
+"null";"4002.80.00.00.00";" - 40.01 Pozisyonundaki ürünlerin bu pozisyondaki ürünlerle olan";;
+"null";;"   karışımları";"-";"15"
+"null";;" - Diğerleri:";;
+"null";"4002.91.00.00.00";" - - Lateks şeklinde";"-";"10"
+"null";"4002.99";" - - Diğerleri:";;
+"null";"4002.99.10.00.00";" - - - Plastik maddelerin katılmasıyla değişikliğe uğrayan ürünler";"-";"10"
+"null";;" - - - Diğerleri :";;
+"null";"4002.99.90.11.00";" - - - - Her nevi nakil vasıtası iç ve dış lastiği imal ve yenilenmesinde (sırt ";;
+"null";;"          geçirme işinde) kullanılacak olanlar";"-";"10"
+"null";"4002.99.90.19.00";" - - - - Diğerleri";"-";"30"
+"null";;;;
+"null";"4003.00.00.00.00";"Rejenere kauçuk (ilk şekillerde, levha, tabaka veya şerit halinde)";"-";"50"
+"null";;;;
+"null";"4004.00";"Kauçuğun döküntü, kırpıntı ve artıkları (sertleştirilmiş kauçuk hariç)";;
+"null";;"ve bunlardan elde edilen tozlar ve granüller";;
+"null";"4004.00.00.00.13";"- Toz ve granüller";"-";"50"
+"null";"4004.00.00.00.19";"- Diğerleri";"-";"50"
+"null";"40.05";"Karıştırılmış kauçuk (vulkanize edilmemiş) (ilk şekillerde, levha,";;
+"null";;"tabaka veya şerit halinde):";;
+"null";"4005.10.00.00.00";" - Karbon karası (carbon black) veya silika ile karıştırılmış kauçuk";"-";"60"
+"null";"4005.20.00.00.00";" - Çözeltiler; dispersiyonlar (4005.10 alt pozisyondakiler hariç)";"-";"50"
+"null";;" - Diğerleri:";;
+"null";"4005.91.00.00.00";" - - Levha, tabaka ve şeritler";"-";"60"
+"null";"4005.99";" - - Diğerleri :";;
+"null";"4005.99.00.10.00";" - - - Tabii kauçuğun kırmızı kil veya proteinle olan ana karışımları";"-";"15"
+"null";"4005.99.00.20.00";" - - - Vulkanizasyona hazır karışımlar halinde tabii veya sentetik kauçuktan";;
+"null";;"        granüller";"-";"60"
+"null";"4005.99.00.90.00";" - - - Diğerleri";"-";"30"
+"null";;;;
+"null";"40.06";"Diğer şekillerdeki vulkanize edilmemiş kauçuk (çubuk, boru ve profil";;
+"null";;"şekiller gibi) ve vulkanize edilmemiş kauçuktan eşya (disk ve rondela ";;
+"null";;"gibi):";;
+"null";"4006.10";" - Kauçuk lastiklere yeniden sırt geçirmede kullanılan profiller";;
+"null";"4006.10.00.00.11";" - - Kauçuk kaplanmış tekstil şerit ve kuşaklar";"-";"50"
+"null";"4006.10.00.00.12";" - - Kauçuk kaplanmış metal şerit ve kuşaklar";"-";"50"
+"null";"4006.10.00.00.13";" - - Üzerine kauçuk yapıştırıcı sürülmüş kauçuk mesnetli şeritler";"-";"50"
+"null";"4006.10.00.00.19";" - - Diğerleri";"-";"50"
+"null";"4006.90";" - Diğerleri :";;
+"null";"4006.90.00.10.00";" - - Vulkanize edilmemiş kauçuktan profiller";"-";"50"
+"null";"4006.90.00.20.00";" - - Contalar";"-";"40"
+"null";"4006.90.00.30.00";" - - Rondelalar";"-";"40"
+"null";"4006.90.00.40.00";" - - Çıplak kauçuk iplik";"-";"50"
+"null";"4006.90.00.90.00";" - - Diğerleri";"-";"50"
+"null";;;;
+"null";"4007.00.00.00.00";"Vulkanize edilmiş kauçuktan iplik ve ipler";"-";"50"
+"null";;;;
+"null";"40.08";"Vulkanize edilmiş kauçuktan levha, tabaka, şerit, çubuk ve profiller";;
+"null";;"(sertleştirilmiş kauçuktan olanlar hariç):";;
+"null";;" - Gözenekli kauçuktan:";;
+"null";"4008.11.00.00.00";" - - Levha, tabaka ve şeritler";"-";"50"
+"null";"4008.19.00.00.00";" - - Diğerleri";"-";"50"
+"null";;" - Gözenekli olmayan kauçuktan:";;
+"null";"4008.21";" - - Levha, tabaka ve şeritler:";;
+"null";"4008.21.10.00.00";" - - - Yer kaplamaları ve paspaslar";"m2";"50"
+"null";"4008.21.90.00.00";" - - - Diğerleri";"-";"50"
+"null";"4008.29";" - - Diğerleri:";;
+"null";"4008.29.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus ölçüsüne göre kesilmiş";;
+"null";;"        profiller ";"-";"50"
+"null";"4008.29.00.90.00";" - - - Diğerleri";"-";"50"
+"null";;;;
+"null";"40.09";"Vulkanize edilmiş kauçuktan boru ve hortumlar, bağlantı ";;
+"null";;"elemanlarıyla birlikte olsun olmasın (conta, dirsek, rondela gibi) ";;
+"null";;"(sertleştirilmiş kauçuktan olanlar hariç):";;
+"null";;" - Diğer maddeler ile takviye edilmemiş veya başka şekilde ";;
+"null";;"   birleştirilmemiş: ";;
+"null";"4009.11.00.00.00";" - - Bağlantı elemanları olmayanlar";"-";"75"
+"null";"4009.12";" - - Bağlantı elemanları ile birlikte olanlar:";;
+"null";"4009.12.00.10.00";" - - - Gaz veya sıvı taşımak için (sivil hava taşıtlarında kullanılmaya mahsus";;
+"null";;"        olanlar)";"-";"75"
+"null";"4009.12.00.90.00";" - - - Diğerleri";"-";"75"
+"null";;" - Sadece metallerle takviye edilmiş veya başka şekilde birleştirilmiş:";;
+"null";"4009.21";" - - Bağlantı elemanları olmayanlar:";;
+"null";"4009.21.00.10.00";" - - - Basınçlı hava çekiçleri için özel hortumlar (asgari 40 atmosfer basınçla";;
+"null";;"        2 saat devamlı ve fiili bir çalışmaya dayanıklı olanlar)";"-";"40"
+"null";;" - - - Diğerleri";;
+"null";"4009.21.00.90.11";" - - - - Alçak ve yüksek basınçlı buhar için hortumlar";"-";"75"
+"null";"4009.21.00.90.19";" - - - - Diğerleri";"-";"75"
+"null";"4009.22";" - - Bağlantı elemanları ile birlikte olanlar:";;
+"null";"4009.22.00.10.00";" - - - Gaz veya sıvı taşımak için (sivil hava taşıtlarında kullanılmaya mahsus";;
+"null";;"         olanlar)";"-";"75"
+"null";"4009.22.00.90.00";" - - - Diğerleri";"-";"75"
+"null";;" - Sadece dokumaya elverişli maddelerle takviye edilmiş veya başka";;
+"null";;"   şekilde birleştirilmiş :";;
+"null";"4009.31.00.00.00";" - - Bağlantı elemanları olmayanlar";"-";"75"
+"null";"4009.32";" - - Bağlantı elemanları ile birlikte olanlar";;
+"null";"4009.32.00.10.00";" - - - Gaz veya sıvı taşımak için (sivil hava taşıtlarında kullanılmaya";;
+"null";;"      mahsus olanlar) ";"-";"75"
+"null";"4009.32.00.90.00";" - - - Diğerleri";"-";"75"
+"null";;" - Diğer maddelerle takviye edilmiş veya başka şekilde birleştirilmiş :";;
+"null";"4009.41";" - - Bağlantı elemanları olmayanlar:";;
+"null";"4009.41.00.10.00";" - - - Basınçlı hava çekiçleri için özel hortumlar (asgari 40 atmosfer basınçla ";;
+"null";;"        2 saat devamlı ve fiili bir çalışmaya dayanıklı olanlar)";"-";"40"
+"null";"4009.41.00.90.00";" - - - Diğerleri";"-";"75"
+"null";"4009.42";" - - Bağlantı elemanları ile birlikte olanlar:";;
+"null";"4009.42.00.10.00";" - - - Gaz veya sıvı taşımak için (sivil hava taşıtlarında kullanılmaya";;
+"null";;"        mahsus olanlar) ";"-";"75"
+"null";"4009.42.00.90.00";" - - - Diğerleri";"-";"75"
+"null";;;;
+"null";"40.10";"Vulkanize edilmiş kauçuktan taşıyıcı kolanlar ve transmisyon kolanları:";;
+"null";;" - Taşıyıcı kolanlar :";;
+"null";"4010.11.00.00.00";" - - Sadece metalle takviye edilmiş olanlar";"-";"50"
+"null";"4010.12.00.00.00";" - - Sadece dokumaya elverişli maddelerle takviye edilmiş olanlar";"-";"50"
+"null";"4010.19.00.00.00";" - - Diğerleri ";"-";"50"
+"null";;" - Transmisyon kolanları :";;
+"null";"4010.31.00.00.00";" - - Dış çevresi 60 cm.yi geçen fakat 180 cm.yi geçmeyen, kesiti trapez ";;
+"null";;"     şeklinde (V-kolanlar), V-yivli olan sonsuz transmisyon kolanları  ";"-";"50"
+"null";"4010.32.00.00.00";" - - Dış çevresi 60 cm.yi geçen fakat 180 cm.yi geçmeyen, kesiti trapez ";;
+"null";;"     şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz";;
+"null";;"      transmisyon kolanları ";"-";"50"
+"null";"4010.33.00.00.00";" - - Dış çevresi 180 cm.yi geçen fakat 240 cm.yi geçmeyen, kesiti trapez ";;
+"null";;"      şeklinde (V-kolanlar), V-yivli olan sonsuz transmisyon kolanları";"-";"50"
+"null";"4010.34.00.00.00";" - - Dış çevresi 180 cm.yi geçen fakat 240 cm.yi geçmeyen, kesiti trapez ";;
+"null";;"      şeklinde (V-kolanlar) olan ( V-yivli olanlar hariç) sonsuz";;
+"null";;"      transmisyon kolanları";"-";"50"
+"null";"4010.35.00.00.00";" - - Dış çevresi 60 cm.yi geçen fakat 150 cm.yi geçmeyen, sonsuz ";;
+"null";;"      senkronize kolanlar";"-";"50"
+"null";"4010.36.00.00.00";" - - Dış çevresi 150 cm.yi geçen fakat 198 cm.yi geçmeyen, sonsuz ";;
+"null";;"      senkronize kolanlar";"-";"50"
+"null";"4010.39.00.00.00";" - - Diğerleri";"-";"50"
+"null";;;;
+"null";"40.11";"Kauçuktan yeni dış lastikler:";;
+"null";"4011.10";" - Otomobillerde kullanılanlar (steyşın ve yarış otomobilleri dahil):";;
+"null";"4011.10.00.10.00";" - - Turizm amaçlı otomobillerde kullanılan türden olanlar";"Adet";"40"
+"null";" ";" - - Diğerleri:";;
+"null";"4011.10.00.90.09";" - - - Yarış otomobillerine ait olanlar";"Adet";"40"
+"null";"4011.10.00.90.11";" - - - Tekstil kuşaklı radyal dış lastikler";"Adet";"40"
+"null";"4011.10.00.90.12";" - - - Çelik kuşaklı radyal dış lastikler";"Adet";"40"
+"null";"4011.10.00.90.13";" - - - Konvansiyonel (crossply) dış lastikler";"Adet";"40"
+"null";"4011.10.00.90.18";" - - - Diğerleri";"Adet";"40"
+"null";"4011.20";" - Otobüs ve kamyonlarda kullanılanlar :";;
+"null";;" - - Yükleme endeksi 121'i geçmeyenler";;
+"null";"4011.20.10.00.11";" - - - Radyal dış lastikler (kolonlar dahil)";"Adet";"40"
+"null";"4011.20.10.00.12";" - - - Konvansiyonel (cropssply) dış lastikler (kolonlar dahil) ";"Adet";"40"
+"null";"4011.20.10.00.19";" - - - Diğerleri";"Adet";"40"
+"null";;" - - Yükleme endeksi 121'i geçenler";;
+"null";"4011.20.90.00.11";" - - - Radyal dış lastikler (kolonlar dahil)";"Adet";"40"
+"null";"4011.20.90.00.12";" - - - Konvansiyonel (cropssply) dış lastikler (kolonlar dahil) ";"Adet";"40"
+"null";"4011.20.90.00.19";" - - - Diğerleri";"Adet";"40"
+"null";"4011.30";" - Uçaklarda kullanılanlar:";;
+"null";"4011.30.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";"40"
+"null";"4011.30.00.90.00";" - - Diğerleri";"Adet";"40"
+"null";"4011.40.00.00.00";" - Motosikletlerde kullanılanlar";"Adet";"40"
+"null";"4011.50.00.00.00";" - Bisikletlerde kullanılanlar";"Adet";"40"
+"null";"4011.70.00.00.00";" - Tarım ve orman taşıtları ve makinelerinde kullanılan türde olanlar";"Adet";"40"
+"null";"4011.80.00.00.00";" - Yapı, madencilik veya sanayi elleçleme  taşıtları ve makinelerinde";;
+"null";;"     kullanılan türde olanlar";"Adet";"40"
+"null";"4011.90.00.00.00";" - Diğerleri";"Adet";"40"
+"null";;;;
+"null";"40.12";"Kauçuktan sırt geçirilmiş veya kullanılmış dış lastikler; kauçuktan";;
+"null";;"dolgu lastikleri veya tekerlek bandajları, dış lastikler için sırtlar ";;
+"null";;"ve kolanlar:";;
+"null";;" - Sırt geçirilmiş dış lastikler:";;
+"null";"4012.11.00.00.00";" - - Otomobillerde kullanılan türde olanlar (steyşın ve yarış otomobilleri dahil)";"Adet";"40"
+"null";"4012.12.00.00.00";" - - Otobüs veya kamyonlarda kullanılan türde olanlar";"Adet";"40"
+"null";"4012.13";" - - Hava taşıtlarında kullanılmaya mahsus olanlar ";;
+"null";"4012.13.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";"40"
+"null";"4012.13.00.90.00";" - - - Diğerleri";"Adet";"40"
+"null";"4012.19.00.00.00";" - - Diğerleri";"Adet";"40"
+"null";"4012.20";" - Kullanılmış dış lastikler:";;
+"null";"4012.20.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";"40"
+"null";"4012.20.00.90.00";" - - Diğerleri";"Adet";"40"
+"null";"4012.90";" - Diğerleri:";;
+"null";;" - - Dolgu lastikleri veya tekerlek bandajları";;
+"null";"4012.90.20.00.11";" - - - Dolgu lastikleri ";"-";"40"
+"null";"4012.90.20.00.12";" - - - Tekerlek bandajları";"-";"40"
+"null";"4012.90.30.00.00";" - - Dış lastikler için sırtlar";"-";"40"
+"null";"4012.90.90.00.00";" - - Kolanlar";"-";"40"
+"null";;;;
+"null";"40.13";"Kauçuktan iç lastikler:";;
+"null";"4013.10.00.00.00";" - Otomobiller (steyşın ve yarış otomobilleri dahil), otobüsler ve kamyon-";;
+"null";;"   larda kullanılanlar";"Adet";"40"
+"null";"4013.20.00.00.00";" - Bisikletlerde kullanılanlar";"Adet";"40"
+"null";"4013.90";" - Diğerleri:";;
+"null";"4013.90.00.00.11";" - - Motosikletlerde kullanılanlar";"Adet";"40"
+"null";"4013.90.00.00.12";" - - Traktör ön iç lastikleri";"Adet";"40"
+"null";"4013.90.00.00.13";" - - Traktör arka iç lastikleri";"Adet";"40"
+"null";"4013.90.00.00.14";" - - Uçak iç lastikleri";"Adet";"40"
+"null";"4013.90.00.00.19";" - - Diğerleri";"Adet";"40"
+"null";;;;
+"null";"40.14";"Sertleştirilmemiş vulkanize kauçuktan hijyen eşyası ve eczacılık";;
+"null";;"eşyası (emzikli biberon başlıkları dahil) (sertleştirilmiş kauçuktan aksamı ";;
+"null";;"bulunsun bulunmasın) :";;
+"null";"4014.10.00.00.00";" - Prezervatifler";"-";"25"
+"null";"4014.90";" - Diğerleri:";" ";
+"null";"4014.90.00.00.12";" - - Emzikli biberon başlıkları";"-";"25"
+"null";"4014.90.00.00.19";" - - Diğerleri";"-";"25"
+"null";;;;
+"null";"40.15";"Sertleştirilmemiş vulkanize kauçuktan her türlü giyim eşyası ve";;
+"null";;"aksesuarı (eldivenler, tek parmak eldivenler ve parmaksız";;
+"null";;"eldivenler dahil):";;
+"null";;" - Eldivenler, tek parmak eldivenler ve parmaksız eldivenler:";;
+"null";"4015.12";" - - Tıpta, cerrahide, dişçilik veya veterinerlikte kullanılan eldivenler";;
+"null";"4015.12.00.00.11";" - - - Nitril olanlar";" Çift";"25"
+"null";"4015.12.00.00.19";" - - - Diğerleri";" Çift";"25"
+"null";"4015.19";" - - Diğerleri:";;
+"null";"4015.19.00.00.11";" - - - Ev işlerinde kullanılan eldivenler";" Çift";"25"
+"null";"4015.19.00.00.19";" - - - Diğerleri";" Çift";"25"
+"null";"4015.90.00.00.00";" - Diğerleri";"-";"25"
+"null";;;;
+"null";"40.16";"Sertleştirilmemiş vulkanize kauçuktan diğer eşya:";;
+"null";"4016.10";" - Gözenekli kauçuktan olanlar:";;
+"null";;" - - Teknik işlerde kullanılanlar (sivil hava taşıtlarında kullanılmaya mahsus ";;
+"null";;"     olanlar) :";;
+"null";"4016.10.00.11.00";" - - - Rondelalar";"-";"40"
+"null";"4016.10.00.12.00";" - - - Contalar";"-";"40"
+"null";"4016.10.00.19.00";" - - - Diğerleri";"-";"50"
+"null";;" - - Diğerleri:";" ";
+"null";"4016.10.00.21.00";" - - - Rondelalar";"-";"40"
+"null";"4016.10.00.22.00";" - - - Contalar";"-";"40"
+"null";"4016.10.00.29.00";" - - - Diğerleri";"-";"50"
+"null";;" - Diğerleri:";" ";
+"null";"4016.91.00.00.00";" - - Yer döşemeleri ve paspaslar";"-";"50"
+"null";"4016.92.00.00.00";" - - Silgiler";"-";"50"
+"null";"4016.93";" - - Contalar, rondelalar ve diğer sızdırmazlık contaları:";;
+"null";;" - - - Teknik işlerde kullanılanlar (sivil hava taşıtlarında kullanılmaya mahsus  ";;
+"null";;"       olanlar) :";;
+"null";"4016.93.00.11.00";" - - - - Rondelalar";"-";"40"
+"null";"4016.93.00.12.00";" - - - - Contalar";"-";"40"
+"null";"4016.93.00.19.00";" - - - - Diğerleri";"-";"50"
+"null";;" - - - Diğerleri :";;
+"null";"4016.93.00.21.00";" - - - - Rondelalar";"-";"40"
+"null";"4016.93.00.22.00";" - - - - Contalar";"-";"40"
+"null";"4016.93.00.29.00";" - - - - Diğerleri";"-";"50"
+"null";"4016.94.00.00.00";" - - Gemi veya doklarda kullanılan çarpmayı önleyici tamponlar";;
+"null";;"     (şişirilebilir olsun olmasın)";"-";"50"
+"null";"4016.95.00.00.00";" - - Diğer şişirilebilir eşya";"-";"50"
+"null";"4016.99";" - - Diğerleri:";;
+"null";;" - - - 87.01 ila 87.05 pozisyonlarındaki motorlu araçlar için olanlar:";;
+"null";"4016.99.52.00.00";" - - - - Kauçuk-metal bağlantılı parçalar";"-";70
+"null";"4016.99.57.00.00";" - - - - Diğerleri";"-";70
+"null";;" - - - Diğerleri:";;
+"null";"4016.99.91.00.00";" - - - - Kauçuk-metal bağlantılı parçalar ";"-";"60"
+"null";;" - - - - Diğerleri:";;
+"null";"4016.99.97.00.12";" - - - - - Emzikler";"-";"60"
+"null";"4016.99.97.00.19";" - - - - - Diğerleri";"-";"60"
+"null";;;;
+"null";"4017.00";"Her şekilde sertleştirilmiş kauçuk (ebonit gibi) (döküntü ve artıklar ";;
+"null";;"dahil); sertleştirilmiş kauçuktan eşya :";;
+"null";;" - Her şekilde sertleştirilmiş kauçuk (ebonit gibi)(döküntü ve artıklar dahil) :";;
+"null";"4017.00.00.10.11";" - - Külçe ,blok, levha ,tabaka, şerit, çubuk, profil veya boru halinde olanlar";"-";"60"
+"null";"4017.00.00.10.12";" - - Sertleştirilmiş kauçuğun döküntü, artık ve tozları";"-";"60"
+"null";"4017.00.00.91.00";" - Boru ve hortumlar (gaz veya sıvı taşımak için bağlantı parçaları takılmış)";;
+"null";;"      (sivil hava taşıtlarında kullanılmaya mahsus olanlar) ";"-";"60"
+"null";;" - Diğerleri:";;
+"null";"4017.00.00.99.11";" - - Sağlığa, tıbba ve cerrahiye mahsus eşya";"-";"60"
+"null";"4017.00.00.99.19";" - - Diğerleri";"-";"60"

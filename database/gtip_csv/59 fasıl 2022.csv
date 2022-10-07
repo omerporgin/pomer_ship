@@ -1,0 +1,180 @@
+﻿"null";"59.01";"Kitap veya benzerlerinin dış kapaklarında kullanılan türden zamk";;
+"null";;"veya nişastalı maddelerle sıvanmış dokumaya elverişli mensucat;";;
+"null";;"mühendis muşambası veya şeffaf bezler; hazır tualler; şapkacılıkta";;
+"null";;"kullanılan bukran ve benzeri sertleştirilmiş mensucat:";;
+"null";;;;
+"null";"5901.10.00.00.00";" - Kitap veya benzerlerinin dış kapaklarında kullanılan türden zamk ";;
+"null";;"   veya nişastalı maddelerle sıvanmış dokumaya elverişli ";;
+"null";;"   mensucat ";"m2";40
+"null";"5901.90";" - Diğerleri:";;
+"null";"5901.90.00.10.00";" - - Mühendis muşambası veya şeffaf bezler ve hazır tualler ";"m2";40
+"null";"5901.90.00.90.00";" - - Diğerleri ";"m2";40
+"null";;;" ";
+"null";"59.02";"Naylon veya diğer poliamidlerden, poliesterlerden veya viskoz ";" ";
+"null";;"ipeğinden elde edilen yüksek mukavemetli iplikten her nevi nakil";" ";
+"null";;"vasıtası iç ve dış lastiği için mensucat (kord bezi):";"  ";
+"null";"5902.10";" - Naylon veya diğer poliamidlerden:";" ";
+"null";"5902.10.10.00.00";" - - Kauçuk emdirilmiş";"m2";60
+"null";;" - - Diğerleri:";" ";
+"null";"5902.10.90.10.00";" - - - Her nevi nakil vasıtası iç ve dış lastiği imalinde kullanılacak olan";" ";
+"null";;"       dokumaya elverişli sentetik devamlı liflerden mensucat";;
+"null";;"       (emdirilmemiş, sıvanmamış veya kaplanmamış) ";"m2";10
+"null";"5902.10.90.90.00";" - - - Diğerleri";"m2";150
+"null";"5902.20";" - Poliesterlerden:";" ";
+"null";"5902.20.10.00.00";" - - Kauçuk emdirilmiş ";"m2";60
+"null";;" - - Diğerleri:";;
+"null";"5902.20.90.10.00";" - - - Her nevi nakil vasıtası iç ve dış lastiği imalinde kullanılacak olan";;
+"null";;"       dokumaya elverişli sentetik devamlı liflerden mensucat";;
+"null";;"       (emdirilmemiş, sıvanmamış veya kaplanmamış)";"m2";10
+"null";"5902.20.90.90.00";" - - - Diğerleri ";"m2";150
+"null";"5902.90";" - Diğerleri:";" ";
+"null";"5902.90.10.00.00";" - - Kauçuk emdirilmiş ";"m2";60
+"null";;" - - Diğerleri:";" ";
+"null";"5902.90.90.10.00";" - - - Her nevi nakil vasıtası iç ve dış lastiği imalinde kullanılacak olan";" ";
+"null";;"        dokumaya elverişli suni devamlı liflerden (viskoz ipeğinden) ";;
+"null";;"        mensucat (emdirilmemiş, sıvanmamış veya kaplanmamış)";"m2";10
+"null";"5902.90.90.90.00";" - - - Diğerleri ";"m2";150
+"null";;;;
+"null";"59.03";"Plastik emdirilmiş, sıvanmış, kaplanmış veya plastikle lamine edilmiş";" ";
+"null";;"mensucat (59.02 pozisyonundakiler hariç):";;
+"null";"5903.10";" - Poli(vinil klorür) ile:";;
+"null";;" - - Emdirilmiş:";;
+"null";"5903.10.10.10.00";" - - - Deri taklidi ";"m2";50
+"null";"5903.10.10.90.00";" - - - Diğerleri ";"m2";50
+"null";;" - - Sıvanmış, kaplanmış veya lamine edilmiş:";" ";
+"null";"5903.10.90.10.00";" - - - Deri taklidi ";"m2";50
+"null";"5903.10.90.90.00";" - - - Diğerleri ";"m2";50
+"null";"5903.20";" - Poliüretanla:";" ";
+"null";;" - - Emdirilmiş:";" ";
+"null";"5903.20.10.10.00";" - - - Deri taklidi  ";"m2";50
+"null";"5903.20.10.90.00";" - - - Diğerleri";"m2";50
+"null";;" - - Sıvanmış, kaplanmış veya lamine edilmiş:";" ";
+"null";"5903.20.90.10.00";" - - - Deri taklidi  ";"m2";50
+"null";"5903.20.90.90.00";" - - - Diğerleri ";"m2";50
+"null";"5903.90";" - Diğerleri:";" ";
+"null";;" - - Emdirilmiş:";" ";
+"null";"5903.90.10.10.00";" - - - Deri taklidi  ";"m2";50
+"null";"5903.90.10.90.00";" - - - Diğerleri ";"m2";50
+"null";;" - - Sıvanmış, kaplanmış veya lamine edilmiş:";" ";
+"null";;" - - -  Selüloz türevleri veya diğer plastik maddelerle ve ön yüzünü teşkil";" ";
+"null";;"          eden dokumaya elverişli maddelerle:";" ";
+"null";"5903.90.91.10.00";" - - - - Deri taklidi  ";"m2";50
+"null";"5903.90.91.90.00";" - - - - Diğerleri ";"m2";50
+"null";;" - - - Diğerleri:";" ";
+"null";"5903.90.99.10.00";" - - - - Deri taklidi  ";"m2";50
+"null";"5903.90.99.90.00";" - - - - Diğerleri ";"m2";50
+"null";" ";;" ";
+"null";"59.04";"Linoleum (kesilerek şekil verilmiş olsun olmasın) ; bir sıvama veya";" ";
+"null";;"kaplama maddesinin dokumaya elverişli mesnet üzerine tatbiki ";" ";
+"null";;"suretiyle elde edilen yer kaplamaları (kesilerek şekil verilmiş olsun ";" ";
+"null";;"olmasın):";" ";
+"null";"5904.10.00.00.00";" - Linoleum";"m2";50
+"null";"5904.90.00.00.00";" - Diğerleri ";"m2";50
+"null";;;" ";
+"null";"5905.00";"Dokumaya elverişli maddelerden duvar kaplamaları:";;
+"null";"5905.00.10.00.00";" - Herhangi bir maddeden mesnet üzerine sabitleştirilmiş, paralel ";;
+"null";;"   ipliklerden oluşanlar ";"-";75
+"null";;" - Diğerleri:";;
+"null";"5905.00.30.00.00";" - - Ketenden";"-";70
+"null";"5905.00.50.00.00";" - - Jütten";"-";50
+"null";" ";" - - Suni veya sentetik liflerden";" ";
+"null";"5905.00.70.00.11";" - - - Sentetik liflerden dokunmuş olanlar (devamsız veya döküntü) ";"-";150
+"null";"5905.00.70.00.12";" - - - Suni devamlı liflerden dokunmuş olanlar";"-";150
+"null";"5905.00.70.00.13";" - - - Suni devamsız liflerden dokunmuş olanlar ";"-";150
+"null";"5905.00.70.00.14";" - - - Dokunmamış olanlar ";"-";150
+"null";"5905.00.70.00.15";" - - - Keçeden olanlar ";"-";150
+"null";"5905.00.70.00.19";" - - - Diğerleri ";"-";150
+"null";;" - - Diğerleri:";" ";
+"null";" ";" - - - İpek, şap, buret mensucattan";" ";
+"null";"5905.00.90.10.11";" - - - - İpekten olanlar ";"-";150
+"null";"5905.00.90.10.12";" - - - - Şap ve buretten olanlar ";"-";150
+"null";"5905.00.90.20.00";" - - - Rami mensucattan olanlar ";"-";70
+"null";;" - - - Dokumaya elverişli diğer bitkisel liflerden ve kağıt ipliğinden";" ";
+"null";;"        yapılan mensucattan:";" ";
+"null";"5905.00.90.31.00";" - - - - Kağıt ipliğinden mensucattan olanlar";"-";80
+"null";"5905.00.90.39.00";" - - - - Diğerleri";"-";40
+"null";"5905.00.90.40.00";" - - - Keçeden olanlar";"-";50
+"null";"5905.00.90.50.00";" - - - Dokunmamış mensucattan olanlar; kauçuklu mensucattan (örme";" ";
+"null";;"        olanlar hariç) olanlar ";"-";60
+"null";;;;
+"null";"59.06";"Kauçuklu mensucat (59.02 pozisyonundakiler hariç):";;
+"null";"5906.10.00.00.00";" - Eni 20 cm. yi geçmeyen yapışkan bant ";"-";50
+"null";;" - Diğerleri:";" ";
+"null";"5906.91.00.00.00";" - - Örme veya kroşe";"-";100
+"null";"5906.99";" - - Diğerleri:";" ";
+"null";"5906.99.10.00.00";" - - - Bu fasılın 5 (c) notunda belirtilen mensucat ";"-";60
+"null";"5906.99.90.00.00";" - - - Diğerleri ";"-";60
+"null";;;;
+"null";"5907.00.00.00.00";"Emdirilmiş, sıvanmış veya kaplanmış diğer mensucat; tiyatro dekorları,";;
+"null";;"atölye fonları veya benzeri işler için boyanmış bezler ""tualler""";"m2";50
+"null";;;;
+"null";"5908.00";"Dokumaya elverişli maddelerden dokunmuş veya örülmüş fitiller (lam-";;
+"null";;"ba, ocak, çakmak, mum ve benzerleri için); beyaz alevli lambalar için ";;
+"null";;"gömIekler ve bunların imaline yarayan boru şeklinde örme mensucat";;
+"null";;"(emdirilmiş olsun olmasın) :";;
+"null";"5908.00.00.10.00";" - Beyaz alevli lambalar için gömlekler";"-";25
+"null";"5908.00.00.90.00";" - Diğerleri";"-";25
+"null";;;;
+"null";"5909.00";"Dokumaya elverişli maddelerden tulumba hortumları ve benzeri ";;
+"null";;"hortumlar (diğer maddelerden teçhizat veya aksesuarı olsun olmasın):";;
+"null";" ";" - Sentetik liflerden ";;
+"null";"5909.00.10.00.11";" - - Yangın hortumları ";"-";25
+"null";"5909.00.10.00.19";" - - Diğerleri ";"-";25
+"null";;" - Diğer dokumaya elverişli maddelerden:";;
+"null";" ";" - - Yün ve kıldan hortumlar ";;
+"null";"5909.00.90.10.11";" - - - Yangın hortumları ";"-";25
+"null";"5909.00.90.10.19";" - - - Diğerleri ";"-";25
+"null";" ";" - - Diğerleri ";" ";
+"null";"5909.00.90.90.11";" - - - Yangın hortumları ";"-";25
+"null";"5909.00.90.90.12";" - - - Pamuktan hortumlar ";"-";25
+"null";"5909.00.90.90.13";" - - - Ketenden hortumlar ";"-";25
+"null";"5909.00.90.90.19";" - - - Diğerleri";"-";25
+"null";;;" ";
+"null";"5910.00.00.00.00";"Dokumaya elverişli maddelerden taşıyıcı kolanlar ve transmisyon ";" ";
+"null";;"kolanları (plastik emdirilmiş, sıvanmış veya plastikle lamine edilmiş";" ";
+"null";;"veya metalle veya diğer maddelerle takviye edilmiş olsun olmasın)";"-";25
+"null";;;" ";
+"null";"59.11";"Dokumaya elverişli maddelerden teknik işlerde kullanılmaya mahsus";" ";
+"null";;" bu fasılın 8 nolu notunda belirtilen ürünler ve eşya:";;
+"null";"5911.10.00.00.00";" - Kard garnitürlerinin imalinde kullanılan türden kauçuk, deri ve diğer";;
+"null";;"   maddelerle kaplanmış, sıvanmış veya lamine edilmiş mensucat, ke- ";;
+"null";;"   çe ve keçeli mensucat ve diğer teknik amaçlarla kullanılmaya ";;
+"null";;"   mahsus benzeri mensucat [üstüvanelerin (dokuma arışı) kaplanma-";;
+"null";;"   sına mahsus kauçuk emdirilmiş kadife kordelalar dahil] ";"-";15
+"null";"5911.20";" - Eleklik mensucat ve gaz mensucat (hazır halde olsun olmasın)";" ";
+"null";"5911.20.00.00.11";" - - İpekten";"-";15
+"null";"5911.20.00.00.12";" - - Şap liflerinden ";"-";15
+"null";"5911.20.00.00.13";" - - Suni, sentetik liflerden";"-";15
+"null";"5911.20.00.00.19";" - - Dokumaya elverişli diğer maddelerden olanlar";"-";15
+"null";;" - Kağıt imaline mahsus makinalarda veya benzeri makinalarda";;
+"null";;"   (hamur veya amyant -çimento makinaları gibi) kullanılmaya mahsus ";;
+"null";;"   nihayetsiz veya bağlayıcı tertibata uygun dokumaya elverişli ";;
+"null";;"   mensucat ve keçeler:";;
+"null";"5911.31";" - - Metrekare ağırlığı 650 gr. dan az:";;
+"null";;" - - - İpekten, sentetik veya suni liflerden:";;
+"null";"5911.31.11.00.00";" - - - - Kağıt makinalarında kullanılan türden sentetik liflerden dokunmuş";;
+"null";;"          mensucat (keçeli olsun olmasın) ";"m2";15
+"null";" ";" - - - - Diğerleri ";" ";
+"null";"5911.31.19.00.11";" - - - - - İpekten olanlar";"-";15
+"null";"5911.31.19.00.12";" - - - - - Sentetik veya suni liflerden olanlar ";"-";15
+"null";"5911.31.90.00.00";" - - - Dokumaya elverişli diğer maddelerden ";"-";15
+"null";"5911.32";" - - Metrekare ağırlığı 650 gr. veya daha fazla:";" ";
+"null";" ";" - - - İpekten, suni veya sentetik liflerden ";" ";
+"null";"5911.32.11.00.00";" - - - - Kağıt makinalarında kullanılan türden, üzerine dolgu tabakası iğnelenmiş,";;
+"null";;"        sentetik liflerden dokunmuş mensucat (örneğin, baskı keçeleri)";"m2";15
+"null";"5911.32.19.00.00";" - - - - Diğerleri ";"m2";15
+"null";"5911.32.90.00.00";" - - - Dokumaya elverişli diğer maddelerden";"-";15
+"null";"5911.40.00.00.00";" - Yağ presinde veya benzeri işlerde kullanılan filtre veya tasir torbaları";" ";
+"null";;"   (insan saçından olanlar dahil)";"-";15
+"null";"5911.90";" - Diğerleri:";" ";
+"null";" ";" - - Keçeden ";" ";
+"null";"5911.90.10.00.11";" - - - Polisaj keçesi";"-";15
+"null";"5911.90.10.00.19";" - - - Diğerleri";"-";15
+"null";" ";" - - Diğerleri";" ";
+"null";"5911.90.91.00.00";" - - - Yarı iletken waferların üretiminde kullanılan türde kendinden yapışkanlı";;
+"null";;"      dairesel cilalama pedleri";"-";15
+"null";;" - - - Diğerleri:";;
+"null";"5911.90.99.00.11";" - - - - Basma makinalarına mahsus blanketler";"-";15
+"null";"5911.90.99.00.12";" - - - - Filtre torbaları ";"-";15
+"null";"5911.90.99.00.19";" - - - - Diğerleri";"-";15
+;" ";;;

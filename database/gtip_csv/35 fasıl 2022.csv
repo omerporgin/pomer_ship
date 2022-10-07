@@ -1,0 +1,128 @@
+﻿"null";"35.01";"Kazeinler, kazeinatlar ve diğer kazein türevleri; kazein tutkalları:";;
+"null";"3501.10";" - Kazein:";;
+"null";"3501.10.10.00.00";" - - Suni tekstil liflerinin imalatına mahsus olanlar";"-";"15"
+"null";"3501.10.50.00.00";" - - Gıda ve yem ürünleri imalatı dışında diğer sanayiilerde kullanılmaya";;
+"null";;"      mahsus olanlar";"-";"15"
+"null";"3501.10.90.00.00";" - - Diğer kazeinler";"-";"15"
+"null";"3501.90";" - Diğerleri:";" ";
+"null";"3501.90.10.00.00";" - - Kazein tutkalları";"-";25
+"null";;" - - Diğerleri ";" ";
+"null";"3501.90.90.00.11";" - - - Sodyum kazeinat";"-";"25"
+"null";"3501.90.90.00.19";" - - - Diğerleri ";"-";"25"
+"null";;;;
+"null";"35.02";"Albüminler (kuru madde üzerinden hesaplandığında ağırlık";;
+"null";;"itibariyle % 80'den fazla peyniraltı suyu proteini içeren  iki veya";;
+"null";;"daha fazla peyniraltı suyu proteini konsantreleri dahil), albümi -";;
+"null";;"natlar ve diğer albümin türevleri:";;
+"null";;" - Yumurta albümini (ovalbümin):";;
+"null";"3502.11";" - - Kurutulmuş";;
+"null";"3502.11.10.00.00";" - - - İnsan gıdası olarak kullanılmaya elverişli olmayan veya elverişsiz ";;
+"null";" ";"        hale getirilenler";"-";"30 "
+"null";"3502.11.90.00.00";" - - - Diğerleri";"-";"30 "
+"null";"3502.19";" - - Diğerleri:";;
+"null";"3502.19.10.00.00";" - - - İnsan gıdası olarak kullanılmaya elverişli olmayan veya elverişsiz ";;
+"null";;"        hale getirilenler";"-";"30 "
+"null";"3502.19.90.00.00";" - - - Diğerleri";"-";"30 "
+"null";"3502.20";" - Süt albümini (iki veya daha fazla peyniraltı suyu proteini";;
+"null";;"   konsantreleri dahil) :";;
+"null";"3502.20.10.00.00";" - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar veya elverişsiz";;
+"null";;"     hale getirilenler";"-";"30 "
+"null";;" - - Diğerleri:";" ";
+"null";"3502.20.91.00.00";" - - - Kurutulmuş (örneğin yaprak, pul, flokon, ve toz halinde)";"-";"30 "
+"null";"3502.20.99.00.00";" - - - Diğerleri";"-";"30 "
+"null";"3502.90";" - Diğerleri:";;
+"null";;" - - Albüminler (yumurta albümini ""ovalbümin"" ve süt albumini ""laktalbümin";;
+"null";;"      hariç):";;
+"null";"3502.90.20.00.00";" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar veya elverişsiz";;
+"null";;"        hale getirilenler";"-";"30 "
+"null";"3502.90.70.00.00";" - - - Diğerleri";"-";"30 "
+"null";"3502.90.90.00.00";" - - Albüminatlar ve diğer albümin türevleri";"-";"30 "
+"null";;;;
+"null";"3503.00";"Jelatin [dikdörtgen (kare dahil) şeklinde yapraklar halindeki jela -";;
+"null";;"tin dahil, yüzeyi işlenmiş veya boyanmış olsun olmasın] ve jelatin";;
+"null";;"türevleri; katı ihtiyokol; hayvansal menşeli diğer tutkallar (35.01";;
+"null";;"pozisyonundaki kazein tutkallar hariç):";;
+"null";;" - Jelatin ve jelatin türevleri:";;
+"null";"3503.00.10.10.00";" - - Jelatin";"-";20
+"null";"3503.00.10.20.00";" - - Jelatin türevleri";"-";20
+"null";"3503.00.80.00.00";" - Diğerleri";"-";30
+"null";;;;
+"null";"3504.00";"Peptonlar ve bunların türevleri; tarifenin başka yerinde belirtil -";;
+"null";;"meyen veya yer almayan diğer proteinli maddeler ve türevleri; ";;
+"null";;"deri tozu (kromla işlem görmüş olsun olmasın)";;
+"null";"3504.00.10.00.00";" - Bu faslın 1 no'lu ek notunda belirtilmiş olan konsantre süt proteinleri";"-";15
+"null";;" - Diğerleri :";;
+"null";"3504.00.90.00.11";" - - Thaumatine";"-";15
+"null";"3504.00.90.00.19";" - - Diğerleri";"-";15
+"null";;;;
+"null";"35.05";"Dekstrinler ve tadil edilmiş diğer nişastalar (önceden jelatinlen -";;
+"null";;"miş veya esterifiye edilmiş nişastalar gibi) ; esası nişasta, dekstrin-";;
+"null";;"ler veya tadil edilmiş diğer nişastalar olan tutkallar:";;
+"null";"3505.10";" - Dekstrinler ve tadil edilmiş diğer nişastalar:";;
+"null";"3505.10.10.00.00";" - - Dekstrinler ";"-";50
+"null";;" - - Tadil edilmiş diğer nişastalar:";;
+"null";"3505.10.50.00.00";" - - - Esterifiye veya eterifiye edilmiş nişastalar";"-";50
+"null";;" - - - Diğerleri";;
+"null";"3505.10.90.00.11";" - - - - Kavrulmuş veya çözünebilen nişastalar";"-";50
+"null";"3505.10.90.00.19";" - - - - Diğerleri";"-";50
+"null";"3505.20";" - Tutkallar: ";;
+"null";" ";" - - Ağırlık itibariyle % 25'den az nişasta, dekstrin veya tadil edilmiş diğer";;
+"null";;"     nişastaları içerenler:";" ";" "
+"null";"3505.20.10.10.00";" - - - Leykom";"-";25
+"null";"3505.20.10.90.00";" - - - Diğerleri";"-";50
+"null";" ";" - - Ağırlık itibariyle % 25 veya daha fazla fakat % 55 'den az nişasta ";;
+"null";;"     dekstrin veya tadil edilmiş diğer nişastaları içerenler:";" ";" "
+"null";"3505.20.30.10.00";" - - - Leykom";"-";25
+"null";"3505.20.30.90.00";" - - - Diğerleri";"-";50
+"null";" ";" - - Ağırlık itibariyle % 55 veya daha fazla fakat % 80'den az nişasta, ";;
+"null";;"     dekstrin veya tadil edilmiş diğer nişastaları içerenler:";" ";" "
+"null";"3505.20.50.10.00";" - - - Leykom";"-";25
+"null";"3505.20.50.90.00";" - - - Diğerleri";"-";50
+"null";" ";" - - Ağırlık itibariyle % 80 veya daha fazla nişasta, dekstrin veya tadil";;
+"null";;"     edilmiş diğer nişastaları içerenler:";" ";" "
+"null";"3505.20.90.10.00";" - - - Leykom";"-";25
+"null";"3505.20.90.90.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"35.06";"Tarifenin başka yerinde belirtilmeyen veya yeralmayan müstahzar";;
+"null";;"tutkallar ve diğer müstahzar yapıştırıcılar; tutkal veya yapıştırıcı ";;
+"null";;"olarak perakende satılmak üzere net ağırlığı 1 kilogramı geçmeyen ";;
+"null";;"ambalajlara konulmuş, tutkal veya yapıştırıcı olarak kullanılmaya ";;
+"null";;"uygun ürünler:";;
+"null";"3506.10";" - Tutkal ve yapıştırıcı olarak, perakende satılmak üzere net ";;
+"null";;"   ağırlığı 1 kilogramı geçmeyen ambalajlara konulmuş, tutkal";;
+"null";;"   veya yapıştırıcı olarak kullanılmaya uygun ürünler :";;
+"null";"3506.10.00.10.00";" - - Soğuk tutkal";"-";25
+"null";;" - - Diğerleri";;
+"null";"3506.10.00.90.11";" - - - Solvent içerenler";"-";40
+"null";"3506.10.00.90.19";" - - - Diğerleri";"-";40
+"null";;" - Diğerleri:";;
+"null";;"- - Esası kauçuk veya 39.01 ila 39.13 pozisyonlarının polimerleri";;
+"null";;"olan yapıştırıcılar:";;
+"null";"3506.91.10.00.00";" - - - Sadece veya esas itibarıyla düz panel göstergelerin veya";;
+"null";;"       dokunmatik ekran panellerinin imalinde kullanılan türdeki ";;
+"null";;"       optik kullanıma uygun filmsiz ve optik kullanıma uygun geçici";;
+"null";;"       sıvı tutkallar";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"3506.91.90.10.00";" - - - - Soğuk tutkal";"-";25
+"null";;" - - - - Diğerleri:";;
+"null";"3506.91.90.90.11";" - - - - - Polivinil asetat esaslı emülsiyonlar (ahşap malzemeler için)";"-";40
+"null";"3506.91.90.90.12";" - - - - - Sentetik reçineli (fenolik ve amino reçineleri) ahşap ";;
+"null";;"           malzemeler için";"-";40
+"null";"3506.91.90.90.13";" - - - - - Solvent içerenler";"-";40
+"null";"3506.91.90.90.19";" - - - - - Diğerleri";"-";40
+"null";"3506.99";" - - DiğerIeri :";;
+"null";"3506.99.00.10.00";" - - - Çiriş";"-";25
+"null";;" - - - Diğerleri";;
+"null";"3506.99.00.90.11";" - - - - Solvent içerenler";"-";40
+"null";"3506.99.00.90.19";" - - - - Diğerleri";"-";40
+"null";;;;
+"null";"35.07";"Enzimler; tarifenin başka bir yerinde belirtilmeyen veya yer ";;
+"null";;"almayan müstahzar enzimler:";;
+"null";"3507.10.00.00.00";" - Peynir mayası ve bunun konsantreleri";"-";25
+"null";"3507.90";" - Diğerleri:";;
+"null";"3507.90.30.00.00";" - - Lipoprotein lipaz; Aspergillus alkalin proteaz";"-";15
+"null";;" - - Diğerleri";;
+"null";"3507.90.90.00.11";" - - - Pepsin";"-";15
+"null";"3507.90.90.00.12";" - - - Malt enzimleri";"-";15
+"null";"3507.90.90.00.13";" - - - Trombin";"-";15
+"null";"3507.90.90.00.19";" - - - Diğerleri";"-";15

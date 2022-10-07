@@ -1,0 +1,95 @@
+﻿"null";"60.01";"Örme veya kroşe tüylü mensucat (""uzun tüylü"" mensucat ve havlu ";;
+"null";;"mensucat dahil) :";;
+"null";"6001.10";" - ""Uzun tüylü "" mensucat";;
+"null";"6001.10.00.00.11";" - - Sentetik liflerden olanlar";"-";100
+"null";"6001.10.00.00.12";" - - Yünden veya ince hayvan kıllarından, pamuktan veya suni liflerden olanlar";"-";100
+"null";"6001.10.00.00.19";" - - Diğerleri";"-";100
+"null";;" - Bukleli mensucat:";" ";
+"null";"6001.21.00.00.00";" - - Pamuktan";"-";100
+"null";"6001.22.00.00.00";" - - Sentetik veya suni liflerden ";"-";100
+"null";"6001.29";" - - Dokumaya elverişli diğer maddelerden:";" ";
+"null";"6001.29.00.00.11";" - - - Yün veya ince hayvan kıllarından ";"-";100
+"null";" ";" - - - Diğerleri ";" ";
+"null";"6001.29.00.00.91";" - - - - İpek ve ipek döküntülerinden ";"-";100
+"null";"6001.29.00.00.99";" - - - - Diğerleri ";"-";100
+"null";;" - Diğerleri:";" ";
+"null";"6001.91.00.00.00";" - - Pamuktan ";"-";100
+"null";"6001.92.00.00.00";" - - Sentetik ve suni liflerden";"-";100
+"null";"6001.99";" - - Dokumaya elverişli diğer maddelerden:";" ";
+"null";"6001.99.00.00.11";" - - - Yün veya ince hayvan kıllarından";"-";100
+"null";" ";" - - - Diğerleri ";" ";
+"null";"6001.99.00.00.91";" - - - -İpek ve ipek döküntülerinden ";"-";100
+"null";"6001.99.00.00.99";" - - - -Diğerleri ";"-";100
+"null";;;" ";
+"null";"60.02";"Eni 30cm.yi geçmeyen, ağırlık itibariyle % 5 veya daha fazla elastomerik";" ";
+"null";;"iplik veya kauçuk iplik içeren örme veya kroşe mensucat (60.01 ";;
+"null";;"pozisyonundakiler hariç):";;
+"null";"6002.40";" - Ağırlık itibariyle % 5 veya daha fazla elastomerik iplik içeren fakat";" ";
+"null";;"   kauçuk iplik içermeyenler";" ";
+"null";"6002.40.00.00.11";" - - Sentetik liflerden olanlar ";"-";100
+"null";"6002.40.00.00.12";" - - Yünden, pamuktan, suni liflerden olanlar ";"-";100
+"null";"6002.40.00.00.13";" - - Diğerleri ";"-";100
+"null";"6002.90.00.00.00";" - Diğerleri ";"-";100
+"null";;;;
+"null";"60.03";"Eni 30cm.yi geçmeyen örme veya kroşe mensucat (60.01 ve 60.02";;
+"null";;"Pozisyonundakiler hariç)";;
+"null";"6003.10.00.00.00";" -  Yünden veya ince hayvan kıllarından ";"-";100
+"null";"6003.20.00.00.00";" -  Pamuktan ";"-";100
+"null";"6003.30";" -  Sentetik liflerden:";" ";
+"null";"6003.30.10.00.00";" - - Raschel danteli ";"-";100
+"null";"6003.30.90.00.00";" - - Diğerleri ";"-";100
+"null";"6003.40.00.00.00";" - Suni liflerden ";"-";100
+"null";" ";" - Diğerleri ";" ";
+"null";"6003.90.00.00.11";" - - İpek ve ipek döküntülerinden ";"-";100
+"null";"6003.90.00.00.19";" - - Diğerleri ";"-";100
+"null";;;;
+"null";"60.04";"   Eni 30 cm.yi geçen, ağırlık itibariyle % 5 veya daha fazla elastomerik ";" ";
+"null";;"   iplik veya kauçuk iplik içeren örme veya kroşe mensucat (60.01 ";" ";
+"null";"  ";"   Pozisyonundakiler hariç)";;
+"null";" ";" -  Ağırlık itibariyle % 5 veya daha fazla elastomerik iplik içeren";;
+"null";;"    fakat kauçuk iplik içermeyenler";;
+"null";"6004.10.00.00.11";" - -  Sentetik liflerden olanlar";"-";100
+"null";"6004.10.00.00.12";" - -  Yünden, pamuktan, suni liflerden olanlar ";"-";100
+"null";"6004.10.00.00.19";" - -  Diğerleri ";"-";100
+"null";"6004.90.00.00.00";" -  Diğerleri ";"-";100
+"null";;;;
+"null";"60.05";" Çözgü tipi örgülü olan diğer mensucat (galloon örgü makinaları ile";" ";
+"null";;"  yapılanlar dahil) (60.01 ila 60.04 Pozisyonundakiler hariç):";" ";
+"null";;" - Pamuktan:";" ";
+"null";"6005.21.00.00.00";" - -  Ağartılmamış veya ağartılmış ";"-";100
+"null";"6005.22.00.00.00";" - -  Boyanmış ";"-";100
+"null";"6005.23.00.00.00";" - -  Farklı renkteki ipliklerden ";"-";100
+"null";"6005.24.00.00.00";" - -  Baskılı ";"-";100
+"null";;" - Sentetik  liflerden:";" ";
+"null";"6005.35.00.00.00";" - - Bu Faslın 1 no.lu alt pozisyon notunda belirtilen kumaşlar";"-";100
+"null";"6005.36.00.00.00";" - - Diğerleri, ağartılmamış veya ağartılmış";"-";100
+"null";"6005.37.00.00.00";" - - Diğerleri, boyanmış";"-";100
+"null";"6005.38.00.00.00";" - - Diğerleri, farklı renkteki ipliklerden";"-";100
+"null";"6005.39.00.00.00";" - - Diğerleri, baskılı";"-";100
+"null";;" - Suni liflerden:";" ";
+"null";"6005.41.00.00.00";" - -  Ağartılmamış veya ağartılmış ";"-";100
+"null";"6005.42.00.00.00";" - -  Boyanmış";"-";100
+"null";"6005.43.00.00.00";" - -  Farklı renkteki ipliklerden";"-";100
+"null";"6005.44.00.00.00";" - -  Baskılı";"-";100
+"null";"6005.90";" -  Diğerleri";;
+"null";"6005.90.10.00.00";" - - Yünden veya ince hayvan kıllarından";"-";100
+"null";"6005.90.90.00.00";" - - Diğerleri";"-";100
+"null";;;;
+"null";"60.06";" Diğer örme veya kroşe mensucat:";" ";
+"null";"6006.10.00.00.00";" - Yünden veya ince hayvan kıllarından";"-";100
+"null";;" - Pamuktan:";" ";
+"null";"6006.21.00.00.00";" - -  Ağartılmamış veya ağartılmış ";"-";100
+"null";"6006.22.00.00.00";" - -  Boyanmış ";"-";100
+"null";"6006.23.00.00.00";" - -  Farklı renkteki ipliklerden ";"-";100
+"null";"6006.24.00.00.00";" - -  Baskılı ";"-";100
+"null";;" - Sentetik liflerden:";" ";
+"null";"6006.31.00.00.00";" - - Ağartılmamış veya ağartılmış";"-";100
+"null";"6006.32.00.00.00";" - - Boyanmış";"-";100
+"null";"6006.33.00.00.00";" - -  Farklı renkteki ipliklerden";"-";100
+"null";"6006.34.00.00.00";" - -  Baskılı";"-";100
+"null";;" - Suni liflerden:";;
+"null";"6006.41.00.00.00";" - -  Ağartılmamış veya ağartılmış ";"-";100
+"null";"6006.42.00.00.00";" - -  Boyanmış";"-";100
+"null";"6006.43.00.00.00";" - -  Farklı renkteki ipliklerden ";"-";100
+"null";"6006.44.00.00.00";" - -  Baskılı ";"-";100
+"null";"6006.90.00.00.00";" - Diğerleri ";"-";100

@@ -1,0 +1,171 @@
+﻿"null";"58.01";"Dokunmuş kadife, pelüş ve tırtıl mensucat (58.02 veya 58.06";;
+"null";;"pozisyonlarındaki mensucat hariç):";;
+"null";"5801.10.00.00.00";" - Yünden veya ince hayvan kıllarından olanlar";"m2";100
+"null";;" - Pamuktan:";;
+"null";"5801.21";" - - Kesilmemiş atkı iplikli kadife ve pelüş:";;
+"null";"5801.21.00.10.00";" - - - Fasonesiz ";"m2";70
+"null";"5801.21.00.20.00";" - - - Fasoneli ";"m2";90
+"null";"5801.22.00.00.00";" - - Kesilmiş atkı iplikli ((fitilli) kadife ve pelüş ";"m2";100
+"null";"5801.23.00.00.00";" - - Atkı iplikli diğer kadife ve pelüş ";"m2";100
+"null";"5801.26.00.00.00";" - - Tırtıl mensucat ";"m2";100
+"null";"5801.27.00.00.00";" - - Çözgü iplikli kadife ve pelüş";"m2";100
+"null";;" - Sentetik ve suni liflerden:";" ";
+"null";"5801.31.00.00.00";" - - Kesilmemiş atkı iplikli kadife ve pelüş";"m2";150
+"null";"5801.32.00.00.00";" - - Kesilmiş atkı iplikli (fitilli) kadife ve pelüş";"m2";100
+"null";"5801.33.00.00.00";" - - Atkı iplikli diğer kadife ve pelüş";"m2";100
+"null";"5801.36.00.00.00";" - - Tırtıl mensucat";"m2";100
+"null";"5801.37.00.00.00";" - - Çözgü iplikli kadife ve pelüş";"m2";100
+"null";"5801.90";" - Dokumaya elverişli diğer maddelerden:";" ";
+"null";"5801.90.10.00.00";" - - Ketenden ";"m2";100
+"null";" ";" - - Diğerleri";" ";
+"null";"5801.90.90.00.11";" - - - İpekten, buretten ve diğer ipek döküntülerinden olanlar ";"m2";100
+"null";"5801.90.90.00.12";" - - - Ramiden olanlar ";"m2";100
+"null";"5801.90.90.00.19";" - - - Diğerleri ";"m2";100
+"null";;;" ";
+"null";"58.02";"Havlu cinsi bukleli mensucat (58.06 pozisyonunda yer alan kordelalar ";;
+"null";;"hariç); tufte edilmiş mensucat (57.03 pozisyonunda yer alan eşya hariç):";;
+"null";"5802.10.00.00.00";" - Pamuktan havlu cinsi bukleli mensucat";"m2";70
+"null";"5802.20.00.00.00";" - Dokumaya elverişli diğer maddelerden havlu cinsi bukleli mensucat";"m2";100
+"null";"5802.30.00.00.00";" - Tufte edilmiş mensucat ";"m2";100
+"null";;;" ";
+"null";"5803.00";"Gaz mensucat (58.06 pozisyonunda yer alan kordelalar hariç):";" ";
+"null";"5803.00.10.00.00";" - Pamuktan ";"m2";70
+"null";"5803.00.30.00.00";" - İpekten ve ipek döküntüsünden";"m2";150
+"null";" ";" - Diğerleri";" ";
+"null";"5803.00.90.10.00";" - - Sentetik ve suni liflerden ";"m2";150
+"null";"5803.00.90.20.00";" - - Keten veya ramiden";"m2";70
+"null";"5803.00.90.30.00";" - - Jütten";"m2";50
+"null";"5803.00.90.40.00";" - - Dokumaya elverişli diğer bitkisel liflerden";"m2";40
+"null";"5803.00.90.50.00";" - - Kağıt ipliğinden";"m2";80
+"null";"5803.00.90.90.00";" - - Diğerleri";"m2";50
+"null";;;;
+"null";"58.04";"Tüller ve diğer ağ mensucat (dokunmuş, örme veya kroşe mensucat hariç);";;
+"null";;"parça, şerit veya motif halinde dantel (60.02 ila 60.06 Pozisyonlarındaki";;
+"null";;"mensucat hariç):";;
+"null";"5804.10";" - Tüller ve diğer ağ mensucat:";;
+"null";"5804.10.10.00.00";" - - Düz olanlar";"-";100
+"null";;" - - Diğerleri:";;
+"null";"5804.10.90.10.00";" - - - Tabii ipekten (saf veya karışık), suni liflerden veya pamuktan";;
+"null";;"        fasoneli bobino tüller ";"-";100
+"null";"5804.10.90.90.00";" - - - Diğer fasoneli tüller ve ağ mensucat ";"-";100
+"null";;" - Makina işi dantela:";" ";
+"null";"5804.21";" - - Suni ve sentetik liflerden:";;
+"null";"5804.21.00.10.00";" - - - Suni liflerden olanlar ";"-";100
+"null";"5804.21.00.90.00";" - - - Diğerleri ";"-";100
+"null";"5804.29";" - - Dokumaya elverişli diğer maddelerden:";" ";
+"null";"5804.29.00.10.00";" - - - Tabii ipekten (saf veya karışık) olanlar ";"-";100
+"null";" ";" - - - Diğerleri ";" ";
+"null";"5804.29.00.90.11";" - - - - Pamuktan olanlar";"-";100
+"null";"5804.29.00.90.19";" - - - - Diğer maddelerden olanlar";"-";100
+"null";"5804.30";" - El işi dantela:";" ";
+"null";" ";" - - Tabii ipekten (saf veya karışık) veya suni liflerden olanlar ";" ";
+"null";"5804.30.00.10.11";" - - - Tabii ipekten (saf veya karışık) olanlar ";"-";100
+"null";"5804.30.00.10.12";" - - - Suni liflerden olanlar ";"-";100
+"null";" ";" - - Diğerleri ";" ";
+"null";"5804.30.00.90.11";" - - - Pamuktan olanlar ";"-";100
+"null";"5804.30.00.90.19";" - - - Diğer maddelerden olanlar ";"-";100
+"null";;;" ";
+"null";"5805.00.00.00.00";"El ile dokunmuş duvar halıları (Gobelins, Flanders, Aubusson, Beauvais";" ";
+"null";;"ve benzerleri) ile iğne işlemesi duvar halıları (küçük nokta, kanaviçe";" ";
+"null";;"gibi) (hazır eşya halinde olsun olmasın)";"-";100
+"null";;;" ";
+"null";"58.06";"Kordelalar (58.07 pozisyonunda yer alanlar hariç); paralel hale getirilip";" ";
+"null";;"yapıştırılmış ipIik veya liflerden atkı ipliksiz kordelaIar (boldükler) :";" ";
+"null";"5806.10";" - Kadife, pelüş (havlu cinsi bukleli mensucat dahil) ve tırtıl mensucattan ";" ";
+"null";;"   olanlar";" ";
+"null";"5806.10.00.00.11";" - - Sentetik ve suni liflerden veya pamuktan olanlar ";"-";100
+"null";"5806.10.00.00.12";" - - İpekten, buretten veya diğer ipek döküntülerinden olanlar ";"-";100
+"null";"5806.10.00.00.19";" - - Dokumaya elverişli diğer maddelerden olanlar ";"-";100
+"null";"5806.20";" - Diğer kordelalar (ağırlık itibariyle %5 veya daha fazla elastomerik iplik";;
+"null";;"   veya kauçuk iplik içerenler):";;
+"null";"5806.20.00.10.00";" - - Elastiki olanlar ";"-";50
+"null";"5806.20.00.90.00";" - - Diğerleri ";"-";100
+"null";;" - Diğer kordelalar:";" ";
+"null";"5806.31.00.00.00";" - - Pamuktan ";"-";100
+"null";"5806.32";" - - Sentetik ve suni liflerden:";" ";
+"null";;" - - - Kenarlı olanlar: ";;
+"null";"5806.32.10.00.11";" - - - - Dar dokuma saten kordela";"-";100
+"null";"5806.32.10.00.19";" - - - - Diğerleri";"-";100
+"null";;" - - - Diğerleri ";;
+"null";"5806.32.90.00.11";" - - - - Cırt bant";"-";100
+"null";"5806.32.90.00.19";" - - - - Diğerleri";"-";100
+"null";"5806.39";" - - Dokumaya elverişli diğer maddelerden";" ";
+"null";"5806.39.00.00.11";" - - - 53.03 pozisyonundaki jüt ve bitki iç kabuklarının dokumaya elverişli lifle-";" ";
+"null";" ";"        rinden olanlar (58.07 pozisyonundaki eşya hariç)";"-";100
+"null";"5806.39.00.00.19";" - - - Diğerleri ";"-";100
+"null";"5806.40";" - Paralel hale getirilip yapıştırılmış iplik veya liflerden atkı ipliksiz";" ";
+"null";;"   kordelalar (boldükler)";" ";
+"null";"5806.40.00.00.11";" - - 53.03 pozisyonundaki jüt ve bitki iç kabuklarının dokumaya elverişli lifle-";" ";
+"null";" ";"      rinden olanlar (58.07 pozisyonundaki eşya hariç)";"-";100
+"null";"5806.40.00.00.19";" - - Diğerleri";"-";100
+"null";;;" ";
+"null";"58.07";"Dokumaya elverişli maddelerden işlenmemiş etiketler, armalar ve ben-";" ";
+"null";;"zeri eşya(parça halinde, şerit halinde veya şekline ya da ölçüsüne göre ";" ";
+"null";;"kesilmiş, işlemeleri olmayan) :";" ";
+"null";"5807.10";" - Dokunmuş:";" ";
+"null";"5807.10.10.00.00";" - - Üzerlerine yazı ve motif dokunmuş olanlar ";"-";100
+"null";"5807.10.90.00.00";" - - Diğerleri ";"-";100
+"null";"5807.90";" - Diğerleri:";" ";
+"null";;" - - Keçeden veya dokunmamış mensucattan olanlar:";" ";
+"null";"5807.90.10.10.00";" - - - Keçeden ";"-";50
+"null";"5807.90.10.20.00";" - - - Dokunmamış mensucattan ";"-";60
+"null";"5807.90.90.00.00";" - - Diğerleri ";"-";100
+"null";;;" ";
+"null";"58.08";"Parça halinde kordonlar; işleme yapılmamış şeritçi eşyası ve benzeri ";" ";
+"null";;"süs  eşyası (örme veya kroşe olanlar hariç); saçaklar, ponponlar ve benzeri eşya:";" ";
+"null";"5808.10";" - Parça halinde kordonlar:";" ";
+"null";"5808.10.00.10.00";" - - Elastiki olanlar ";"-";50
+"null";"5808.10.00.90.00";" - - Diğerleri ";"-";100
+"null";"5808.90";" - Diğerleri:";" ";
+"null";"5808.90.00.10.00";" - - Elastiki olanlar ";"-";50
+"null";"5808.90.00.90.00";" - - Diğerleri ";"-";100
+"null";;;" ";
+"null";"5809.00.00.00.00";"Tarifenin başka yerinde belirtilmeyen veya yer almayan, giyim eşya-";" ";
+"null";;"sında,döşemecilikte veya benzeri işlerde kullanılan, metal ipliklerden ";;
+"null";;"dokunmuş mensucat ve 56.05 pozisyonundaki metalize ipliklerden";;
+"null";;"dokunmuş mensucat ";"-";200
+"null";;;" ";
+"null";"58.10";"Parça, şerit veya motif halinde işlemeler:";" ";
+"null";"5810.10";" - Görülebilir zemini olmayan işlemeler:";"  ";
+"null";"5810.10.10.00.00";" - - Kıymeti  kg.da (net ağırlık) 35 Euro'yu geçenler ";"-";100
+"null";"5810.10.90.00.00";" - - Diğerleri ";"-";100
+"null";;" - Diğer işlemeler:";;
+"null";"5810.91";" - - Pamuktan:";;
+"null";"5810.91.10.00.00";" - - - Kıymeti  kg.da (net ağırlık) 17,50 Euro'yu geçenler ";"-";100
+"null";"5810.91.90.00.00";" - - - Diğerleri ";"-";100
+"null";"5810.92";" - - Suni ve sentetik liflerden:";" ";
+"null";"5810.92.10.00.00";" - - - Kıymeti  kg.da (net ağırlık) 17,50 Euro'yu geçenler ";"-";100
+"null";"5810.92.90.00.00";" - - - Diğerleri ";"-";100
+"null";"5810.99";" - - Dokumaya elverişli diğer maddelerden:";" ";
+"null";"5810.99.10.00.00";" - - - Kıymeti  kg.da (net ağırlık) 17,50 Euro'yu geçenler ";"-";100
+"null";"5810.99.90.00.00";" - - - Diğerleri ";"-";100
+"null";;;;
+"null";"5811.00";"Aralarına dolgu maddesi konulan bir veya daha fazla dokumaya elverişli";;
+"null";;"madde tabakalarının dikilmesi veya başka şekilde birleştirilmesinden";;
+"null";;"meydana gelen parça halindeki kapitoneli mensucat (58.10 pozisyonun-";;
+"null";;"daki işlemeler hariç):";;
+"null";;" - Örme";;
+"null";"5811.00.00.01.00";" - - Pamuktan olanlar ";"m2";70
+"null";;" - - Diğerleri:";;
+"null";"5811.00.00.05.00";" - - - Yünden veya ince hayvan kıllarından mensucattan olanlar ve ";;
+"null";;"       elastiki veya kauçuklu olmayanlar";"m2";100
+"null";;" - - - Selüloz türevleri veya diğer suni plastik maddeler emdirilmiş,";;
+"null";;"       sıvanmış veya bu maddelerle lamine edilmiş olanlar:";;
+"null";"5811.00.00.07.00";" - - - - Deri yerine kullanılanlar";"m2";50
+"null";"5811.00.00.09.00";" - - - - Diğerleri";"m2";50
+"null";"5811.00.00.19.00";" - - - Diğerleri";"m2";150
+"null";;" - Diğerleri :";;
+"null";;" - - Pamuktan olanlar:";;
+"null";"5811.00.00.21.00";" - - - Ağartılmış veya beyazlatılmış olanlar";"m2";70
+"null";"5811.00.00.29.00";" - - - Diğerleri";"m2";70
+"null";"5811.00.00.30.00";" - - Sentetik filamentlerden olanlar ";"m2";150
+"null";"5811.00.00.40.00";" - - Suni filamentlerden olanlar";"m2";150
+"null";;" - - Diğerleri:";;
+"null";"5811.00.00.91.00";" - - - Yünden veya ince hayvan kıllarından olanlar";"m2";50
+"null";;" - - - Selüloz türevleri veya diğer suni plastik maddeler emdirilmiş,";;
+"null";;"         sıvanmış veya bu maddelerle lamine edilmiş olanlar:";;
+"null";"5811.00.00.92.00";" - - - - Deri yerine kullanılanlar";"m2";50
+"null";"5811.00.00.93.00";" - - - - Diğerleri ";"m2";50
+"null";"5811.00.00.95.00";" - - - Vatka veya keçeden olanlar";"m2";50
+"null";"5811.00.00.96.00";" - - - Dokunmamış, örülmemiş olanlar";"m2";60
+"null";"5811.00.00.99.00";" - - - Diğerleri ";"m2";150

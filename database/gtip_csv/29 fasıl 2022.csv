@@ -1,0 +1,2655 @@
+﻿"null";;"    I. HİDROKARBONLAR VE BUNLARIN HALOJENLENMİŞ, SÜLFO-";;
+"null";;"       LANMIŞ, NİTROLANMIŞ VEYA NİTROZOLANMIŞ TÜREVLERİ";;
+"null";;;;
+"null";"29.01";"Asiklik hidrokarbonlar:";;
+"null";"2901.10";" - Doymuş:";;
+"null";;" - - Güç temininde veya yakıt olarak kullanılmaya mahsus olanlar";;
+"null";"2901.10.00.10.11";" - - - Bütanlar";"-";25
+"null";"2901.10.00.10.19";" - - - Güç temininde veya yakıt olarak kullanılmaya mahsus diğer";"-";25
+"null";;"        doymuş asiklik hidrokarbonlar";;
+"null";;" - - Diğer amaçlar için kullanılanlar";;
+"null";"2901.10.00.90.11";" - - - Hekzan";"-";50
+"null";"2901.10.00.90.12";" - - - Heptan";"-";50
+"null";"2901.10.00.90.13";" - - - Pentan";"-";50
+"null";"2901.10.00.90.19";" - - - Diğer doymuş asiklik hidrokarbonlar";"-";50
+"null";;" - Doymamış:";;
+"null";"2901.21";" - - Etilen :";;
+"null";"2901.21.00.00.11";" - - - Güç temininde veya yakıt olarak kullanılmaya mahsus olanlar";"-";50
+"null";"2901.21.00.00.19";" - - - Diğer amaçlar için kullanılanlar";"-";50
+"null";"2901.22";" - - Propen (propilen) :";;
+"null";"2901.22.00.00.11";" - - - Güç temininde veya yakıt olarak kullanılmaya mahsus olanlar";"-";50
+"null";"2901.22.00.00.19";" - - - Diğer amaçlar için kullanılanlar";"-";50
+"null";"2901.23.00.00.00";" - - Büten (bütilen) ve izomerleri";"-";50
+"null";"2901.24.00.00.00";" - - 1,3 - Butadien ve izopren";"-";50
+"null";"2901.29";" - - Diğerleri :";;
+"null";"2901.29.00.10.00";" - - - Terpenler";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2901.29.00.90.11";" - - - - Diğer alkenler (diğer olefinler)";"-";50
+"null";"2901.29.00.90.12";" - - - - Asetilen";"-";50
+"null";"2901.29.00.90.13";" - - - - 1,2 Butadien";"-";50
+"null";"2901.29.00.90.14";" - - - - 3 - Metil - 1,2 - butadien";"-";50
+"null";"2901.29.00.90.19";" - - - - Diğer alkinler (diğer asetilenler)";"-";50
+"null";;;;
+"null";"29.02";"Siklik hidrokarbonlar:";;
+"null";;" - Siklanlar, siklenler ve sikloterpenler:";;
+"null";"2902.11.00.00.00";" - - Siklohekzan";"-";25
+"null";"2902.19";" - - Diğerleri:";;
+"null";;" - - - Sikloterpenler :";;
+"null";"2902.19.00.00.11";" - - - - Pinen";"-";25
+"null";"2902.19.00.00.12";" - - - - Kamfen";"-";25
+"null";"2902.19.00.00.13";" - - - - Dipenten (limonen dahil)";"-";25
+"null";"2902.19.00.00.19";" - - - - Diğer sikloterpenler";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2902.19.00.00.21";" - - - - Siklohekzen";"-";25
+"null";"2902.19.00.00.29";" - - - - Diğerleri";"-";25
+"null";"2902.20.00.00.00";" - Benzen (benzol)";"-";25
+"null";"2902.30.00.00.00";" - Toluen (toluol):";"-";25
+"null";;" - Ksilenler (ksiloller):";;
+"null";"2902.41.00.00.00";" - - o - Ksilen";"-";25
+"null";"2902.42.00.00.00";" - - m - Ksilen";"-";25
+"null";"2902.43.00.00.00";" - - p - Ksilen";"-";25
+"null";"2902.44.00.00.00";" - - Ksilen izomerleri karışımları:";"-";25
+"null";"2902.50.00.00.00";" - Stiren (vinil benzen)";"-";25
+"null";"2902.60.00.00.00";" - Etilbenzen";"-";25
+"null";"2902.70.00.00.00";" - Kümen (izopropil benzen)";"-";25
+"null";"2902.90";" - Diğerleri:";;
+"null";;" - - Naftalen ve antrasen :";;
+"null";"2902.90.00.11.00";" - - - Naftalen";"-";50
+"null";"2902.90.00.12.00";" - - - Antrasen";"-";25
+"null";;" - - Difenil ve terfeniller:";;
+"null";"2902.90.00.21.00";" - - - Difenil";"-";40
+"null";"2902.90.00.22.00";" - - - Terfeniller";"-";25
+"null";;" - - Diğerleri :";" ";
+"null";"2902.90.00.91.00";" - - - Difenilmetan";"-";40
+"null";"2902.90.00.99.00";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"29.03";"Hidrokarbonların halojenlenmiş türevleri:";;
+"null";;" - Asiklik hidrokarbonların doymuş klorlanmış türevleri:";;
+"null";"2903.11";" - - Klorometan (metil klorür) ve kloroetan (etil klorür) :";;
+"null";"2903.11.00.00.11";" - - - Metil klorür";"-";25
+"null";"2903.11.00.00.12";" - - - Etil klorür";"-";25
+"null";"2903.12.00.00.00";" - - Diklorometan (metilen klorür)";"-";25
+"null";"2903.13.00.00.00";" - - Kloroform (triklorometan)";"-";25
+"null";"2903.14.00.00.00";" - - Karbon tetraklorür";"-";25
+"null";"2903.15.00.00.00";" - - Etilen diklorür (ISO) (1,2 -Dikloroetan)";"-";25
+"null";"2903.19";" - - Diğerleri:";;
+"null";"2903.19.00.00.11";" - - - Hekzakloretan";"-";25
+"null";"2903.19.00.00.19";" - - - Diğerleri";"-";25
+"null";;" - Asiklik hidrokarbonların doymamış klorlanmış türevleri:";;
+"null";"2903.21.00.00.00";" - - Vinil klorür (kloroetilen)";"-";25
+"null";"2903.22.00.00.00";" - - Trikloroetilen";"-";25
+"null";"2903.23.00.00.00";" - - Tetrakloroetilen (perkloroetilen)";"-";25
+"null";"2903.29.00.00.00";" - - Diğerleri";"-";25
+"null";;" - Asiklik hidrokarbonların doymuş florlanmış türevleri:";;
+"null";"2903.41.00.00.00";" - - Triflormetan (HFC-23)";"-";25
+"null";"2903.42.00.00.00";" - - Diflormetan (HFC-32)";"-";25
+"null";"2903.43.00.00.00";" - - Flormetan (HFC-41), 1,2-difloroetan (HFC-152), 1,1 - Difloretan (HFC-152a) ";"-";25
+"null";"2903.44";" - - Pentafloretan (HFC-125), 1,1,1 - trifloretan (HFC-143a),";;
+"null";;"     1,1,2 - trifloretan (HFC-143):";;
+"null";"2903.44.00.00.11";" - - - Pentafloretan (HFC-125)";"-";25
+"null";"2903.44.00.00.12";" - - - 1,1,1 - trifloretan (HFC-143a)";"-";25
+"null";"2903.44.00.00.13";" - - - 1,1,2 - trifloretan (HFC-143)";"-";25
+"null";"2903.45.00.00.00";" - - 1,1,1,2 - tetrafloretan (HFC-134-a) ve 1,1,2,2 -tetrafloretan (HFC-134) ";"-";25
+"null";"2903.46.00.00.00";" - - 1,1,1,2,3,3,3 - heptaflorpropan (HFC-227ea), 1,1,1,2,2,3 - hekzaflorpropan ";;
+"null";;"     (HFC-236cb), 1,1,1,2,3,3 - hekzaflorpropan (HFC-236ea), 1,1,1,3,3,3 -  ";;
+"null";;"      hekzaflorpropan (HFC-236fa) ";"-";25
+"null";"2903.47.00.00.00";" - - 1,1,1,3,3 - Pentafloropropan (HFC-245fa), 1,1,2,2,3 - pentaflorpropan";;
+"null";;"    (HFC-245ca)";"-";25
+"null";"2903.48.00.00.00";" - - 1,1,1,3,3 - pentaflorbütan (HFC-365mfc), 1,1,1,2,2,3,4,5,5,5 -";;
+"null";;"    dekaflorpentan (HFC-43-10mee) ";"-";25
+"null";"2903.49";" - - Diğerleri:";;
+"null";"2903.49.10.00.00";" - - - Diğer Pentaflorpropanlar, hekzaflorpropanlar, heptaflorpropanlar";"-";25
+"null";;" - - - Perflorlanmış türevler:";;
+"null";"2903.49.30.00.11";" - - - - Perfloroetan";"-";25
+"null";"2903.49.30.00.12";" - - - - Perfloropropan";"-";25
+"null";"2903.49.30.00.13";" - - - - Perflorobütan";"-";25
+"null";"2903.49.30.00.15";" - - - - Perfloropentan";"-";25
+"null";"2903.49.30.00.16";" - - - - Perflorohekzan";"-";25
+"null";"2903.49.30.00.17";" - - - - Perflorometan";"-";25
+"null";"2903.49.30.00.19";" - - - - Diğerleri";"-";25
+"null";"2903.49.90.00.00";" - - - Diğerleri";"-";25
+"null";;" - Asiklik hidrokarbonların doymamış florlanmış türevleri:";;
+"null";"2903.51.00.00.00";" - - 2,3,3,3-Tetraflorpropen (HFO-1234yf), 1,3,3,3-tetraflorpropen ";;
+"null";;"   (HFO-1234ze) ve (Z)-1,1,1,4,4,4-hekzaflor-2-büten (HFO-1336mzz)";"-";25
+"null";"2903.59.00.00.00";" - - Diğerleri";"-";25
+"null";;" - Asiklik hidrokarbonların bromlanmış veya iyodlanmış türevleri:";;
+"null";"2903.61.00.00.00";" - - Metil bromür (bromometan)";"-";25
+"null";"2903.62.00.00.00";" - - Etilen dibromür (ISO) (1,2-dibromoetan)";"-";25
+"null";"2903.69";" - - Diğerleri:";;
+"null";;" - - - Bromürler:";;
+"null";"2903.69.11.00.00";" - - - - Dibromometan";"-";25
+"null";;" - - - - Diğerleri:";;
+"null";"2903.69.19.00.11";" - - - - - 1,1-Dibromoetan";"-";25
+"null";"2903.69.19.00.13";" - - - - - Vinilbromür";"-";25
+"null";"2903.69.19.00.14";" - - - - -Etil bromür";"-";25
+"null";"2903.69.19.00.15";" - - - - - Bromoform";"-";25
+"null";"2903.69.19.00.19";" - - - - - Diğerleri";"-";25
+"null";;" - - - İyodürler:";;
+"null";"2903.69.80.00.11";" - - - - Metil iyodür";"-";25
+"null";"2903.69.80.00.12";" - - - - Etil iyodür";"-";25
+"null";"2903.69.80.00.13";" - - - - Metilen iyodür (diiyod metan)";"-";25
+"null";"2903.69.80.00.14";" - - - - İyodoform";"-";25
+"null";"2903.69.80.00.18";" - - - - Diğer iyodlular";"-";25
+"null";;" - İki veya daha fazla farklı halojen içeren asiklik hidrokarbonların";;
+"null";;"   halojelenmiş türevleri:";;
+"null";"2903.71.00.00.00";" - - Klorodiflorometan (HCFC-22)";"-";25
+"null";"2903.72.00.00.00";" - - Diklorotrifloroetanlar (HCFC-123)";"-";25
+"null";"2903.73.00.00.00";" - - Diklorofloroetanlar (HCFC-141, 141b)";"-";25
+"null";"2903.74.00.00.00";" - - Klorodifloroetanlar (HCFC-142, 142b)";"-";25
+"null";"2903.75.00.00.00";" - - Dikloropentafloropropanlar (HCFC-225, 225ca, 225cb)";"-";25
+"null";"2903.76";" - - Bromoklorodiflorometan (Halon-1211), bromotriflorometan (Halon-1301)";;
+"null";;"      ve dibromotetrafloroetan (Halon-2402):";;
+"null";"2903.76.10.00.00";" - - - Bromoklorodiflorometan (Halon-1211)";"-";25
+"null";"2903.76.20.00.00";" - - - Bromotriflorometan (Halon-1301)";"-";25
+"null";"2903.76.90.00.00";" - - - Dibromotetrafloroetanlar  (Halon-2402)";"-";25
+"null";"2903.77";" - -  Diğerleri (sadece florin ve klorinle perhalojenlenmiş):";;
+"null";"2903.77.60.00.00";" - - - Trikloroflorometan, Diklorodiflorometan, Triklorotrifloroetanlar";;
+"null";;"       Diklorotetrafloroetanlar ve Kloropentafloroetan";"-";25
+"null";"2903.77.90.00.00";" - - - Diğerleri ";"-";25
+"null";"2903.78.00.00.00";" - - Diğer perhalojenlenmiş türevler";"-";25
+"null";"2903.79";" - - Diğerleri:";;
+"null";;" - - - Sadece bromin ve klorinle, florin ve klorinle veya florin ve brominle  ";;
+"null";;"       halojenlenmiş olanlar:";;
+"null";"2903.79.30.00.11";" - - - - Flordiklormetan";"-";25
+"null";"2903.79.30.00.13";" - - - - Klorflormetan";"-";25
+"null";"2903.79.30.00.14";" - - - - Flortetrakloretan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.15";" - - - - Diflortrikloretan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.17";" - - - - Klortetrafloretan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.18";" - - - - Flortrikloretan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.21";" - - - - Diklordifloretan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.22";" - - - - Klortrifloretan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.25";" - - - - Klorfloretan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.26";" - - - - Florhekzaklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.27";" - - - - Diflorpentaklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.28";" - - - - Triflortetraklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.31";" - - - - Triklortetraflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.33";" - - - - Klorhekzaflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.34";" - - - - Florpentaklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.35";" - - - - Diflortetraklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.36";" - - - - Triklortriflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.37";" - - - - Diklortetraflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.38";" - - - - Klorpentaflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.41";" - - - - Flortetraklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.42";" - - - - Diflortriklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.43";" - - - - Diklortriflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.44";" - - - - Klortetraflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.45";" - - - - Flortriklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.46";" - - - - Diflordiklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.47";" - - - - Klortriflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.48";" - - - - Flordiklorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.51";" - - - - Klordiflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.52";" - - - - Klorflorpropan (tüm izomerleri)";"-";25
+"null";"2903.79.30.00.53";" - - - - Trans-1-kloro-3,3,3,trifloropropen (HCFC-1233zd)";"-";25
+"null";"2903.79.30.00.54";" - - - - 2-klor-3,3,3-triflorprop-1-en (HFC-1233xf)";"-";25
+"null";"2903.79.30.00.59";" - - - - Diğerleri";"-";25
+"null";"2903.79.80.00.00";" - - - Diğerleri ";"-";25
+"null";;" - Siklanik, siklenik veya sikloterpenik hidrokarbonların ";;
+"null";;"   halojenlenmiş türevleri:";;
+"null";"2903.81";" - -1,2,3,4,5,6 -Hekzaklorsiklohekzan (HCS(ISO)) (linden dahil (ISO,INN):";;
+"null";"2903.81.00.00.11";" - - - Lindan (ISO)";"-";25
+"null";"2903.81.00.00.13";" - - - HCH ( %99'dan az gama izomer içerenler)";"-";25
+"null";"2903.81.00.00.19";" - - - Diğerleri";"-";25
+"null";"2903.82.00.00.00";" - - Aldrin (ISO), klordan (ISO) ve heptaklor (ISO)";"-";25
+"null";"2903.83.00.00.00";" - - Mirex (ISO)";"-";25
+"null";"2903.89";" - - Diğerleri:";;
+"null";"2903.89.10.00.00";" - - - 1,2-dibromo-4-(1,2-dibromoetil)siklohekzan; tetrabromsiklooktan";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"2903.89.80.00.11";" - - - - Perflorosiklobütan";"-";25
+"null";"2903.89.80.00.12";" - - - - Perflorosiklopropan";"-";25
+"null";"2903.89.80.00.19";" - - - - Diğerleri";"-";25
+"null";;" - Aromatik hidrokarbonların halojenlenmiş türevleri:";;
+"null";"2903.91";" - - Klorbenzen, o-diklorobenzen ve p-diklorobenzen: ";;
+"null";"2903.91.00.00.11";" - - - Klorbenzen";"-";25
+"null";"2903.91.00.00.12";" - - - o-diklorbenzen";"-";25
+"null";"2903.91.00.00.13";" - - - p-diklorbenzen";"-";25
+"null";"2903.92";" - - Hekzaklorobenzen (ISO) ve DDT (ISO) (klofenoten (INN) 1,1,1 -trikloro-";;
+"null";;"     2,2- bis (p- klorofenil)etan) ";;
+"null";"2903.92.00.10.00";" - - - DDT [1,1,1 -triklor -2,2 - bis (p -klorfenil) etan]";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2903.92.00.90.11";" - - - - Hekzaklorbenzen";"-";25
+"null";"2903.92.00.90.19";" - - - - Diğerleri";"-";25
+"null";"2903.93.00.00.00";" - - Pentaklorobenzen (ISO)";"-";25
+"null";"2903.94.00.00.00";" - - Hekzabromobifeniller";"-";25
+"null";;" - - Diğerleri:";;
+"null";"2903.99.10.00.00";" - - - 2,3,4,5,6-Pentabrometilbenzen";"-";25
+"null";;" - - - Diğerleri";;
+"null";"2903.99.80.00.11";" - - - - Benzil klorür";"-";25
+"null";"2903.99.80.00.12";" - - - - Benzal klorür";"-";25
+"null";"2903.99.80.00.13";" - - - - Klor naftalenler";"-";25
+"null";"2903.99.80.00.14";" - - - - m-diklorbenzen";"-";25
+"null";"2903.99.80.00.15";" - - - - Polibromlanmış difeniller";"-";25
+"null";"2903.99.80.00.16";" - - - - Monometil-dibromo-difenil metan";"-";25
+"null";"2903.99.80.00.17";" - - - - Monometil-diklor-difenil metan";"-";25
+"null";"2903.99.80.00.18";" - - - - Monometil-tetraklor-difenil metan";"-";25
+"null";"2903.99.80.00.19";" - - - - Polibrominated biphenyls (PBB)";"-";25
+"null";"2903.99.80.00.21";" - - - - Polichlorinated terphenyls (PCT)";"-";25
+"null";"2903.99.80.00.22";" - - - - Polichlorinated biphenyls (PCB)";"-";25
+"null";"2903.99.80.00.29";" - - - - Diğerleri";"-";25
+"null";;;;
+"null";"29.04";"Hidrokarbonların sülfolanmış, nitrolanmış veya nitrozolanmış türev-";;
+"null";;" türevleri (halojenlenmiş olsun olmasın):";;
+"null";"2904.10";" - Sadece sülfo grupları içeren türevler, bunların tuzları ve etil ";;
+"null";;"   esterleri";;
+"null";"2904.10.00.00.11";" - - Benzensülfonik asitler ve tuzları";"-";50
+"null";"2904.10.00.00.13";" - - Ksilensülfonik asitler ve tuzları";"-";50
+"null";"2904.10.00.00.14";" - - Alfa-naftil sülfonik asit ve tuzları";"-";50
+"null";"2904.10.00.00.15";" - - Beta-naftil sülfonik asit ve tuzları";"-";50
+"null";"2904.10.00.00.16";" - - 2,2-Dinaftilmetan-3,3-disülfonik asit ve tuzları";"-";50
+"null";"2904.10.00.00.17";" - - Metansülfonil klorür (mesil klorür)";"-";50
+"null";"2904.10.00.00.21";" - - p-toluensülfonik asitler ve tuzları";"-";50
+"null";"2904.10.00.00.22";" - - Diğer toluensülfonik asitler ve tuzları";"-";50
+"null";"2904.10.00.00.29";" - - Diğerleri";"-";50
+"null";"2904.20";" - Sadece nitro veya sadece nitrozo grupları içeren türevleri:";;
+"null";"2904.20.00.00.11";" - - 5-Tert-bütil-2,4,6-trinitrometaksilen (ksilen miski)";"-";20
+"null";"2904.20.00.00.12";" - - Nitrobenzen";"-";20
+"null";"2904.20.00.00.13";" - - Dinitrobenzenler";"-";20
+"null";"2904.20.00.00.14";" - - Nitrotoluenler";"-";20
+"null";"2904.20.00.00.15";" - - 2,4 Dinitrotoluen";"-";20
+"null";"2904.20.00.00.16";" - - Nitroksilenler";"-";20
+"null";"2904.20.00.00.17";" - - Nitronaftalenler";"-";20
+"null";"2904.20.00.00.18";" - - 3-Tert-bütil-2,6-dinitro-p-simen (simen miski)";"-";20
+"null";"2904.20.00.00.21";" - - Nitrometan";"-";20
+"null";"2904.20.00.00.22";" - - Nitroetan";"-";20
+"null";"2904.20.00.00.23";" - - 2,4,6 trinitrotoluen (TNT)";"-";20
+"null";"2904.20.00.00.24";" - - Dinitronaftalenler";"-";20
+"null";"2904.20.00.00.25";" - - 4-Nitrobiphenyl";"-";20
+"null";"2904.20.00.00.26";" - - 1-Phenyl-2-nitropropene";"-";20
+"null";"2904.20.00.00.28";" - - Diğerleri";"-";20
+"null";;" - Perflorooktan sülfonik asit, bunların tuzları ve perflorooktan sülfonil florid :";;
+"null";"2904.31.00.00.00";" - - Perflorooktan sülfonik asit";"-";20
+"null";"2904.32.00.00.00";" - - Amonyum perflorooktan sülfonat";"-";20
+"null";"2904.33.00.00.00";" - - Lityum perflorooktan sülfonat ";"-";20
+"null";"2904.34.00.00.00";" - - Potasyum perflorooktan sülfonat ";"-";20
+"null";"2904.35.00.00.00";" - - Perflorooktan sülfonik asitin diğer tuzları";"-";20
+"null";"2904.36.00.00.00";" - - Perflorooktan sülfonil florid";"-";20
+"null";;" - Diğerleri: ";;
+"null";"2904.91.00.00.00";" - - Trikloronitrometan (klor pikrin)";"-";50
+"null";;" - - Diğerleri:";;
+"null";;" - - - Sülfohalojenlenmiş türevler";;
+"null";"2904.99.00.00.11";" - - - - p-Toluensülfonil klorür (tos-Cl)";"-";50
+"null";"2904.99.00.00.19";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2904.99.00.00.21";" - - - - Pentaklornitrobenzen (PCNB)";"-";50
+"null";"2904.99.00.00.22";" - - - - Nitrozobenzen";"-";50
+"null";"2904.99.00.00.23";" - - - - Nitrozotoluenler";"-";50
+"null";"2904.99.00.00.24";" - - - - Klornitrometan";"-";50
+"null";"2904.99.00.00.25";" - - - - Klornitrobenzenler";"-";50
+"null";"2904.99.00.00.26";" - - - - Klornitrotoluenler";"-";50
+"null";"2904.99.00.00.27";" - - - - Nitrobenzensülfonik asitler";"-";50
+"null";"2904.99.00.00.28";" - - - - Dietilenbenzensülfonik asitler";"-";50
+"null";"2904.99.00.00.31";" - - - - Nitrotoluensülfonik asitler";"-";50
+"null";"2904.99.00.00.32";" - - - - Dietilnitrotoluensülfonik asitler";"-";50
+"null";"2904.99.00.00.33";" - - - - Dikloretil-3-nitrofenilsülfon";"-";50
+"null";"2904.99.00.00.34";" - - - - Quintozene";"-";50
+"null";"2904.99.00.00.35";" - - - - Tecnazene";"-";50
+"null";"2904.99.00.00.39";" - - - - Diğerleri";"-";50
+"null";;;;
+"null";;"  II. ALKOLLER VE BUNLARIN HALOJENLENMİŞ, SÜLFOLANMIŞ, ";;
+"null";;"      NİTROLANMIŞ VEYA NİTROZOLANMIŞ TÜREVLERİ";;
+"null";;;;
+"null";"29.05";" Asiklik alkoller ve bunların halojenlenmiş, sülfolanmış, ";;
+"null";;" nitrolanmış veya nitrozolanmış türevleri:";;
+"null";;" - Doymuş monohidrik alkoller:";;
+"null";"2905.11";" - - Metanol (metil alkol) :";;
+"null";;" - - - Saf metil alkol";;
+"null";"2905.11.00.10.11";" - - - - Dökme olanlar";"-";50
+"null";"2905.11.00.10.12";" - - - - Ambalajlı olanlar";"-";50
+"null";;" - - - Saf olmayan metil alkol (teknik)";;
+"null";"2905.11.00.20.11";" - - - - Dökme olanlar";"-";50
+"null";"2905.11.00.20.12";" - - - - Ambalajlı olanlar";"-";50
+"null";"2905.12";" - - Propan-1-ol (propil alkol) ve propan-2-ol (izopropil alkol)";;
+"null";"2905.12.00.00.11";" - - - Propil alkol";"-";50
+"null";"2905.12.00.00.12";" - - - İzopropil alkol";"-";50
+"null";"2905.13.00.00.00";" - - Butan-1-ol (n-butil alkol)";"-";50
+"null";"2905.14";" - - Diğer butanoller:";;
+"null";"2905.14.10.00.00";" - - - 2-Metilpropan-2-ol (tert-bütilalkol)";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2905.14.90.00.11";" - - - - İzobütil alkol";"-";50
+"null";"2905.14.90.00.12";" - - - - Sekonder bütil alkol";"-";50
+"null";"2905.16";" - - Oktanol (oktil alkol) ve izomerleri:";;
+"null";"2905.16.20.00.00";" - - - Oktan - 2- ol";"-";50
+"null";" ";" - - - Diğerleri";;
+"null";"2905.16.85.00.11";" - - - - İzooktanol";"-";50
+"null";"2905.16.85.00.19";" - - - - Diğerleri";"-";50
+"null";"2905.17";" - - Dodekan-1-ol (lauril alkol), hekzadeka-1-ol (setil alkol) ve oktadekan-1-ol";;
+"null";;"     (stearil alkol):";;
+"null";"2905.17.00.10.00";" - - - Dodekan-1-ol (lauril alkol)";"-";50
+"null";;" - - - hekzadeka-1-ol (setil alkol) ve oktadekan-1-ol (stearil alkol)";;
+"null";"2905.17.00.20.11";" - - - - Setil alkol";"-";50
+"null";"2905.17.00.20.12";" - - - - Stearil alkol";"-";50
+"null";"2905.19";" - - Diğerleri:";;
+"null";;" - - - Metal alkoksitler";;
+"null";"2905.19.00.10.11";" - - - - Sodyum metoksit";"-";15
+"null";"2905.19.00.10.12";" - - - - Sodyum etoksit";"-";15
+"null";"2905.19.00.10.13";" - - - - Aluminyum izopropoksit";"-";15
+"null";"2905.19.00.10.19";" - - - - Diğer metal alkoksitler";"-";15
+"null";;" - - - Diğerleri";;
+"null";"2905.19.00.90.11";" - - - - Desil alkol";"-";50
+"null";"2905.19.00.90.12";" - - - - İzodesil alkol";"-";50
+"null";"2905.19.00.90.13";" - - - - Nonil alkol";"-";50
+"null";"2905.19.00.90.14";" - - - - İzononil alkol";"-";50
+"null";"2905.19.00.90.15";" - - - - 3,3-Dimetil bütan-2-ol (pinokonilalkol)";"-";50
+"null";"2905.19.00.90.16";" - - - - Pentanol (amil alkol) ve izomerleri";"-";50
+"null";"2905.19.00.90.18";" - - - - Diğer doymuş monohidrik alkoller";"-";50
+"null";;" - Doymamış monohidrik alkoller:";;
+"null";"2905.22";" - - Asiklik terpen alkoller:";;
+"null";;" - - - Geraniol, nerol, sitronelol, linalol, rodinol:";;
+"null";"2905.22.00.00.11";" - - - - Geraniol";"-";50
+"null";"2905.22.00.00.12";" - - - - Nerol";"-";50
+"null";"2905.22.00.00.13";" - - - - Sitronelol";"-";50
+"null";"2905.22.00.00.14";" - - - - Linalol";"-";50
+"null";"2905.22.00.00.15";" - - - - Rodinol";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"2905.22.00.00.21";" - - - - Fitol";"-";50
+"null";"2905.22.00.00.29";" - - - - Diğerleri";"-";50
+"null";"2905.29";" - - Diğerleri:";;
+"null";"2905.29.10.00.00";" - - - Alil alkol (propenol)";"-";50
+"null";;" - - - Diğerleri :";;
+"null";"2905.29.90.10.00";" - - - - Metal alkoksitleri";"-";15
+"null";"2905.29.90.90.00";" - - - - Diğerleri";"-";50
+"null";;" - Dioller:";;
+"null";"2905.31.00.00.00";" - - Etilen glikol (etandiol)";"-";50
+"null";"2905.32.00.00.00";" - - Propilen glikol (propan-1,2-diol)";"-";50
+"null";"2905.39";" - - Diğerleri:";;
+"null";"2905.39.20.00.00";" - - - Bütan - 1,3-diol";"-";50
+"null";;" - - - Bütan-1,4-diol: ";;
+"null";"2905.39.26.00.00";" - - - - Kütlece %100 biyo temelli karbon içeriğine sahip Bütan - 1,4-diol ";;
+"null";;"        veya tetrametil glikol (1,4-bütandiol)";"-";50
+"null";"2905.39.28.00.00";" - - - - Diğerleri";"-";50
+"null";"2905.39.30.00.00";" - - - 2,4,7,9 - tetrametildec - 5 - yne - 4,7 - diol";"-";50
+"null";" ";" - - - Diğerleri :";;
+"null";"2905.39.95.10.00";" - - - - Metal  dialkoksitleri";"-";15
+"null";;" - - - - Diğerleri";;
+"null";"2905.39.95.90.11";" - - - - - Hekzilen glikol (2 -metilpentan -2,4 -diol)";"-";50
+"null";"2905.39.95.90.19";" - - - - - Diğerleri";"-";50
+"null";;" - Diğer polihidrik alkoller:";;
+"null";"2905.41.00.00.00";" - - 2 -Etil -2 -(hidroksimetil) propan -1,3 -diol (trimetilolpropan)";"-";50
+"null";"2905.42.00.00.00";" - - Pentaeritritol (pentaeritrit)";"-";15
+"null";"2905.43.00.00.00";" - - Mannitol";"-";50
+"null";"2905.44";" - - D -glusitol (sorbitol):";;
+"null";;" - - - Sulu çözelti halinde:";;
+"null";"2905.44.11.00.00";" - - - - D -glusitol miktarı üzerinden hesaplandığında ağırlık itibariyle";;
+"null";;"          % 2 veya daha az mannitol içerenler";"-";50
+"null";"2905.44.19.00.00";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"2905.44.91.00.00";" - - - - D -glusitol miktarı üzerinden hesaplandığında ağırlık itibariyle";;
+"null";;"           % 2 veya daha az mannitol içerenler";"-";50
+"null";"2905.44.99.00.00";" - - - - Diğerleri";"-";50
+"null";"2905.45.00.00.00";" - - Gliserol";"-";40
+"null";"2905.49";" - - Diğerleri:";;
+"null";"2905.49.00.10.00";" - - - Metal  polialkoksitler";"-";"15"
+"null";;" - - - Diğerleri:";;
+"null";"2905.49.00.90.10";" - - - - Ksilitol";"-";50
+"null";"2905.49.00.90.90";" - - - - Diğerleri";"-";50
+"null";;" - Asiklik alkollerin halojenlenmiş, sülfolanmış, nitrolanmış";;
+"null";;"   veya nitrozolanmış türevleri:";;
+"null";"2905.51.00.00.00";" - - Etiklorvinol (INN)";"-";50
+"null";"2905.59";" - - Diğerleri:";;
+"null";"2905.59.91.00.00";" - - - 2,2-bis(bromometil)propandiol";"-";"50"
+"null";;" - - - Diğerleri:";;
+"null";"2905.59.98.10.00";" - - - - Kloralhidrat";"-";"50"
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Monohidrik alkollere ait oIanlar:";;
+"null";"2905.59.98.90.11";" - - - - - - Triklor-tersiyer-bütil alkol";"-";50
+"null";"2905.59.98.90.12";" - - - - - - 2,2,3,3,3-pentafloropropanol";"-";50
+"null";"2905.59.98.90.13";" - - - - - - Bis(triflorometil)-metanol";"-";50
+"null";"2905.59.98.90.19";" - - - - - - Diğerleri";"-";50
+"null";"2905.59.98.90.99";" - - - - - Diğerleri";"-";50
+"null";;;;
+"null";"29.06";"Siklik alkoller ve bunların halojenlenmiş, sülfolanmış, ";;
+"null";;"nitrolanmış veya nitrozolanmış türevleri:";;
+"null";;" - Siklanik, siklenik veya sikloterpenik:";;
+"null";"2906.11.00.00.00";" - - Mentol";"-";35
+"null";"2906.12";" - - Siklohekzanol, metilsiklohekzanoller ve dimetilsiklohekza -";;
+"null";;"     noller";;
+"null";"2906.12.00.00.11";" - - - Siklohekzanol";"-";35
+"null";"2906.12.00.00.12";" - - - Metilsiklohekzanoller";"-";35
+"null";"2906.12.00.00.13";" - - - Dimetilsiklohekzanoller";"-";35
+"null";"2906.13";" - - Steroller ve inositoller :";;
+"null";"2906.13.10.00.00";" - - - Steroller";"-";35
+"null";"2906.13.90.00.00";" - - - İnositoller";"-";35
+"null";"2906.19";" - - Diğerleri";;
+"null";;" - - - Terpin, terpinhidrat (terpinol) ve terpineoller";;
+"null";"2906.19.00.10.11";" - - - - Terpin";"-";35
+"null";"2906.19.00.10.12";" - - - - Terpinhidrat (terpinol)";"-";35
+"null";"2906.19.00.10.13";" - - - - Terpineoller";"-";35
+"null";;" - - - Borneol, izoborneol, santalol";;
+"null";"2906.19.00.20.11";" - - - - Borneol (borneo kafurusu)";"-";50
+"null";"2906.19.00.20.12";" - - - - İzoborneol";"-";50
+"null";"2906.19.00.20.13";" - - - - Santalol";"-";50
+"null";"2906.19.00.90.00";" - - - Diğerleri";"-";35
+"null";;" - Aromatik:";;
+"null";"2906.21.00.00.00";" - - Benzil alkol";"-";50
+"null";"2906.29";" - - Diğerleri:";;
+"null";;" - - - Feniletil alkol, fenilpropil alkol ve tarçın alkol (sinnamil alkol)";;
+"null";"2906.29.00.10.11";" - - - - Feniletil alkol ( 2-fenil etanol)";"-";50
+"null";"2906.29.00.10.12";" - - - - Fenilpropil alkol ( 3-fenil propanol)";"-";50
+"null";"2906.29.00.10.13";" - - - - Tarçın alkol (sinnamil alkol)";"-";50
+"null";;" - - - Diğerleri :";;
+"null";"2906.29.00.90.11";" - - - - Difenilmetanol ( difenilkarbinol, benzhidrol)";"-";35
+"null";"2906.29.00.90.12";" - - - - Trifenilmetanol ( trifenilkarbinol)";"-";35
+"null";"2906.29.00.90.19";" - - - - Diğerleri";"-";35
+"null";;;;
+"null";;;;
+"null";;"III. FENOLLER, FENOL-ALKOLLER VE BUNLARIN HALOJENLENMİŞ";;
+"null";;"     SÜLFOLANMIŞ, NİTROLANMIŞ VEYA NİTROZOLANMIŞ ";;
+"null";;"     TÜREVLERİ";;
+"null";;;;
+"null";"29.07";"Fenoller; fenol-alkoller:";;
+"null";;" - Monofenoller:";;
+"null";"2907.11";" - - Fenol (hidroksibenzen) ve tuzları :";;
+"null";"2907.11.00.10.00";" - - - Fenol (hidroksibenzen,fenik asit)";"-";25
+"null";"2907.11.00.20.00";" - - - Fenol tuzları";"-";25
+"null";"2907.12";" - - Krezoller ve tuzları";;
+"null";"2907.12.00.10.00";" - - - Krezoller";"-";25
+"null";"2907.12.00.20.00";" - - - Krezollerin tuzları";"-";25
+"null";"2907.13";" - - Oktilfenol, nonilfenol ve bunların izomerleri; bunların tuzları";;
+"null";"2907.13.00.00.11";" - - - Oktilfenol ve izomerleri";"-";25
+"null";"2907.13.00.00.12";" - - - Nonilfenol ve izomerleri";"-";25
+"null";"2907.13.00.00.19";" - - - Diğerleri";"-";25
+"null";"2907.15";" - - Naftoller ve tuzları :";;
+"null";"2907.15.10.00.00";" - - - 1 - Naftol (Alfa naftol)";"-";25
+"null";" ";" - - -  Diğerleri: ";" ";
+"null";"2907.15.90.10.00";" - - - - Beta naftol";"-";25
+"null";;" - - - - Alfa naftol ve beta naftollerin tuzları";;
+"null";"2907.15.90.20.11";" - - - - - Alfa naftol tuzları";"-";25
+"null";"2907.15.90.20.12";" - - - - - Beta naftol tuzları";"-";25
+"null";"2907.19";" - - Diğerleri:";;
+"null";"2907.19.10.00.00";" - - - Ksilenoller ve tuzları";"-";25
+"null";;" - - - Diğerleri";;
+"null";"2907.19.90.10.00";" - - - -Timol";"-";25
+"null";;"- - - -Diğerleri";;
+"null";"2907.19.90.90.11";" - - - - -Karvakrol";"-";25
+"null";"2907.19.90.90.19";" - - - - -Diğerleri";"-";25
+"null";;" - Polifenoller; fenol alkoller:";;
+"null";"2907.21";" - - Rezorsinol ve tuzları :";;
+"null";"2907.21.00.10.00";" - - - Rezorsinol";"-";25
+"null";"2907.21.00.20.00";" - - - Rezorsinol tuzları";"-";25
+"null";"2907.22";" - - Hidrokinon (kinol) ve tuzları :";;
+"null";"2907.22.00.10.00";" - - - Hidrokinon";"-";25
+"null";"2907.22.00.90.00";" - - - Diğerleri";"-";25
+"null";"2907.23";" - - 4,4' -İzopropilidendifenol (bisfenol A,difenilolpropan) ve tuzları";;
+"null";"2907.23.00.00.11";" - - - 4,4' -İzopropilidendifenol (bisfenol A,difenilolpropan)";"-";25
+"null";"2907.23.00.00.19";" - - - Diğerleri";"-";25
+"null";"2907.29.00";" - - Diğerleri:";;
+"null";;" - - - Pirokatekol (pirokatein),hekzilrezorsinol,heptilrezorsinol,floroglisinol";;
+"null";"2907.29.00.10.11";" - - - - Pirokatekol";"-";25
+"null";"2907.29.00.10.12";" - - - - Hekzilrezorsinol";"-";25
+"null";"2907.29.00.10.13";" - - - - Heptilrezorsinol";"-";25
+"null";"2907.29.00.10.14";" - - - - Floroglisinol";"-";25
+"null";"2907.29.00.20.00";" - - - Salisilik alkol (salijenin)";"-";25
+"null";;" - - - Diğerleri";;
+"null";"2907.29.00.80.11";" - - - - Pirogallol";"-";25
+"null";"2907.29.00.80.12";" - - - - 2,5-Dimetilhidroksikinon (2,5-dimetil-kinon)";"-";25
+"null";"2907.29.00.80.13";" - - - - Dihidroksinaftalenler";"-";25
+"null";"2907.29.00.80.14";" - - - - Dihidroksinaftalenlerin tuzları";"-";25
+"null";"2907.29.00.80.19";" - - - - Diğer polifenoller ve tuzları";"-";25
+"null";;;;
+"null";"29.08";"Fenollerin veya fenol-alkollerin halojenlenmiş, sülfolanmış, ";;
+"null";;"nitrolanmış veya nitrozolanmış türevleri:";;
+"null";;" - Sadece halojenli ikameleri ve bunların tuzlarını içeren türevler:";;
+"null";"2908.11.00.00.00";" - - Pentaklorofenol (ISO)";"-";30
+"null";"2908.19";" - - Diğerleri:";;
+"null";;" - - - Bizmut tribromfenol ve p-Klor-m-krezol";;
+"null";"2908.19.00.10.11";" - - - - Bizmut tribromfenol";"-";30
+"null";"2908.19.00.10.12";" - - - -P-Klor-m-krezol";"-";30
+"null";;"- - - Diğerleri :";;
+"null";"2908.19.00.90.11";" - - - -o-Klorfenol";"-";30
+"null";"2908.19.00.90.12";" - - - - m-Klorfenol";"-";30
+"null";"2908.19.00.90.13";" - - - - p-Klorfenol";"-";30
+"null";"2908.19.00.90.14";" - - - -Klorhidrokinon";"-";30
+"null";"2908.19.00.90.15";" - - - - Pentaklorofenol tuzları ve bileşikleri";"-";30
+"null";"2908.19.00.90.19";" - - - -Diğerleri";"-";30
+"null";;" - Diğerleri :";;
+"null";"2908.91.00.00.00";" - - Dinoseb (ISO) ve tuzları";"-";30
+"null";"2908.92.00.00.00";" - - 4,6-dinitro-o-krezol (DNOC (ISO)) ve tuzları";"-";30
+"null";"2908.99";" - - Diğerleri:";;
+"null";;" - - - Trinitrofenol (pikrik asit) ve mononitrofenol";;
+"null";"2908.99.00.10.11";" - - - - Trinitrofenol (pikrik asit) ";"-";30
+"null";"2908.99.00.10.12";" - - - - Mononitrofenol";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"2908.99.00.90.12";" - - - - Diğer dinitro-o-krezoller";"-";30
+"null";"2908.99.00.90.13";" - - - - Trinitroksilenoller";"-";30
+"null";"2908.99.00.90.14";" - - - - Nitrozonaftoller";"-";30
+"null";"2908.99.00.90.15";" - - - - Nitrozofenoller";"-";30
+"null";"2908.99.00.90.16";" - - - - Dinoterb";"-";30
+"null";"2908.99.00.90.17";" - - - - Diğer dinitrofenoller";"-";30
+"null";"2908.99.00.90.29";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";;"     IV. ETERLER, ALKOL PEROKSİTLER, ETER PEROKSİTLER, ";;
+"null";;"ASETAL VE YARI ASETAL PEROKSİTLER, KETON PEROKSİTLER, ";;
+"null";;"ÜÇ HALKALI EPOKSİTLER, ASETALLER VE YARI ASETALLER ";;
+"null";;"VE BUNLARIN HALOJENLENMİŞ,SÜLFOLANMIŞ, NİTROLANMIŞ ";;
+"null";;"VEYA NİTROZOLANMIŞ TÜREVLERİ";;
+"null";"29.09";"Eterler, eter -alkoller, eter -fenoller, eter -alkol -fenoller, alkol";;
+"null";;"peroksitler, eter peroksitler, asetal ve yarı asetal peroksitler, keton ";;
+"null";;"peroksitler (kimyasal olarak belirli bir yapıda olsun olmasın) ve bunların ";;
+"null";;"halojenlenmiş, sülfolanmış, nitrolanmış veya nitrozolanmış türevleri:";;
+"null";;" - Asiklik eterler ve bunların halojenlenmiş, sülfolanmış, nitro -";;
+"null";;"   lanmış veya nitrozolanmış türevleri:";;
+"null";"2909.11.00.00.00";" - - Dietil eter (eter)";"-";25
+"null";"2909.19";" - - Diğerleri";;
+"null";"2909.19.10.00.00";" - - - Tert-butil etil eter (etil-tertio-butil-eter, ETBE)";"-";"25"
+"null";;" - - - Diğerleri";;
+"null";"2909.19.90.00.11";" - - - - Diizopropil eter";"-";25
+"null";"2909.19.90.00.12";" - - - - Dibütil eter";"-";25
+"null";"2909.19.90.00.13";" - - - - Metil tersiyer bütil eter (MTBE)";"-";25
+"null";"2909.19.90.00.14";" - - - - Diflorometil triflorometil eter (HFE-125)";"-";25
+"null";"2909.19.90.00.15";" - - - - bis(diflorometil) eter (HFE-134)";"-";25
+"null";"2909.19.90.00.16";" - - - - Metil triflorometil eter (HFE-143a)";"-";25
+"null";"2909.19.90.00.17";" - - - - İzofloran (HFE-235da2) ";"-";25
+"null";"2909.19.90.00.18";" - - - - Metil pentafloroetil eter (HFE-245cb2)";"-";25
+"null";"2909.19.90.00.20";" - - - - 2,2-difloroetil triflorometil eter (HFE-245fa2)";"-";25
+"null";"2909.19.90.00.21";" - - - - 1,1,2,2-tetrafloro-1-metoksi etan (HFE-254cb2)";"-";25
+"null";"2909.19.90.00.22";" - - - - 1,1,1,2,2,3,3-heptafloro-3-metoksipropan (HFE-347mcc3) ";"-";25
+"null";"2909.19.90.00.23";" - - - - 1,1,2,2-tetrafloroetil 2,2,2-trifloroetil eter (HFE-347pcf2)";"-";25
+"null";"2909.19.90.00.24";" - - - - 1,1,2,2,3,3-hekzafloropropil metil eter (HFE-356pcc3)";"-";25
+"null";"2909.19.90.00.25";" - - - - 1,1,1,2,2,3,3,4,4-nonafloro-4-metoksibütan (HFE-449sl)  ";"-";25
+"null";"2909.19.90.00.26";" - - - - 1-etoksi-1,1,2,2,3,3,4,4,4-nonaflorobütan etil nonaflorobütil eter (HFE-569sf2) ";"-";25
+"null";"2909.19.90.00.27";" - - - - 1,2-bis(diflorometoksi)-1,1,2,2-tetrafloro etan (HFE-338pcc13) ";"-";25
+"null";"2909.19.90.00.28";" - - - - 1,1,1,2,3,3,3-heptafloro-2-metoksipropan (HFE-347mmy1)";"-";25
+"null";"2909.19.90.00.30";" - - - - 1,2,2,2-tetrafloroetil triflorometil eter (HFE-227ea)";"-";25
+"null";"2909.19.90.00.31";" - - - - Desflurane (HFE-236ea2) ";"-";25
+"null";"2909.19.90.00.32";" - - - - 2,2,2-trifloroetil triflorometil eter (HFE-236fa)";"-";25
+"null";"2909.19.90.00.33";" - - - - Diflorometil 2,2,2-trifloroetil eter (HFE-245fa1)";"-";25
+"null";"2909.19.90.00.34";" - - - - 1,1,2,2,3,3-hekzafloropropil triflorometil eter (HFE-329mcc2)";"-";25
+"null";"2909.19.90.00.35";" - - - - Pentafloroetil 2,2,2-trifloroetil eter (HFE-338mcf2)";"-";25
+"null";"2909.19.90.00.36";" - - - - Diflorometil 1,1,1,3,3,3-hekzafuoropropan-2-yl eter (HFE-338mmz1)";"-";25
+"null";"2909.19.90.00.37";" - - - - 1,1,2,3,3,3-hekzafloropropil metil eter (HFE-356mec3)";"-";25
+"null";"2909.19.90.00.38";" - - - - 1,1,1,3,3,3-hekzafloropropan-2-yl metil eter (HFE-356mm1)";"-";25
+"null";"2909.19.90.00.40";" - - - - Diflorometil 2,2,3,3-tetrafloropropil eter (HFE-356pcf3)";"-";25
+"null";"2909.19.90.00.41";" - - - - Metil 2,2,3,3,3-pentafloropropil eter (HFE-365mcf3)";"-";25
+"null";"2909.19.90.00.42";" - - - - Etil 1,1,2,2-tetrafloroetil eter (HFE-374pc2)";"-";25
+"null";"2909.19.90.00.49";" - - - - Diğerleri";"-";25
+"null";"2909.20";" - Siklanik, siklenik veya sikloterpenik eterler ve bunların halojen-";;
+"null";;"   lenmiş, sülfolanmış, nitrolanmış veya nitrozolanmış türevleri :";;
+"null";"2909.20.00.00.11";" - - Diklordietil eter";"-";25
+"null";"2909.20.00.00.19";" - - Diğerleri";"-";25
+"null";"2909.30";" - Aromatik eterler ve bunların halojenlenmiş, sülfolanmış, nitro -";;
+"null";;"   lanmış veya nitrozolanmış türevleri:";;
+"null";"2909.30.10.00.00";" - - Difenil eter";"-";60
+"null";;" - - Bromlu türevler :";;
+"null";"2909.30.31.00.00";" - - - Pentabromdifenil eter;1,2,4,5- tetrabrom- 3- 6- bis (pentabrom fenoksi)";;
+"null";;"        benzen";"-";25
+"null";"2909.30.35.00.00";" - - - 1,2 - Bis (2,4,6 - Tribromofenoksi) etan [Akrilonitril - bütadien - ";;
+"null";;"        stiren (ABS) imaline mahsus]";"-";25
+"null";"2909.30.38.00.00";" - - - Diğerleri";"-";25
+"null";;" - - Diğerleri :";;
+"null";"2909.30.90.10.00";" - - - Anetol (p-propenilanisol)";"-";60
+"null";"2909.30.90.20.00";" - - - 2-Tert-bütil-5-metil-4,6-dinitroanisol (amber miski)";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2909.30.90.90.11";" - - - - Dibenzil eter";"-";25
+"null";"2909.30.90.90.12";" - - - - Anisol (metil-fenil eter)";"-";25
+"null";"2909.30.90.90.13";" - - - - Nerolin";"-";25
+"null";"2909.30.90.90.14";" - - - - Nitrofen";"-";25
+"null";"2909.30.90.90.18";" - - - - Diğer aromatik eterler ve bunların türevleri";"-";25
+"null";;" - Eter alkoller ve bunların halojenlenmiş, sülfolanmış, nitrolanmış";;
+"null";;"   veya nitrozolanmış türevleri:";;
+"null";"2909.41.00.00.00";" - - 2,2' -oksidietanol (dietilen glikol, digol)";"-";25
+"null";"2909.43";" - - Etilen glikol veya dietilen glikolün monobütil eterleri";;
+"null";"2909.43.00.00.11";" - - - Etilen glikolün monobütil eterleri (bütil glikol)";"-";25
+"null";"2909.43.00.00.12";" - - - Dietilen glikolünmonobütil eterleri";"-";25
+"null";"2909.44";" - - Etilen glikol veya dietilen glikolün diğer monoalkil eterleri";;
+"null";"2909.44.00.00.11";" - - - Dietilen glikolün monoetil eteri (karbitol)";"-";25
+"null";"2909.44.00.00.12";" - - - Etilen glikol ve dietilen glikolün monofenil eterleri";"-";25
+"null";"2909.44.00.00.19";" - - - Diğerleri";"-";25
+"null";"2909.49";" - - Diğerleri:";;
+"null";"2909.49.11.00.00";" - - - 2 - (2 - Kloroetoksi) etanol";"-";25
+"null";;" - - - Diğerleri";;
+"null";"2909.49.80.10.00";" - - - - Anisil alkol";"-";"60"
+"null";;" - - - - Diğerleri";;
+"null";"2909.49.80.90.11";" - - - - - Trietilen glikol ";"-";25
+"null";"2909.49.80.90.12";" - - - - - Tetrametilen glikol ";"-";25
+"null";"2909.49.80.90.19";" - - - - - Diğerleri ";"-";25
+"null";"2909.50";" - Eter -fenoller, eter -alkol- fenoller ve bunların halojenlenmiş,";;
+"null";;"   sülfolanmış, nitrolanmış veya nitrozolanmış türevleri:";;
+"null";"2909.50.00.10.00";" - - Öjenol, izoöjenol";"-";"60"
+"null";"2909.50.00.20.00";" - - Gliserin gayakol";"-";"25"
+"null";"2909.50.00.30.00";" - - Gayakol ve gayakol sülfonikasit potasyum tuzu (sülfo gayakol)";"-";"25"
+"null";"2909.50.00.90.00";" - - Diğerleri";"-";"25"
+"null";"2909.60";" - Alkol peroksitler, eter peroksitler, asetal ve yarı asetal peroksitler,";;
+"null";;"   keton peroksitler ve bunların halojenlenmiş, sülfolanmış, nitrolanmış ";;
+"null";;"   veya nitrozolanmış türevleri ";;
+"null";"2909.60.10.00.00";" - - Asetal ve yarı asetal peroksitler";"-";25
+"null";;" - - Diğerleri:";;
+"null";"2909.60.90.00.11";" - - - Bütil peroksit";"-";25
+"null";"2909.60.90.00.12";" - - - Metil etil keton peroksit";"-";25
+"null";"2909.60.90.00.13";" - - - Dikumil peroksit";"-";25
+"null";"2909.60.90.00.19";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"29.10";"Üç halkalı epoksitler, epoksialkoller, epoksifenoller";;
+"null";;"ve epoksieterler ve bunların halojenlenmiş, sülfolanmış, nitrolan -";;
+"null";;"mış veya nitrozolanmış türevleri:";;
+"null";"2910.10.00.00.00";" - Oksiran (etilen oksit) ";"-";25
+"null";"2910.20.00.00.00";" - metiloksiran (propilen oksit) ";"-";25
+"null";"2910.30.00.00.00";" - 1 -klor -2,3 -epoksipropan (epiklorohidrin) ";"-";25
+"null";"2910.40.00.00.00";" - Dieldrin (ISO,INN)";"-";25
+"null";"2910.50.00.00.00";" - Endrin (ISO)";"-";25
+"null";"2910.90.00.00.00";" - Diğerleri";"-";25
+"null";;;;
+"null";"2911.00";"Asetaller ve yarı -asetaller (başka oksijen fonksiyonlu grubu olsun";;
+"null";;"olmasın) ve bunların halojenlenmiş, sülfolanmış, nitrolanmış veya";;
+"null";;"nitrozolanmış türevleri :";;
+"null";;" - Metilal, dimetil asetal, dietil asetal";;
+"null";"2911.00.00.10.11";" - - Metilal";"-";15
+"null";"2911.00.00.10.12";" - - Dimetil asetal";"-";15
+"null";"2911.00.00.10.13";" - - Dietil asetal";"-";15
+"null";;" - Diğerleri:";;
+"null";"2911.00.00.90.11";" - - bis(diflorometoksi) (difloro) metan (HFE-236ca12) ";"-";15
+"null";"2911.00.00.90.19";" - - Diğerleri";"-";15
+"null";;"                   V. ALDEHİT FONKSİYONLU BİLEŞİKLER";;
+"null";;;;
+"null";"29.12";"Aldehitler (başka oksijen fonksiyonlu grubu olsun olmasın);";;
+"null";;"aldehitlerin siklik polimerleri; paraformaldehit:";;
+"null";;" - Başka oksijen fonksiyonlu grubu olmayan asiklik aldehitler:";;
+"null";"2912.11.00.00.00";" - - Metanal (formaldehit) ";"-";15
+"null";"2912.12.00.00.00";" - - Etanal (asetaldehit)";"-";15
+"null";"2912.19";" - - Diğerleri :";;
+"null";;" - - - Sitral, sitronelal";;
+"null";"2912.19.00.10.11";" - - - - Sitral";"-";50
+"null";"2912.19.00.10.12";" - - - - Sitronelal";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2912.19.00.90.11";" - - - - Akrolein (2-propenal)";"-";15
+"null";"2912.19.00.90.12";" - - - - Krotonaldehit (2-bütenal)";"-";15
+"null";"2912.19.00.90.13";" - - - - Metakrolein (2-metil, 2-propenal)";"-";15
+"null";"2912.19.00.90.14";" - - - - Diğerleri";"-";15
+"null";;" - Başka oksijen fonksiyonlu grubu olmayan siklik aldehitler:";;
+"null";"2912.21.00.00.00";" - - Benzaldehit";"-";50
+"null";"2912.29";" - - Diğerleri:";;
+"null";;" - - - Tarçın aldehit (sinamikaldehit),alfa-amil-tarçın aldehit,fenilasetaldehit";;
+"null";"2912.29.00.10.11";" - - - - Tarçın aldehit";"-";50
+"null";"2912.29.00.10.12";" - - - - Alfa-amil-tarçın aldehit";"-";50
+"null";"2912.29.00.10.13";" - - - - Fenilasetaldehit";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2912.29.00.90.11";" - - - - Safranal";"-";15
+"null";"2912.29.00.90.12";" - - - - Siklostraller";"-";15
+"null";"2912.29.00.90.19";" - - - - Diğerleri";"-";15
+"null";;" - Aldehit alkoller, Aldehit -eterler, aldehit -fenoller ve başka oksijen";;
+"null";;"    fonksiyonlu grubu olan aldehitler:";;
+"null";"2912.41.00.00.00";" - - Vanilin (4 -hidroksi -3 -metoksibenzaldehit)";"-";50
+"null";"2912.42.00.00.00";" - - Etil vanilin (3 -etoksi -4 -hidroksibenzaldehit)";"-";15
+"null";"2912.49";" - - Diğerleri :";;
+"null";;" - - - Salisilaldehit, anisaldehit";;
+"null";"2912.49.00.10.11";" - - - - Salisilaldehit";"-";50
+"null";"2912.49.00.10.12";" - - - - Anisaldehit";"-";50
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Aldehit alkoller :";;
+"null";"2912.49.00.20.00";" - - - - - Hidroksisitronelal";"-";50
+"null";;" - - - - - Diğerleri:";;
+"null";"2912.49.00.30.11";" - - - - - - Aldol";"-";15
+"null";"2912.49.00.30.12";" - - - - - - Glikolaldehit";"-";15
+"null";"2912.49.00.30.19";" - - - - - - Diğerleri";"-";15
+"null";;" - - - - Diğerleri:";;
+"null";"2912.49.00.90.11";" - - - - - Protokateşikaldehit (3,4-dihidroksibenzaldehit)";"-";15
+"null";"2912.49.00.90.19";" - - - - - Diğerleri";"-";15
+"null";"2912.50";" - Aldehitlerin siklik polimerleri";;
+"null";"2912.50.00.00.11";" - - Trioksan (trioksi metilen)";"-";15
+"null";"2912.50.00.00.12";" - - Paraldehit";"-";15
+"null";"2912.50.00.00.13";" - - Metaldehit (kristal veya toz halinde)";"-";15
+"null";"2912.50.00.00.19";" - - Diğerleri";"-";15
+"null";"2912.60.00.00.00";" - Paraformaldehit";"-";15
+"null";;;;
+"null";"2913.00";"29.12 Pozisyonundaki ürünlerin halojenlenmiş, sülfolanmış, nitro- ";;
+"null";;"lanmış veya nitrozolanmış türevleri :";;
+"null";"2913.00.00.10.00";" - Kloral (triklorasetaldehit)";"-";15
+"null";;" - Diğerleri";;
+"null";"2913.00.00.90.11";" - - 2-Nitrobenzaldehit";"-";15
+"null";"2913.00.00.90.19";" - - Diğerleri";"-";15
+"null";;;;
+"null";;"           VI. KETON FONKSİYONLU VEYA KİNON FONKSİYONLU ";;
+"null";;"                                        BİLEŞİKLER";;
+"null";;;;
+"null";"29.14";"Ketonlar ve kinonlar (başka oksijen fonksiyonlu grubu olsun ol -";;
+"null";;"masın) ve bunların halojenlenmiş, sülfolanmış, nitrolanmış veya";;
+"null";;"nitrozolanmış türevIeri :";;
+"null";;" - Başka oksijen fonksiyonlu grubu olmayan asiklik ketonlar:";;
+"null";"2914.11.00.00.00";" - - Aseton (propanon)";"-";25
+"null";"2914.12.00.00.00";" - - Butanon (metil etil keton)";"-";50
+"null";"2914.13.00.00.00";" - - 4 -Metil - 2 -pentanon (metil izobütil keton)";"-";50
+"null";"2914.19";" - - Diğerleri:";;
+"null";"2914.19.10.00.00";" - - - 5 - Metilhekzan - 2 - one";"-";50
+"null";" ";" - - - Diğerleri";;
+"null";"2914.19.90.00.11";" - - - - Diasetil";"-";50
+"null";"2914.19.90.00.12";" - - - - Asetilaseton";"-";50
+"null";"2914.19.90.00.13";" - - - - Asetonilaseton";"-";50
+"null";"2914.19.90.00.14";" - - - - Mezitil oksit";"-";50
+"null";"2914.19.90.00.15";" - - - - Foronlar";"-";50
+"null";"2914.19.90.00.16";" - - - - Pisoido iyonon";"-";50
+"null";"2914.19.90.00.17";" - - - - Pisoido metiliyonon";"-";50
+"null";"2914.19.90.00.19";" - - - - Diğerleri";"-";50
+"null";;" - Başka oksijen fonksiyonlu grubu olmayan siklanik, siklenik ";;
+"null";;"   veya sikloterpenik ketonlar:";;
+"null";"2914.22";" - - Siklohekzanon ve metilsiklohekzanonlar";;
+"null";"2914.22.00.00.11";" - - - Siklohekzanon";"-";50
+"null";"2914.22.00.00.12";" - - - Metilsiklohekzanonlar";"-";50
+"null";"2914.23";" - - İyononlar ve metil iyononlar";;
+"null";"2914.23.00.00.11";" - - - Alfa iyonon";"-";50
+"null";"2914.23.00.00.12";" - - - Beta iyonon";"-";50
+"null";"2914.23.00.00.13";" - - - Metil iyononlar";"-";50
+"null";"2914.29";" - - Diğerleri";;
+"null";"2914.29.00.00.11";" - - - Fenkon";"-";50
+"null";"2914.29.00.00.12";" - - - Karvon";"-";50
+"null";"2914.29.00.00.13";" - - - Jasmon";"-";50
+"null";"2914.29.00.00.14";" - - - Menton";"-";50
+"null";"2914.29.00.00.15";" - - - Siklopentanon (adip keton)";"-";50
+"null";"2914.29.00.00.16";" - - - Kamfor (kafuru)";"-";15
+"null";"2914.29.00.00.19";" - - - Diğerleri";"-";50
+"null";;" - Başka oksijen fonksiyonlu grubu olmayan aromatik ketonlar:";;
+"null";"2914.31.00.00.00";" - - Fenilaseton (fenilpropan-2-one)";"-";50
+"null";"2914.39";" - - Diğerleri";;
+"null";"2914.39.00.00.11";" - - - Metil naftil keton";"-";50
+"null";"2914.39.00.00.12";" - - - Asetofenon";"-";50
+"null";"2914.39.00.00.13";" - - - 4-İzobütilasetofenon";"-";50
+"null";"2914.39.00.00.14";" - - - Benzofenon";"-";50
+"null";"2914.39.00.00.19";" - - - Diğerleri";"-";50
+"null";"2914.40";" - Keton -alkoller ve keton -aldehitler";;
+"null";"2914.40.10.00.00";" - - 4-hidroksi-4-metil pentan-2-one (diaseton alkol)";"-";50
+"null";"2914.40.90.00.00";" - - Diğerleri";"-";50
+"null";"2914.50.00.00.00";" - Keton -fenoller ve başka oksijen fonksiyonlu grubu olan";;
+"null";;"   ketonlar";"-";50
+"null";;" - Kinonlar:";;
+"null";"2914.61.00.00.00";" - - Antrakinon";"-";50
+"null";"2914.62.00.00.00";" - - Koenzim Q10 (ubidecarenone (INN))";"-";50
+"null";"2914.69";" - - Diğerleri:";;
+"null";"2914.69.10.00.00";" - - - 1,4-Naftokinon";"-";50
+"null";" ";" - - - Diğerleri";" ";" "
+"null";"2914.69.80.00.11";" - - - - Kinon (p-benzokinon)";"-";50
+"null";"2914.69.80.00.13";" - - - - 2-Metilantrakinon";"-";50
+"null";"2914.69.80.00.14";" - - - - Menadion (2-metil-1,4-naftakinon)";"-";50
+"null";"2914.69.80.00.15";" - - - - Alfahidroksiantrakinon";"-";50
+"null";"2914.69.80.00.19";" - - - - Diğerleri";"-";50
+"null";;" - Halojenlenmiş, sülfolanmış, nitrolanmış veya nitrozolanmış ";;
+"null";;"   türevler :";;
+"null";"2914.71.00.00.00";" - - Klordekon (ISO)";"-";50
+"null";;" - - Diğerleri:";;
+"null";"2914.79.00.10.00";" - - - Kafuru bromür (bromkamfor)";"-";15
+"null";"2914.79.00.20.00";" - - - Kafuru sülfonik asit sodyum tuzu";"-";50
+"null";"2914.79.00.30.00";" - - -  Kloraseton (Chloroacetone)";"-";50
+"null";"2914.79.00.90.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";;"     VII. KARBOKSİLİK ASİTLER VE BUNLARIN ANHİDRİTLERİ, ";;
+"null";;"           HALOJENÜRLERİ, PEROKSİTLERi VE PEROKSİASİTLERİ; ";;
+"null";;"           BUNLARIN HALOJENLENMİŞ, SÜLFOLANMIŞ, NİTROLAN-";;
+"null";;"           MIŞ VEYA NİTROZOLANMIŞ TÜREVLERİ";;
+"null";;;;
+"null";"29.15";"Doymuş asiklik monokarboksilik asitler ve bunların anhidritleri,";;
+"null";;"halojenürleri, peroksitleri ve peroksiasitleri; bunların halojenlen -";;
+"null";;"miş , sülfolanmış, nitrolanmış veya nitrozolanmış türevleri:";;
+"null";;" - Formik asit, tuzları ve esterleri:";;
+"null";"2915.11.00.00.00";" - - Formik asit";"-";35
+"null";"2915.12";" - - Formik asitin tuzları";;
+"null";"2915.12.00.00.11";" - - - Amonyum formiat";"-";35
+"null";"2915.12.00.00.12";" - - - Sodyum formiat";"-";35
+"null";"2915.12.00.00.13";" - - - Kalsiyum formiat";"-";35
+"null";"2915.12.00.00.19";" - - - Diğerleri";"-";35
+"null";"2915.13";" - - Formik asitin esterleri :";;
+"null";"2915.13.00.10.00";" - - - Benzil, bornil,stronelil, jeranil, izobornil, linalil, mentil, feniletil,";;
+"null";;"        rodinil ve terpenil formiatlar";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2915.13.00.90.11";" - - - - Metil formiat";"-";35
+"null";"2915.13.00.90.12";" - - - - Etil formiat";"-";35
+"null";"2915.13.00.90.19";" - - - - Diğerleri";"-";35
+"null";;" - Asetik asit ve tuzları; asetik anhidrit:";;
+"null";"2915.21";" - - Asetik asit (sirke asidi)";;
+"null";"2915.21.00.00.11";" - - - Glasiyel asetikasit (buzlu asetikasit)";"-";50
+"null";"2915.21.00.00.12";" - - - Ticari asetik asit";"-";50
+"null";"2915.24.00.00.00";" - - Asetik anhidrit";"-";35
+"null";"2915.29";" - - Diğerleri";;
+"null";"2915.29.00.10.00";" - - - Sodyum asetat";"-";35
+"null";"2915.29.00.20.00";" - - - Kobalt asetat";"-";35
+"null";;" - - - Diğerleri";;
+"null";"2915.29.00.90.11";" - - - - Magnezyum asetat";"-";35
+"null";"2915.29.00.90.12";" - - - - Bakır, kurşun, demir asetatlar";"-";35
+"null";"2915.29.00.90.13";" - - - - Aluminyum asetat";"-";35
+"null";"2915.29.00.90.19";" - - - - Asetik asitin diğer tuzları";"-";35
+"null";;" - Asetik asit esterleri:";;
+"null";"2915.31.00.00.00";" - - Etil asetat";"-";35
+"null";"2915.32.00.00.00";" - - Vinil asetat";"-";35
+"null";"2915.33.00.00.00";" - - n -Bütil asetat";"-";35
+"null";"2915.36.00.00.00";" - - Dinoseb (ISO) asetat";"-";35
+"null";"2915.39";" - - Diğerleri:";;
+"null";"2915.39.00.10.00";" - - - Propil asetat ve izopropil asetat";"-";35
+"null";;" - - - Metil asetat, pentil asetat (amil asetat), izopentil asetat";;
+"null";;"        (izoamil asetat) ve gliserin asetatlar:";;
+"null";"2915.39.00.30.11";" - - - - Metil asetat";"-";35
+"null";"2915.39.00.30.12";" - - - - Pentil asetat";"-";35
+"null";"2915.39.00.30.13";" - - - - İzopentil asetat";"-";35
+"null";"2915.39.00.30.14";" - - - - Gliserin asetatlar";"-";35
+"null";;" - - -  p -Tolil asetat, fenilpropil asetatlar, benzil asetat, rodinil asetat,";;
+"null";;"         santalil asetat ve feniletan -1,2 -diolün asetatları :";;
+"null";;" - - - - Benzil asetat, rodinil asetat, santalil asetat ve fenil propil asetat:";;
+"null";"2915.39.00.51.11";" - - - - - Benzil asetat";"-";50
+"null";"2915.39.00.51.12";" - - - - - Rodinil asetat";"-";50
+"null";"2915.39.00.51.13";" - - - - - Santalil asetat";"-";50
+"null";"2915.39.00.51.14";" - - - - - Fenil propil asetat";"-";50
+"null";"2915.39.00.59.00";" - - - - Diğerleri";"-";35
+"null";;" - - - Diğerleri :";;
+"null";;" - - - - p-Krezil asetat, fenil glikol asetat, bornil, stronelil,jeranil,izobornil,";;
+"null";;"          linalil,nolil,oktil,terpenil asetatlar:";;
+"null";"2915.39.00.91.11";" - - - - - p-Krezil asetat";"-";50
+"null";"2915.39.00.91.12";" - - - - - Fenil glikol asetat";"-";50
+"null";"2915.39.00.91.13";" - - - - - Bornil asetat";"-";50
+"null";"2915.39.00.91.14";" - - - - - Stronelil asetat";"-";50
+"null";"2915.39.00.91.15";" - - - - - Jeranil asetat";"-";50
+"null";"2915.39.00.91.16";" - - - - - İzobornil asetat";"-";50
+"null";"2915.39.00.91.17";" - - - - - Linalil asetat";"-";50
+"null";"2915.39.00.91.18";" - - - - - Nolil asetat";"-";50
+"null";"2915.39.00.91.21";" - - - - - Oktil asetat";"-";50
+"null";"2915.39.00.91.22";" - - - - - Terpenil asetatlar";"-";50
+"null";"2915.39.00.92.00";" - - - - İzobütil asetat";"-";35
+"null";;" - - - - Diğerleri:";;
+"null";"2915.39.00.99.11";" - - - - - 2-Etoksietil asetat";"-";35
+"null";"2915.39.00.99.12";" - - - - - Siklohekzil asetat";"-";35
+"null";"2915.39.00.99.13";" - - - - - 2-Etil hekzil asetat";"-";35
+"null";"2915.39.00.99.14";" - - - - - Ethylidene di acetate";"-";35
+"null";"2915.39.00.99.19";" - - - - - Diğerleri";"-";35
+"null";"2915.40";" - Mono - di - veya trikloroasetik asitler, bunların tuzları, esterleri :";;
+"null";"2915.40.00.00.11";" - - Monoklor asetik asit (klorasetik asit)";"-";35
+"null";"2915.40.00.00.12";" - - Diklor asetik asit";"-";35
+"null";"2915.40.00.00.13";" - - Triklor asetik asit";"-";35
+"null";"2915.40.00.00.14";" - - Klor asetik asit sodyum tuzu";"-";35
+"null";"2915.40.00.00.19";" - - Diğer tuzları ve esterleri";"-";35
+"null";"2915.50";" - Propionik asit ve bunun tuzları ve esterleri :";;
+"null";"2915.50.00.00.11";" - - Propionik asit";"-";35
+"null";"2915.50.00.00.12";" - - Sodyum propionat";"-";35
+"null";"2915.50.00.00.13";" - - Kalsiyum propionat";"-";35
+"null";"2915.50.00.00.14";" - - Bütil propionat";"-";35
+"null";"2915.50.00.00.19";" - - Propionik asitin diğer tuzları ve esterleri";"-";35
+"null";"2915.60";" - Butanoik asitler, pentanoik asitler, bunların tuzları ve esterleri:";;
+"null";;" - - Butanoik asitler ve bunların tuzları ve esterleri :";;
+"null";"2915.60.11.00.00";" - - - 1 - İzopropil - 2,2 dimetiltrimetilen diizobütirat";"-";35
+"null";;" - - - Diğerleri";;
+"null";"2915.60.19.00.11";" - - - - Butirik asit";"-";35
+"null";"2915.60.19.00.12";" - - - - İzobutirik asit";"-";35
+"null";"2915.60.19.00.13";" - - - - Sodyum butirat";"-";35
+"null";"2915.60.19.00.14";" - - - - Etil butirat";"-";35
+"null";"2915.60.19.00.15";" - - - - Amil butirat";"-";35
+"null";"2915.60.19.00.16";" - - - - Benzil butirat";"-";35
+"null";"2915.60.19.00.19";" - - - - Butirik asitlerin diğer tuzları ve esterleri";"-";35
+"null";;" - -  Pentanoik asitler ve bunların tuzları ve esterleri :";;
+"null";"2915.60.90.10.00";" - - - Amil,benzil ,bornil, butil, stronelil, etil,jeranil, propil ve rodinil ";;
+"null";;"        valeryatlar";"-";50
+"null";"2915.60.90.20.00";" - - - Mantil  (mentol) valeryat";"-";50
+"null";;" - - - Diğerleri :";;
+"null";"2915.60.90.90.11";" - - - - Valerik asit";"-";35
+"null";"2915.60.90.90.12";" - - - - İzovalerik asit";"-";35
+"null";"2915.60.90.90.13";" - - - - Sodyum valerat";"-";35
+"null";"2915.60.90.90.19";" - - - - Diğerleri";"-";35
+"null";"2915.70";" - Palmitik asit, stearik asit ve bunların tuzları ve esterleri:";;
+"null";;" - - Palmitik asit ve bunların tuzları ve esterleri:";;
+"null";"2915.70.40.10.00";" - - - Palmitik asit";"-";35
+"null";;" - - - Palmitik asit tuzları ve esterleri";;
+"null";"2915.70.40.90.11";" - - - - Sodyum palmitat";"-";35
+"null";"2915.70.40.90.12";" - - - - Kalsiyum palmitat";"-";35
+"null";"2915.70.40.90.13";" - - - - Aluminyum palmitat";"-";35
+"null";"2915.70.40.90.14";" - - - - İzopropil palmitat";"-";35
+"null";"2915.70.40.90.19";" - - - - Palmitik asitin diğer tuzları ve esterleri";"-";35
+"null";;" - - Stearik asit ve bunların tuzları ve esterleri :";;
+"null";;" - - - Stearik asit esterleri :";;
+"null";"2915.70.50.10.11";" - - - - Etil stearat";"-";35
+"null";"2915.70.50.10.12";" - - - - İzopropil stearat";"-";35
+"null";"2915.70.50.10.13";" - - - - Bütil stearat";"-";35
+"null";"2915.70.50.10.14";" - - - - Glikol stearat";"-";35
+"null";"2915.70.50.10.15";" - - - - Stearik asitin diğer esterleri";"-";35
+"null";"2915.70.50.20.00";" - - - Stearik asit";"-";35
+"null";;" - - - Stearik asit tuzları :";;
+"null";"2915.70.50.30.11";" - - - - Potasyum stearat";"-";35
+"null";"2915.70.50.30.12";" - - - - Sodyum stearat";"-";35
+"null";"2915.70.50.30.13";" - - - - Magnezyum stearat";"-";35
+"null";"2915.70.50.30.14";" - - - - Kalsiyum stearat";"-";35
+"null";"2915.70.50.30.15";" - - - - Çinko stearat";"-";35
+"null";"2915.70.50.30.16";" - - - - Aluminyum stearat";"-";35
+"null";"2915.70.50.30.17";" - - - - Kurşun stearat";"-";35
+"null";"2915.70.50.30.18";" - - - - Stearik asitin diğer tuzları";"-";35
+"null";"2915.90";" - Diğerleri:";;
+"null";"2915.90.30.00.00";" - - Laurik asit ve bunların tuzları ve esterleri";"-";35
+"null";;" - - Diğerleri :";;
+"null";"2915.90.70.00.31";" - - - Asetil klorür";"-";35
+"null";"2915.90.70.00.32";" - - - Triflor asetik asit";"-";35
+"null";"2915.90.70.00.33";" - - - Florasetil klorür";"-";35
+"null";"2915.90.70.00.34";" - - - Kaproik asit (hekzanoik asit)";"-";35
+"null";"2915.90.70.00.35";" - - - Kaprilik asit (oktanoik asit)";"-";35
+"null";"2915.90.70.00.36";" - - - Kaprik asit (dekanoik asit)";"-";35
+"null";"2915.90.70.00.37";" - - - Miristik asit (tetra dekanik asit)";"-";35
+"null";"2915.90.70.00.38";" - - - Araşidik asit (aykosanoik asit)";"-";35
+"null";"2915.90.70.00.41";" - - - Metilbromasetat";"-";35
+"null";"2915.90.70.00.42";" - - - Etilbromasetat";"-";35
+"null";"2915.90.70.00.43";" - - - Propilbromasetat";"-";35
+"null";"2915.90.70.00.44";" - - - Butilbromasetat";"-";35
+"null";"2915.90.70.00.45";" - - - Bromo asetik asit";"-";35
+"null";"2915.90.70.00.49";" - - - Diğerleri";"-";35
+"null";;;;
+"null";"29.16";"Doymamış asiklik monokarboksilik asitler, siklik monokarboksiklik ";;
+"null";;"asitler, bunların anhidritleri, halojenürleri, peroksitleri ve perok-";;
+"null";;"si asitleri; bunların halojenlenmiş, sülfolanmış, nitrolanmış veya";;
+"null";;"nitrozolanmış türevleri:";;
+"null";;" - Doymamış asiklik monokarboksilik asitler, bunların anhidritleri, ";;
+"null";;"   halojenürleri, peroksitleri, peroksiasitleri ve bunların türevleri:";;
+"null";"2916.11";" - - Akrilik asit ve tuzları:";;
+"null";"2916.11.00.10.00";" - - - Akrilik asit";"-";35
+"null";"2916.11.00.20.00";" - - - Akrilik asitin tuzları";"-";35
+"null";"2916.12";" - - Akrilik asitin esterleri :";;
+"null";"2916.12.00.00.11";" - - - Metil akrilat";"-";35
+"null";"2916.12.00.00.12";" - - - Etil akrilat";"-";35
+"null";"2916.12.00.00.13";" - - - Butil akrilat";"-";35
+"null";"2916.12.00.00.19";" - - - Akrilik asitin diğer esterleri";"-";35
+"null";"2916.13";" - - Metakrilik asit ve tuzları :";;
+"null";"2916.13.00.00.11";" - - - Metakrilik asit";"-";35
+"null";"2916.13.00.00.12";" - - - Metakrilik asit  tuzları";"-";35
+"null";"2916.14";" - - Metakrilik asit esterleri :";;
+"null";"2916.14.00.00.11";" - - - Metil metakrilat";"-";35
+"null";"2916.14.00.00.12";" - - - Etil metakrilat";"-";35
+"null";"2916.14.00.00.13";" - - - Butil metakrilat";"-";35
+"null";"2916.14.00.00.19";" - - - Metakrilik asitin diğer esterleri ";"-";35
+"null";"2916.15";" - - Oleik, Iinoleik ve linolenik asitler, bunların tuzları ve esterleri :";;
+"null";"2916.15.00.10.00";" - - - Oleik asit";"-";30
+"null";;" - - - Diğerleri :";;
+"null";"2916.15.00.90.11";" - - - - Linoleik asit";"-";35
+"null";"2916.15.00.90.12";" - - - - Linolenik asit";"-";35
+"null";"2916.15.00.90.13";" - - - - Sodyum oleat";"-";35
+"null";"2916.15.00.90.14";" - - - - Sodyum linolenat";"-";35
+"null";"2916.15.00.90.15";" - - - - Potasyum oleat";"-";35
+"null";"2916.15.00.90.16";" - - - - Potasyum linolenat";"-";35
+"null";"2916.15.00.90.19";" - - - - Oleik, linoleik ve linolenik asitin diğer tuz ve esterleri";"-";35
+"null";"2916.16.00.00.00";" - - Binapakril (ISO)";"-";"35"
+"null";"2916.19";" - - Diğerleri:";;
+"null";;" - - - Undekanoik asitler ve bunların tuzları ve esterleri";;
+"null";"2916.19.10.00.11";" - - - - Undekanoik asitler";"-";35
+"null";"2916.19.10.00.13";" - - - - Çinko undekonoat";"-";35
+"null";"2916.19.10.00.19";" - - - - Undekanoik asitlerin diğer  tuzları ve esterleri";"-";35
+"null";"2916.19.40.00.00";" - - - Krotonik asit";"-";35
+"null";;" - - - Diğerleri :";;
+"null";"2916.19.95.10.00";" - - - - Sorbik asit (2,4 -hekzadienoik asit)";"-";35
+"null";"2916.19.95.90.00";" - - - - Diğerleri";"-";35
+"null";"2916.20";" - Siklanik, siklenik veya sikloterpenik monokarboksilik asitler,";;
+"null";;"   bunların anhidritleri, halojenürleri, peroksitleri, peroksiasitleri ";;
+"null";;"   ve bunların türevleri :";;
+"null";"2916.20.00.00.11";" - - Siklohekzan karboksilik asit";"-";35
+"null";"2916.20.00.00.12";" - - Siklopentenil asetik asit";"-";35
+"null";"2916.20.00.00.13";" - - Permetrin";"-";35
+"null";"2916.20.00.00.18";" - - Diğerleri";"-";35
+"null";;" - Aromatik monokarboksilik asitler, bunların anhidritleri, haloje-";;
+"null";;"   nürleri, peroksitleri, peroksiasitleri ve bunların türevleri:";;
+"null";"2916.31";" - - Benzoik asit, tuzları ve esterleri :";;
+"null";"2916.31.00.10.00";" - - - Metil, etil, propil,butil,amil benzoatlar";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2916.31.00.90.11";" - - - - Benzoik asit";"-";35
+"null";"2916.31.00.90.12";" - - - - Sodyum benzoat";"-";35
+"null";"2916.31.00.90.13";" - - - - Benzil benzoat";"-";35
+"null";"2916.31.00.90.19";" - - - - Benzoik asitin diğer tuz ve esterleri";"-";35
+"null";"2916.32";" - - Benzoil peroksit ve benzoil klorür:";;
+"null";"2916.32.00.10.00";" - - - Benzoil peroksit (dibenzoil peroksit)";"-";35
+"null";"2916.32.00.20.00";" - - - Benzoil klorür";"-";35
+"null";"2916.34.00.00.00";" - - Fenilasetik asit ve tuzları ";"-";35
+"null";"2916.39";" - - Diğerleri :";;
+"null";"2916.39.10.00.00";" - - - Fenilasetik asitin esterleri";"-";35
+"null";;" - - - Diğerleri:";;
+"null";"2916.39.90.10.00";" - - - - Tarçın asitinin metil, etil, propil, butil, fenil etil esterleri";"-";50
+"null";;" - - - - Diğerleri :";;
+"null";"2916.39.90.90.11";" - - - - - Tarçın asiti (sinamik asit)";"-";35
+"null";"2916.39.90.90.12";" - - - - - Tarçın asitinin sodyum tuzu";"-";35
+"null";"2916.39.90.90.13";" - - - - - Tarçın asitinin potasyum tuzu";"-";35
+"null";"2916.39.90.90.14";" - - - - - Nitro benzoik asitler ve klorürleri";"-";35
+"null";"2916.39.90.90.15";" - - - - - Klor benzoik asitler ve klorürleri";"-";35
+"null";"2916.39.90.90.16";" - - - - - Fenilasetil Klorür (Phenylacetyl chloride)";"-";35
+"null";"2916.39.90.90.19";" - - - - - Diğerleri";"-";35
+"null";;;;
+"null";"29.17";"Polikarboksilik asitler, bunların anhidritleri, halojenürleri, perok- ";;
+"null";;"sitleri ve peroksiasitleri; bunların halojenlenmiş, sülfolanmış,";;
+"null";;"nitrolanmış veya nitrozolanmış türevleri:";;
+"null";;" - Asiklik polikarboksilik asitler, bunların anhidritleri, halojenürle-";;
+"null";;"   ri, peroksitleri, peroksiasitleri ve bunların türevleri:";;
+"null";"2917.11";" - - Okzalik asit, tuzları ve esterleri";;
+"null";"2917.11.00.10.00";" - - - Okzalik asit";"-";30
+"null";;" - - - Okzalik asitin tuzları ve esterleri :";;
+"null";"2917.11.00.90.11";" - - - - Amonyum okzalat";"-";30
+"null";"2917.11.00.90.12";" - - - - Potasyum okzalat";"-";30
+"null";"2917.11.00.90.13";" - - - - Sodyum okzalat";"-";30
+"null";"2917.11.00.90.19";" - - - - Okzalik asitin diğer tuzları";"-";30
+"null";"2917.11.00.90.21";" - - - - Dimetil okzalat";"-";30
+"null";"2917.11.00.90.22";" - - - - Dietil okzalat";"-";30
+"null";"2917.11.00.90.29";" - - - - Okzalik asitin diğer esterleri";"-";30
+"null";"2917.12";" - - Adipik asit, tuzları ve esterleri:";;
+"null";;" - - - Adipik asit ve tuzları";;
+"null";"2917.12.00.00.11";" - - - - Adipik asit ";"-";30
+"null";"2917.12.00.00.12";" - - - - Adipik asitin tuzları";"-";30
+"null";"2917.12.00.00.21";" - - - Adipik asitin esterleri";"-";30
+"null";"2917.13";" - - Azelaik asit, sebasik asit, bunların tuzları ve esterleri:";;
+"null";"2917.13.10.00.00";" - - - Sebasik asit";"-";30
+"null";" ";" - - - Diğerleri :";" ";
+"null";"2917.13.90.00.11";" - - - - Azelaik asit";"-";30
+"null";"2917.13.90.00.13";" - - - - Azelaik asit tuzları ve esterleri";"-";30
+"null";"2917.13.90.00.15";" - - - - Sebasik asit tuzları ve esterleri";"-";30
+"null";"2917.14.00.00.00";" - - Maleik anhidrit";"-";30
+"null";"2917.19";" - - Diğerleri:";;
+"null";;" - - - Malonik asit tuzları ve esterleri :";;
+"null";"2917.19.10.00.11";" - - - - Malonik asit";"-";30
+"null";"2917.19.10.00.12";" - - - - Malonik asit tuzları";"-";30
+"null";"2917.19.10.00.13";" - - - - Dietil malonat";"-";30
+"null";"2917.19.10.00.19";" - - - - Malonik asitin diğer esterleri";"-";30
+"null";"2917.19.20.00.00";" - - - Kütlece %100 biyo temelli karbon içeriğine sahip Etan - 1,2 - dikarboksilik ";;
+"null";;"      asit veya bütandioik asit (süksinik asit)";"-";30
+"null";;" - - - Diğerleri :";;
+"null";"2917.19.80.00.11";" - - - - Maleik asit";"-";30
+"null";"2917.19.80.00.12";" - - - - Süksinik asit";"-";30
+"null";"2917.19.80.00.13";" - - - - Glutarik asit ";"-";30
+"null";"2917.19.80.00.19";" - - - - Diğerleri";"-";30
+"null";"2917.20.00.00.00";" - Siklanik, siklenik veya sikloterpenik polikarboksilik asitler,";;
+"null";;"   bunların anhidritleri, halojenürleri, peroksitleri, peroksiasitleri ";;
+"null";;"   ve bunların türevleri";"-";30
+"null";;" - Aromatik polikarboksilik asitler, anhidritleri, halojenürleri,";;
+"null";;"   peroksitleri, peroksiasitleri ve bunların türevleri:";;
+"null";"2917.32.00.00.00";" - - Dioktil ortoftalatlar (dioktil ftalat)";"-";30
+"null";"2917.33.00.00.00";" - - Dinonil ve didesil ortoftalatlar (dinonil ve didesil ftalatlar)";"-";30
+"null";"2917.34";" - - Ortoftalik (ftalik) asitin diğer esterleri :";;
+"null";"2917.34.00.00.11";" - - - Dimetil ftalat";"-";30
+"null";"2917.34.00.00.12";" - - - Dietil ftalat";"-";30
+"null";"2917.34.00.00.19";" - - - Diğerleri";"-";30
+"null";"2917.35.00.00.00";" - - Ftalik anhidrit";"-";30
+"null";"2917.36";" - - Tereftalik asit ve tuzları :";;
+"null";"2917.36.00.00.11";" - - - Tereftalik asit ";"-";30
+"null";"2917.36.00.00.12";" - - - Tereftalik asitin sodyum tuzu";"-";30
+"null";"2917.36.00.00.19";" - - - Tereftalik asitin diğer tuzları ";"-";30
+"null";"2917.37.00.00.00";" - - Dimetil tereftalat";"-";30
+"null";"2917.39";" - - Diğerleri:";;
+"null";"2917.39.20.00.00";" - - - Tetrabromoftalik asidin ester veya anhidriti; benzen-1,2,4-trikarboksilik ";" ";
+"null";;"        asit; izoftaloil diklorür (ağırlık itibariyle % 0,8 veya daha az tereftaloil ";;
+"null";;"         diklorür içeren) ; naftalen-1,4,5,8 tetrakarboksilik asit; ";;
+"null";;"         tetra kloroftalik anhidrit;  sodyum 3,5- bis ( metoksikarbonil) benzensülfonat";"-";"30"
+"null";;" - - - Diğerleri:";;
+"null";"2917.39.95.10.00";" - - - - o-Ftalik asit (Ftalik asit)";"-";"30"
+"null";;" - - - - Diğerleri";;
+"null";"2917.39.95.90.11";" - - - - - İzoftalik asit tuzları ve esterleri";"-";30
+"null";"2917.39.95.90.13";" - - - - - Dioktil tereftalat";"-";30
+"null";"2917.39.95.90.14";" - - - - - Tereftalik asitin diğer esterleri";"-";30
+"null";"2917.39.95.90.19";" - - - - - Diğerleri";"-";30
+"null";;;;
+"null";"29.18";"Başka oksijen fonksiyonlu grubu olan karboksilik asitler ve bun-";;
+"null";;"ların anhidritleri, halojenürleri, peroksitleri ve peroksiasitleri; ";;
+"null";;"bunların halojenlenmiş, sülfolanmış, nitrolanmış veva nitrozo-";;
+"null";;"lanmış türevleri:";;
+"null";;" - Alkol fonksiyonlu grubu olan fakat başka oksijen fonksiyonlu";;
+"null";;"  grubu olmayan karboksilik asitler, bunların anhidritleri, halojenürleri";;
+"null";;"   peroksitleri ve peroksiasitleri ve bunların türevleri:";;
+"null";"2918.11";" - - Laktik asit, tuzları ve esterleri :";;
+"null";"2918.11.00.00.11";" - - - Laktik asit";"-";15
+"null";"2918.11.00.00.12";" - - - Kalsiyum laktat";"-";15
+"null";"2918.11.00.00.13";" - - - Sodyum laktat";"-";15
+"null";"2918.11.00.00.19";" - - - Laktik asitin diğer tuzları";"-";15
+"null";"2918.11.00.00.21";" - - - Etil laktat";"-";15
+"null";"2918.11.00.00.22";" - - - Butil laktat";"-";15
+"null";"2918.11.00.00.29";" - - - Laktik asitin diğer esterleri";"-";15
+"null";"2918.12.00.00.00";" - - Tartarik asit";"-";30
+"null";"2918.13";" - - Tartarik asitin tuzları ve esterleri :";;
+"null";;" - - - Potasyum tartarat, potasyum bitartarat ( krem tartarat)";;
+"null";"2918.13.00.10.11";" - - - - Potasyum tartarat (saf)";"-";40
+"null";"2918.13.00.10.12";" - - - - Potasyum bitartarat ( krem tartarat) (saf)";"-";40
+"null";;" - - - Diğerleri";;
+"null";"2918.13.00.90.11";" - - - - Sodyum tartarat";"-";15
+"null";"2918.13.00.90.12";" - - - - Demir II tartarat";"-";15
+"null";"2918.13.00.90.13";" - - - - Kalsiyum tartarat";"-";15
+"null";"2918.13.00.90.19";" - - - - Tartarik asitin diğer tuzları";"-";15
+"null";"2918.13.00.90.21";" - - - - Etil tartarat";"-";15
+"null";"2918.13.00.90.29";" - - - - Tartarik asitin diğer esterleri";"-";15
+"null";"2918.14.00.00.00";" - - Sitrik asit";"-";30
+"null";"2918.15";" - - Sitrik asitin tuzları ve esterleri :";;
+"null";;" - - - Magnezyum sitrat, demir sitrat";;
+"null";"2918.15.00.10.11";" - - - - Magnezyum sitrat";"-";25
+"null";"2918.15.00.10.12";" - - - - Demir sitrat";"-";25
+"null";;" - - - Diğerleri";;
+"null";"2918.15.00.90.11";" - - - - Sodyum sitrat";"-";15
+"null";"2918.15.00.90.12";" - - - - Potasyum sitrat";"-";15
+"null";"2918.15.00.90.19";" - - - - Sitrik asitin diğer tuzları";"-";15
+"null";"2918.15.00.90.21";" - - - - Trietil sitrat";"-";15
+"null";"2918.15.00.90.22";" - - - - Tributil sitrat";"-";15
+"null";"2918.15.00.90.29";" - - - - Sitrik asitin diğer esterleri";"-";15
+"null";"2918.16";" - - Glukonik asit, tuzları ve esterleri :";;
+"null";"2918.16.00.00.11";" - - - Glukonik asit";"-";15
+"null";"2918.16.00.00.12";" - - - Kalsiyum glukonat";"-";15
+"null";"2918.16.00.00.13";" - - - Sodyum glukonat";"-";15
+"null";"2918.16.00.00.14";" - - - Potasyum glukonat";"-";15
+"null";"2918.16.00.00.19";" - - - Glukonik asitin diğer tuzları";"-";15
+"null";"2918.16.00.00.21";" - - - Glukonik asit esterleri";"-";15
+"null";"2918.17.00.00.00";" - - 2,2-Difenil-2-hidroksiasetik asit (benzilik asit)";"-";15
+"null";"2918.18.00.00.00";" - - Klorobenzilat (ISO)";"-";15
+"null";"2918.19";" - - Diğerleri:";;
+"null";"2918.19.30.00.00";" - - - Kolik asit, 3-alfa, 12-alfa-dihodroksi-5-beta-kolan-24-oik asit  ";;
+"null";;"        (deoksikolik asit) ve bunların tuzları ve esterleri";"-";15
+"null";"2918.19.40.00.00";" - - - 2,2 - Bis (hidroksimetil) propiyonik asit";"-";15
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Fenil glikolik asit (mandelik asit), tuzları ve esterleri:";;
+"null";"2918.19.98.10.11";" - - - - -  Sodyum fenil glikolat";"-";15
+"null";"2918.19.98.10.12";" - - - - - Kalsiyum fenil glikolat";"-";15
+"null";"2918.19.98.10.13";" - - - - - Fenil glikolik asitin diğer tuzları";"-";15
+"null";"2918.19.98.10.14";" - - - - - Fenil glikolik asitin esterleri";"-";15
+"null";"2918.19.98.20.00";" - - - - Malik asit, tuzları ve esterleri";"-";15
+"null";"2918.19.98.30.00";" - - - - GHB (γ-hidroksibütirik asit)";"-";15
+"null";"2918.19.98.40.00";" - - - - Sodyum oksibat (Sodyum 4-hidroksibütanoat)";"-";15
+"null";"2918.19.98.90.00";" - - - - Diğerleri";"-";15
+"null";;" - Fenol fonksiyonlu grubu olan fakat başka oksijen fonksiyonlu ";;
+"null";;"   grubu olmayan karboksilik asitler ve bunların anhidritleri, halo-";;
+"null";;"   jenürleri, peroksitleri, peroksiasitleri ve bunların türevleri:";;
+"null";"2918.21";" - - Salisilik asit ve tuzları :";;
+"null";"2918.21.00.00.11";" - - - Salisilik asit";"-";15
+"null";"2918.21.00.00.12";" - - - Sodyum salisilat";"-";15
+"null";"2918.21.00.00.19";" - - - Salisilik asitin diğer tuzları";"-";15
+"null";"2918.22";" - - o - Asetilsalisilik asit, tuzları ve esterleri :";;
+"null";"2918.22.00.10.00";" - - - o - Asetilsalisilik asit ";"-";15
+"null";;" - - - Diğerleri :";;
+"null";"2918.22.00.90.11";" - - - - Asetilsalisilik asit sodyum tuzu";"-";15
+"null";"2918.22.00.90.19";" - - - - Asetilsalisilik asitin diğer tuzları";"-";15
+"null";"2918.22.00.90.21";" - - - - Asetilsalisilik asit esterleri";"-";15
+"null";"2918.23";" - - Salisilik asitin diğer esterleri ve bunların tuzları:";;" "
+"null";"2918.23.00.10.00";" - - - Etil, propil, butil, amil, benzil, stronelil, geranil ve rodinil salisilatlar";"-";50
+"null";;" - - - Diğerleri :";" ";" "
+"null";"2918.23.00.90.11";" - - - - Metil salisilat ";"-";15
+"null";"2918.23.00.90.12";" - - - - Fenil salisilat (salol)";"-";15
+"null";"2918.23.00.90.19";" - - - - Diğerleri";"-";15
+"null";"2918.29";" - - Diğerleri:";;
+"null";;" - - - SüIfosalisilik asitler, hidroksinaftoik asitler; bunların tuzları";;
+"null";;"        ve esterleri :";;
+"null";"2918.29.00.10.11";" - - - - Sülfosalisilik asitler, tuzları ve esterleri";"-";15
+"null";"2918.29.00.10.12";" - - - - Hidroksinaftonik asitler, tuzları ve esterleri";"-";15
+"null";;" - - - p -Hidroksibenzoik asit (4 -hidroksibenzoik asit) tuzları ve esterleri :";;
+"null";"2918.29.00.30.11";" - - - - p -Hidroksibenzoik asit (4 -hidroksibenzoik asit)";"-";15
+"null";"2918.29.00.30.12";" - - - - Sodyum p-hidroksi benzoat";"-";15
+"null";"2918.29.00.30.19";" - - - - p -Hidroksibenzoik asitin diğer tuzları";"-";15
+"null";"2918.29.00.30.21";" - - - - Metil p-hidroksi benzoat";"-";15
+"null";"2918.29.00.30.22";" - - - - Etil p-hidroksi benzoat";"-";15
+"null";"2918.29.00.30.23";" - - - - Propil p-hidroksi benzoat";"-";15
+"null";"2918.29.00.30.29";" - - - - p -Hidroksibenzoik asitin diğer esterleri";"-";15
+"null";;" - - - Diğerleri :";;
+"null";;" - - - - Gallik asit (3,4,5 - trihidroksibenzoik asit), tuzları ve esterleri :";;
+"null";"2918.29.00.81.11";" - - - - - Gallik asit";"-";15
+"null";"2918.29.00.81.12";" - - - - - Sodyum gallait";"-";15
+"null";"2918.29.00.81.13";" - - - - - Bazik bizmut gallat";"-";15
+"null";"2918.29.00.81.19";" - - - - - Gallik asitin diğer tuzları";"-";15
+"null";"2918.29.00.81.21";" - - - - - Metil gallat";"-";15
+"null";"2918.29.00.81.22";" - - - - - Propil gallat";"-";15
+"null";"2918.29.00.81.29";" - - - - - Gallik asitin diğer esterleri";"-";15
+"null";;" - - - - Diğerleri :";;
+"null";"2918.29.00.89.11";" - - - - - Krezotik asitler, tuzları ve esterleri";"-";15
+"null";"2918.29.00.89.19";" - - - - - Diğerleri";"-";15
+"null";;;;
+"null";"2918.30";" - Aldehit veya keton fonksiyonlu grubu olan fakat başka oksijen ";;
+"null";;"   fonksiyonlu grubu olmayan karboksilik asitler, bunların anhidrit-";;
+"null";;"   leri,halojenürleri,peroksitleri, peroksiasitleri ve bunların ";;
+"null";;"   türevleri";;
+"null";"2918.30.00.00.11";" - - Aldehit gruplu karboksilik asitler";"-";15
+"null";"2918.30.00.00.12";" - - Aldehit gruplu karboksilik asit tuzları";"-";15
+"null";"2918.30.00.00.13";" - - Aldehit gruplu karboksilik asit esterleri";"-";15
+"null";"2918.30.00.00.14";" - - Keton gruplu karboksilik asitler";"-";15
+"null";"2918.30.00.00.15";" - - Keton gruplu karboksilik asit tuzları";"-";15
+"null";"2918.30.00.00.16";" - - Etil aseto asetat";"-";15
+"null";"2918.30.00.00.17";" - - Metil alfa-fenilasetoasetat (MAPA)";"-";15
+"null";"2918.30.00.00.19";" - - Keton gruplu karboksilik asitlerin diğer esterleri";"-";15
+"null";"2918.30.00.00.29";" - - Diğerleri";"-";15
+"null";;" - Diğerleri :";;
+"null";"2918.91.00.00.00";" - - 2,4,5-T (ISO)(2,4,5- trikloropenoksiasetik asit), bunun tuzları ve";;
+"null";;"      esterleri";"-";15
+"null";"2918.99";" - - Diğerleri:";;" "
+"null";"2918.99.40.00.00";" - - - 2,6-Dimetoksibenzoik asit; dicamba (ISO); sodyum fenoksiasetat";"-";15
+"null";" ";" - - - Diğerleri :";;
+"null";"2918.99.90.00.11";" - - - - Anezik asit";"-";15
+"null";"2918.99.90.00.12";" - - - - Kalsiyum laktobiyonat";"-";15
+"null";"2918.99.90.00.13";" - - - - Kalsiyum galaktaglukonat";"-";15
+"null";"2918.99.90.00.14";" - - - - Misoprostol";"-";15
+"null";"2918.99.90.00.19";" - - - - Diğerleri";"-";15
+"null";;;;
+"null";" ";;;
+"null";;"VIII. AMETALLERİN İNORGANİK ASİTLERİNİN ESTERLERİ VE ";;
+"null";;"     TUZLARI VE BUNLARIN HALOJENLENMİŞ, SÜLFOLANMIŞ, ";;
+"null";;"     NİTROLANMIŞ VEYA NİTROZOLANMIŞ TÜREVLERİ";;
+"null";;;;
+"null";"29.19";"Fosforik esterler ve bunların tuzları (lakto fosfatlar dahil);";;
+"null";;"bunların halojenlenmiş, sülfolanmış, nitrolanmış veya ";;
+"null";;"nitrozolanmış türevleri :";;
+"null";"2919.10.00.00.00";" - Tris (2,3 dibromopropil) fosfat";"-";25
+"null";"2919.90";" - Diğerleri:";;
+"null";;" - - Tritolil fosfatlar, trifenil fosfat ve tribütil fosfatlar :";;
+"null";"2919.90.00.10.11";" - - - Tribütil fosfatlar";"-";25
+"null";"2919.90.00.10.12";" - - - Trifenil fosfatlar";"-";25
+"null";"2919.90.00.10.13";" - - - Tritolil fosfatlar";"-";25
+"null";"2919.90.00.20.00";" - - Triksilil fosfatlar ve tris (2-klor etil) fosfat";"-";25
+"null";;" - - Diğerleri :";;
+"null";"2919.90.00.90.11";" - - - Gliserin fosforik asitler";"-";25
+"null";"2919.90.00.90.12";" - - - Sodyum gliserin fosfat";"-";25
+"null";"2919.90.00.90.13";" - - - Kalsiyum gliserin fosfat";"-";25
+"null";"2919.90.00.90.14";" - - - Gayakol fosfat (o-metoksifenil fosfat)";"-";25
+"null";"2919.90.00.90.15";" - - - İnozitolhekzafosforik asit ( fitik asit)";"-";25
+"null";"2919.90.00.90.16";" - - - Sodyum inozitolhekzofosfat";"-";25
+"null";"2919.90.00.90.17";" - - - Kalsiyum inozitolhekzofosfat ";"-";25
+"null";"2919.90.00.90.18";" - - - Kalsiyum laktofosfat";"-";25
+"null";"2919.90.00.90.21";" - - - Triclorfos (Triklorür mono sodyum fosfat)";"-";25
+"null";"2919.90.00.90.29";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"29.20";"Ametallerin diğer inorganik asitlerinin esterleri (hidrojen";;
+"null";;"halojenürlerin esterleri hariç) ve bunların tuzları;";;
+"null";;" bunların halojenlenmiş, sülfolanmış, nitrolanmış veya";;
+"null";;" nitrozolanmış türevleri:";;
+"null";;" - Tiyofosforik esterler (fosfortiyoatlar) ve bunların tuzları; bunların";;
+"null";;"   halojenlenmiş, sülfolanmış, nitrolanmış veya nitrozolanmış ";;
+"null";;"   türevleri";;
+"null";"2920.11.00.00.00";" - - Paratiyon(ISO) ve paratiyon- metil (ISO) (metil-paratiyon)";"-";15
+"null";"2920.19";" - - Diğerleri:";;
+"null";"2920.19.00.00.11";" - - - Tiyofosforik asit esterleri";"-";15
+"null";"2920.19.00.00.12";" - - - Tiyofosforik asit esterlerinin tuzları";"-";15
+"null";"2920.19.00.00.19";" - - - Diğerleri";"-";15
+"null";;" - Fosfit esterleri ve bunların tuzları; bunların halojenlenmiş, sülfolanmış, ";;
+"null";;"   nitrolanmış ve nitrozolanmış türevleri:";;
+"null";"2920.21.00.00.00";" - - Dimetil fosfit";"-";15
+"null";"2920.22.00.00.00";" - - Dietil fosfit";"-";15
+"null";"2920.23.00.00.00";" - - Trimetil fosfit";"-";15
+"null";"2920.24.00.00.00";" - - Trietil fosfit";"-";15
+"null";"2920.29.00.00.00";" - - Diğerleri";"-";15
+"null";"2920.30.00.00.00";" - Endosülfan (ISO)";"-";15
+"null";"2920.90";" - Diğerleri:";;
+"null";;" - - Sülfirik esterler, karbonik esterler ve bunların tuzları ve bunların";;
+"null";;"      halojenlenmiş, sülfolanmış, nitrolanmış veya nitrozolanmış türevleri:";;
+"null";;" - - - Sülfirik esterler ve bunların tuzları ve bunların halojenlenmiş, ";;
+"null";;"        sülfolanmış, nitrolanmış veya nitrozolanmış türevleri :";;
+"null";"2920.90.10.11.11";" - - - - Metilhidrojen sülfat";"-";15
+"null";"2920.90.10.11.12";" - - - - Dimetil sülfat";"-";15
+"null";"2920.90.10.11.13";" - - - - Dietil sülfat";"-";15
+"null";"2920.90.10.11.19";" - - - - Diğerleri";"-";15
+"null";;" - - - Karbonik esterler ve tuzları ve bunların halojenlenmiş, sülfolanmış,";;
+"null";;"        nitrolanmış veya nitrozolanmış türevleri:";;
+"null";"2920.90.10.12.00";" - - - - Gayakol karbonat";"-";20
+"null";;" - - - - Diğerleri :";;
+"null";"2920.90.10.19.11";" - - - - - Dietil karbonat";"-";20
+"null";"2920.90.10.19.12";" - - - - - Tetraetil ortokarbonat";"-";20
+"null";"2920.90.10.19.19";" - - - - - Diğerleri";"-";20
+"null";;" - - Diğer ürünler :";;
+"null";;" - - - Nitro ve nitrik esterler ve bunların tuzları ve bunların halojenlenmiş, ";;" "
+"null";;"        sülfolanmış, nitrolanmış veya nitrozolanmış türevleri :";;
+"null";;" - - - - Amil nitrit, amil nitrat ve trinitrin (çözelti)";;
+"null";"2920.90.70.11.11";" - - - - - Amil nitrit";"-";15
+"null";"2920.90.70.11.12";" - - - - - Amil nitrat ";"-";15
+"null";"2920.90.70.11.13";" - - - - - Trinitrin (çözelti)";"-";15
+"null";;" - - - - Diğerleri";;
+"null";"2920.90.70.19.11";" - - - - - Nitronun diğer esterleri";"-";15
+"null";"2920.90.70.19.12";" - - - - - Dietilen glikol dinitrat";"-";15
+"null";"2920.90.70.19.13";" - - - - - İsosorbit dinitrat";"-";15
+"null";"2920.90.70.19.14";" - - - - - Nitrogliserin ( gliserin trinitrat)";"-";15
+"null";"2920.90.70.19.15";" - - - - - Tetranitropenta eritritol ( pentrit)";"-";15
+"null";"2920.90.70.19.19";" - - - - - Nitrikin diğer esterleri";"-";15
+"null";"2920.90.70.90.00";" - - - Diğerleri";"-";15
+"null";;;;
+"null";;"                            IX. AZOTLU BİLEŞİKLER";;
+"null";;;;
+"null";"29.21";"Amin gruplu bileşikler:";;
+"null";;" - Asiklik monoaminler ve türevleri; bunların tuzları:";;
+"null";"2921.11";" - - Metilamin, dimetilamin, trimetilamin ve bunların tuzları:";;
+"null";;" - - - Metilamin,dimetilamin ve trimetilamin :";;
+"null";"2921.11.00.00.11";" - - - - Metilamin";"kg met.am";15
+"null";"2921.11.00.00.12";" - - - - Dimetilamin";"kg met.am";15
+"null";"2921.11.00.00.13";" - - - - Trimetilamin";"kg met.am";15
+"null";;" - - - Metilamin,dimetilamin ve trimetilaminin tuzları :";;
+"null";"2921.11.00.00.21";" - - - - Metilamin hidroklorür";"kg met.am";15
+"null";"2921.11.00.00.22";" - - - - Dimetilamin hidroklorür";"kg met.am";15
+"null";"2921.11.00.00.23";" - - - - Trimetilamin hidroklorür";"kg met.am";15
+"null";"2921.11.00.00.24";" - - - - Metilamin,dimetilamin ve trimetilaminin diğer tuzları";"kg met.am";15
+"null";"2921.12.00.00.00";" - - 2-(N,N-Dimetilamino) etil klorür hidroklorür";"-";15
+"null";"2921.13.00.00.00";" - - 2-(N,N-Dietilamino) etil klorür hidroklorür";"-";15
+"null";"2921.14.00.00.00";" - - 2-(N,N-Diizopropilamino) etil klorür hidroklorür";"-";15
+"null";"2921.19";" - - Diğerleri:";;
+"null";"2921.19.40.00.00";" - - - 1,1,3,3 - Tetrametilbütilamin";"-";15
+"null";"2921.19.50.00.00";" - - - Dietilamin ve tuzları";"-";15
+"null";;" - - - Diğerleri :";;
+"null";;" - - - - Trietilamin ve tuzları :";;
+"null";"2921.19.99.00.11";" - - - - - Trietilamin";"-";15
+"null";"2921.19.99.00.12";" - - - - - Trietilamin hidroklorür";"-";15
+"null";"2921.19.99.00.19";" - - - - - Trietilaminin diğer tuzları";"-";15
+"null";;" - - - - İzopropilamin ve tuzları :";;
+"null";"2921.19.99.00.21";" - - - - - İzopropilamin";"-";15
+"null";"2921.19.99.00.22";" - - - - - İzopropilamin  hidroklorür";"-";15
+"null";"2921.19.99.00.29";" - - - - - İzopropilaminin diğer tuzları";"-";15
+"null";"2921.19.99.00.31";" - - - - Dimetilnitrozoamin";"-";15
+"null";"2921.19.99.00.32";" - - - - Alilizopropilamin";"-";15
+"null";"2921.19.99.00.33";" - - - - HN 1 (bis (2-kloretil) etilamin)";"-";15
+"null";"2921.19.99.00.34";" - - - - HN 2 (bis (2-kloretil) metilamin)";"-";15
+"null";"2921.19.99.00.35";" - - - - HN 3 (tris (2-kloretil) amin)";"-";15
+"null";;" - - - - N,N Dialkyl (methyl, ethyl, n-propyl veya isopropyl) 2-chloroethyl-";;
+"null";;"          aminler ve bunların  protonlanmış tuzları :";;
+"null";"2921.19.99.00.41";" - - - - - N, N - Diizopropilaminoetil - 2 - klorür";"-";15
+"null";"2921.19.99.00.49";" - - - - - Diğerleri";"-";15
+"null";"2921.19.99.00.59";" - - - - Diğerleri";"-";15
+"null";;" - Asiklik poliaminler ve türevleri; bunların tuzları:";;
+"null";"2921.21";" - - Etilendiamin ve tuzları :";;
+"null";"2921.21.00.00.11";" - - - Etilendiamin";"-";15
+"null";"2921.21.00.00.12";" - - - Etilendiaminin tuzları";"-";15
+"null";"2921.22";" - - Hekzametilendiamin ve tuzları :";;
+"null";"2921.22.00.00.11";" - - - Hekzametilendiamin";"-";15
+"null";"2921.22.00.00.12";" - - - Hekzametilendiaminin tuzları";"-";15
+"null";"2921.29.00.00.00";" - - Diğerleri";"-";15
+"null";"2921.30";" - Siklanik, siklenik veya sikloterpenik mono -veya poliaminler ve";;
+"null";;"    türevleri; bunların tuzları:";;
+"null";;" - - Siklohekzilamin ve siklohekzildimetilamin ve bunların tuzları :";;
+"null";"2921.30.10.00.11";" - - - Siklohekzilamin";"-";15
+"null";"2921.30.10.00.12";" - - - Siklohekzildimetilamin";"-";15
+"null";"2921.30.10.00.13";" - - - Siklohekzilamin ve siklohekzildimetilamin tuzları";"-";15
+"null";"2921.30.91.00.00";" - - Siklohex - 1,3 - ylenediamin (1,3 - diaminosiklohekzan)";"-";15
+"null";;" - - Diğerleri :";;
+"null";"2921.30.99.00.11";" - - - Propylhexedrine";"-";15
+"null";"2921.30.99.00.19";" - - - Diğerleri";"-";15
+"null";;" - Aromatik monoaminler ve türevleri; bunların tuzları:";;
+"null";"2921.41";" - - Anilin ve tuzları :";;
+"null";"2921.41.00.00.11";" - - - Anilin";"-";15
+"null";"2921.41.00.00.12";" - - - Anilin hidroklorür";"-";15
+"null";"2921.41.00.00.19";" - - - Anilinin diğer tuzları";"-";15
+"null";"2921.42";" - - Anilin türevleri ve bunların tuzları:";;
+"null";;" - - - Anilinin halojenlenmiş, sülfolanmış, nitrolanmış veya nitrozolanmış";;
+"null";;"        türevleri ve bunların tuzları :";;
+"null";"2921.42.00.00.11";" - - - - Kloranilinler (o-m-p)";"-";15
+"null";"2921.42.00.00.12";" - - - - Dikloranilinler";"-";15
+"null";"2921.42.00.00.13";" - - - - p-Aminobenzensülfonik asit (sülfanilik asit)";"-";15
+"null";"2921.42.00.00.14";" - - - - Trinitroanilinler";"-";15
+"null";"2921.42.00.00.15";" - - - - Tetranitroanilinler";"-";15
+"null";"2921.42.00.00.16";" - - - - Nitrozoanilin";"-";15
+"null";"2921.42.00.00.17";" - - - - Metiltrinitrofenilnitramin (tetril)";"-";15
+"null";"2921.42.00.00.19";" - - - - Diğerleri";"-";15
+"null";;" - - - Diğerleri :";;
+"null";"2921.42.00.00.21";" - - - - p- Asetilaminobenzen";"-";15
+"null";"2921.42.00.00.22";" - - - - N-Metilanilin";"-";15
+"null";"2921.42.00.00.23";" - - - - N,N-Dimetilanilin";"-";15
+"null";"2921.42.00.00.29";" - - - - Diğerleri";"-";15
+"null";"2921.43";" - - Toluidinler ve türevleri; bunların tuzları:";;
+"null";"2921.43.00.00.13";" - - - Toluidin (m-p)";"-";15
+"null";"2921.43.00.00.14";" - - - Toluidin (o)";"-";15
+"null";"2921.43.00.00.15";" - - - Toluidin (m-p) hidroklorürleri";"-";15
+"null";"2921.43.00.00.16";" - - - Toluidin (o) hidroklorürleri";"-";15
+"null";"2921.43.00.00.17";" - - - Toluidin (m-p) türevleri ve bunların diğer tuzları";"-";15
+"null";"2921.43.00.00.18";" - - - Toluidin (o) türevleri ve diğer tuzları";"-";15
+"null";"2921.44";" - - Difenilamin ve türevleri; bunların tuzları :";;
+"null";"2921.44.00.10.00";" - - - Difenilamin";"-";30
+"null";;" - - - Diğerleri :";;
+"null";"2921.44.00.90.11";" - - - - Hekzanitrodifenilamin";"-";15
+"null";"2921.44.00.90.12";" - - - - Difenilamin hidroklorür";"-";15
+"null";"2921.44.00.90.19";" - - - - Difenilaminin diğer türevleri ve diğer tuzları";"-";15
+"null";"2921.45";" - - 1- Naftilamin (alfa -naftilamin), 2 -naftilamin (beta -naftilamin) ";;
+"null";;"      ve bunların türevleri; bunların tuzları :";;
+"null";"2921.45.00.00.11";" - - - 1- Naftilamin (alfa -naftilamin)";"-";15
+"null";"2921.45.00.00.12";" - - - 1- Naftilamin hidroklorür";"-";15
+"null";"2921.45.00.00.19";" - - - 1-  Naftilaminin diğer tuzları";"-";15
+"null";"2921.45.00.00.21";" - - - 2- Naftilamin (beta -naftilamin)";"-";15
+"null";"2921.45.00.00.22";" - - - 2- Naftilaminin tuzları";"-";15
+"null";"2921.45.00.00.29";" - - - Naftilaminlerin türevleri ve bu türevlerin tuzları";"-";15
+"null";"2921.46";" - - Amfetamin (INN), benzfetamin (INN), deksamfetamin (INN),";;
+"null";;"    etilamfetamin (INN), fenkamfamin (INN), lefetamin (INN),";;
+"null";;"    levamfetamin (INN), mefenoreks (INN) ve fentermin (INN); bunların";;
+"null";;"    tuzları :";;
+"null";"2921.46.00.00.11";" - - - Amfetamin (INN)";"-";15
+"null";"2921.46.00.00.12";" - - - Amfetamin sülfat (INN)";"-";15
+"null";"2921.46.00.00.13";" - - - Benzfetamin (INN)";"-";15
+"null";"2921.46.00.00.14";" - - - Deksamfetamin (INN)";"-";15
+"null";"2921.46.00.00.15";" - - - Etilamfetamin (INN)";"-";15
+"null";"2921.46.00.00.16";" - - - Fenkamfamin (INN) ";"-";15
+"null";"2921.46.00.00.17";" - - - Lefetamin (INN) ";"-";15
+"null";"2921.46.00.00.18";" - - - Mefenoreks (INN) ";"-";15
+"null";"2921.46.00.00.21";" - - - Fentermin (INN) ";"-";15
+"null";"2921.46.00.00.22";" - - - Levamfetamin (INN) ";"-";15
+"null";"2921.46.00.00.29";" - - - Diğerleri";"-";15
+"null";"2921.49";" - - Diğerleri:";;
+"null";"2921.49.00.00.11";" - - - Ksilidinler ve türevleri; bunların tuzları";"-";15
+"null";;" - - - Diğerleri :";;
+"null";"2921.49.00.00.21";" - - - - DOB (Brolamfetamin) (INN)";"-";15
+"null";"2921.49.00.00.22";" - - - - Fenfluramine (INN)";"-";15
+"null";"2921.49.00.00.23";" - - - - Dexfenfluramine (INN)";"-";15
+"null";"2921.49.00.00.24";" - - - - MDA (Tenamfetamine) [alfa-methyl-3,4-(methylenedioxy) ";;
+"null";;"          phenethylamine] (methylenedioxyamphetamine) (INN)";"-";15
+"null";"2921.49.00.00.25";" - - - - DMA [(+)-2,5-dimethoxy-alfa-methylphenethylamine]";"-";15
+"null";"2921.49.00.00.26";" - - - - MDMA [(+)-N, alfa-dimethyl-3,4-(methylenedioxy)phenethylamine]";;
+"null";;"          (methylenedioxymetamphetamine)";"-";15
+"null";"2921.49.00.00.27";" - - - - MMDA[2-methoxy-alfa-methyl-4,5-(methylenedioxy)phenethylamine]";"-";15
+"null";"2921.49.00.00.28";" - - - - N-ethyl MDA [(+)-N-ethyl-alfa-methyl-3,4-(methylenedioxy)";;
+"null";;"          phenethylamine]";"-";15
+"null";"2921.49.00.00.31";" - - - - N-hydroxy MDA [(+)-N-[alfa-methyl-3,4-(methylenedioxy)";;
+"null";;"           phenethyl]hydroxylamine]";"-";15
+"null";"2921.49.00.00.32";" - - - - PMA (p-methoxy-alfa-methylphenethylamine)";"-";15
+"null";"2921.49.00.00.39";" - - - - Diğer aromatik monoaminler ve türevleri; bunların tuzları";"-";15
+"null";;" - Aromatik poliaminler ve türevleri; bunların tuzları:";;
+"null";"2921.51";" - - o-, m-, p- Fenilendiamin, diaminotoluenler, bunların türevleri;";;
+"null";;"     bunların tuzları:";;
+"null";;" - - - o -, m -, p - Fenilendiamin, diaminotoluenler, bunların halojenlemiş,";;
+"null";;"        sülfolanmış, nitrolanmış veya nitrozolanmış türevleri; bunların tuzları:";;
+"null";"2921.51.11.00.00";" - - - - m - Fenilendiamin (ağırlık itibariyle % 99 veya daha fazla saflıkta";;
+"null";;"          olup;";;
+"null";;"           - Ağırlık itibariyle % 1 veya daha az su, ";;
+"null";;"           - 200 mg/kg veya daha az o -fenilendiamin ve ";;
+"null";;"           - 450 mg/kg veya daha az p - fenilendiamin içeren)";"-";15
+"null";;" - - - - Diğerleri";" ";
+"null";"2921.51.19.00.22";" - - - - - Diaminotoluenler ve tuzları";"-";15
+"null";"2921.51.19.00.23";" - - - - - Diaminotoluenlerin halojenlenmiş,sülfolanmış,nitrolanmış,nitroza- ";;
+"null";;"             lanmış türevleri;bunların tuzları";"-";15
+"null";"2921.51.19.00.29";" - - - - -  Diğerleri";"-";15
+"null";;" - - - Diğerleri";;
+"null";"2921.51.90.00.11";" - - - - N-N-dimetil-p-fenilendiamin  ";"-";15
+"null";"2921.51.90.00.12";" - - - - N,N-dietil-3,4-toluendiamin";"-";15
+"null";"2921.51.90.00.13";" - - - - Diğer N-alkilfenilendiaminler";"-";15
+"null";"2921.51.90.00.14";" - - - - Diğer N-alkiltoluendiaminler";"-";15
+"null";"2921.51.90.00.19";" - - - - Diğerleri";"-";15
+"null";"2921.59";" - - Diğerleri:";;
+"null";"2921.59.50.00.00";" - - - m- Fenilenbis (metilamin); 2,2'- Dikloro-4,4'-metilendianilin;";;
+"null";;"       4,4'- Bi-o-toluidin; 1,8- Naftilendiamin";"-";15
+"null";;" - - - Diğerleri :";;
+"null";"2921.59.90.00.11";" - - - - Benzidin    ";"-";15
+"null";"2921.59.90.00.12";" - - - - Tetrametil ve tetraetildiaminodifenilmetan";"-";15
+"null";"2921.59.90.00.19";" - - - - Diğer aromatik poliaminler,türevleri;bunların tuzları";"-";15
+"null";;;;
+"null";"29.22";"Oksijen gruplu amino - bileşikleri:";;
+"null";;" - Amino - alkoller (bir cinsten fazla oksijenli grubu bulunanlar hariç)";;
+"null";;"    bunların eterleri ve esterleri; bunların tuzları:";;
+"null";"2922.11";" - -  Monoetanolamin ve tuzları :";;
+"null";"2922.11.00.00.11";" - - - Monoetanolamin (etanolamin)";"-";15
+"null";"2922.11.00.00.12";" - - - Monoetanolamin hidroklorürü";"-";15
+"null";"2922.11.00.00.19";" - - - Monoetanolaminin diğer tuzları ";"-";15
+"null";"2922.12";" - - Dietanolamin ve tuzları :";;
+"null";"2922.12.00.00.11";" - - - Dietanolamin ";"-";15
+"null";"2922.12.00.00.12";" - - - Dietanolamin hidroklorürü";"-";15
+"null";"2922.12.00.00.19";" - - - Dietanolaminin diğer tuzları";"-";15
+"null";"2922.14";" - - Dekstropropoksifen(INN) ve tuzları :";;
+"null";"2922.14.00.00.11";" - - - Dekstropropoksifen(INN)";"-";15
+"null";"2922.14.00.00.12";" - - - Dekstropropoksifenin tuzları";"-";15
+"null";"2922.15.00.00.00";" - - Trietanolamin";"-";15
+"null";"2922.16.00.00.00";" - - Dietanolamonyum perfluorooktan sülfonat";"-";15
+"null";"2922.17.00.00.00";" - - Metildietanolamin ve etildietanolamin";"-";15
+"null";"2922.18.00.00.00";" - - 2-(N,N-Diizopropilamino)etanol";"-";15
+"null";"2922.19";" - - Diğerleri :";;
+"null";"2922.19.00.00.11";" - - - Tetrametil-diaminobenzhidrol";"-";15
+"null";"2922.19.00.00.12";" - - - Tetraetil-diaminobenzhidrol";"-";15
+"null";"2922.19.00.00.13";" - - - Prapanolamin (aminoprapanol)";"-";15
+"null";"2922.19.00.00.14";" - - - Ariletanolaminler";"-";15
+"null";;" - - - N,N Dialkyl (methyl, ethyl, n-propyl veya isopropyl)-2-aminoethanoller";;
+"null";;"          ve bunların protonlanmış tuzları:";;
+"null";"2922.19.00.00.15";" - - - - N,N-Dimethyl-2-aminoethanol ve bunun protonlanmış tuzları";"-";15
+"null";"2922.19.00.00.16";" - - - - N,N-Diethyl-2-aminoethanol ve bunun protonlanmış tuzları";"-";15
+"null";"2922.19.00.00.17";" - - - - N,N-diisopropilaminoetan-2-ol ve bunun protonlanmış tuzları";"-";15
+"null";"2922.19.00.00.19";" - - - - Diğerleri";"-";15
+"null";"2922.19.00.00.21";" - - - Bornaprin";"-";15
+"null";"2922.19.00.00.22";" - - - Siklopentolat";"-";15
+"null";"2922.19.00.00.23";" - - - Siklopentolat hidroklorür";"-";15
+"null";"2922.19.00.00.24";" - - - Fluoxetin (INN)";"-";15
+"null";"2922.19.00.00.28";" - - - Diğerleri";"-";15
+"null";;" - Amino -naftoller ve diğer amino - fenoller (bir cinsten fazla oksijenli ";;
+"null";;"   grubu bulunanlar hariç); bunların eterleri ve esterleri; bunların tuzları:";;
+"null";"2922.21";" - - Aminohidroksinaftalin sülfonik asitler ve bunların tuzları :";;
+"null";"2922.21.00.00.11";" - - - 7-Amino-1-naftol-3-sülfonik asit (gamma asit)";"-";15
+"null";"2922.21.00.00.12";" - - - 8-Amino-1-naftol-3,6-disülfonik asit (H asit)";"-";15
+"null";"2922.21.00.00.19";" - - - Diğer amino hidroksinaftalin sülfonik asitler";"-";15
+"null";"2922.21.00.00.21";" - - - Aminohidroksinaftalin sülfonik asitlerin tuzları";"-";15
+"null";"2922.29";" - - Diğerleri :";;
+"null";;" - - - Anizidinler, dianizidinler, fenetidinler ve bunların tuzları :";;
+"null";"2922.29.00.10.11";" - - - -Anizidinler";"-";15
+"null";"2922.29.00.10.12";" - - - - Dianizidinler";"-";15
+"null";"2922.29.00.10.13";" - - - - Fenetidinler";"-";15
+"null";"2922.29.00.10.14";" - - - -Anizidin, dianizidin ve fenetidinlerin tuzları";"-";15
+"null";;"- - - Diğerleri :";;
+"null";"2922.29.00.90.11";" - - - - Aminofenoller (o-m-p)";"-";15
+"null";"2922.29.00.90.12";" - - - - Amino krozoller (o-m-p)";"-";15
+"null";"2922.29.00.90.19";" - - - - Diğerleri";"-";15
+"null";;" - Amino -aldehitler, amino -ketonlar ve amino -kinonlar (bir ";;
+"null";;"   cinsten fazla oksijenli  grubu bulunanlar hariç); bunların tuzları:";;
+"null";"2922.31";" - - Amfepramon (INN), metadon (INN) ve normetadon (INN);";;
+"null";;"      bunların tuzları :";;
+"null";"2922.31.00.00.11";" - - - Amfepramon (INN)";"-";15
+"null";"2922.31.00.00.12";" - - -  Metadon (INN)";"-";15
+"null";"2922.31.00.00.13";" - - - Normetadon (INN)";"-";15
+"null";"2922.31.00.00.19";" - - - Diğerleri";"-";15
+"null";"2922.39";" - - Diğerleri :";;
+"null";"2922.39.00.00.11";" - - - Aminobenzaldehit";"-";15
+"null";"2922.39.00.00.12";" - - - Cathinone (INN)";"-";15
+"null";"2922.39.00.00.13";" - - - Metcathinone (INN)";"-";15
+"null";"2922.39.00.00.14";" - - - Ketamin hidroklorür";"-";15
+"null";"2922.39.00.00.15";" - - - İsomethadone";"-";15
+"null";"2922.39.00.00.18";" - - - Diğerleri";"-";15
+"null";;" - Amino -asitler (bir cinsten fazla oksijenli grubu ";;
+"null";;"   bulunanlar hariç); bunların esterleri ve tuzları:";;
+"null";"2922.41";" - - Lizin ve esterleri; bunların tuzları :";;
+"null";"2922.41.00.00.11";" - - - Lizin";"-";15
+"null";"2922.41.00.00.12";" - - - Lizin monohidroklorür";"-";15
+"null";"2922.41.00.00.13";" - - - Lizin dihidroklorür";"-";15
+"null";"2922.41.00.00.14";" - - - Kalsiyum lizinat";"-";15
+"null";"2922.41.00.00.19";" - - - Lizinin diğer tuzları";"-";15
+"null";"2922.41.00.00.21";" - - - Lizin esterleri ve tuzları";"-";15
+"null";"2922.42";" - - Glutamik asit ve tuzları :";;
+"null";"2922.42.00.00.11";" - - - Glutamik asit";"-";15
+"null";"2922.42.00.00.12";" - - - Glutamik asit hidroklorürü";"-";15
+"null";"2922.42.00.00.13";" - - - Monosodyum glutamat";"-";15
+"null";"2922.42.00.00.14";" - - - Kalsiyum glutamat";"-";15
+"null";"2922.42.00.00.19";" - - - Diğer sodyum glutamatlar ";"-";15
+"null";"2922.42.00.00.29";" - - -  Glutamik asidin diğer tuzları";"-";15
+"null";"2922.43.00.00.00";" - - Antranilik asit ve bunun tuzları";"-";15
+"null";"2922.44";" - - Tilidin (INN) ve tuzları :";;
+"null";"2922.44.00.00.11";" - - -  Tilidin (INN) ";"-";15
+"null";"2922.44.00.00.12";" - - - Tilidinin  tuzları";"-";15
+"null";"2922.49";" - - Diğerleri:";;
+"null";"2922.49.20.00.00";" - - - Beta-alanin";"-";15
+"null";;" - - - Diğerleri:";;
+"null";"2922.49.85.10.00";" - - - - Glisin (aminoasetikasit)";"-";15
+"null";;" - - - - Diğerleri :";;
+"null";"2922.49.85.90.11";" - - - - - Prokain baz ( p-aminobenzoil dietilamino etanol)";"-";15
+"null";"2922.49.85.90.12";" - - - - - Prokain hidroklorür";"-";15
+"null";"2922.49.85.90.13";" - - - - - Sarkozin, sarkozin hidroklorür";"-";15
+"null";"2922.49.85.90.14";" - - - - - Alanin";"-";15
+"null";"2922.49.85.90.15";" - - - - - Fenil alanin";"-";15
+"null";"2922.49.85.90.16";" - - - - - Valin";"-";15
+"null";"2922.49.85.90.17";" - - - - - Lösin";"-";15
+"null";"2922.49.85.90.21";" - - - - - Aspartik asit";"-";15
+"null";"2922.49.85.90.22";" - - - - - Potasyum aspartat (aspara K)";"-";15
+"null";"2922.49.85.90.23";" - - - - - Demir II aspartat";"-";15
+"null";"2922.49.85.90.24";" - - - - - Kalsiyum aspartat (kalsiretart)";"-";15
+"null";"2922.49.85.90.25";" - - - - - Fenil glisin";"-";15
+"null";"2922.49.85.90.26";" - - - - - p-Aminobenzoik asit";"-";15
+"null";"2922.49.85.90.27";" - - - - - p-Aminobenzoik asitin diğer esterleri";"-";15
+"null";"2922.49.85.90.28";" - - - - - p-Aminobenzoik asit tuzları";"-";15
+"null";"2922.49.85.90.31";" - - - - - m-Aminobenzoik asit";"-";15
+"null";"2922.49.85.90.32";" - - - - - Etilendiamintetraasetik asit (EDTA) ";"-";15
+"null";"2922.49.85.90.33";" - - - - - Etilendiamintetraasetik asitin sodyum tuzları";"-";15
+"null";"2922.49.85.90.35";" - - - - - Pregabalin";"-";15
+"null";"2922.49.85.90.36";" - - - - - Gabapentin";"-";15
+"null";"2922.49.85.90.39";" - - - - - Diğerleri";"-";15
+"null";"2922.50";" - Amino-alkol fenoller, amino-asit fenoller ve oksijen gruplu ";;
+"null";;"  diğer amino bileşikleri :";;
+"null";"2922.50.00.10.00";" - - p-Aminosalisilik asit ve tuzları";"-";0
+"null";;" - - Diğerleri :";;
+"null";"2922.50.00.90.11";" - - - Tirosin";"-";15
+"null";"2922.50.00.90.12";" - - - Serin";"-";15
+"null";"2922.50.00.90.13";" - - - Serin fosfat";"-";15
+"null";"2922.50.00.90.15";" - - - Tramadol hidroklorür";"-";15
+"null";"2922.50.00.90.19";" - - - Diğerleri";"-";15
+"null";;;;
+"null";"29.23";"Kuaterner amonyum tuzları ve hidroksitleri; lesitinler ve diğer";;
+"null";;"fosfoaminolipidler (kimyaca belirli bir yapıda olsun olmasın):";;
+"null";"2923.10.00.00.00";" - Kolin ve tuzları";"-";50
+"null";"2923.20";" - Lesitinler ve diğer fosfoaminolipidler :";;
+"null";"2923.20.00.10.00";" - - Lesitin";"-";25
+"null";"2923.20.00.90.00";" - - Diğer fosfoaminolipidler ";"-";50
+"null";"2923.30.00.00.00";" - Tetraetilamonyum perfluorooktan sülfonat";"-";50
+"null";"2923.40.00.00.00";" - Didesildimetilamonyum perfluorooktan sülfonat";"-";50
+"null";"2923.90";" - Diğerleri :";;
+"null";;" - -Tetrametilamonyum formiyat; betain ve tuzları :";;
+"null";"2923.90.00.10.11";" - - - Tetrametilamonyum formiyat";"-";50
+"null";"2923.90.00.10.12";" - - - Betain";"-";50
+"null";"2923.90.00.10.13";" - - - Betain hidroklorür";"-";50
+"null";"2923.90.00.10.19";" - - - Betainin diğer tuzları";"-";50
+"null";;" - - Diğerleri :";;
+"null";"2923.90.00.90.11";" - - - Hekzadesiltrimetilamonyum bromür (setriamonyum bromür,";;
+"null";;"        C.T.A.B)";"-";50
+"null";"2923.90.00.90.19";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"29.24";"Karboksiamid grublu bileşikler; karbonikasidin amid fonksiyonlu ";;
+"null";;"bileşikleri: ";;
+"null";;" - Asiklik amidler (asiklik karbamatlar dahil) ve türevleri;  ";;
+"null";;"  bunların tuzları :";;
+"null";"2924.11.00.00.00";" - - Meprobamat (INN)";"-";20
+"null";"2924.12.00.00.00";" - - Floroasetamid (ISO), monokrotofos (ISO) ve fosfamidon (ISO)";"-";20
+"null";"2924.19";" - - Diğerleri :";;
+"null";"2924.19.00.00.11";" - - - Asetamid ";"-";20
+"null";"2924.19.00.00.12";" - - - Asparajin";"-";20
+"null";"2924.19.00.00.13";" - - - Asparajin tuzları";"-";20
+"null";"2924.19.00.00.14";" - - - Laurilamid";"-";20
+"null";"2924.19.00.00.15";" - - - Laurikasit dietanol amidi";"-";20
+"null";"2924.19.00.00.16";" - - - Etilkarbamat (üretan)";"-";20
+"null";"2924.19.00.00.17";" - - - Glutamin";"-";20
+"null";"2924.19.00.00.19";" - - - Diğer üretanlar";"-";20
+"null";"2924.19.00.00.29";" - - - Diğerleri";"-";20
+"null";;" - Siklik amidler (siklik karbamatlar dahil) ve türevleri; bunların ";;
+"null";;"   tuzları:";;
+"null";"2924.21";" - - Üreinler ve türevleri; bunların tuzları :";;
+"null";"2924.21.00.00.11";" - - - İzoproturon (ISO)";"-";20
+"null";;" - - - Diğerleri :";;
+"null";"2924.21.00.00.21";" - - - - p-etoksifenilüre (dulsin)";"-";20
+"null";"2924.21.00.00.22";" - - - - Dietildifenilüre (sentralit)";"-";20
+"null";"2924.21.00.00.29";" - - - - Diğerleri";"-";20
+"null";"2924.23";" - - 2-Asetamidobenzoik asit (N-asetilanthranilik asit) ve tuzları:";;
+"null";"2924.23.00.10.00";" - - - 2-Asetamidobenzoik asit (N-asetilanthranilik asit) ";"-";20
+"null";"2924.23.00.90.00";" - - - Diğerleri";"-";20
+"null";"2924.24.00.00.00";" - - Etinamat (INN)";"-";20
+"null";"2924.25.00.00.00";" - - Alaklor (ISO)";"-";20
+"null";"2924.29";" - - Diğerleri:";;
+"null";"2924.29.10.00.00";" - - - Lidokain (INN)";"-";20
+"null";;" - - - Diğerleri :";;
+"null";"2924.29.70.00.11";" - - - - Parasetamol (INN)";"-";20
+"null";;" - - - - Diğerleri :";;
+"null";"2924.29.70.00.21";" - - - - - Asetanilid";"-";20
+"null";"2924.29.70.00.22";" - - - - - Metil asetanilid";"-";20
+"null";"2924.29.70.00.23";" - - - - - Etil asetanilid";"-";20
+"null";"2924.29.70.00.24";" - - - - - Asetofenetidin (p-etoksiasetanilid,fenasetin) ";"-";20
+"null";"2924.29.70.00.25";" - - - - - Fenilasetamid";"-";20
+"null";"2924.29.70.00.26";" - - - - - p-Asetimidazol";"-";20
+"null";"2924.29.70.00.27";" - - - - - Lidokain hidroklorür";"-";20
+"null";"2924.29.70.00.28";" - - - - - Neostigmin bromür";"-";20
+"null";"2924.29.70.00.31";" - - - - - Neostigmin metil sülfat";"-";20
+"null";"2924.29.70.00.32";" - - - - - Aspartam (Aspartil fenilalanin metil ester)";"-";20
+"null";"2924.29.70.00.33";" - - - - - Profam";"-";20
+"null";"2924.29.70.00.34";" - - - - - Neotam";"-";20
+"null";"2924.29.70.00.36";" - - - - - Advantam";"-";20
+"null";"2924.29.70.00.37";" - - - - - 3-oxo-2-phenylbutanamide";"-";20
+"null";"2924.29.70.00.38";" - - - - - alfa-Fenilasetoasetamid (APAA)";"-";20
+"null";"2924.29.70.00.48";" - - - - - Diğerleri";"-";20
+"null";;;;
+"null";"29.25";"Karboksiimid grublu bileşikler (sakkarin ve tuzları dahil) ve imin";;
+"null";;"gruplu bileşikler:";;
+"null";;" - İmidler ve türevleri; bunların tuzları";;
+"null";"2925.11";" - - Sakkarin ve tuzları :";;
+"null";"2925.11.00.10.00";" - - - Sakkarin";"-";15
+"null";;" - - - Sakkarin tuzları :";;
+"null";"2925.11.00.20.11";" - - - - Sodyum sakkarin (çözünür sakkarin)";"-";15
+"null";"2925.11.00.20.19";" - - - - Sakkarinin diğer tuzları";"-";15
+"null";"2925.12.00.00.00";" - -Glutetimit (INN)";"-";15
+"null";"2925.19";" - - Diğerleri:";;
+"null";"2925.19.20.00.00";" - - - 3,3',4,4',5,5',6,6' -Oktabrom -N,N' -etilen diftalimid; N,N' - etilenbis";;
+"null";;"       (4,5 - dibromhekzahidro - 3,6 -metanoftalimid) ";"-";15
+"null";;" - - - Diğerleri :";;
+"null";"2925.19.95.00.11";" - - - - Süksinimid";"-";15
+"null";"2925.19.95.00.12";" - - - - N-Klor süksinimid";"-";15
+"null";"2925.19.95.00.13";" - - - - Ftalimid";"-";15
+"null";"2925.19.95.00.14";" - - - - Procymidone";"-";15
+"null";"2925.19.95.00.19";" - - - - Diğer imidler ";"-";15
+"null";;" - İminler ve türevleri; bunların tuzları";;
+"null";"2925.21.00.00.00";" - - Klordimeform (IS0)";"-";15
+"null";;" - - Diğerleri :";;
+"null";"2925.29.00.00.11";" - - -Guanidin";"-";15
+"null";"2925.29.00.00.12";" - - - Guanidin nitrat";"-";15
+"null";"2925.29.00.00.13";" - - - Guanidin hidroklorür";"-";15
+"null";"2925.29.00.00.14";" - - -Guanidinin diğer tuzları";"-";15
+"null";"2925.29.00.00.15";" - - -Difenilguanidin";"-";15
+"null";"2925.29.00.00.16";" - - -o-Tolil diguanidin";"-";15
+"null";"2925.29.00.00.18";" - - - Metformin (dimetilbiguanidin)";"-";15
+"null";"2925.29.00.00.19";" - - - Diğerleri";"-";15
+"null";;;;
+"null";"29.26";"Nitril gruplu bileşikler:";;
+"null";"2926.10.00.00.00";" - Akrilonitril";"-";15
+"null";"2926.20.00.00.00";" - Disiyandiamit (1 -sianaguanidin)";"-";15
+"null";"2926.30";" - Fenproporeks (INN) ve tuzları; methadone (INN) ara ürün";;
+"null";;"   (4-cyano-2-dimetilamino-4,4-difenilbutan)";;
+"null";"2926.30.00.00.11";" - - Fenproporeks (INN)";"-";15
+"null";"2926.30.00.00.12";" - - Metadon (INN)   ara ürün  (4-siyano-2-dimetilamin-4,4-difenilbutan ";;
+"null";" ";"       veya 2-dimetilamin-4,4-difenil-4 siyanobutan)";"-";15
+"null";"2926.30.00.00.19";"- - Diğerleri";"-";15
+"null";"2926.40.00.00.00";" - alfa-Fenilasetoasetonitril (APAAN)";"-";15
+"null";"2926.90";" - Diğerleri:";;
+"null";"2926.90.20.00.00";" - - İzoftalonitril";"-";15
+"null";;" - - Diğerleri :";;
+"null";"2926.90.70.00.11";" - - - Asetonitril";"-";15
+"null";"2926.90.70.00.12";" - - - Benzonitril";"-";15
+"null";"2926.90.70.00.13";" - - - Fenilsiyonamid";"-";15
+"null";"2926.90.70.00.14";" - - - Naftonitril";"-";15
+"null";"2926.90.70.00.15";" - - - Nitrofenilasetonitril";"-";15
+"null";"2926.90.70.00.16";" - - - Hidroksifenilasetonitril";"-";15
+"null";"2926.90.70.00.17";" - - - İminodiasetonitril";"-";15
+"null";"2926.90.70.00.18";" - - - Verapamil hidroklorür";"-";15
+"null";"2926.90.70.00.21";" - - - Cyhalothrine";"-";15
+"null";"2926.90.70.00.22";" - - - Fenvalerat";"-";15
+"null";"2926.90.70.00.23";" - - - İsoaminil sitrat";"-";15
+"null";"2926.90.70.00.25";" - - - Fenilasetonitril (benzil siyanit)";"-";15
+"null";"2926.90.70.00.28";" - - - Diğerleri";"-";15
+"null";;;;
+"null";"2927.00";"Diazo, azo ve azoksi bileşikleri :";;
+"null";"2927.00.00.00.11";"- Benzendiazonyum klorür (fenildiazonyum klorür)";"-";30
+"null";"2927.00.00.00.12";"- Diazoaminobenzen";"-";30
+"null";"2927.00.00.00.13";"- p-Diazobenzen sülfonik asit";"-";30
+"null";"2927.00.00.00.14";"- Diazosalisik asit";"-";30
+"null";"2927.00.00.00.15";"- N-Metil-diazoaminobenzen";"-";30
+"null";"2927.00.00.00.19";"- Diğer diazo bileşikleri";"-";30
+"null";"2927.00.00.00.21";"- Azobenzen";"-";30
+"null";"2927.00.00.00.22";"- Azotoluen";"-";30
+"null";"2927.00.00.00.23";"- 2,2'-Dimetil 2,2'-azodipropionitril (AIBN) ";"-";30
+"null";"2927.00.00.00.24";"- Aminoazobenzensülfonik  asit ve tuzları";"-";30
+"null";"2927.00.00.00.29";"- Diğer azo bileşikleri";"-";30
+"null";"2927.00.00.00.31";"- Azoksi bileşikleri";"-";30
+"null";;;;
+"null";"2928.00";"Hidrazinin ve hidroksilaminin organik türevleri :";;
+"null";"2928.00.10.00.00";" - N,N - Bis (2 - metoksietil) hidroksilamin";"-";15
+"null";;" - Diğerleri:";;
+"null";;" - - Hidrazinin organik türevleri";;
+"null";"2928.00.90.10.11";" - - - Fenilhidrazin";"-";0
+"null";"2928.00.90.10.12";" - - - Nitrofenil hidrazinler";"-";0
+"null";"2928.00.90.10.19";" - - - Hidrazinin diğer organik türevleri";"-";0
+"null";;" - - Hidroksilaminin diğer organik türevleri :";;
+"null";"2928.00.90.20.11";" - - - Dimetilglioksim";"-";15
+"null";"2928.00.90.20.12";" - - - Difenilkarbazit";"-";15
+"null";"2928.00.90.20.19";" - - - Hidroksilaminin diğer organik türevleri ";"-";15
+"null";;;;
+"null";"29.29";"Diğer azot gruplu bileşikler:";;
+"null";"2929.10";" - İzosiyanatlar :";;
+"null";"2929.10.00.00.11";" - - Metilfenilen diizosiyanatlar (toluen diizosiyanatlar)";"-";15
+"null";;" - - Diğerleri";;
+"null";"2929.10.00.00.21";" - - - Fenilizosiyanat";"-";15
+"null";"2929.10.00.00.22";" - - - Hekzametilen diizosiyanat";"-";15
+"null";"2929.10.00.00.29";" - - - Diğer izosiyanatlar";"-";15
+"null";"2929.90";" - Diğerleri :";;
+"null";"2929.90.00.00.11";" - - İzonitreller (karbilaminler)";"-";15
+"null";"2929.90.00.00.12";" - - Karboksilik asit azidleri";"-";15
+"null";"2929.90.00.00.13";" - - Sodyum siklamad";"-";15
+"null";"2929.90.00.00.14";" - - Kalsiyum siklamad ";"-";15
+"null";"2929.90.00.00.15";" - - N,N-Dialkyl (methyl, ethyl, n-propyl veya izopropyl)  phosphoramidic";" ";
+"null";;"      dihalides";"-";15
+"null";"2929.90.00.00.16";" - - Dialkyl (methyl, ethyl, n-propyl veya izopropyl)  N,N-dialkyl (methyl, ";;
+"null";;"     ethyl, n-propyl veya izopropyl) phosphoramidates";"-";15
+"null";"2929.90.00.00.17";" - - Siklamik Asit";"-";15
+"null";"2929.90.00.00.21";" - - İsoaminil siklamat";"-";15
+"null";"2929.90.00.00.22";" - - Nitroguanidin";"-";15
+"null";"2929.90.00.00.29";" - - Diğerleri";"-";15
+"null";;;;
+"null";;"X. ORGANO - İNORGANİK BİLEŞİKLER, HETEROSİKLİK ";;
+"null";;"           BİLEŞİKLER,NÜKLEİK ASİTLER VE BUNLARIN TUZLARI";;
+"null";;"           VE SÜLFONAMİDLER";;
+"null";;;;
+"null";"29.30";"Kükürtlü organik bileşikler:";;
+"null";"2930.10.00.00.00";" - 2-(N,N-Dimetilamino) etanetiyol";"-";25
+"null";"2930.20";" - Tiyokarbamatlar ve ditiyokarbamatlar :";;
+"null";"2930.20.00.00.11";" - - Tiyokarbamatlar";"-";25
+"null";"2930.20.00.00.12";" - - Çinkodibutilditiyokarbamat";"-";25
+"null";"2930.20.00.00.13";" - - Ferbam";"-";25
+"null";"2930.20.00.00.18";" - - Diğer ditiyokarbamatlar";"-";25
+"null";"2930.30";" - Tiyouram mono -, di- veya -tetrasülfürler :";;
+"null";"2930.30.00.00.11";" - - Tetraetiltiyouram disülfür";"-";25
+"null";"2930.30.00.00.19";" - - Diğerleri";"-";25
+"null";"2930.40";" - Methionin:";;
+"null";"2930.40.10.00.00";" - - Methionin (INN)";"-";25
+"null";"2930.40.90.00.00";" - - Diğerleri";"-";25
+"null";"2930.60.00.00.00";" - 2-(N,N-Dietilamino) etanetiyol";"-";25
+"null";"2930.70.00.00.00";" - Bis(2-hidroksietil)sülfür (thiyodiglikol (INN))";"-";25
+"null";"2930.80.00.00.00";" - Aldikarb (ISO), kaptafol (ISO) ve metamidofos (ISO)";"-";25
+"null";"2930.90";" - Diğerleri:";;
+"null";"2930.90.13.00.00";" - - Sistein ve sistin";"-";25
+"null";"2930.90.16.00.00";" - - Sistein ve sistinin türevleri";"-";25
+"null";"2930.90.30.00.00";" - - DL-2-hidroksi-4-(metiltio) bütirik asit";"-";25
+"null";"2930.90.40.00.00";" - - 2,2'-Tiodietil bis [3 - (3,5 - di - tert - butil - 4 - hidroksifenil) propiyonat]";"-";25
+"null";"2930.90.50.00.00";" - - 4 - Metil - 2,6 - bis (metiltio) - m - fenilendiamin ve 2 - metil - 4,6 - bis";;
+"null";;"     (metiltio) - m - fenilendiamin içeren izomer karışımları";"-";25
+"null";;" - - Diğerleri :";;
+"null";"2930.90.98.10.00";" - - - Tiosemikarbazidin organik türevleri";"-";0
+"null";"2930.90.98.20.00";" - - - Ksantatlar (ditiyokarbonatlar)";"-";15
+"null";;" - - - Diğerleri";;
+"null";"2930.90.98.90.11";" - - - - Tiyoüre";"-";25
+"null";"2930.90.98.90.12";" - - - - Difenil tiyoüre";"-";25
+"null";"2930.90.98.90.13";" - - - - Di-o-toliltiyoüre";"-";25
+"null";"2930.90.98.90.14";" - - - - Dimetil sülfür";"-";25
+"null";"2930.90.98.90.15";" - - - - Difenil sülfür";"-";25
+"null";"2930.90.98.90.16";" - - - - Tiyoanilin";"-";25
+"null";"2930.90.98.90.17";" - - - - Mustard gaz (bis (2-kloretil) sülfür)";"-";25
+"null";"2930.90.98.90.18";" - - - - Sesqimustard (1,2-bis (2-kloretiltiyo) etan)";"-";25
+"null";"2930.90.98.90.21";" - - - - O-Mustard (bis (2-kloretiltiyoetil) eter)";"-";25
+"null";"2930.90.98.90.22";" - - - - 2-Kloretil klormetil sülfür";"-";25
+"null";"2930.90.98.90.24";" - - - - Bis (2-kloretiltiyo) metan";"-";25
+"null";"2930.90.98.90.25";" - - - - 1,3-bis (2-kloretiltiyo)-n-propan  ";"-";25
+"null";"2930.90.98.90.26";" - - - - 1,4-bis (2-kloretiltiyo)-n-bütan  ";"-";25
+"null";"2930.90.98.90.28";" - - - - Metil merkaptan";"-";25
+"null";"2930.90.98.90.31";" - - - - Etil merkaptan";"-";25
+"null";"2930.90.98.90.32";" - - - - N-N -Dialkyl (methyl, ethyl, n-propyl veya isopropyl) aminoethane-";;
+"null";;"         2-thioller ve bunların protonlanmış tuzları";"-";25
+"null";"2930.90.98.90.34";" - - - - Tiyofenoller";"-";25
+"null";"2930.90.98.90.35";" - - - - Tiyosalisilik asit (o-merkaptobenzoik asit)";"-";25
+"null";"2930.90.98.90.36";" - - - - Fenil izotiyosiyanat";"-";25
+"null";"2930.90.98.90.37";" - - - - Alil izotiyosiyanat";"-";25
+"null";"2930.90.98.90.38";" - - - - Tiyoaldehidler";"-";25
+"null";"2930.90.98.90.41";" - - - - Tiyoketonlar ";"-";25
+"null";"2930.90.98.90.42";" - - - - Tiyoasitler ";"-";25
+"null";"2930.90.98.90.43";" - - - - Dimetil sülfoksit ve sülfonlar ";"-";25
+"null";"2930.90.98.90.44";" - - - - Sülfinik asitler ve sülfonlar";"-";25
+"null";"2930.90.98.90.45";" - - - - 1,5-bis (2-kloretiltiyo)-n-pentan  ";"-";25
+"null";"2930.90.98.90.46";" - - - - Bis (2-kloretiltiyometil) eter  ";"-";25
+"null";;" - - - - [S-2 -(dialkyl (methyl, ethyl, n-propyl veya isopropyl) amino) ethyl]";;
+"null";;"          hydrogen alkyl (methyl, ethyl, n-propyl veya isopropyl) phoshono-";;
+"null";;"          thioates ve onların o-alkyl (£ C10, içeren cycloalkyl) esterleri; ";;
+"null";;"          bunların alkillendirilmiş veya protonlandırılmış tuzları";;
+"null";"2930.90.98.90.47";" - - - - - O-ETİL S-2-diizopropil aminoetil metil fosfonotiolat";"-";25
+"null";"2930.90.98.90.49";" - - - - - Diğerleri ";"-";25
+"null";"2930.90.98.90.51";" - - - - o,o-Diethyl S-[2-(diethyl amino) ethyl] phosphorothioate ve bunun";;
+"null";;"          alkillendirilmiş veya protonlandırılmış tuzları";"-";25
+"null";"2930.90.98.90.52";" - - - - O-Etil S-feniletilfosfonotiyolotiyanat (fonofos)";"-";25
+"null";;" - - - - Diğerleri:";;
+"null";"2930.90.98.90.61";" - - - - - Fosfor atomuna bağlı bir metil, etil, n-propil veya izopropil ";;
+"null";;"            grubu ihtiva edenler (fakat daha fazla karbon atomlu grup ihtiva";;
+"null";;"            etmeyen)";"-";25
+"null";"2930.90.98.90.62";" - - - - - α-methyl-4-methylthiophenethylamine (4-MTA)";"-";25
+"null";"2930.90.98.90.63";" - - - - - Triflorometil kükürt pentaflorür";"-";25
+"null";"2930.90.98.90.68";" - - - - - Diğerleri ";"-";25
+"null";;;;
+"null";"29.31";"Diğer organo-inorganik bileşikler:";;
+"null";"2931.10.00.00.00";" - Tetrametil kurşun ve tetraetil kurşun";"-";15
+"null";"2931.20.00.00.00";" - Tributiltin bileşikleri";"-";15
+"null";;" - Halojenlenmemiş organofosfor türevleri:";;
+"null";"2931.41.00.00.00";" - - Dimetil metil fosfanat ";"-";15
+"null";"2931.42.00.00.00";" - - Dimetil propilfosfonat";"-";15
+"null";"2931.43.00.00.00";" - - Dietil etilfosfonat";"-";15
+"null";"2931.44.00.00.00";" - - Metilfosfonik asit";"-";15
+"null";"2931.45.00.00.00";" - - Metilfosfonik asit tuzu ve (aminoiminometil) üre (1: 1)";"-";15
+"null";"2931.46.00.00.00";" - - 2,4,6-tripropil-1,3,5,2,4,6-trioksatrifosfinan 2,4,6-trioksit ";"-";15
+"null";"2931.47.00.00.00";" - - (5-Etil-2-metil-2-oksido-1,3,2-dioksafosfinan-5-il)metil metil metilfosfonat";"-";15
+"null";"2931.48.00.00.00";" - - 3,9-Dimetil-2,4,8,10-tetraoksa-3,9-difosfaspiro[5.5] undekan 3,9-dioksit ";"-";15
+"null";"2931.49";" - - Diğerleri:";;
+"null";"2931.49.10.00.00";" - - - Sodyum 3-(trihidroksisilil)propil metilfosfonat";"-";15
+"null";"2931.49.20.00.00";" - - - Bis[(5-etil-2-metil-2-oksido-1,3,2-dioksafosfinan-5-il) metil]metilfosfonat";"-";15
+"null";"2931.49.30.00.00";" - - - Etitronik asit (INN) (1-hidroksietan-1,1-difosfonik asit) ve tuzları";"-";15
+"null";"2931.49.40.00.00";" - - - (Nitrilotrimethanediyl)tris(phosphonic acid), {ethane-1,2-diylbis[nitrilobis(methy";;
+"null";;" ene)]} tetrakis(phosphonic acid), [(bis{2-[bis(phosphonomethyl)amino]ethyl}amino)";;
+"null";;"methyl]phosphonic acid, {hexane-1,6-diylbis[nitrilobis(methylene)]}tetrakis(phos";;
+"null";;"phonic acid), {[(2-hydroxyethyl)imino]bis(methylene)}bis(phosphonic acid), ve";;
+"null";;"[(bis{6-[bis(phosphonomethyl)amino]hexyl}amino)methyl]phosphonic acid; ";;
+"null";;"ve bunların tuzları";"-";15
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - o-Alkyl (£ C10, cycloalkyl içeren) N,N-dialkyl (methyl, ethyl";;
+"null";;"        n-propyl veya isopropyl) phosphoramidocyanidatlar:";;
+"null";"2931.49.90.00.11";" - - - - - Tabun (O-etil N,N-dimetil fosforamidosiyanat) ";"-";15
+"null";"2931.49.90.00.19";" - - - - - Diğerleri";"-";15
+"null";;" - - - - [O-2-(dialkyl (methyl, ethyl, n-propyl veya isopropyl) amino) ethyl]";;
+"null";;"        hydrogen alkyl (methyl, ethyl, n-propyl veya isopropyl) phosphonites";;
+"null";;"        ve bunların o-alkyl (£ C10, cycloalkyl içeren) esterleri; bunların";;
+"null";;"         alkyllendirilmiş veya protonlandırılmış tuzları:";;
+"null";"2931.49.90.00.21";" - - - - - O-Etil-2-diisopropil aminoetil metil fosfonit";"-";15
+"null";"2931.49.90.00.29";" - - - - - Diğerleri";"-";15
+"null";"2931.49.90.00.31";" - - - - Benzen fosfonik asit (fenil fosfonik asit)";"-";15
+"null";"2931.49.90.00.32";" - - - - Tris asiridinil fosfor oksit";"-";15
+"null";"2931.49.90.00.33";" - - - - Fosfor atomuna bağlı bir metil, etil, n-propil veya izopropil ";;
+"null";;"          grubu ihtiva edenler (fakat daha fazla karbon atomlu grup ihtiva";;
+"null";;"          etmeyen)";"-";15
+"null";"2931.49.90.00.34";" - - - - Fosfonik asit, metil-poliglikol ester";"-";15
+"null";"2931.49.90.00.39";" - - - - Diğerleri";"-";15
+"null";;" - Halojenlenmiş organofosfor türevleri:";;
+"null";"2931.51.00.00.00";" - - Metilfosfonik diklorür ";"-";15
+"null";"2931.52.00.00.00";" - - Propilfosfonik diklorür ";"-";15
+"null";"2931.53.00.00.00";" - - O-(3-kloropropil) O-[4-nitro-3-(triflorometil)fenil]metilfosfonotiyonat ";"-";15
+"null";"2931.54.00.00.00";" - - Triklorfon (ISO) ";"-";15
+"null";"2931.59";" - - Diğerleri:";;
+"null";"2931.59.10.00.00";" - - - Metilfosfonoil diflorür (metilfosfonik diflorür) ";"-";15
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - o-Alkyl (£ C10, cycloalkyl grupları içeren) alkyl (methyl, ethyl,";;
+"null";;"        n-propyl veya isopropyl) phosphonofluoridatlar:";;
+"null";"2931.59.90.00.11";" - - - - - Sarin (O-isopropil metilfosfonofloridate)";"-";15
+"null";"2931.59.90.00.12";" - - - - - Soman (O-pinakonil metilfosfonofloridate)";"-";15
+"null";"2931.59.90.00.19";" - - - - - Diğerleri";"-";15
+"null";"2931.59.90.00.21";" - - - - Alkil (metil, etil, n- propil veya isopropil) fosfonil diflorürler";"-";15
+"null";"2931.59.90.00.22";" - - - - Klor sarin (CR) (O-isopropil metil fosfonokloridat)";"-";15
+"null";"2931.59.90.00.23";" - - - - Klor soman (CS) (O- Pinakolil metil fosfonokloridat)";"-";15
+"null";"2931.59.90.00.29";" - - - - Diğerleri";"-";15
+"null";"2931.90";" - Diğerleri :";;
+"null";"2931.90.00.10.00";" - - Arsenikli organik bileşikler ";"-";15
+"null";;" - - Diğerleri";;
+"null";"2931.90.00.90.12";" - - - Demir karbonil ve nikel karbonil";"-";15
+"null";"2931.90.00.90.31";" - - - Levizit 1 (2-klorvinildiklorarsin)";"-";15
+"null";"2931.90.00.90.32";" - - - Levizit 2 (bis (2-klorvinil) klorarsin)";"-";15
+"null";"2931.90.00.90.33";" - - - Levizit 3 (tris  (2-klorvinil) arsin)";"-";15
+"null";" ";" - - - Diğerleri:";" ";
+"null";"2931.90.00.90.54";" - - - - DBB (Di-μ-oxo-di-n-butylstannio-hydroxyborane)";"-";15
+"null";"2931.90.00.90.55";" - - - - Fentin asetat";"-";15
+"null";"2931.90.00.90.56";" - - - - Fentin hidroksit";"-";15
+"null";"2931.90.00.90.57";" - - - - Triorganostannic bileşikler";"-";15
+"null";"2931.90.00.90.68";" - - - - Diğerleri";"-";15
+"null";;;;
+"null";"29.32";"Sadece oksijenli heterosiklik bileşikler:";;
+"null";;" - Yapısında başka bir halkaya yapışmamış bir furan halkası";;
+"null";;"   (hidrojenle doyurulmuş olsun olmasın) olan bileşikler:";;
+"null";"2932.11.00.00.00";" - - Tetrahidrofuran";"-";25
+"null";"2932.12.00.00.00";" - - 2 - furaldehit (furfuraldehit)";"-";40
+"null";"2932.13";" - - Furfuril alkol ve tetrahidrofurfuril alkol :";;
+"null";"2932.13.00.00.11";" - - - Furfuril alkol";"-";25
+"null";"2932.13.00.00.12";" - - - Tetrahidrofurfuril alkol";"-";25
+"null";"2932.14.00.00.00";" - - Sukraloz";"-";25
+"null";"2932.19.00.00.00";" - - Diğerleri";"-";25
+"null";"2932.20";" - Laktonlar :";;
+"null";"2932.20.10.00.00";" - -  Fenolftalein; 1 - Hidroksi - 4 - [ 1 - (4 - hidroksi-3 -metoksikarbonil ";;
+"null";;"     -1- naftil) -3- oxo - 1H, 3H - benzo (de) isochromen - 1 - yl ] - 6 - octadecyloxy";;
+"null";;"     - 2 - naftoik asit; 3'- Kloro -6'-siklohekzilaminospiro [izobenzofuran -1 (3H), 9'- ksan-";;
+"null";;"     ten] - 3-one; Metil - 6 - dokosiloksi - 1 - hidroksi - 4 - [1 - 4 - (hidroksi - 3 -  ";;
+"null";;"     metil-1-fenantril)-3-oxo-1H,3H-nafto (1,8-cd) piran-1-yl] naftalin-2- karboksilat     ";"-";25
+"null";"2932.20.20.00.00";" - - Gamma-bütirolaktan";"-";25
+"null";;" - - Diğerleri :";;
+"null";"2932.20.90.10.00";" - - - Santonin";"-";5
+"null";;" - - - Diğerleri:";;
+"null";"2932.20.90.90.11";" - - - - Nonalakton";"-";25
+"null";"2932.20.90.90.12";" - - - - İzoaskorbikasit";"-";25
+"null";"2932.20.90.90.13";" - - - - Ambredtolit";"-";25
+"null";"2932.20.90.90.14";" - - - - Kumarin, metilkumarinler";"-";50
+"null";"2932.20.90.90.15";" - - - - Etilkumarinler";"-";15
+"null";"2932.20.90.90.19";" - - - - Diğer laktonlar";"-";25
+"null";;" - Diğerleri :";;
+"null";"2932.91.00.00.00";" - - İzosafrol";"-";50
+"null";"2932.92.00.00.00";" - - 1-(1,3-Benzodioksol-5-il)propan-2-one";"-";15
+"null";"2932.93.00.00.00";" - - Piperonal";"-";50
+"null";"2932.94.00.00.00";" - - Safrol";"-";50
+"null";"2932.95.00.00.00";" - - Tetrahidrokannabinol (tüm izomerleri)";"-";25
+"null";"2932.96.00.00.00";" - - Karbofuran (ISO)";"-";25
+"null";"2932.99";" - - Diğerleri :";;
+"null";"2932.99.00.10.00";" - - - Halkasında dört atomu olan epoksitler";"-";25
+"null";"2932.99.00.20.00";" - - - Siklik asetaller ve halkalı yarı asetaller (başka oksijenli";;
+"null";;"        grupları olsun olmasın) ve bunların halojenlenmiş,";;
+"null";;"        sülfolanmış,nitrolanmış veya nitrozolanmış türevleri";"-";15
+"null";"2932.99.00.30.00";" - - - Piperonolik asit";"-";15
+"null";"2932.99.00.40.00";" - - - Piperonil bütoksit";"-";15
+"null";" ";" - - - Halkalı eterler :";;
+"null";"2932.99.00.50.11";" - - - - 1,3 Dioksan";"-";25
+"null";"2932.99.00.50.12";" - - - - 1,4 Dioksan (dietilendioksit)";"-";25
+"null";"2932.99.00.50.13";" - - - - 1,3 Dioksalan  ";"-";25
+"null";"2932.99.00.50.14";" - - - - Sineol (okaliptol)";"-";25
+"null";"2932.99.00.50.19";" - - - - Diğer halkalı eterler";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"2932.99.00.90.11";" - - - - N-methyl-1-(1,3-benzodioxol-5-yl)-2-butanamin-(MBDB)";"-";25
+"null";"2932.99.00.90.12";" - - - - 3,4-(Methylenedioxy)phenylacetonitrile (1,3-Benzodioxole-5-acetonitrile)";"-";25
+"null";"2932.99.00.90.13";" - - - - 3,4-MDP-2-P methyl glycidate (PMK glycidate)";"-";25
+"null";"2932.99.00.90.14";" - - - - 3,4-MDP-2-P methyl glycidic acid (PMK glycidic acid)";"-";25
+"null";"2932.99.00.90.19";" - - - - Diğerleri";"-";25
+"null";;" ";;
+"null";"29.33";"Sadece azotlu heterosiklik bileşikler  :";;
+"null";;" - Yapısında başka bir halkaya yapışmamış pirazol halkası (hidrojenle ";;
+"null";;"   doyurulmuş olsun olmasın) olan bileşikler:";;
+"null";"2933.11";" - - Fenazon(antiprin) ve türevleri:";;
+"null";"2933.11.10.00.00";" - - - Propifenazon (INN)";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2933.11.90.00.11";" - - - - Fenazon (antiprin)";"-";25
+"null";"2933.11.90.00.12";" - - - - Dimetil dimetilamino fenil pirazolan (amidoprin)";"-";25
+"null";"2933.11.90.00.19";" - - - - Diğerleri";"-";25
+"null";"2933.19";" - - Diğerleri:";;
+"null";"2933.19.10.00.00";" - - - Fenilbutazon (INN)";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2933.19.90.00.11";" - - - - 1-Fenil-3-pirazolidon";"-";25
+"null";"2933.19.90.00.19";" - - - - Diğerleri";"-";25
+"null";;" - Yapısında başka bir halkaya yapışmamış bir imizadol halkası";;
+"null";;"   (doymuş olsun olmasın) olan bileşikler:";;
+"null";"2933.21";" - - Hidantoin ve türevleri  :";;
+"null";"2933.21.00.00.11";" - - - Hidantoin ";"-";20
+"null";"2933.21.00.00.12";" - - - Hidantoinin türevleri ";"-";20
+"null";"2933.29";" - - Diğerleri :";;
+"null";;" - - - Nafazolin hidroklorür (INNM) ve nafazolin nitrat (INNM);";;
+"null";;"        fentolamin (INN); tolazolin hidroklorür (INNM) :";;
+"null";"2933.29.10.00.11";" - - - - Nafazolin hidroklorür ve nafazolin nitrat";"-";25
+"null";"2933.29.10.00.12";" - - - - Pentalamin ";"-";25
+"null";"2933.29.10.00.13";" - - - - Tolazolin hidroklorür ";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2933.29.90.00.11";" - - - - Lisidin";"-";25
+"null";"2933.29.90.00.12";" - - - - Ornidazol";"-";25
+"null";"2933.29.90.00.13";" - - - - Etomidat";"-";25
+"null";"2933.29.90.00.19";" - - - - Diğerleri";"-";25
+"null";;" - Yapısında başka bir halkaya yapışmamış piridin halkası";;
+"null";;"   (doymuş olsun olmasın) olan bileşikler:";;
+"null";"2933.31";" - - Piridin ve tuzları :";;
+"null";"2933.31.00.10.00";" - - - Piridin karboksilik asit (izonikotinik asit)";"-";0
+"null";;" - - - Diğerleri :";;
+"null";"2933.31.00.90.11";" - - - - Piridin ";"-";25
+"null";"2933.31.00.90.12";" - - - - Piridin hidroklorür";"-";25
+"null";"2933.31.00.90.19";" - - - - Piridinin diğer tuzları";"-";25
+"null";"2933.32";" - - Piperidin ve tuzları :";;
+"null";"2933.32.00.00.11";" - - - Piperidin";"-";25
+"null";"2933.32.00.00.12";" - - - Piperidinin tuzları";"-";25
+"null";"2933.33";" - - Alfentanil (INN), anileridine (INN), bezitramide (INN),";;
+"null";;"     bromazepam (INN), karfentanil (INN), difenoxin (INN), difenoxylate (INN),";;
+"null";;"     dipipanone (INN), fentanyl (INN), ketobemidone (INN),";;
+"null";;"     methylphnidate (INN), pentazocine (INN), pethidine (INN),";;
+"null";;"     pethidine (INN) ara ürün A, phencyclidine (INN)(PCP),";;
+"null";;"     phenoperidine (INN), pipradol (INN), piritramide (INN),";;
+"null";;"    propiram (INN), remifentanil (INN), trimeperidine (INN); bunların tuzları :";;
+"null";"2933.33.00.00.11";" - - -  Alfentanil (INN)";"-";25
+"null";"2933.33.00.00.12";" - - - Anileridine (INN)";"-";25
+"null";"2933.33.00.00.13";" - - - Bezitramide (INN)";"-";25
+"null";"2933.33.00.00.14";" - - - Bromazepam (INN)";"-";25
+"null";"2933.33.00.00.15";" - - - Difenoxin (INN)";"-";25
+"null";"2933.33.00.00.16";" - - - Difenoxylate (INN)";"-";25
+"null";"2933.33.00.00.17";" - - - Dipipanone (INN";"-";25
+"null";"2933.33.00.00.18";" - - - Fentanyl (INN)";"-";25
+"null";"2933.33.00.00.21";" - - - Ketobemidone (INN),";"-";25
+"null";"2933.33.00.00.22";" - - - Methylphnidate (INN)";"-";25
+"null";"2933.33.00.00.23";" - - - Pentazocine (INN)";"-";25
+"null";"2933.33.00.00.24";" - - - Pethidine (INN),";"-";25
+"null";"2933.33.00.00.25";" - - - Pethidine (INN) ara ürün A";"-";25
+"null";"2933.33.00.00.26";" - - - Phencyclidine (INN)(PCP),";"-";25
+"null";"2933.33.00.00.27";" - - - Phenoperidine (INN)";"-";25
+"null";"2933.33.00.00.28";" - - - Pipradol (INN)";"-";25
+"null";"2933.33.00.00.31";" - - - Piritramide (INN),";"-";25
+"null";"2933.33.00.00.32";" - - -  Propiram (INN)";"-";25
+"null";"2933.33.00.00.33";" - - - Trimeperidine (INN)";"-";25
+"null";"2933.33.00.00.39";" - - - Diğerleri";"-";25
+"null";"2933.34.00.00.00";" - - Diğer fentaniller ve türevleri";"-";25
+"null";"2933.35.00.00.00";" - - 3-Kinüklidinol ";"-";25
+"null";"2933.36.00.00.00";" - - 4-Anilin-N-fenetilpiperidin (ANPP)";"-";25
+"null";"2933.37.00.00.00";" - - N-Fenetil-4-piperidon (NPP) ";"-";25
+"null";"2933.39";" - - Diğerleri :";;
+"null";;" - - - İproniazit (INN); ketobemidon hidroklorür (INNM); pridostigmin";;
+"null";;"        bromür (INN):";;
+"null";"2933.39.10.00.11";" - - - - İproniazit ";"-";25
+"null";"2933.39.10.00.12";" - - - - Ketobemidon hidroklorür";"-";25
+"null";"2933.39.10.00.13";" - - - - Pridostigmin bromür";"-";25
+"null";"2933.39.20.00.00";" - - -  2,3,5,6 - Tetrakloropridin";"-";25
+"null";"2933.39.25.00.00";" - - - 3,6 - Dikloropridin -2 - karboksilik asit";"-";25
+"null";"2933.39.35.00.00";" - - - 2 - Hidroksietilamonyum - 3,6 - dikloropridin -2 - karboksilat";"-";25
+"null";"2933.39.40.00.00";" - - - 2 - Bütoksietil (3,5,6 - trikloro -2 - pridiloksi) asetat";"-";25
+"null";"2933.39.45.00.00";" - - - 3,5 - Dikloro - 2,4,6 - trifloropridin";"-";25
+"null";"2933.39.50.00.00";" - - - Floroksipir (ISO), metil ester ";"-";25
+"null";"2933.39.55.00.00";" - - - 4 - Metilpridin";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"2933.39.99.00.11";" - - - - 3-Pikolin (metilpiridin)";"-";25
+"null";"2933.39.99.00.12";" - - - - Lutidinler";"-";25
+"null";"2933.39.99.00.13";" - - - - Nikotinik asit dietilamit";"-";25
+"null";"2933.39.99.00.14";" - - - - Mezoinozidol  hekzonikotinad";"-";25
+"null";"2933.39.99.00.15";" - - - - Tenaldin";"-";25
+"null";"2933.39.99.00.16";" - - - - 3-Quinüklidinil benzilat";"-";25
+"null";"2933.39.99.00.22";" - - - - Tropikamid";"-";25
+"null";"2933.39.99.00.23";" - - - -  Alphaprodine";"-";25
+"null";"2933.39.99.00.24";" - - - -  Pethidine intermediate B";"-";25
+"null";"2933.39.99.00.25";" - - - -  Pethidine intermediate C";"-";25
+"null";"2933.39.99.00.26";" - - - -  Phenazocine";"-";25
+"null";"2933.39.99.00.39";" - - - -  Diğerleri";"-";25
+"null";;" - Kinolin veya izokinolin halka sistemleri (hidrojenle doymuş olsun ";;
+"null";;"   olmasın) olan bileşikler (daha fazla halkalanmamış):";;
+"null";"2933.41";" - - Levorfanol (INN) ve tuzları :";;
+"null";"2933.41.00.00.11";" - - - Levorfanol (INN)";"-";25
+"null";"2933.41.00.00.12";" - - - Levorfanolun tuzları";"-";25
+"null";"2933.49";" - - Diğerleri:";;
+"null";;" - - - Kinolinin halojen türevleri; kinolin karboksilik asit türevleri:";;
+"null";"2933.49.10.00.11";" - - - - Diiyodhidroksi -8- kinolin";"-";25
+"null";"2933.49.10.00.12";" - - - -  İyodklorhidrokin (5-klor-8-hidroksi-7-iyodkinolin- )";"-";25
+"null";"2933.49.10.00.19";" - - - - Kinolinin diğer halojen türevleri";"-";25
+"null";"2933.49.10.00.21";" - - - - Kinolinin karboksilik asit türevleri";"-";25
+"null";"2933.49.30.00.00";" - - - Dekstrometorfan (INN) ve tuzları";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2933.49.90.00.11";" - - - - Kinolin";"-";25
+"null";"2933.49.90.00.12";" - - - - İzokinolin";"-";25
+"null";"2933.49.90.00.13";" - - - - Metilkinolin ";"-";25
+"null";"2933.49.90.00.14";" - - - - İzobutilkinolin";"-";25
+"null";"2933.49.90.00.15";" - - - - İzopropilkinolin";"-";25
+"null";"2933.49.90.00.16";" - - - - Tetrametilhidrokinolin";"-";25
+"null";"2933.49.90.00.18";" - - - - Oktaverin";"-";25
+"null";"2933.49.90.00.21";" - - - - 6,7-dimetoksi-1-(3,4,5-trietoksifenil) izokinolin";"-";25
+"null";"2933.49.90.00.29";" - - - - Diğerleri";"-";25
+"null";;" - Yapısında bir pirimidin halkası (doymuş olsun olmasın) veya ";;
+"null";;"   piperazin halkası olan bileşikler :";;
+"null";"2933.52.00.00.00";" - - Malonil üre (barbutirik asit) ve tuzları ";"-";20
+"null";"2933.53";" - - Allobarbital (INN), amobarbital (INN), barbital (INN),";;
+"null";;"     butalbital(INN), butobarbital, siklobarbital (INN),";;
+"null";;"     metilfenobarbital(INN), pentobarbital (INN), fenobarbital(INN),";;
+"null";;"     sekbutabarbital (INN), sekobarbital (INN) ve vinilbital (INN);";;
+"null";;"     bunların tuzları:";;
+"null";;" - - - Fenobarbital (INN), barbital (INN) ve tuzları :";;
+"null";"2933.53.10.00.11";" - - - - Fenobarbital (INN)";"-";20
+"null";"2933.53.10.00.12";" - - - - Fenobarbital sodyum tuzu";"-";20
+"null";"2933.53.10.00.19";" - - - - Fenobarbitalin diğer tuzları ";"-";20
+"null";"2933.53.10.00.21";" - - - - Barbital (INN)";"-";20
+"null";"2933.53.10.00.22";" - - - - Barbitalin  tuzları";"-";20
+"null";;" - - - Diğerleri :";;
+"null";"2933.53.90.00.11";" - - - - Butabarbital (INN)";"-";20
+"null";"2933.53.90.00.12";" - - - - Pentobarbital (INN)";"-";20
+"null";"2933.53.90.00.13";" - - - - Allobarbital (5,5-diallilbarbutirik asit)";"-";20
+"null";"2933.53.90.00.14";" - - - - Amobarbital (INN)";"-";20
+"null";"2933.53.90.00.15";" - - - - Siklobarbital (INN)";"-";20
+"null";"2933.53.90.00.16";" - - - - Metilfenobarbital (INN)";"-";20
+"null";"2933.53.90.00.17";" - - - - Sekbutabarbital (INN)";"-";20
+"null";"2933.53.90.00.18";" - - - - Sekobarbital (INN)";"-";20
+"null";"2933.53.90.00.21";" - - - - Vinilbital (INN)";"-";20
+"null";"2933.53.90.00.22";" - - - - Butalbital(INN)";"-";20
+"null";"2933.53.90.00.29";" - - - - Diğerleri";"-";20
+"null";"2933.54";" - - Malonil ürenin (barbutirik asit) diğer türevleri ; ";;
+"null";;"     bunların tuzları :";;
+"null";"2933.54.00.00.11";" - - -  Zopiklon (INN)";"-";20
+"null";"2933.54.00.00.12";" - - -  Mephobarbital (Prominal) (INN)";"-";20
+"null";"2933.54.00.00.13";" - - -  Methobarbital (Metil amino) (INN)";"-";20
+"null";"2933.54.00.00.14";" - - -  Proxibarbal (INN)";"-";20
+"null";"2933.54.00.00.15";" - - - Thiopental Na (INN) ";"-";20
+"null";"2933.54.00.00.19";" - - - Diğerleri";"-";20
+"null";"2933.55";" - - Loprazolam(INN), meklokualon(INN), metakualon (INN) ve";;
+"null";;"     zipeprol(INN); bunların tuzları:";;
+"null";"2933.55.00.00.11";" - - -  Loprazolam (INN)";"-";25
+"null";"2933.55.00.00.12";" - - -  Zipeprol (INN)";"-";25
+"null";"2933.55.00.00.13";" - - - Meklokualon (INN) ";"-";25
+"null";"2933.55.00.00.14";" - - - Metakualon (INN) ";"-";25
+"null";"2933.55.00.00.19";" - - - Diğerleri";"-";25
+"null";"2933.59";" - - Diğerleri:";;
+"null";"2933.59.10.00.00";" - - - Diazinon (ISO)";"-";25
+"null";"2933.59.20.00.00";" - - - 1,4 - Diazabisiklo (2,2,2) oktan (trietilendiamin)";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2933.59.95.00.11";" - - - - Piperazin (dietilendiamin)";"-";25
+"null";"2933.59.95.00.12";" - - - - Piperazin hekzahidrat";"-";25
+"null";"2933.59.95.00.13";" - - - - Piperazin hidroklorür";"-";25
+"null";"2933.59.95.00.14";" - - - - Piperazin fosfat";"-";25
+"null";"2933.59.95.00.15";" - - - - Piperazin adipat";"-";25
+"null";"2933.59.95.00.16";" - - - - Piperazin sitrat";"-";25
+"null";"2933.59.95.00.17";" - - - - Piperazin kalsiyum edatat";"-";25
+"null";"2933.59.95.00.18";" - - - - Piperazin tartarat";"-";25
+"null";"2933.59.95.00.21";" - - - - 1-Amino-4-metilpiperazin";"-";25
+"null";"2933.59.95.00.22";" - - - - 2,5-Dimetil piperazin";"-";25
+"null";"2933.59.95.00.23";" - - - - BZP (1-benzylpiperazine)";"-";25
+"null";"2933.59.95.00.24";" - - - - 1-(2 3-dichlorophenyl) piperazine";"-";25
+"null";"2933.59.95.00.28";" - - - - Piperazinin diğer tuz ve türevleri";"-";25
+"null";"2933.59.95.00.31";" - - - - Siprofloksasin";"-";25
+"null";"2933.59.95.00.32";" - - - - Pyrazophos";"-";25
+"null";"2933.59.95.00.38";" - - - - Diğerleri";"-";25
+"null";;" - Yapısında başka bir halkaya yapışmamış bir triazin halkası ";;
+"null";;"   (doymuş olsun olmasın) olan bileşikler:";;
+"null";"2933.61.00.00.00";" - - Melamin";"-";25
+"null";"2933.69";" - - Diğerleri:";;
+"null";;" - - - Atrazin (ISO); propazin (ISO); simazin (ISO), hekzahidro 1,3,5 trinitro";;
+"null";;"        1,3,5 triazin (hekzojen, trimetilentrinitramin) :";;
+"null";"2933.69.10.10.00";" - - - - Hekzojen  (trimetilentrinitramin) ";"-";15
+"null";;" - - - - Diğerleri";;
+"null";"2933.69.10.90.11";" - - - - - Atrazin";"-";25
+"null";"2933.69.10.90.12";" - - - - - Propazin";"-";25
+"null";"2933.69.10.90.13";" - - - - - Simazin";"-";25
+"null";;" - - - Metanamin (INN) (hekzametilentetramin), 2,6- Di-tert-butil-4- [4,6-bis ";;
+"null";;"       (oktiltiyo)-1,3,5-triazi-2-ylamino] fenol:";;
+"null";"2933.69.40.10.00";" - - - - Metanamin (INN) (hekzametilentetramin)";"-";15
+"null";"2933.69.40.20.00";" - - - - 2,6- Di-tert-butil-4- [4,6-bis (oktiltiyo)-1,3,5-triazi-2-ylamino] fenol";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2933.69.80.00.11";" - - - - Siyanürik asit";"-";25
+"null";"2933.69.80.00.19";" - - - - Diğerleri";"-";25
+"null";;" - Laktamlar:";;
+"null";"2933.71.00.00.00";" - - Epsilon -kaprolaktam (6 -hekzanelaktam)";"-";15
+"null";"2933.72";"  - - Klobazam(INN) ve metiprilon (INN) :";;
+"null";"2933.72.00.00.11";" - - - Klobazam (INN)";"-";15
+"null";"2933.72.00.00.12";" - - - Metiprilon (INN)";"-";15
+"null";"2933.79";" - - Diğer laktamlar :";;
+"null";"2933.79.00.00.11";" - - - İzatin ";"-";15
+"null";"2933.79.00.00.12";" - - - 2-Hidroksikinolin (karbostiril)";"-";15
+"null";"2933.79.00.00.19";" - - - Diğer laktamlar";"-";15
+"null";;" -  Diğerleri :";;
+"null";"2933.91";" - - Alprazolam(INN), camazepam(INN),klordiazepoksit (INN)";;
+"null";;"     klonezepam(INN),klorazepate, delorazepam (INN), ";;
+"null";;"    diazepam (INN),estazolam (INN), etil loflazepate (INN),";;
+"null";;"     fludiazepam (INN), flunitrazepam(INN),flurazepam (INN),";;
+"null";;"     halazepam (INN), lorazepam (INN), lormetazepam (INN),";;
+"null";;"     mazindol (INN), medazepam (INN), midazolam(INN),";;
+"null";;"      nimetazepam(INN), nitrazepam (INN), nordazepam (INN),";;
+"null";;"     okzazepam (INN), pinazepam(INN), prazepam(INN),";;
+"null";;"      provaleron (INN), temazepam (INN), tetrazepam (INN) ve";;
+"null";;"     triazolam (INN); bunların tuzları:";;
+"null";"2933.91.10.00.00";" - - - Klordiazepoksit (INN)";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2933.91.90.00.11";" - - - - Alprazolam (INN)";"-";25
+"null";"2933.91.90.00.12";" - - - - Camazepam (INN)";"-";25
+"null";"2933.91.90.00.13";" - - - - Klonezepam(INN)";"-";25
+"null";"2933.91.90.00.14";" - - - - Klorazepate ";"-";25
+"null";"2933.91.90.00.15";" - - - - Delorazepam (INN)";"-";25
+"null";"2933.91.90.00.16";" - - - - Diazepam (INN)";"-";25
+"null";"2933.91.90.00.17";" - - - - Estazolam (INN)";"-";25
+"null";"2933.91.90.00.18";" - - - - Etil loflazepate (INN)";"-";25
+"null";"2933.91.90.00.21";" - - - - Fludiazepam (INN)";"-";25
+"null";"2933.91.90.00.22";" - - - - Flunitrazepam (INN)";"-";25
+"null";"2933.91.90.00.23";" - - - - Flurazepam (INN)";"-";25
+"null";"2933.91.90.00.24";" - - - - Halazepam (INN)";"-";25
+"null";"2933.91.90.00.25";" - - - - Lorazepam (INN)";"-";25
+"null";"2933.91.90.00.26";" - - - - Lormetazepam (INN)";"-";25
+"null";"2933.91.90.00.27";" - - - - Mazindol (INN)";"-";25
+"null";"2933.91.90.00.28";" - - - - Medazepam (INN)";"-";25
+"null";"2933.91.90.00.31";" - - - - Midazolam (INN)";"-";25
+"null";"2933.91.90.00.32";" - - - - Nimetazepam (INN)";"-";25
+"null";"2933.91.90.00.33";" - - - - Pinazepam (INN)";"-";25
+"null";"2933.91.90.00.34";" - - - - Prazepam (INN)";"-";25
+"null";"2933.91.90.00.35";" - - - - Provaleron (INN)";"-";25
+"null";"2933.91.90.00.36";" - - - - Temazepam (INN)";"-";25
+"null";"2933.91.90.00.37";" - - - - Tetrazepam (INN)";"-";25
+"null";"2933.91.90.00.38";" - - - - Triazolam (INN)";"-";25
+"null";"2933.91.90.00.41";" - - - - Nitrazepam (INN)";"-";25
+"null";"2933.91.90.00.42";" - - - - Nordazepam (INN)";"-";25
+"null";"2933.91.90.00.43";" - - - - Okzazepam (INN)";"-";25
+"null";"2933.92.00.00.00";" - - Azinfos-metil (ISO)";"-";25
+"null";"2933.99";" - - Diğerleri:";;
+"null";;" - - - İndol, skatol (3 -metilindol), azepetin (6-allil -6, 7-dihidro -5 H -dibenzo";;
+"null";;"     (c,e), azepin),  fenindamin  (INN) ve bunların tuzları; imipramin ";;
+"null";;"     hidroklorür (INNM):";;
+"null";;" - - - - İndol, skatol (3-metilindol) :";;
+"null";"2933.99.20.10.11";" - - - - - İndol ve tuzları";"-";50
+"null";"2933.99.20.10.12";" - - - - - Skatol ve tuzları";"-";50
+"null";;" - - - - Diğerleri :";;
+"null";"2933.99.20.90.11";" - - - - - Azepetin ve tuzları";"-";25
+"null";"2933.99.20.90.12";" - - - - - Fenindamin ve tuzları";"-";25
+"null";"2933.99.20.90.13";" - - - - - İmipramin hidroklorür";"-";25
+"null";"2933.99.20.90.19";" - - - - - Diğerleri";"-";25
+"null";"2933.99.50.00.00";" - - - 2,4-Di-tert-butil-6-(5-klorbenzotriazol-2-yl) fenol";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"2933.99.80.10.00";" - - - - Benzimidazol-2-tiol (merkaptobenzimidazol )";"-";25
+"null";;" - - - - Diğerleri :";;
+"null";"2933.99.80.90.14";" - - - - - Monoazepinler";"-";25
+"null";"2933.99.80.90.15";" - - - - - Diazepinler";"-";25
+"null";"2933.99.80.90.16";" - - - - - Buspiron (INN)";"-";25
+"null";"2933.99.80.90.17";" - - - - - WY 3185 (Okzazepam intermedia)";"-";25
+"null";"2933.99.80.90.18";" - - - - - WY 4088 (Propozepam intermedia)";"-";25
+"null";"2933.99.80.90.21";" - - - - - İndolasetik asit";"-";25
+"null";"2933.99.80.90.22";" - - - - - İndolbutirik asit";"-";25
+"null";"2933.99.80.90.23";" - - - - - Akridin ve türevleri  ";"-";25
+"null";"2933.99.80.90.24";" - - - - - Karbazol ve türevleri";"-";25
+"null";"2933.99.80.90.25";" - - - - - Azosinler (doymuş olsun olmasın)";"-";25
+"null";"2933.99.80.90.26";" - - - - - Trihexyphenidyl (INN)";"-";25
+"null";"2933.99.80.90.27";" - - - - - Tenocyclidine (INN)";"-";25
+"null";"2933.99.80.90.28";" - - - - - Biperiden (INN)";"-";25
+"null";"2933.99.80.90.31";" - - - - - Chloramino Ketone";"-";25
+"null";"2933.99.80.90.32";" - - - - - Delta 9-Tetra hydrocannabinol";"-";25
+"null";"2933.99.80.90.33";" - - - - - Rolicyclidine (INN)";"-";25
+"null";"2933.99.80.90.34";" - - - - - Etrytamine (INN)";"-";25
+"null";"2933.99.80.90.35";" - - - - - Zolpidem tartrate ";"-";25
+"null";"2933.99.80.90.36";" - - - - - Azinphos-ethyl";"-";25
+"null";"2933.99.80.90.37";" - - - - - Chlorfenapyr";"-";25
+"null";"2933.99.80.90.38";" - - - - - Maleic hidrazin";"-";25
+"null";"2933.99.80.90.41";" - - - - - Tris-aziridinyl-phosphinoxide";"-";25
+"null";"2933.99.80.90.43";" - - - - - Benzidamin";"-";25
+"null";"2933.99.80.90.44";" - - - - - Benzidamin hidroklorür";"-";25
+"null";"2933.99.80.90.45";" - - - - - Triptofan";"-";25
+"null";"2933.99.80.90.49";" - - - - - Diğerleri";"-";25
+"null";;;;
+"null";"29.34";"Nükleik asitler ve bunların tuzları, (kimyaca belirli yapıda olsun ";;
+"null";;"olmasın); diğer heterosiklik bileşikler:";;
+"null";"2934.10";" - Yapısında başka bir halkaya yapışmamış bir tiazol halkası ";;
+"null";;"   (hidrojenle doyurulmuş olsun olmasın) olan bileşikler :";;
+"null";"2934.10.00.00.11";" - - Ultraseptil";"-";25
+"null";"2934.10.00.00.12";" - - Sibazol";"-";25
+"null";"2934.10.00.00.13";" - - 4-Tiazolin (dihidrotiazol)";"-";25
+"null";"2934.10.00.00.19";" - - Diğerleri";"-";25
+"null";"2934.20";" - Yapısında başka bir halkaya yapışmamış bir benzotiazol";;
+"null";;"   halkası (hidrojenle doyurulmuş olsun olmasın) olan bileşikler (daha fazla ";;
+"null";;"   halkalanmamış) :";;
+"null";;" - - Di (benzotiazol -2 -il) disülfür ; merkaptobenzotiazol ";;
+"null";;"     (benzotiazol -2 -tiol) ve tuzları :";;
+"null";"2934.20.20.00.11";" - - - Di (benzotiazol -2 -il) disülfür";"-";25
+"null";"2934.20.20.00.12";" - - - Merkaptobenzotiazol (benzotiazol -2 -tiol) ve tuzları";"-";25
+"null";"2934.20.80.00.00";" - - Diğerleri";"-";25
+"null";"2934.30";" - Yapısında başka bir halkaya yapışmamış bir fenotiazin halkası";;
+"null";;"   (hidrojenle doyurulmuş olsun olmasın) olan bileşikler (daha fazla halkalan-";;
+"null";;"   mamış):";;
+"null";;" - - Tietilperazin (INN); tioridazin (INN) ve tuzları :";;
+"null";"2934.30.10.00.11";" - - - Tietilperazin";"-";25
+"null";"2934.30.10.00.12";" - - - Tioridazin ";"-";25
+"null";"2934.30.10.00.13";" - - - Tioridazin tuzları";"-";25
+"null";"2934.30.90.00.00";" - - Diğerleri";"-";25
+"null";;" - Diğerleri:";;
+"null";"2934.91";" - - Aminorex(INN), brotizolam (INN), clotizepam(INN),";;
+"null";;"    cloxazolam(INN), dextromoramide(INN), haloxazolam(INN),";;
+"null";;"    ketazolam(INN), mesocarb(INN), oxazolam(INN), pemoline(INN),";;
+"null";;"    phendimetrazine(INN), phenmetrazine(INN) ve sufentanil(INN); ";;
+"null";;"    bunların tuzları :";;
+"null";"2934.91.00.00.11";" - - - Aminorex (INN) ";"-";15
+"null";"2934.91.00.00.12";" - - - Brotizolam (INN) ";"-";15
+"null";"2934.91.00.00.13";" - - - Clotiazepam (INN) ";"-";15
+"null";"2934.91.00.00.14";" - - - Cloxazolam (INN) ";"-";15
+"null";"2934.91.00.00.15";" - - - Dextromoramide  (INN) ";"-";15
+"null";"2934.91.00.00.16";" - - - Haloxazolam (INN) ";"-";15
+"null";"2934.91.00.00.17";" - - - Ketazolam (INN) ";"-";15
+"null";"2934.91.00.00.18";" - - - Mesocarb (INN) ";"-";15
+"null";"2934.91.00.00.21";" - - - Oxazolam (INN) ";"-";15
+"null";"2934.91.00.00.22";" - - - Pemoline (INN)";"-";15
+"null";"2934.91.00.00.23";" - - - Phendimetrazine (INN) ";"-";15
+"null";"2934.91.00.00.24";" - - - Sufentanil (INN) ";"-";15
+"null";"2934.91.00.00.29";" - - - Diğerleri";"-";15
+"null";"2934.92.00.00.00";" - - Diğer fentaniller ve türevleri";"-";15
+"null";"2934.99";" - - Diğerleri:";;
+"null";;" - - - Klorprotiksen (INN) ; tenalidin (INN) ve tartaratları ve maleatları; ";;
+"null";;"       Furazolidion(INN); 7-Aminosefalosporanik asit; (6 R,7R)-3-asetoksimetil-";;
+"null";;"       7-[(R)-2-formiloksi-2-fenilasetamido -8-oxo- 5-thia-1-azasiklo[4.2.0]";;
+"null";;"       oct-2-ene-2-karboksilik asidin esterleri ve tuzları; 1-[2- (1,3-Dioksan-2-yl)";;
+"null";;"       etil]-2-metilpridinyum bromür:";;
+"null";;" - - - - Klorprotiksen (INN) ; tenalidin (INN) ve tartaratları ve maleatları :";;
+"null";"2934.99.60.10.11";" - - - - - Klorprotiksen";"-";25
+"null";"2934.99.60.10.12";" - - - - - Tenalidin";"-";25
+"null";"2934.99.60.10.13";" - - - - - Tenalidin tartaratları ve maleatları";"-";25
+"null";"2934.99.60.90.00";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2934.99.90.10.00";" - - - - Sültonlar ve sültamlar";"-";15
+"null";"2934.99.90.20.00";" - - - - Tiofen";"-";25
+"null";;" - - - -  Monotinler; Nükleik asit ve tuzları :";;
+"null";"2934.99.90.30.11";" - - - - - Monotinler";"-";25
+"null";"2934.99.90.30.12";" - - - - - Nükleik asit ve tuzları ";"-";25
+"null";;" - - - - Diğerleri :";;
+"null";"2934.99.90.90.11";" - - - - - Nitrofurazon";"-";15
+"null";"2934.99.90.90.12";" - - - - - Morfolin propiyonitril";"-";15
+"null";"2934.99.90.90.13";" - - - - - Tiyokonazol";"-";15
+"null";"2934.99.90.90.14";" - - - - - Asesülfam-K (6-metil-1,2,3-okzatiasin-4(3H)";;
+"null";;"           '-one-2,2-dioksit potasyum tuzu)";"-";15
+"null";"2934.99.90.90.15";" - - - - - Chlozolinate";"-";15
+"null";"2934.99.90.90.21";" - - - - - Aspartam Asesülfam Tuzu";"-";15
+"null";"2934.99.90.90.22";" - - - - - Tianeptine ve tuzları ";"-";15
+"null";"2934.99.90.90.23";" - - - - - Thiofentanyl";"-";15
+"null";"2934.99.90.90.24";" - - - - - 4-Methyl-5-phenyl-2-oxazolidinone";"-";15
+"null";"2934.99.90.90.27";" - - - - - Diğerleri";"-";15
+"null";;;;
+"null";"29.35";"Sülfonamidler:";;
+"null";"2935.10.00.00.00";" - N-Metiylperfluorooktan sülfonamid";"-";15
+"null";"2935.20.00.00.00";" - N-Etilperfluorooktan sülfonamid";"-";15
+"null";"2935.30.00.00.00";" - N-Etil-N-(2-hidroksietil) perfluorooktan sülfonamid";"-";15
+"null";"2935.40.00.00.00";" - N-(2-Hidroksietil)-N-metilperfluorooktan sülfonamid";"-";15
+"null";"2935.50.00.00.00";" - Diğer perfluorooktan sülfonamidler";"-";15
+"null";"2935.90";" - Diğerleri:";;
+"null";"2935.90.30.00.00";" - - 3-{1-[(7-(Hekzadesilsulfonilamino)-1H-indol-3-yl]-3-oxo-1 H, 3H-nafto";;
+"null";;"    [1,8-cd]piran-1-yl}-N,N-dimetil-1H-indol-7-sulfonamid; metosulam (ISO)";"-";15
+"null";;" - - Diğerleri :";;
+"null";"2935.90.90.00.11";"- - - Sülfodiazin";"-";15
+"null";"2935.90.90.00.12";"- - - Sülfatiazol";"-";15
+"null";"2935.90.90.00.13";"- - - o-Toluen sülfonamid";"-";15
+"null";"2935.90.90.00.14";"- - - p-Sülfamilbenzamin";"-";15
+"null";"2935.90.90.00.15";"- - - p-Aminobenzensülfonamid";"-";15
+"null";"2935.90.90.00.16";"- - - Sülfopirin";"-";15
+"null";"2935.90.90.00.17";"- - - Sülfomerazin";"-";15
+"null";"2935.90.90.00.18";"- - - Sodyum sülfadimiden";"-";15
+"null";"2935.90.90.00.21";"- - - Sulfametoksazol";"-";15
+"null";"2935.90.90.00.22";"- - - Sülfizokzazol";"-";15
+"null";"2935.90.90.00.23";"- - - Asetilsülfizokzazol";"-";15
+"null";"2935.90.90.00.29";"- - - Diğerleri";"-";15
+"null";;;;
+"null";;"      XI. PROVİTAMİNLER, VİTAMİNLER VE HORMONLAR";;
+"null";;;;
+"null";"29.36";"Provitaminler ve vitaminler (tabii veya sentez yoluyla elde edil-";;
+"null";;"miş) (tabii konsantreler dahil), bunların öncelikle vitamin olarak";;
+"null";;"kullanılan türevleri ve bunların birbirleriyle olan karışımları";;
+"null";;"(herhangi bir çözelti içinde olsun olmasın) :";;
+"null";;" - Vitaminler ve bunların türevleri (karışık olmayanlar):";;
+"null";"2936.21";" - - Vitamin A ve türevleri :";;
+"null";"2936.21.00.00.11";" - - - Vitamin A ";"-";5
+"null";"2936.21.00.00.12";" - - - Vitamin A  asetat";"-";5
+"null";"2936.21.00.00.13";" - - - Vitamin A  propiyonat";"-";5
+"null";"2936.21.00.00.14";" - - - Vitamin A  palmitat";"-";5
+"null";"2936.21.00.00.15";" - - - Vitamin A  asit (retinoik asit)";"-";5
+"null";"2936.21.00.00.19";" - - - Vitamin A 'nın diğer türevleri ";"-";5
+"null";"2936.22";" - - Vitamin B1 ve türevleri :";;
+"null";"2936.22.00.00.11";" - - - Vitamin B 1 [tiamin (INN), anurin]";"-";5
+"null";"2936.22.00.00.12";" - - - Tiyamin hidroklorür";"-";5
+"null";"2936.22.00.00.13";" - - - Tiyamin mononitrat";"-";5
+"null";"2936.22.00.00.19";" - - - Vitamin B 1'in diğer türevleri";"-";5
+"null";"2936.23";" - - Vitamin B2 ve türevleri :";;
+"null";"2936.23.00.00.11";" - - - Vitamin B 2 [riboflavin (INN), lakta flavin]";"-";5
+"null";"2936.23.00.00.12";" - - - Riboflavin 5'-ortofosforik esteri";"-";5
+"null";"2936.23.00.00.13";" - - - Riboflavin 5'-ortofosfat esterinin tuzları";"-";5
+"null";"2936.23.00.00.19";" - - - Vitamin B 2'nin diğer türevleri";"-";5
+"null";"2936.24";" - - D - veya DL -Pantotenik asit (B3 vitamini veya B5 vitamini)";;
+"null";;"     ve türevleri :";;
+"null";"2936.24.00.00.11";" - - - D-veya DL-Pantotenik asit";"-";5
+"null";"2936.24.00.00.12";" - - - Sodyum pantotanat";"-";5
+"null";"2936.24.00.00.13";" - - - Kalsiyum pantotanat";"-";5
+"null";"2936.24.00.00.19";" - - - Vitamin B 3 veya B 5'in diğer türevleri ";"-";5
+"null";"2936.25";" - - Vitamin B 6 ve türevleri :";;
+"null";"2936.25.00.00.11";" - - - Vitamin B 6 [piridoksin (INN), adermin,piridoksol]";"-";5
+"null";"2936.25.00.00.12";" - - - Piridoksin hidroklorür";"-";5
+"null";"2936.25.00.00.19";" - - - Vitamin B 6'nın diğer türevleri";"-";5
+"null";"2936.26";" - - Vitamin B 12 ve türevleri :";;
+"null";"2936.26.00.00.11";" - - - Vitamin B 12 [siyonokobalamin (INN) ] ";"-";5
+"null";"2936.26.00.00.12";" - - - Hidroksi kobalamin";"-";5
+"null";"2936.26.00.00.19";" - - - Vitamin B 12'nin diğer türevleri";"-";5
+"null";"2936.27";" - - Vitamin C ve türevleri :";;
+"null";"2936.27.00.00.11";" - - - Vitamin C [L-veya DL-askorbik asit (INN) ]";"-";5
+"null";"2936.27.00.00.12";" - - - Sodyum askorbat";"-";5
+"null";"2936.27.00.00.13";" - - - Kalsiyum askorbat";"-";5
+"null";"2936.27.00.00.19";" - - - Vitamin C'nin diğer türevleri";"-";5
+"null";"2936.28";" - - Vitamin E ve türevleri :";;
+"null";"2936.28.00.00.11";" - - - Vitamin E (tokoferol)";"-";5
+"null";"2936.28.00.00.12";" - - - Tokoferil asetat";"-";5
+"null";"2936.28.00.00.13";" - - - Disodyum tokoferil fosfat";"-";5
+"null";"2936.28.00.00.19";" - - - Vitamin E'nin diğer türevleri";"-";5
+"null";"2936.29";" - - Diğer vitaminler ve türevleri:";;
+"null";;" - - - Vitamin B 9 ve türevleri :";;
+"null";"2936.29.00.00.11";" - - - - Vitamin B 9 [ folikasit (INN) veya fitoroilglutamik asit]";"-";5
+"null";"2936.29.00.00.12";" - - - - Vitamin B 9'un türevleri";"-";5
+"null";;" - - - Vitamin H ve türevleri :";;
+"null";"2936.29.00.00.21";" - - - - Vitamin H (biyotin)";"-";5
+"null";"2936.29.00.00.22";" - - - - Vitamin H'nin türevleri";"-";5
+"null";;" - - - Diğerleri :";;
+"null";"2936.29.00.00.31";" - - - - Vitamin K (fitomenadion (INN) )";"-";5
+"null";"2936.29.00.00.32";" - - - - Vitamin K'nın türevleri";"-";5
+"null";"2936.29.00.00.33";" - - - - Vitamin PP (nikotinamit (INN) )";"-";5
+"null";"2936.29.00.00.34";" - - - - Nikotinik asit (INN)";"-";5
+"null";"2936.29.00.00.39";" - - - - Vitamin PP'nin diğer türevleri";"-";5
+"null";"2936.29.00.00.41";" - - - - Vitamin D 2 [kalsifenol,ergokalsifenol (ergosterol) ]";"-";5
+"null";"2936.29.00.00.42";" - - - - Vitamin D 3 (7-dehidrokollesterol)   ";"-";5
+"null";"2936.29.00.00.43";" - - - - Vitamin D 4 (22,23-dihidroergesterol) ";"-";5
+"null";"2936.29.00.00.44";" - - - - Vitamin D 5 (7-dehidro-beta stosterol)";"-";5
+"null";"2936.29.00.00.45";" - - - - Vitamin D'nin türevleri";"-";5
+"null";"2936.29.00.00.46";" - - - - Vitamin A+D3";"-";5
+"null";"2936.29.00.00.49";" - - - - Diğer vitaminler ve türevleri";"-";5
+"null";"2936.90";" - Diğerleri (tabii konsantreler dahil):";;
+"null";"2936.90.00.10.00";" - - Provitaminler (karışık olmayanlar)";"-";5
+"null";;" - - Diğerleri :";;
+"null";"2936.90.00.90.11";" - - - A+D vitaminlerinin tabii konsantreleri";"-";5
+"null";"2936.90.00.90.19";" - - - Diğer tabii konsantreler";"-";5
+"null";"2936.90.00.90.29";" - - - Diğerleri";"-";5
+"null";;",";" ";
+"null";"29.37";"Hormonlar, prostaglandinler, thromboxanlar ve ";;
+"null";;"leukotrienler (tabii veya sentez yolu ile elde edilmiş); bunların ";;
+"null";;"öncelikle hormon olarak kullanılan türevleri ve benzeri yapıdakiler";;
+"null";;"(structural analogues), tadil edilmiş zincir  polipeptidler (chain ";;
+"null";;"modified polypeptides) dahil :";;
+"null";;" - Polipeptid hormonları, protein hormonları ve glikoprotein";;
+"null";;"   hormonları, bunların türevleri ve benzeri yapıdakiler:";;
+"null";"2937.11.00.00.00";" - -Somatotrapin, bunların türevleri ve benzeri yapıdakiler";"Gr";5
+"null";"2937.12";" - -Ensülin ve tuzları :";;
+"null";"2937.12.00.10.00";" - - - Ensülin";"Gr";0
+"null";"2937.12.00.20.00";" - - - Ensülin  tuzları";"Gr";5
+"null";;" - - Diğerleri :";;
+"null";"2937.19.00.00.11";" - - - Hipofiz ön lobu hormonları";"Gr";5
+"null";"2937.19.00.00.12";" - - - Hipofiz arka lobu hormonları";"Gr";5
+"null";"2937.19.00.00.19";" - - - Diğerleri";"Gr";5
+"null";;"-Steroidal hormonlar, bunların türevleri ve benzeri yapıdakiler:";;
+"null";"2937.21";" - - Kortizon, hidrokortizon, prednizon (dehidrokortizon) ve";;
+"null";;"     prednizolon (dehidrohidrokortizon) :";;
+"null";"2937.21.00.00.11";" - - - Kortizon";"Gr";5
+"null";"2937.21.00.00.12";" - - - Hidrokortizon";"Gr";5
+"null";"2937.21.00.00.13";" - - - Prednizon (dehidrokortizon)";"Gr";5
+"null";"2937.21.00.00.14";" - - - Prednizolon (dehidrohidrokortizon)";"Gr";5
+"null";"2937.22.00.00.00";" - - Kortikosteroidal hormonlarının halojenlenmiş türevleri";"Gr";5
+"null";;" - - Ostrojenler ve projestojenler :";;
+"null";"2937.23.00.00.11";" - - - Ostrojenler";"Gr";5
+"null";"2937.23.00.00.12";" - - - Projestojenler (Over hormonlar)";"Gr";5
+"null";;" - - Diğerleri :";;
+"null";"2937.29.00.00.11";" - - - Adrenal hormonları";"Gr";5
+"null";"2937.29.00.00.12";" - - - Testiküler hormonları";"Gr";5
+"null";"2937.29.00.00.19";" - - - Diğerleri";"Gr";5
+"null";"2937.50.00.00.00";" - Prostaglandinler, thromboxanlar ve leukotrienler,";;
+"null";;"   bunların türevleri ve benzeri yapıdakiler";"Gr";5
+"null";"2937.90.00.00.00";" - Diğerleri";"Gr";5
+"null";;;;
+"null";;"    XII. GLİKOZİTLER VE ALKALOİDLER (TABİİ VEYA";;
+"null";;"          SENTEZ YOLU İLE ELDE EDİLMİŞ) VE BUNLARIN TUZLARI, ";;
+"null";;"          ETERLERİ, ESTERLERİ VE DİĞER TÜREVLERİ";;
+"null";;;;
+"null";"29.38";"Glikozitler (tabii veya sentez yolu ile elde edilmiş) ve bunların ";;
+"null";;"tuzları, eterleri, esterleri ve diğer türevleri:";;
+"null";"2938.10";" - Rutosid (rutin) ve türevleri :";;
+"null";"2938.10.00.00.11";" - - Rutosid (rutin)";"-";5
+"null";"2938.10.00.00.12";" - - Rutosid türevleri";"-";5
+"null";"2938.90";" - Diğerleri:";" ";
+"null";;" - - Dijital glikozitler :";" ";
+"null";"2938.90.10.00.11";" - - - Dijitoksin  ";"-";5
+"null";"2938.90.10.00.19";" - - - Diğerleri";"-";5
+"null";"2938.90.30.00.00";" - - Gliserizik asit (glisirizin) ve gliserizatlar";"-";5
+"null";;" - - Diğerleri :";" ";
+"null";"2938.90.90.10.00";" - - - Saponinler";"-";25
+"null";;" - - - Diğerleri :";" ";
+"null";"2938.90.90.90.11";" - - - - Strofantin";"-";5
+"null";"2938.90.90.90.12";" - - - - Arbutin";"-";5
+"null";"2938.90.90.90.13";" - - - - Amigdalin ";"-";5
+"null";"2938.90.90.90.14";" - - - - Neohesperidin dihidrokalkon (NHDC)";"-";5
+"null";"2938.90.90.90.15";" - - - - Steviol glikozitler";"-";5
+"null";"2938.90.90.90.19";" - - - - Diğerleri";"-";5
+"null";;;;
+"null";"29.39";"Alkaloidler (tabii veya sentez yolu ile elde edilmiş),";;
+"null";;"bunların tuzları, eterleri, esterleri ve diğer türevleri:";;
+"null";;" - Afyon alkaloidleri ve bunların türevleri; bunların tuzları";;
+"null";"2939.11";" - - Haşhaş sapı konsantreleri; buprenorfin(INN), kodein,";;
+"null";;"  dihidrokodein(INN), etil morfin, etorfin(INN), eroin,";;
+"null";;"  hidrokodon (INN) hidromorfin(INN), morfin, nikomorfin(INN),";;
+"null";;"  oksikodon(INN), oksimorfon(INN), folkodin (INN), tebakon(INN) ";;
+"null";;"   ve tebain; bunların tuzları :";;
+"null";"2939.11.00.00.11";" - - - Haşhaş sapı konsantreleri";"-";15
+"null";"2939.11.00.00.12";" - - - Morfin";"-";15
+"null";"2939.11.00.00.13";" - - - Diasetil morfin (eroin)";"-";15
+"null";"2939.11.00.00.14";" - - - Etil morfin";"-";15
+"null";"2939.11.00.00.15";" - - -  Kodein";"-";15
+"null";"2939.11.00.00.16";" - - - Tebain";"-";15
+"null";"2939.11.00.00.17";" - - - Buprenorphine (INN)";"-";15
+"null";"2939.11.00.00.18";" - - -  Dihydrokodeine (INN)";"-";15
+"null";"2939.11.00.00.21";" - - - Etorphine (INN)";"-";15
+"null";"2939.11.00.00.22";" - - - Hydrocodone  (INN)";"-";15
+"null";"2939.11.00.00.23";" - - - Hydromorphone (INN)";"-";15
+"null";"2939.11.00.00.24";" - - - Nicomorphine  (INN)";"-";15
+"null";"2939.11.00.00.25";" - - - Oxycodone(INN)";"-";15
+"null";"2939.11.00.00.26";" - - - Oxymorphone (INN)";"-";15
+"null";"2939.11.00.00.27";" - - - Pholcodine (INN)";"-";15
+"null";"2939.11.00.00.28";" - - - Thebacon (INN)";"-";15
+"null";"2939.11.00.00.31";" - - - Morfin sülfat";"-";15
+"null";"2939.11.00.00.32";" - - - Morfin hidroklorür";"-";15
+"null";"2939.11.00.00.39";" - - - Diğerleri";"-";15
+"null";"2939.19";" - - Diğerleri :";;
+"null";"2939.19.00.00.11";" - - - Narsein";"-";15
+"null";"2939.19.00.00.12";" - - - Narkotin (noskapin (INN) )";"-";15
+"null";"2939.19.00.00.13";" - - - Papaverin";"-";15
+"null";"2939.19.00.00.14";" - - - Apomorfin";"-";15
+"null";"2939.19.00.00.15";" - - - Oripavine";"-";15
+"null";"2939.19.00.00.16";" - - - Acetorphine";"-";15
+"null";"2939.19.00.00.29";" - - - Diğerleri";"-";15
+"null";"2939.20";" - Kınakına alkaloidleri ve bunların türevleri: bunların tuzları";;
+"null";;" - - Kinin ve tuzları:";;
+"null";"2939.20.00.10.11";" - - - Kinin";"-";0
+"null";"2939.20.00.10.12";" - - - Kinin sülfat";"-";0
+"null";"2939.20.00.10.19";" - - - Diğerleri";"-";0
+"null";;" - - Diğerleri :";;
+"null";"2939.20.00.90.11";" - - - Barbiturate de kinidin";"-";15
+"null";"2939.20.00.90.19";" - - - Diğerleri";"-";15
+"null";"2939.30";" - Kafein ve tuzları :";;
+"null";"2939.30.00.00.11";" - - Kafein ";"-";15
+"null";"2939.30.00.00.12";" - - Kafein  tuzları";"-";15
+"null";;" - Efedra ve türevlerinin alkoloidleri; bunların tuzları:";" ";
+"null";"2939.41";" - - Efedrin ve tuzları :";" ";
+"null";"2939.41.00.00.11";" - - - Efedrin";"-";15
+"null";"2939.41.00.00.12";" - - - Efedrin hidroklorür";"-";15
+"null";"2939.41.00.00.19";" - - - Efedrinin diğer tuzları";"-";15
+"null";"2939.42";" - - Pseudoefedrin (INN) ve tuzları :";" ";
+"null";"2939.42.00.00.11";" - - - Pseudoefedrin";"-";15
+"null";"2939.42.00.00.12";" - - - Pseudoefedrinin tuzları";"-";15
+"null";"2939.43";" - -Kathin (INN) ve tuzları :";;
+"null";"2939.43.00.00.11";" - - - Katin (INN) ";"-";15
+"null";"2939.43.00.00.12";" - - - Katinin tuzları";"-";15
+"null";"2939.44.00.00.00";" - - Norephedrine ve bunların tuzları";"-";15
+"null";"2939.45.00.00.00";" - - Levometamfetamin, metamfetamin (INN), metamfetamin rasemat ve tuzları";"-";15
+"null";"2939.49";" - - Diğerleri :";" ";
+"null";"2939.49.00.00.11";" - - - Metilefedrin";"-";15
+"null";"2939.49.00.00.13";" - - - Metanfetamin ";"-";15
+"null";"2939.49.00.00.15";" - - - Barbexaclon";"-";15
+"null";"2939.49.00.00.19";" - - - Diğerleri";"-";15
+"null";;" - Teofilin ve aminofilin (teofilin -etilendiamin) ve bunların türev-";" ";
+"null";;"    leri, tuzları:";" ";
+"null";"2939.51";" - - Fenetilin (INN) ve tuzları :";;
+"null";"2939.51.00.00.11";" - - - Fenetilin (INN)";"-";15
+"null";"2939.51.00.00.12";" - - - Fenetilinin tuzları";"-";15
+"null";"2939.59";" - - Diğerleri :";;
+"null";"2939.59.00.00.11";" - - - Teofilin ve aminofilin ve tuzları ";"-";15
+"null";"2939.59.00.00.12";" - - - Dimenhidrinat";"-";15
+"null";"2939.59.00.00.19";" - - - Diğerleri";"-";15
+"null";;" - Çavdar mahmuzu alkaloidleri ve bunların türevleri; bunların ";" ";
+"null";;"   tuzları :";" ";
+"null";"2939.61.00.00.00";" - - Ergometrin (INN) ve tuzları";"-";15
+"null";"2939.62.00.00.00";" - - Ergotamin (INN) ve tuzları";"-";15
+"null";"2939.63.00.00.00";" - - Liserjik asit ve tuzları";"-";15
+"null";"2939.69";" - - Diğerleri :";" ";
+"null";"2939.69.00.00.11";" - - - Ergokristin";"-";15
+"null";"2939.69.00.00.12";" - - - Ergotoksin";"-";15
+"null";"2939.69.00.00.13";" - - - Methyl ergometrine (methyl ergonovine) (methyl ergobasine) ve tuzları";"-";15
+"null";"2939.69.00.00.19";" - - - Diğerleri";"-";15
+"null";;" - Diğerleri, bitkisel kökenli olanlar:";;
+"null";"2939.72";" - - Kokain, ekgonin; bunların tuzları, esterleri ve diğer türevleri:";;
+"null";;" - - - Kokain ve tuzları:";;
+"null";"2939.72.00.00.11";" - - - - Ham kokain";"-";15
+"null";;" - - - - Diğerleri :";;
+"null";"2939.72.00.00.21";" - - - - - Ekgonin";"-";15
+"null";"2939.72.00.00.29";" - - - - - Diğerleri";"-";15
+"null";"2939.72.00.00.39";" - - - Diğerleri";"-";15
+"null";"2939.79";" - - Diğerleri:";;
+"null";"2939.79.10.00.00";" - - - Nikotin ve tuzları, eterleri, esterleri ve diğer türevleri";"-";15
+"null";;" - - - Diğerleri";;
+"null";"2939.79.90.10.00";" - - - - Teobramin";"-";15
+"null";;" - - - - Diğerleri :";;
+"null";"2939.79.90.90.11";" - - - - - Piperin";"-";15
+"null";"2939.79.90.90.12";" - - - - - Atropin";"-";15
+"null";"2939.79.90.90.13";" - - - - - Homatropin";"-";15
+"null";"2939.79.90.90.14";" - - - - - Pilokarpin";"-";15
+"null";"2939.79.90.90.15";" - - - - - Hiyosiyamin";"-";15
+"null";"2939.79.90.90.16";" - - - - - Ezerin";"-";15
+"null";"2939.79.90.90.17";" - - - - - Hiyosin (skopolamin)";"-";15
+"null";"2939.79.90.90.18";" - - - - - Rezerpin ";"-";15
+"null";"2939.79.90.90.21";" - - - - - Teobromin türevleri";"-";15
+"null";"2939.79.90.90.22";" - - - - - Psilocybine";"-";15
+"null";"2939.79.90.90.23";" - - - - - Psicain Neu";"-";15
+"null";"2939.79.90.90.24";" - - - - - Chloro(pseudo)ephedrine(1-chloro-1-phenyl-2-methylamino-propane)";;
+"null";;"             (baz veya HCl)";"-";15
+"null";"2939.79.90.90.29";" - - - - - Diğerleri";"-";15
+"null";"2939.80.00.00.00";" - Diğerleri ";"-";15
+"null";;"                        XIII. DİĞER ORGANİK BİLEŞİKLER";;
+"null";;;;
+"null";"29.40";"Kimyaca saf şekerler (sakkaroz, laktoz, maltoz, glikoz ve fruktoz";;
+"null";;"hariç); şeker eterleri, asetalleri, esterleri ve bunların tuzları ";;
+"null";;" (29.37, 29.38 veya 29.39 pozisyonlarındaki ürünler hariç):";;
+"null";"2940.00.00.00.11";" - Ramnoz, rafinoz, mannoz";"-";35
+"null";"2940.00.00.00.12";" - Maltilol ((α)-D-Glukopiranozil-1,4-D-glusitol)";"-";35
+"null";"2940.00.00.00.13";" - Laktilol ((4-O-β-D-Galaktopiranozil-D-glusitol)";"-";35
+"null";"2940.00.00.00.14";" - İzomalt";"-";35
+"null";"2940.00.00.00.18";" - Diğerleri";"-";35
+"null";;;;
+"null";"29.41";"Antibiyotikler:";;
+"null";"2941.10";" - Penisilinler ve penisilanik asit yapısındaki türevleri;bunların ";;
+"null";;"   tuzları :";;
+"null";;" - - Amoksilin (INN) ve tuzları :";;
+"null";"2941.10.00.00.11";" - - - Amoksilin trihydrate";"-";0
+"null";"2941.10.00.00.12";" - - - Amoksilin anhydrous";"-";0
+"null";"2941.10.00.00.13";" - - - Amoksilin sodium";"-";0
+"null";"2941.10.00.00.19";" - - - Amoksilinin diğer tuzları";"-";0
+"null";;" - - Ampisilin (INN), metampisilin (INN), pivampisilin(INN) ve bunların tuzları :";" ";
+"null";"2941.10.00.00.21";" - - - Ampisilin trihydrate";"-";0
+"null";"2941.10.00.00.22";" - - - Ampisilin anhydrous";"-";0
+"null";"2941.10.00.00.23";" - - - Ampisilin sodium";"-";0
+"null";"2941.10.00.00.24";" - - - Steril ampisilin sodium";"-";0
+"null";"2941.10.00.00.25";" - - - Ampisilin+Betalaktamaz inhibitörleri";"-";0
+"null";"2941.10.00.00.29";" - - - Diğerleri";"-";0
+"null";;" - - Diğerleri :";" ";
+"null";"2941.10.00.00.31";" - - - Azidocillin sodium";"-";0
+"null";"2941.10.00.00.32";" - - - Piperacillin monohydrate";"-";0
+"null";"2941.10.00.00.33";" - - - Indanyl carbenicillin sodium";"-";0
+"null";"2941.10.00.00.34";" - - - Sultamycillin tosylat";"-";0
+"null";"2941.10.00.00.35";" - - - Sultamycillin base";"-";0
+"null";"2941.10.00.00.39";" - - - Diğerleri";"-";0
+"null";"2941.20";" - Streptomisinler ve türevleri; bunların tuzları:";" ";
+"null";"2941.20.30.00.00";" - - Dihidrostreptomisin tuzları, esterleri ve hidratları";"-";0
+"null";"2941.20.80.00.00";" - - Diğerleri";"-";0
+"null";"2941.30";" - Tetrasiklinler ve türevleri; bunların tuzları :";" ";
+"null";"2941.30.00.00.11";" - - Tetrasiklin ";"-";0
+"null";"2941.30.00.00.12";" - - Tetrasiklin HCI";"-";0
+"null";"2941.30.00.00.13";" - - Tetrasiklin phosphate";"-";0
+"null";"2941.30.00.00.14";" - - Oxytetrasiklin";"-";0
+"null";"2941.30.00.00.15";" - - Oxytetrasiklin HCI";"-";0
+"null";"2941.30.00.00.16";" - - Chlortetrasiklin";"-";0
+"null";"2941.30.00.00.17";" - - Chlortetrasiklin HCI";"-";0
+"null";"2941.30.00.00.19";" - - Diğerleri";"-";0
+"null";"2941.40";" - Kloramfenikol ve türevleri; bunların tuzları :";" ";
+"null";"2941.40.00.00.11";" - - Kloramfenikol";"-";0
+"null";"2941.40.00.00.12";" - - Kloramfenikol palmitat";"-";0
+"null";"2941.40.00.00.13";" - - Kloramfenikol pentatonat";"-";0
+"null";"2941.40.00.00.19";" - - Diğerleri";"-";0
+"null";"2941.50";" - Erithromisin ve türevleri; bunların tuzları :";" ";
+"null";"2941.50.00.00.11";" - - Erithromisin";"-";0
+"null";"2941.50.00.00.12";" - - Erithromisin estolate";"-";0
+"null";"2941.50.00.00.13";" - - Erithromisin ethyl succinate";"-";0
+"null";"2941.50.00.00.14";" - - Erithromisin stearate";"-";0
+"null";"2941.50.00.00.19";" - - Diğerleri";"-";0
+"null";"2941.90";" - Diğerleri :";" ";
+"null";"2941.90.00.00.11";" - - Tirotrisin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.12";" - - Basitrasin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.13";" - - Neomisin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.14";" - - Polimiksin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.15";" - - Kanomisin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.16";" - - Viomisin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.17";" - - Sikloserin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.18";" - - Kolimisin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.21";" - - Groseofülvin ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.22";" - - Gentamisin";"-";0
+"null";"2941.90.00.00.23";" - - Gentamisin sülfat";"-";0
+"null";"2941.90.00.00.29";" - - Gentamisin'in diğer türevleri;bunların tuzları ";"-";0
+"null";"2941.90.00.00.31";" - - Linkomisin ";"-";0
+"null";"2941.90.00.00.32";" - - Linkomisin HCI";"-";0
+"null";"2941.90.00.00.39";" - - Linkomisin'in diğer türevleri;bunların tuzları ";"-";0
+"null";"2941.90.00.00.41";" - - Rifampisin";"-";0
+"null";"2941.90.00.00.42";" - - Rifampisin'in türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.43";" - - Sefradin";"-";0
+"null";"2941.90.00.00.44";" - - Sefradin monohidrat";"-";0
+"null";"2941.90.00.00.45";" - - Sefaleksin monohidrat";"-";0
+"null";"2941.90.00.00.46";" - - Sefradoksil monohidrat ";"-";0
+"null";"2941.90.00.00.47";" - - Sefuroksim aksetil";"-";0
+"null";"2941.90.00.00.48";" - - Diğer sefalosporinler ve türevleri;bunların tuzları";"-";0
+"null";"2941.90.00.00.51";" - - Netilmisin sülfat";"-";0
+"null";"2941.90.00.00.59";" - - Diğerleri";"-";0
+"null";"2942.00";"Diğer organik bileşikler :";" ";
+"null";"2942.00.00.00.11";"- Keten";"-";15
+"null";"2942.00.00.00.12";"- Difenilketen";"-";15
+"null";"2942.00.00.00.19";"- Diğer ketenler";"-";15
+"null";"2942.00.00.00.21";"- Bakır asetoarsenit";"-";15
+"null";"2942.00.00.00.29";"- Diğer organik bileşikler";"-";15

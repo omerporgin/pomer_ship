@@ -1,0 +1,160 @@
+﻿"null";"4201.00.00.00.00";"Her tür hayvan için saraciye eşyası, eyer ve koşum takımları";;
+"null";;"(koşum kayışları, yularlar, dişlikler, burunsalıklar, eyer örtüleri,";;
+"null";;"eyer torbaları, köpek elbiseleri ve benzerleri) (imal edildiği ";;
+"null";;"madde ne olursa olsun)";"-";150
+"null";;;;
+"null";"42.02";"Sandıklar, bavullar, valizler, makyaj valizleri, evrak-iş çantaları, okul çantaları,";;
+"null";;"gözlük kılıfları, dürbün mahfazaları, fotoğraf makinası mahfazası,";;
+"null";;"müzik aletleri mahfazaları, silah ve tabanca mahfazaları ve benzeri";;
+"null";;"mahfazalar; tabii veya terkip yoluyla elde edilen deri ve köseleden,";;
+"null";;"plastik madde yapraklarından, dokumaya elverişli maddelerden,";;
+"null";;"vulkanize edilmiş liflerden, kartondan yapılmış veya tamamen yahut";;
+"null";;"kısmen bu maddelerle veya kağıtla kaplanmış seyahat çantaları, ";;
+"null";;"izole edilmiş yiyecek veya içecek torbaları, tuvalet çantaları,sırt çantaları";;
+"null";;"el çantaları, erzak çantaları,portföyler, para keseleri, harita ve kimlik  ";;
+"null";;"mahfazaları, sigara kutuları, tabaka ve tütün kese ve kutuları";;
+"null";;"takım çantaları, spor çantaları, şişe mahfazaları, mücevher kutuları,";;
+"null";;" pudra -baharat -barut kutuları, bıçak kılıfları ve benzeri mahfazalar:";;
+"null";;;;
+"null";;" - Sandıklar, bavullar, valizler, evrak çantaları, okul çantaları ve";;
+"null";;"   benzeri mahfazalar:";;
+"null";"4202.11";" - - Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele -";;
+"null";;"     den veya rugandan olanlar:";;
+"null";;" - - - Evrak çantaları, okul çantaları ve benzeri mahfazalar";;
+"null";"4202.11.10.00.11";" - - - - Tabii deri ve köseleden olanlar";"Adet";150
+"null";"4202.11.10.00.12";" - - - - Terkip yoluyla elde edilen deri ve köseleden olanlar";"Adet";150
+"null";"4202.11.10.00.13";" - - - - Rugandan olanlar";"Adet";150
+"null";;" - - - Diğerleri";;
+"null";"4202.11.90.00.11";" - - - - Tabii deri ve köseleden olanlar";"-";150
+"null";"4202.11.90.00.12";" - - - - Terkip yoluyla elde edilen deri ve köseleden olanlar";"-";150
+"null";"4202.11.90.00.13";" - - - - Rugandan olanlar";"-";150
+"null";"4202.12";" - - Dış yüzleri plastikten veya dokumaya elverişli maddelerden";;
+"null";;"     olanlar :";;
+"null";;" - - - Plastik madde yapraklarından yapılmış olanlar:";;
+"null";"4202.12.11.00.00";" - - - - Evrak çantaları,okul çantaları ve benzeri mahfazalar";"Adet";150
+"null";"4202.12.19.00.00";" - - - - Diğerleri";"-";150
+"null";"4202.12.50.00.00";" - - - Kalıplanmış plastik maddelerden yapılmış olanlar";"-";150
+"null";;" - - - Diğer maddelerden yapılmış olanlar (vulkanize edilmiş liflerden ";;
+"null";;"        yapılmış olanlar dahil):";;
+"null";;" - - - - Evrak çantaları, okul çantaları ve benzeri mahfazalar:";;
+"null";"4202.12.91.10.00";" - - - - - Elastiki veya kauçuklu olmayan örme eşyadan olanlar";"Adet";100
+"null";"4202.12.91.90.00";" - - - - - Diğerleri";"Adet";150
+"null";;" - - - - Diğerleri:";;
+"null";"4202.12.99.10.00";" - - - - - Elastiki veya kauçuklu olmayan örme eşyadan olanlar";"-";100
+"null";"4202.12.99.90.00";" - - - - - Diğerleri";"-";150
+"null";"4202.19";" - - Diğerleri :";;
+"null";"4202.19.10.00.00";" - - - Aluminyumdan olanlar";"-";50
+"null";;" - - - Diğer maddelerden olanlar:";;
+"null";"4202.19.90.10.00";" - - - - Ahşaptan veya nikelden olanlar ";"-";60
+"null";"4202.19.90.30.00";" - - - - Demir döküm ,demir veya çelikten veya çinkodan olanlar";"-";50
+"null";"4202.19.90.50.00";" - - - - Bakırdan olanlar";"-";40
+"null";"4202.19.90.90.00";" - - - - Diğerleri";"-";150
+"null";;" - El çantaları (omuzda taşımak için kayışları olsun olmasın) (sapsız";;
+"null";;"   olanlar dahil):";;
+"null";"4202.21.00.00.00";" - - Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele -";;
+"null";;"     den veya rugandan olanlar";"Adet";150
+"null";"4202.22";" - - Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya";;
+"null";" ";"     elverişli maddelerden olanlar:";;
+"null";"4202.22.10.00.00";" - - - Plastikten mamul madde yapraklarından yapılmış olanlar";"Adet";150
+"null";" ";" - - - Dokumaya elverişli maddelerden olanlar:";;
+"null";"4202.22.90.10.00";" - - - - Elastiki veya kauçuklu olmayan örme eşyadan olanlar";"Adet";100
+"null";"4202.22.90.90.00";" - - - - Diğerleri";"Adet";150
+"null";"4202.29.00.00.00";" - - Diğerleri";"Adet";150
+"null";;" - Normal olarak cepte veya el çantasında taşınan eşya:";;
+"null";"4202.31.00.00.00";" - - Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele -";;
+"null";;"     den veya rugandan olanlar";"-";150
+"null";"4202.32";" - - Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya";;
+"null";;"     elverişli maddelerden olanlar:";;
+"null";"4202.32.10.00.00";" - - - Plastikten mamul madde yapraklarından yapılmış olanlar";"-";150
+"null";;" - - - Dokumaya elverişli maddelerden olanlar:";;
+"null";"4202.32.90.10.00";" - - - - Elastiki veya kauçuklu olmayan örme eşyadan olanlar";"-";100
+"null";"4202.32.90.90.00";" - - - - Diğerleri";"-";150
+"null";"4202.39";" - - Diğerleri:";;
+"null";"4202.39.00.10.00";" - - - Aluminyumdan, demir döküm veya çelikten veya çinkodan olanlar";"-";50
+"null";"4202.39.00.20.00";" - - - Ahşap olanlar";"-";70
+"null";"4202.39.00.30.00";" - - - Bakırdan olanlar";"-";40
+"null";"4202.39.00.40.00";" - - - Nikelden olanlar";"-";60
+"null";"4202.39.00.50.00";" - - - İşlenmiş bağa, sedef, fildişi, kemik, her nevi boynuz, mercan (tabii ";;
+"null";;"        veya aglomere edilmiş) ve yontulmaya elverişli diğer hayvansal ";;
+"null";;"        maddelerden olanlar";"-";100
+"null";"4202.39.00.60.00";" - - - İşlenmiş yontulmaya elverişli bitkisel ve mineral maddelerden olanlar";"-";100
+"null";"4202.39.00.90.00";" - - - Diğerleri";"-";150
+"null";;" - Diğerleri:";" ";
+"null";"4202.91";" - - Dış yüzleri tabii veya terkip yoluyla elde edilen deri ve kösele -";" ";
+"null";;"     den veya rugandan olanlar:";;
+"null";;" - - - Seyahat çantaları, tuvalet çantaları, sırt çantaları, spor çantaları";;
+"null";"4202.91.10.00.11";" - - - - Tabii deri ve köseleden olanlar";"-";150
+"null";"4202.91.10.00.12";" - - - - Terkip yoluyla elde edilen  deri ve köseleden olanlar";"-";150
+"null";"4202.91.10.00.13";" - - - - Rugandan olanlar";"-";150
+"null";"4202.91.80.00.00";" - - - Diğerleri";"-";150
+"null";"4202.92";" - - Dış yüzleri plastikten mamul madde yapraklarından veya dokumaya";;
+"null";;"     elverişli maddelerden olanlar:";;
+"null";;" - - - Plastikten mamul madde yapraklarından yapılmış olanlar :";;
+"null";"4202.92.11.00.00";" - - - - Seyahat çantaları, tuvalet çantaları, sırt çantaları,spor çantaları";"-";150
+"null";"4202.92.15.00.00";" - - - - Müzik aletleri mahfazaları";"-";150
+"null";"4202.92.19.00.00";" - - - - Diğerleri";"-";150
+"null";;" - - - Dokumaya elverişli maddelerden olanlar:";" ";
+"null";;" - - - - Seyahat çantaları, tuvalet çantaları, sırt çantaları,spor çantaları :";;
+"null";"4202.92.91.10.00";" - - - - - Elastiki veya kauçuklu olmayan örme eşyadan ve mensucattan ";;
+"null";;"            olanlar";"-";100
+"null";"4202.92.91.90.00";" - - - - - Diğerleri";"-";150
+"null";" ";" - - - - Diğerleri:";;
+"null";"4202.92.98.10.00";" - - - - - Elastiki veya kauçuklu olmayan örme eşyadan ve mensucattan ";;
+"null";;"            olanlar";"-";100
+"null";"4202.92.98.90.00";" - - - - - Diğerleri";"-";150
+"null";"4202.99";" - - Diğerleri:";;
+"null";"4202.99.00.10.00";" - - - Aluminyumdan, demir döküm veya çelikten veya çinkodan olanlar";"-";50
+"null";"4202.99.00.20.00";" - - - Ahşap olanlar";"-";70
+"null";"4202.99.00.30.00";" - - - Bakırdan olanlar";"-";40
+"null";"4202.99.00.40.00";" - - - Nikelden olanlar";"-";60
+"null";"4202.99.00.50.00";" - - - İşlenmiş bağa, sedef, fildişi, kemik, her nevi boynuz, mercan (tabii ";;
+"null";;"        veya aglomere edilmiş) ve yontulmaya elverişli diğer hayvansal ";;
+"null";;"        maddelerden olanlar";"-";100
+"null";"4202.99.00.60.00";" - - - İşlenmiş yontulmaya elverişli bitkisel ve mineral maddelerden olanlar";"-";100
+"null";"4202.99.00.90.00";" - - - Diğerleri";"-";150
+"null";;;;
+"null";"42.03";"Tabii veya terkip yoluyla elde edilen deri ve köseleden giyim";;
+"null";;"eşyası ve aksesuarı:";;
+"null";"4203.10";" - Giyim eşyası";;
+"null";"4203.10.00.00.12";" - - Terkip yoluyla elde edilen deri ve köseleden olanlar";"-";"150"
+"null";;" - - Diğerleri:";;
+"null";"4203.10.00.00.22";" - - - Manto, Palto, Pardesü";"-";"150"
+"null";"4203.10.00.00.23";" - - - Kaban, Mont, Ceket";"-";"150"
+"null";"4203.10.00.00.24";" - - - Pantolon";"-";"150"
+"null";"4203.10.00.00.25";" - - - Etek";"-";"150"
+"null";"4203.10.00.00.28";" - - - Diğerleri";"-";"150"
+"null";;" - Eldivenler, tek parmaklı eldivenler, parmaksız eldivenler:";;
+"null";"4203.21";" - - Spor eldivenleri";;
+"null";"4203.21.00.00.11";" - - - Tabii deri ve köseleden olanlar";"Çift";150
+"null";"4203.21.00.00.12";" - - - Terkip yoluyla elde edilen deri ve köseleden olanlar";"Çift";150
+"null";"4203.29";" - - Diğerleri:";;
+"null";;" - - - Her türlü sanat ve meslek erbabının korunmak amacıyla kullandıkları";;
+"null";;"        eldivenler";;
+"null";"4203.29.10.00.11";" - - - - Tabii deri ve köseleden olanlar";"Çift";150
+"null";"4203.29.10.00.12";" - - - - Terkip yoluyla elde edilen deri ve köseleden olanlar";"Çift";150
+"null";"4203.29.90.00.00";" - - - Diğerleri";"Çift";150
+"null";"4203.30";" - Bel kemerleri, kılıç kayışı ve palaskaları";;
+"null";"4203.30.00.00.11";" - - Tabii deri ve köseleden olanlar";"-";150
+"null";"4203.30.00.00.12";" - - Terkip yoluyla elde edilen deri ve köseleden olanlar";"-";150
+"null";"4203.40";" - Giyim eşyasının diğer aksesuarı";;
+"null";"4203.40.00.00.11";" - - Tabii deri ve köseleden olanlar";"-";150
+"null";"4203.40.00.00.12";" - - Terkip yoluyla elde edilen deri ve köseleden olanlar";"-";150
+"null";;;;
+"null";"(42.04)";;;
+"null";;;;
+"null";"4205.00";"Tabii veya terkip yoluyla elde edilen deri ve köseleden";;
+"null";;"diğer eşya";;
+"null";;" - Makinalarda veya mekanik aletlerde veya diğer teknik amaçlarla";;
+"null";;"   kulllanılan türde olanlar:";;
+"null";;" - - Transmisyon kolanları ve taşıyıcı kolanlar";;
+"null";"4205.00.11.10.00";" - - - Transmisyon kolanları";"-";75
+"null";"4205.00.11.20.00";" - - - Taşıyıcı kolanlar";"-";75
+"null";;" - - Diğerleri ";;
+"null";"4205.00.19.10.00";" - - - Makinalarda kullanılan eşya ve dokuma sanayii için takeler (taquet)";"-";75
+"null";"4205.00.19.90.00";" - - - Diğerleri ";"-";75
+"null";;" - Diğerleri ";;
+"null";"4205.00.90.00.11";" - - Tabii deri veya köseleden diğer eşya";"-";150
+"null";"4205.00.90.00.12";" - - Terkip yoluyla elde edilen deri ve köseleden diğer eşya";"-";150
+"null";;;;
+"null";"4206.00.00.00.00";"Bağırsak (ipek böceği bağırsağı hariç), kursak, mesane ve veterden";;
+"null";;"mamul eşya";"-";75

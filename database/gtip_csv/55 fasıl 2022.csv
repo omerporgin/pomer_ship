@@ -1,0 +1,285 @@
+﻿"null";"55.01";"Sentetik filament demetleri:";;
+"null";;" - Naylon veya diğer poliamidlerden olanlar: ";;
+"null";"5501.11.00.00.00";" - - Aramidlerden";"-";25
+"null";"5501.19.00.00.00";" - -  Diğerleri";"-";25
+"null";"5501.20.00.00.00";" - Poliesterlerden olanlar ";"-";25
+"null";"5501.30.00.00.00";" - Akrilik veya modakrilik olanlar ";"-";25
+"null";"5501.40.00.00.00";" - Polipropilenden olanlar ";"-";25
+"null";"5501.90.00.00.00";" - Diğerleri ";"-";25
+"null";;;;
+"null";"55.02";"Suni filament demetleri:";;
+"null";"5502.10.00.00.00";" - Selüloz asetatdan olanlar";"-";30
+"null";"5502.90.00.00.00";" - Diğerleri ";"-";30
+"null";;;;
+"null";"55.03";"Sentetik devamsız lifler (karde edilmemiş, taranmamış veya iplik ";;
+"null";;"imali için diğer surette hazırlanmamış):";;
+"null";;" - Naylon veya diğer poliamidlerden:";;
+"null";"5503.11.00.00.00";" - - Aramidlerden";"-";50
+"null";"5503.19.00.00.00";" - -  Diğerleri";"-";50
+"null";"5503.20.00.00.00";" - Poliesterlerden";"-";50
+"null";"5503.30.00.00.00";" - Akrilik veya modakrilik";"-";50
+"null";"5503.40";" - Polipropilenden:";;
+"null";"5503.40.00.00.11";" - - İnşaatta kullanılanlar";"-";50
+"null";"5503.40.00.00.19";" - - Diğerleri";"-";50
+"null";"5503.90.00.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"55.04";"Suni devamsız lifler (karde edilmemiş, taranmamış veya iplik ima-";;
+"null";;"li için başka şekilde bir işlem görmemiş):";;
+"null";"5504.10.00.00.00";" - Viskoz ipeğinden olanlar ";"-";50
+"null";"5504.90";" - Diğerleri";" ";
+"null";"5504.90.00.00.11";" - - Asetatdan olanlar ";"-";50
+"null";"5504.90.00.00.12";" - - Proteik esaslı olanlar ";"-";50
+"null";"5504.90.00.00.19";" - - Diğerleri ";"-";50
+"null";;;;
+"null";"55.05";"Sentetik ve suni lif döküntüleri (tarama, iplik döküntüleri ve ditme";;
+"null";;"suretiyle elde edilen diğer döküntüler dahil):";;
+"null";"5505.10";" - Sentetik liflerden:";;
+"null";;" - -  Naylon veya diğer poliamidlerden :";;
+"null";"5505.10.10.00.11";" - - - Ditme suretiyle elde edilen döküntüler ";"-";30
+"null";"5505.10.10.00.19";" - - - Diğerleri ";"-";30
+"null";;" - -  Poliesterlerden :";;
+"null";"5505.10.30.00.11";" - - - Ditme suretiyle elde edilen döküntüler";"-";30
+"null";"5505.10.30.00.19";" - - - Diğerleri";"-";30
+"null";;" - -  Akrilik veya modakrilik :";;
+"null";"5505.10.50.00.11";" - - - Ditme suretiyle elde edilen döküntüler ";"-";30
+"null";"5505.10.50.00.19";" - - - Diğerleri";"-";30
+"null";;" - -  Polipropilenden :";;
+"null";"5505.10.70.00.11";" - - - Ditme suretiyle elde edilen döküntüler ";"-";30
+"null";"5505.10.70.00.19";" - - - Diğerleri ";"-";30
+"null";;" - -  Diğerleri :";;
+"null";"5505.10.90.00.11";" - - - Ditme suretiyle elde edilen döküntüler";"-";30
+"null";"5505.10.90.00.19";" - - - Diğerleri ";"-";30
+"null";"5505.20";" - Suni liflerden :";" ";
+"null";"5505.20.00.00.11";" - - Ditme suretiyle elde edilen döküntüler ";"-";30
+"null";"5505.20.00.00.18";" - - Diğerleri ";"-";30
+"null";;;;
+"null";"55.06";"Sentetik devamsız lifler (karde edilmiş, taranmış veya iplik imali ";;
+"null";;"için başka şekilde işlem görmüş):";;
+"null";"5506.10.00.00.00";" - Naylon veya diğer poliamidlerden ";"-";30
+"null";"5506.20.00.00.00";" - Poliesterlerden ";"-";30
+"null";"5506.30.00.00.00";" - Akrilik veya modakrilik ";"-";30
+"null";"5506.40.00.00.00";" - Polipropilenden";"-";30
+"null";"5506.90.00.00.00";" - Diğerleri ";"-";30
+"null";;;;
+"null";"5507.00";"Suni devamsız lifler (karde edilmiş, taranmış veya iplik imali için";;
+"null";;"başka şekilde işlem görmüş) ";;
+"null";"5507.00.00.00.11";" - Viskozdan lifler ";"-";30
+"null";"5507.00.00.00.12";" - Asetatdan lifler:";"-";30
+"null";"5507.00.00.00.19";" - Diğer lifler ";"-";30
+"null";;;;
+"null";"55.08";"Sentetik ve suni devamsız liflerden dikiş ipliği (perakende olarak ";;
+"null";;"satılacak hale getirilmiş olsun olmasın):";;
+"null";"5508.10";" - Sentetik devamsız liflerden:";;
+"null";;" - - Perakende olarak satılacak hale getirilmemiş:";;
+"null";"5508.10.10.00.11";" - - - Poliesterlerden ";"-";100
+"null";" ";" - - - Diğerleri ";" ";
+"null";"5508.10.10.00.12";" - - - - Akrilik ";"-";100
+"null";"5508.10.10.00.19";" - - - - Diğerleri ";"-";100
+"null";"5508.10.90.00.00";" - - Perakende olarak satılacak hale getirilmiş ";"-";100
+"null";"5508.20";" - Suni devamsız liflerden:";" ";
+"null";"5508.20.10.00.00";" - - Perakende olarak satılacak hale getirilmemiş";"-";100
+"null";"5508.20.90.00.00";" - - Perakende olarak satılacak hale getirilmiş ";"-";100
+"null";;;;
+"null";"55.09";"Sentetik devamsız liflerden iplikler (dikiş ipliği hariç) (perakende";;
+"null";;"olarak satılacak hale getirilmemiş):";;
+"null";;" - Ağırlık itibariyle %85 veya daha fazla devamsız naylon veya ";;
+"null";;"   diğer poliamidlerin liflerini içerenler:";;
+"null";"5509.11.00.00.00";" - - Tek kat iplikler ";"-";100
+"null";"5509.12.00.00.00";" - - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler ";"-";100
+"null";;" - Ağırlık itibariyle %85 veya daha fazla devamsız poliester liflerini";;
+"null";;"   içerenler:";;
+"null";"5509.21.00.00.00";" - - Tek kat iplikler ";"-";100
+"null";"5509.22.00.00.00";" - - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler ";"-";100
+"null";;" - Ağırlık itibariyle %85 veya daha fazla devamsız akrilik veya";;
+"null";;"   modakrilik lifler içerenler:";;
+"null";"5509.31.00.00.00";" - - Tek kat iplikler ";"-";100
+"null";"5509.32.00.00.00";" - - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler ";"-";100
+"null";;" - Ağırlık itibariyle %85 veya daha fazla sentetik devamsız lifleri ";;
+"null";;"   içeren diğer iplikler:";;
+"null";"5509.41.00.00.00";" - - Tek kat iplikler ";"-";100
+"null";"5509.42.00.00.00";" - - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler ";"-";100
+"null";;" - Devamsız poliester liflerinden diğer iplikler:";" ";
+"null";"5509.51.00.00.00";" - - Esas itibariyle veya sadece suni devamsız liflerle karışık";" ";
+"null";;"     olanlar ";"-";100
+"null";"5509.52.00.00.00";" - - Esas itibariyle veya sadece yün veya ince hayvan kılları ile ";;
+"null";;"     karışık olanlar ";"-";100
+"null";"5509.53.00.00.00";" - - Esas itibariyle veya sadece pamukla karışık olanlar ";"-";100
+"null";"5509.59.00.00.00";" - - Diğerleri ";"-";100
+"null";;" - Devamsız akrilik veya modakrilik liflerden diğer iplikler:";" ";
+"null";"5509.61.00.00.00";" - - Esas itibariyle veya sadece yün veya ince hayvan kılları ile ";" ";
+"null";;"     karışık olanlar ";"-";100
+"null";"5509.62.00.00.00";" - - Esas itibariyle veya sadece pamukla karışık olanlar ";"-";100
+"null";"5509.69.00.00.00";" - - Diğerleri ";"-";100
+"null";;" - Diğer iplikler:";" ";
+"null";"5509.91.00.00.00";" - - Esas itibariyle veya sadece yün veya ince hayvan kılları ile";" ";
+"null";;"     karışık olanlar";"-";100
+"null";"5509.92.00.00.00";" - - Esas itibariyle veya sadece pamukla karışık olanlar ";"-";100
+"null";"5509.99.00.00.00";" - - Diğerleri ";"-";100
+"null";;;;
+"null";"55.10";"Suni devamsız liflerden iplikler (dikiş ipliği hariç) (perakende ";;
+"null";;"olarak satılacak hale getirilmemiş):";;
+"null";;" - Ağırlık itibariyle %85 veya daha fazla suni devamsız lif içerenler:";;
+"null";"5510.11.00.00.00";" - - Tek kat iplikler ";"-";100
+"null";"5510.12.00.00.00";" - - Çok katlı bükülü (rötor) veya katlı bükülü (kable) iplikler ";"-";100
+"null";"5510.20.00.00.00";" - Diğer iplikler (esas itibariyle veya sadece yün veya ince hayvan";" ";
+"null";;"   kılları ile karışık olanlar)";"-";100
+"null";"5510.30.00.00.00";" - Diğer iplikler (esas itibariyle veya sadece pamuk ile karışık ";" ";
+"null";;"   olanlar) ";"-";100
+"null";"5510.90.00.00.00";" - Diğer iplikler ";"-";100
+"null";;;;
+"null";"55.11";"Sentetik ve suni devamsız liflerden iplikler (dikiş ipliği hariç)";;
+"null";;"(perakende olarak satılacak hale getirilmiş):";;
+"null";"5511.10.00.00.00";" - Sentetik devamsız liflerden (ağırlık itibariyle % 85 veya daha ";;
+"null";;"   fazla sentetik devamsız lif içerenler) ";"-";100
+"null";"5511.20.00.00.00";" - Sentetik devamsız liflerden (ağırlık itibariyle %85'den az sente-";" ";
+"null";;"   tik devamsız lif içerenler) ";"-";100
+"null";"5511.30.00.00.00";" - Suni devamsız liflerden ";"-";100
+"null";;;;
+"null";"55.12";"Sentetik devamsız liflerden dokunmuş mensucat (ağırlık itibariyle ";;
+"null";;"%85 veya daha fazla sentetik devamsız lif içerenler):";;
+"null";;" - Ağırlık itibariyle %85 veya daha fazla devamsız poliester lifleri ";;
+"null";;"   içerenler:";;
+"null";"5512.11.00.00.00";" - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5512.19";" - - Diğerleri:";;
+"null";"5512.19.10.00.00";" - - - Baskılı";"m2";150
+"null";"5512.19.90.00.00";" - - - Diğerleri";"m2";150
+"null";;" - Ağırlık itibariyle %85 veya daha fazla devamsız akrilik veya ";;
+"null";;"   modakrilik lifler içerenler:";;
+"null";"5512.21.00.00.00";" - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5512.29";" - - Diğerleri:";;
+"null";"5512.29.10.00.00";" - - - Baskılı";"m2";150
+"null";"5512.29.90.00.00";" - - - Diğerleri";"m2";150
+"null";;" - Diğerleri:";;
+"null";"5512.91.00.00.00";" - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5512.99";" - - Diğerleri:";;
+"null";"5512.99.10.00.00";" - - - Baskılı";"m2";150
+"null";"5512.99.90.00.00";" - - - Diğerleri";"m2";150
+"null";;;;
+"null";"55.13";"Sentetik devamsız liflerden dokunmuş mensucat (ağırlık itibariyle";;
+"null";;" % 85'den az, m2 .ağırlığı 170 gr.ı geçmeyen esas itibariyle veya ";;
+"null";;"sadece pamukla karışık sentetik devamsız lif içerenler):";;
+"null";;" - Ağartılmamış veya ağartılmış:";;
+"null";"5513.11";" - - Devamsız poliester liflerinden (bez ayağı):";;
+"null";"5513.11.20.00.00";" - - - Genişliği 165 cm. veya daha az olanlar";"m2";150
+"null";"5513.11.90.00.00";" - - - Genişliği 165 cm.yi geçenler";"m2";150
+"null";"5513.12.00.00.00";" - - Devamsız poliester liflerinden 3'lü veya 4'lü dimi  (kırık dimi dahil)";"m2";150
+"null";"5513.13.00.00.00";" - - Devamsız poliester liflerinden diğer dokunmuş mensucat";"m2";150
+"null";"5513.19.00.00.00";" - - Diğer dokunmuş mensucat";"m2";150
+"null";;" - Boyanmış:";;
+"null";"5513.21.00.00.00";" - - Devamsız poliester liflerinden (bez ayağı)";"m2";150
+"null";"5513.23";" - - Devamsız poliester liflerinden diğer dokunmuş mensucat:";;
+"null";"5513.23.10.00.00";" - - - 3'lü veya 4'lü dimi  (kırık dimi dahil)";"m2";150
+"null";"5513.23.90.00.00";" - - - Diğerleri";"m2";150
+"null";"5513.29.00.00.00";" - - Diğer dokunmuş mensucat";"m2";150
+"null";;" - Farklı renkteki ipliklerden:";;
+"null";"5513.31.00.00.00";" - - Devamsız poliester liflerinden (bez ayağı)";"m2";150
+"null";"5513.39.00.00.00";" - - Diğer dokunmuş mensucat";"m2";150
+"null";;" - Baskılı:";;
+"null";"5513.41.00.00.00";" - - Devamsız poliester liflerinden (bez ayağı)";"m2";150
+"null";"5513.49.00.00.00";" - - Diğer dokunmuş mensucat";"m2";150
+"null";;;;
+"null";"55.14";"Sentetik devamsız liflerden dokunmuş mensucat (ağırlık itibariyle";;
+"null";;"%85 'den az, m2. ağırlığı 170 gr.ı geçen esas itibariyle veya ";;
+"null";;"sadece pamukla karışık sentetik devamsız lif içerenler):";;
+"null";;" - Ağartılmamış veya ağartılmış:";;
+"null";"5514.11.00.00.00";" - - Devamsız poliester liflerinden (bez ayağı)";"m2";150
+"null";"5514.12.00.00.00";" - - Devamsız poliester liflerinden 3'lü veya 4'lü dimi (kırık dimi dahil)";"m2";150
+"null";"5514.19";" - - Diğer dokunmuş mensucat:";;
+"null";"5514.19.10.00.00";" - - - Devamsız poliester liflerinden";"m2";150
+"null";"5514.19.90.00.00";" - - - Diğerleri";"m2";150
+"null";;" - Boyanmış:";;
+"null";"5514.21.00.00.00";" - - Devamsız poliester liflerinden (bez ayağı)";"m2";150
+"null";"5514.22.00.00.00";" - - Devamsız poliester liflerinden 3'lü veya 4'lü dimi (kırık dimi dahil)";"m2";150
+"null";"5514.23.00.00.00";" - - Devamsız poliester liflerinden diğer dokunmuş mensucat";"m2";150
+"null";"5514.29.00.00.00";" - - Diğer dokunmuş mensucat";"m2";150
+"null";"5514.30";" - Farklı renkteki ipliklerden:";;
+"null";"5514.30.10.00.00";" - - Devamsız poliester liflerinden (bez ayağı)";"m2";150
+"null";"5514.30.30.00.00";" - - Devamsız poliester liflerinden 3'lü veya 4'lü dimi (kırık dimi dahil)";"m2";150
+"null";"5514.30.50.00.00";" - - Devamsız poliester liflerinden diğer dokunmuş mensucat";"m2";150
+"null";"5514.30.90.00.00";" - - Diğer dokunmuş mensucat";"m2";150
+"null";;" - Baskılı:";;
+"null";"5514.41.00.00.00";" - - Devamsız poliester liflerinden (bez ayağı)";"m2";150
+"null";"5514.42.00.00.00";" - - Devamsız poliester liflerinden 3'lü veya 4'lü dimi (kırık dimi dahil)";"m2";150
+"null";"5514.43.00.00.00";" - - Devamsız poliester liflerinden diğer dokunmuş mensucat";"m2";150
+"null";"5514.49.00.00.00";" - - Diğer dokunmuş mensucat";"m2";150
+"null";;;;
+"null";"55.15";"Sentetik devamsız liflerden diğer dokunmuş mensucat:";;
+"null";;" - Devamsız poliester liflerinden:";;
+"null";"5515.11";" - - Esas itibariyle veya sadece devamsız viskoz ipeği lifleriyle karışık:";;
+"null";"5515.11.10.00.00";" - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.11.30.00.00";" - - - Baskılı";"m2";150
+"null";"5515.11.90.00.00";" - - - Diğerleri";"m2";150
+"null";"5515.12";" - - Esas itibariyle veya sadece sentetik ve suni filamentlerle karışık:";;
+"null";"5515.12.10.00.00";" - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.12.30.00.00";" - - - Baskılı";"m2";150
+"null";"5515.12.90.00.00";" - - - Diğerleri";"m2";150
+"null";"5515.13";" - - Esas itibariyle veya sadece yün veya ince hayvan kılları ile karışık: ";;
+"null";;" - - - Esas itibariyIe veya sadece karde edilmiş yün veya ince hayvan kılları ile ";;
+"null";;"       karışık (strayhgarn):";;
+"null";"5515.13.11.00.00";" - - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.13.19.00.00";" - - - - Diğerleri";"m2";150
+"null";;" - - - Esas itibariyle veya sadece taranmış yün veya ince hayvan kıllarıyla";;
+"null";;"        karışık (kamgarn):";;
+"null";"5515.13.91.00.00";" - - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.13.99.00.00";" - - - - Diğerleri";"m2";150
+"null";"5515.19";" - - Diğerleri:";;
+"null";"5515.19.10.00.00";" - - -  Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.19.30.00.00";" - - - Baskılı";"m2";150
+"null";"5515.19.90.00.00";" - - - DiğerIeri";"m2";150
+"null";;" - Devamsız akrilik veya modakrilik liflerden:";;
+"null";"5515.21";" - - Esas itibariyle veya sadece sentetik ve suni filamentler ile karışık:";;
+"null";"5515.21.10.00.00";" - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.21.30.00.00";" - - - Baskılı";"m2";150
+"null";"5515.21.90.00.00";" - - - Diğerleri";"m2";150
+"null";"5515.22";" - - Esas itibariyIe veya sadece yün veya ince hayvan kılları ile karışık:";;
+"null";;" - - - Esas itibariyle veya sadece karde edilmiş yün veya ince hayvan kılları ile ";;
+"null";;"       karışık (strayhgarn):";;
+"null";"5515.22.11.00.00";" - - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.22.19.00.00";" - - - - Diğerleri";"m2";150
+"null";;" - - - Esas itibariyle veya sadece taranmış yün veya ince hayvan kılları ";;
+"null";;"        ile karışık (kamgarn):";;
+"null";"5515.22.91.00.00";" - - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.22.99.00.00";" - - - - Diğerleri";"m2";150
+"null";"5515.29.00.00.00";" - - Diğerleri";"m2";150
+"null";;" - Diğer dokunmuş mensucat:";;
+"null";"5515.91";" - - Esas itibariyle veya sadece sentetik ve suni filamentlerle karışık:";;
+"null";"5515.91.10.00.00";" - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.91.30.00.00";" - - -  Baskılı";"m2";150
+"null";"5515.91.90.00.00";" - - - Diğerleri";"m2";150
+"null";"5515.99";" - - Diğerleri:";;
+"null";"5515.99.20.00.00";" - - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5515.99.40.00.00";" - - - Baskılı";"m2";150
+"null";"5515.99.80.00.00";" - - - Diğerleri";"m2";150
+"null";;;;
+"null";"55.16";"Suni devamsız liflerden dokunmuş mensucat:";;
+"null";;" - Ağırlık itibariyle % 85 veya daha fazla suni devamsız lif ";;
+"null";;"   içerenler:";;
+"null";"5516.11.00.00.00";" - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5516.12.00.00.00";" - - Boyanmış";"m2";150
+"null";"5516.13.00.00.00";" - - Farklı renkteki ipliklerden";"m2";150
+"null";"5516.14.00.00.00";" - - Baskılı";"m2";150
+"null";;" - Ağırlık itibariyle % 85 den az suni devamsız lif içerenler";;
+"null";;"  (esas itibariyle veya sadece sentetik veya suni filamentlerle karışık):";;
+"null";"5516.21.00.00.00";" - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5516.22.00.00.00";" - - Boyanmış";"m2";150
+"null";"5516.23";" - - Farklı renkteki ipliklerden:";;
+"null";"5516.23.10.00.00";" - - - Genişliği 140 cm.veya daha fazla olan jakar mensucat (şiltelik)  ";"m2";150
+"null";"5516.23.90.00.00";" - - - Diğerleri";"m2";150
+"null";"5516.24.00.00.00";" - - Baskılı";"m2";150
+"null";;" - Ağırlık itibariyle % 85' den az suni devamsız lif içerenler (esas ";;
+"null";;"   itibariyle veya sadece yün veya ince hayvan kılları ile karışık):";;
+"null";"5516.31.00.00.00";" - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5516.32.00.00.00";" - - Boyanmış";"m2";150
+"null";"5516.33.00.00.00";" - - Farklı renkteki ipliklerden";"m2";150
+"null";"5516.34.00.00.00";" - - Baskılı";"m2";150
+"null";;" - Ağırlık itibariyle % 85' den az suni devamsız lif içerenler (esas";;
+"null";;"   itibariyle veya sadece pamukla karışık):";;
+"null";"5516.41.00.00.00";" - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5516.42.00.00.00";" - - Boyanmış";"m2";150
+"null";"5516.43.00.00.00";" - - Farklı renkteki ipliklerden";"m2";150
+"null";"5516.44.00.00.00";" - - Baskılı";"m2";150
+"null";;" - Diğerleri:";" ";
+"null";"5516.91.00.00.00";" - - Ağartılmamış veya ağartılmış";"m2";150
+"null";"5516.92.00.00.00";" - - Boyanmış";"m2";150
+"null";"5516.93.00.00.00";" - - Farklı renkteki ipliklerden";"m2";150
+"null";"5516.94.00.00.00";" - - Baskılı";"m2";150

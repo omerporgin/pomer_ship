@@ -1,0 +1,113 @@
+﻿"null";"06.01";" Çiçek soğanları, yumrular, yumrulu kökler, küçük soğanlar, sürgün";;
+"null";;" başları ve rizomlar (dinlenme halinde sürgün  vermiş veya çiçeklen-";;
+"null";;" miş); hindiba bitkisi ve kökleri (12.12 pozisyonundaki kökler hariç):";;
+"null";"0601.10";" - Çicek soğanları, yumrular, yumrulu kökler, küçük soğanlar,";;
+"null";;"    sürgün başları ve rizomlar (dinlenme halinde):";;
+"null";"0601.10.10.00.00";" - - Sümbül soğanları";"Adet";25
+"null";"0601.10.20.00.00";" - - Nergis soğanları";"Adet";25
+"null";"0601.10.30.00.00";" - - Lale soğanları";"Adet";25
+"null";"0601.10.40.00.00";" - - Glayöl soğanları";"Adet";25
+"null";;" - - Diğerleri :";;
+"null";"0601.10.90.10.00";" - - - Diğer çiçek soğanları";"Adet";25
+"null";"0601.10.90.90.00";" - - - Diğerleri";"Adet";25
+"null";"0601.20";" - Çiçek soğanları, yumrular, yumrulu kökler küçük soğanlar,sür-";;
+"null";;"   gün başları ve rizomlar (sürgün  vermiş veya çiçeklenmiş);hindi-";;
+"null";;"   ba bitkisi ve kökleri:";;
+"null";;" - - Hindiba bitkisi ve kökleri";" ";" "
+"null";"0601.20.10.00.11";" - - - Hindiba bitkisi ";"-";25
+"null";"0601.20.10.00.12";" - - - Hindiba  kökleri";"-";25
+"null";"";" - - Orkide, sümbül,nergis ve lale soğanları";" ";" "
+"null";"0601.20.30.00.11";" - - - Orkide soğanları";"-";25
+"null";"0601.20.30.00.12";" - - - Sümbül soğanları";"-";25
+"null";"0601.20.30.00.13";" - - - Nergis soğanları";"-";25
+"null";"0601.20.30.00.14";" - - - Lale soğanları";"-";25
+"null";;" - - Diğerleri :";;
+"null";;" - - - Diğer çiçek soğanları";" ";" "
+"null";"0601.20.90.10.11";" - - - - Glayöller";"-";25
+"null";"0601.20.90.10.19";" - - - - Diğerleri";"-";25
+"null";"0601.20.90.90.00";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"06.02";"Diğer canlı bitkiler (kökleri dahil), çelikler, daldırmalar;";;
+"null";;"mantar miselleri:";;
+"null";"0602.10";" - Köklendirilmemiş çelik ve daldırmalar:";;
+"null";"0602.10.10.00.00";" - - Asma çelikleri, daldırmalar";"-";5
+"null";"0602.10.90.00.00";" - - Diğerleri";"-";5
+"null";"0602.20";" - Meyveleri veya sert kabuklu meyveleri yenilen ağaçlar, çalılar ";;
+"null";;"   (aşılı veya aşısız) :";;
+"null";"0602.20.10.00.00";" - - Asma (aşılı veya köklendirilmiş)";"-";5
+"null";;" - - Diğerleri:";;
+"null";"0602.20.20.00.00";" - - - Çıplak kökleriyle birlikte olanlar";"Adet";5
+"null";;" - - - Diğerleri: ";;
+"null";"0602.20.30.00.00";" - - - - Narenciye";"Adet";5
+"null";;" - - - - Diğerleri:";;
+"null";"0602.20.80.00.11";" - - - - - Kestane";"Adet";5
+"null";"0602.20.80.00.12";" - - - - - Fıstık çamı";"Adet";5
+"null";"0602.20.80.00.19";" - - - - - Diğerleri ";"Adet";5
+"null";"0602.30.00.00.00";" - Rododendronlar ve açelyalar (aşılı veya aşısız)";"Adet";25
+"null";"0602.40.00.00.00";" - Güller (aşılı veya aşısız)";"Adet";5
+"null";"0602.90";" - Diğerleri:";;
+"null";"0602.90.10.00.00";" - - Mantar miselleri";"-";25
+"null";"0602.90.20.00.00";" - - Ananas fidanı";"-";5
+"null";"0602.90.30.00.00";" - - Sebze ve çilek fideleri";"-";25
+"null";;" - - Diğerleri:";;
+"null";;" - - - Açık hava bitkileri:";;
+"null";;" - - - - Ağaç ve çalılar:";;
+"null";;" - - - - - Orman ağaçları";;
+"null";;" - - - - - - Köklendirilmiş çelikler ve fidanlar";;
+"null";"0602.90.41.00.11";" - - - - - - - Çelikler";"Adet";5
+"null";"0602.90.41.00.12";" - - - - - - - Fidanlar";"Adet";5
+"null";"0602.90.41.00.29";" - - - - - - Diğerleri ";"Adet";5
+"null";;" - - - - - Diğerleri:";;
+"null";" ";" - - - - - - Köklendirilmiş çelikler ve fidanlar";" ";" "
+"null";"0602.90.45.00.11";" - - - - - - - Çelikler";"Adet";5
+"null";"0602.90.45.00.12";" - - - - - - -  Fidanlar";"Adet";5
+"null";;" - - - - - - Diğerleri: ";;
+"null";"0602.90.46.00.00";" - - - - - - - Çıplak kökleriyle birlikte olanlar";"Adet";25
+"null";;" - - - - - - - Diğerleri:";;
+"null";"0602.90.47.00.00";" - - - - - - - - Kozalaklı ve yaprak dökmeyen ağaçlar";"Adet";25
+"null";"0602.90.48.00.00";" - - - - - - - - Diğerleri ";"Adet";25
+"null";"0602.90.50.00.00";" - - - - Diğer açık hava bitkileri";"-";5
+"null";;" - - - Oda bitkileri:";;
+"null";" ";" - - - - Köklendirilmiş çelikler ve fidanlar (kaktüsler hariç)";" ";" "
+"null";"0602.90.70.00.11";" - - - - - Çelikler";"Adet";5
+"null";"0602.90.70.00.12";" - - - - -  Fidanlar";"Adet";5
+"null";;" - - - - Diğerleri:";;
+"null";"0602.90.91.00.00";" - - - - - Tomurcuklu veya çiçek açmış çiçekler (kaktüsler hariç)";"Adet";25
+"null";"0602.90.99.00.00";" - - - - - Diğerleri";"Adet";25
+"null";;;;
+"null";"06.03";"Buket yapmaya elverişli veya süs amacına uygun cinsten kesme";;
+"null";;"çiçekler ve çiçek tomurcukları (taze, kurutulmuş, boyanmış, ";;
+"null";;"ağartılmış, emprenye edilmiş veya başka şekilde hazırlanmış): ";;
+"null";;" - Taze:";;
+"null";"0603.11.00.00.00";" - - Güller";"Adet";52
+"null";"0603.12.00.00.00";" - - Karanfiller";"Adet";52
+"null";"0603.13.00.00.00";" - - Orkideler";"Adet";52
+"null";"0603.14.00.00.00";" - - Krizantemler";"Adet";52
+"null";"0603.15.00.00.00";" - - Zambaklar (Lilium spp.)";"Adet";52
+"null";"0603.19";" - - Diğerleri:";;
+"null";"0603.19.10.00.00";" - - - Glayöller";"Adet";52
+"null";"0603.19.20.00.00";" - - - Düğün çiçeği";"Adet";52
+"null";"0603.19.70.00.00";" - - - Diğerleri";"Adet";52
+"null";"0603.90.00.00.00";" - Diğerleri";"-";52
+"null";;;;
+"null";"06.04";"Buket yapmaya elverişli veya süs amacına uygun cinsten";;
+"null";;"bitki yaprakları, bitki dalları ve bitkilerin diğer kısımları";;
+"null";;"(çiçeksiz veya tomurcuksuz) ve otlar, yosunlar ve likenler";;
+"null";;"(taze, kurutulmuş, boyanmış, ağartılmış, emprenye edilmiş";;
+"null";;"veya başka şekilde hazırlanmış): ";;
+"null";"0604.20";" - Taze:";;
+"null";;" - - Yosunlar ve likenler:";;
+"null";"0604.20.11.00.00";" - - - Ren geyiği likeni";"-";52
+"null";"0604.20.19.00.00";" - - - Diğerleri";"-";52
+"null";"0604.20.20.00.00";" - - Noel ağaçları ";"    Adet";52
+"null";"0604.20.40.00.00";" - - İğne yapraklı ağaçların dalları  ";"-";52
+"null";;" - - Diğerleri:";;
+"null";"0604.20.90.00.11";" - - - Şimşir dalı";"-";52
+"null";"0604.20.90.00.19";" - - - Diğerleri";"-";52
+"null";"0604.90";" - Diğerleri:";;
+"null";;" - - Yosunlar ve likenler:";;
+"null";"0604.90.11.00.00";" - - - Ren geyiği likeni";"-";52
+"null";"0604.90.19.00.00";" - - - Diğerleri";"-";52
+"null";;" - - Diğerleri:";;
+"null";"0604.90.91.00.00";" - - - Sadece kurutulmuş";"-";52
+"null";"0604.90.99.00.00";" - - - Diğerleri";"-";52

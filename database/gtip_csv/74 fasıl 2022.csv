@@ -1,0 +1,183 @@
+﻿"null";"7401.00.00.00.00";"Bakır matları; çöktürülmüş bakır (tersip bakır)";"-";10
+"null";;;;" "
+"null";"7402.00";"Rafine edilmemiş bakır; elektrolitik rafine için bakır anotları";;" "
+"null";"7402.00.00.00.11";"- Blister bakır";"-";10
+"null";"7402.00.00.00.12";"- Elektrolitik rafine için bakır anotları";"-";10
+"null";"7402.00.00.00.19";"- Diğerleri";"-";10
+"null";;;;" "
+"null";"74.03";"Rafine edilmiş bakır ve bakır alaşımları (ham):";;" "
+"null";;" - Rafine edilmiş bakır:";;" "
+"null";"7403.11";" - - Katotlar ve katot parçaları:";;" "
+"null";"7403.11.00.10.00";" - - - Elektrolitik bakırdan";"-";30
+"null";"7403.11.00.90.00";" - - - Diğerleri";"-";10
+"null";"7403.12.00.00.00";" - - Tel çubukları (wire bars)";"-";10
+"null";"7403.13.00.00.00";" - - Kütükler";"-";10
+"null";"7403.19";" - - Diğerleri:";;" "
+"null";"7403.19.00.10.00";" - - - Elektrolitik bakırdan";"-";30
+"null";"7403.19.00.90.00";" - - - Diğerleri";"-";10
+"null";;" - Bakır alaşımları:";;" "
+"null";"7403.21.00.00.00";" - - Bakır -çinko esaslı alaşımlar (pirinç)";"-";10
+"null";"7403.22.00.00.00";" - - Bakır -kalay esaslı alaşımlar (bronz)";"-";10
+"null";"7403.29.00.00.00";" - - Diğer bakır alaşımlar [74.05 pozisyonundaki ön alaşımlar";;" "
+"null";;"     (kupro alyajlar) hariç]";"-";10
+"null";;;;" "
+"null";"7404.00";"Bakır döküntü ve hurdaları:";;" "
+"null";"7404.00.10.00.00";" - Rafine edilmiş bakırdan olanlar";"-";10
+"null";;" - Bakır alaşımlarından olanlar:";;" "
+"null";"7404.00.91.00.00";" - - Bakır -çinko esaslı alaşımlardan olanlar (pirinç)";"-";10
+"null";"7404.00.99.00.00";" - - Diğerleri";"-";10
+"null";;;;" "
+"null";"7405.00";"Bakırın ön alaşımları (kupro alyajlar):";;
+"null";"7405.00.00.10.00";"- Ağırlık itibariyle %8'den fazla bakır içeren bakır fosfor";"-";50
+"null";"7405.00.00.20.00";"- Diğerleri";"-";40
+"null";;;;
+"null";"74.06";"Bakır tozları ve bakırdan ince pullar:";;
+"null";"7406.10.00.00.00";" - Pul bünyeli olmayan tozlar";"-";40
+"null";"7406.20";" - Pul bünyeli tozlar; ince pullar";;
+"null";"7406.20.00.00.11";" - - Pul bünyeli bakır tozları";"-";40
+"null";"7406.20.00.00.12";" - - Bakırdan ince pullar";"-";40
+"null";;;;
+"null";"74.07";"Bakır çubuklar ve profiller:";;
+"null";"7407.10";" - Rafine edilmiş bakırdan olanlar";;
+"null";"7407.10.00.00.11";" - - İçi boş profiller";"-";40
+"null";"7407.10.00.00.12";" - - İçi dolu profiller";"-";40
+"null";"7407.10.00.00.13";" - - Çubuklar";"-";40
+"null";;" - Bakır alaşımlarından olanlar:";;
+"null";"7407.21";" - - Bakır -çinko esaslı alaşımlardan (pirinç):";;
+"null";"7407.21.10.00.00";" - - - Çubuklar";"-";40
+"null";"7407.21.90.00.00";" - - - Profiller";"-";40
+"null";"7407.29.00.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"74.08";"Bakır teller:";;
+"null";;" - Rafine edilmiş bakırdan olanlar:";;
+"null";"7408.11";" - - Enine kesitinin en geniş yeri 6 mm. yi geçenler";;
+"null";"7408.11.00.00.11";" - - - Elektrolitik tel";"-";40
+"null";"7408.11.00.00.19";" - - - Diğerleri";"-";40
+"null";"7408.19";" - - Diğerleri:";;
+"null";" ";" - - - Enine kesitinin en geniş yeri 0,5 mm. yi geçenler";;
+"null";"7408.19.10.00.11";" - - - - Elektrolitik tel";"-";40
+"null";"7408.19.10.00.19";" - - - - Diğerleri";"-";40
+"null";" ";" - - - Enine kesitinin en geniş yeri 0,5 mm. yi geçmeyenler";;
+"null";"7408.19.90.00.11";" - - - - Elektrolitik tel";"-";40
+"null";"7408.19.90.00.19";" - - - - Diğerleri";"-";40
+"null";;" - Bakır alaşımlarından olanlar:";;
+"null";"7408.21.00.00.00";" - - Bakır -çinko esaslı alaşımlardan olanlar (pirinç)";"-";40
+"null";"7408.22.00.00.00";" - - Bakır -nikel esaslı alaşımlardan (kupro -nikel) veya bakır -nikel - ";;
+"null";;"     çinko esaslı alaşımlardan (nikel gümüşleri)";"-";40
+"null";"7408.29.00.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"74.09";"Bakır saclar, levhalar, yapraklar ve şeritler (kalınlıkları 0,15 mm. yi";;
+"null";;"geçenler) :";;
+"null";;" - Rafine edilmiş bakırdan olanlar:";;
+"null";"7409.11.00.00.00";" - - Rulo halinde olanlar";"-";40
+"null";"7409.19.00.00.00";" - - Diğerleri";"-";40
+"null";;" - Bakır -çinko esaslı alaşımlardan olanlar (pirinç):";;
+"null";"7409.21.00.00.00";" - - Rulo halinde olanlar";"-";40
+"null";"7409.29.00.00.00";" - - Diğerleri";"-";40
+"null";;" - Bakır -kalay esaslı alaşımlardan olanlar (bronz):";;
+"null";"7409.31.00.00.00";" - - Rulo halinde olanlar";"-";40
+"null";"7409.39.00.00.00";" - - Diğerleri";"-";40
+"null";"7409.40.00.00.00";" - Bakır -nikel esaslı alaşımlardan (kupro -nikel) ve bakır -nikel -çinko";;
+"null";;"   esaslı alaşımlardan olanlar (nikel gümüşleri)";"-";40
+"null";"7409.90.00.00.00";" - Diğer bakır alaşımlarından olanlar";"-";40
+"null";"74.10";"Bakırdan ince yaprak ve şeritler (baskılı veya baskısız ve kağıttan, kar -";;
+"null";;"tondan , plastik maddelerden veya benzeri maddelerden mesnetler üzeri-";;
+"null";;"ne tesbit edilmiş olsun olmasın) kalınlıkları (mesnetleri hariç) 0,15 mm. yi ";;
+"null";;"geçmeyenler:";;
+"null";;" - Mesnetsiz olanlar:";;
+"null";"7410.11";" - - Rafine edilmiş bakırdan olanlar :";;
+"null";"7410.11.00.00.11";" - - - Bakır kalınlığı 35 mikrona kadar (35 mikron dahil) olanlar";"-";45
+"null";"7410.11.00.00.19";" - - - Diğerleri";"-";45
+"null";"7410.12.00.00.00";" - - Bakır alaşımlarından olanlar";"-";45
+"null";;" - Mesnetli olanlar:";;
+"null";"7410.21.00.00.00";" - - Rafine edilmiş bakırdan olanlar";"-";45
+"null";"7410.22.00.00.00";" - - Bakır alaşımlarından olanlar";"-";45
+"null";;;;
+"null";"74.11";"Bakırdan ince ve kalın borular:";;
+"null";"7411.10";" - Rafine edilmiş bakırdan olanlar:";;
+"null";;" - - Düz olanlar:";;
+"null";"7411.10.10.00.11";" - - - Yivli olanlar";"-";40
+"null";"7411.10.10.00.12";" - - - Çapı 0,35 mm'den az olanlar";"-";40
+"null";"7411.10.10.00.19";" - - - Diğerleri";"-";40
+"null";"7411.10.90.00.00";" - - Diğerleri";"-";40
+"null";;" - Bakır alaşımlardan olanlar:";;
+"null";"7411.21";" - - Bakır -çinko esaslı alaşımlardan olanlar (pirinç):";;
+"null";"7411.21.10.00.00";" - - - Düz olanlar";"-";40
+"null";"7411.21.90.00.00";" - - - Diğerleri";"-";40
+"null";"7411.22.00.00.00";" - - Bakır -nikel esaslı alaşımlardan (kupro -nikel) veya bakır -nikel -çinko";;
+"null";;"     esaslı alaşımlardan olanlar (nikel gümüşleri)";"-";40
+"null";"7411.29.00.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"74.12";"Bakırdan ince ve kalın boru bağlantı parçaları (rakorlar, dirsekler,";;
+"null";;"manşonlar gibi) :";;
+"null";"7412.10.00.00.00";" - Rafine edilmiş bakırdan olanlar";"-";40
+"null";"7412.20";" - Bakır alaşımlarından olanlar";;
+"null";"7412.20.00.00.11";" - - Pirinçten olanlar";"-";40
+"null";"7412.20.00.00.19";" - - Diğerleri";"-";40
+"null";;;;
+"null";"7413.00.00.00.00";"Bakırdan demetlenmiş teller, kablolar, örme halatlar ve benzerleri";;
+"null";;"(elektrik için izole edilmiş olanlar hariç)";"-";40
+"null";;;;
+"null";"[74.14]";;;
+"null";;;;
+"null";"74.15";"Bakırdan veya başları bakırdan ve gövdeleri demir ve çelikten küçük ve";;
+"null";;"büyük çiviler, pünezler, yivli çiviler ve benzerleri (83.05 pozisyonuna";;
+"null";;"girenler hariç) ; bakırdan civata ve somunlar, çengelli vidalar, perçin";;
+"null";;"çivileri, pimler, kamalar, rondelalar (yaylanmayı sağlayıcı rondela dahil)";;
+"null";;"ve benzeri eşya:";;
+"null";"7415.10.00.00.00";" - Büyük ve küçük çiviler, pünezler, yivli çiviler ve benzeri eşya";"-";40
+"null";;" - Diğer eşya (diş açılmamış):";;
+"null";"7415.21.00.00.00";" - - Rondelalar (yaylanmayı sağlayıcı olanlar dahil)";"-";40
+"null";"7415.29";" - - Diğerleri";;
+"null";"7415.29.00.00.11";" - - - Perçin çivileri";"-";40
+"null";"7415.29.00.00.19";" - - - Diğerleri";"-";40
+"null";;" -Diğer eşya (diş açılmış):";;
+"null";"7415.33";" - - Vidalar; civatalar ve somunlar";;
+"null";"7415.33.00.00.11";" - - - Vidalar";"-";40
+"null";"7415.33.00.00.12";" - - - Civata ve somunlar";"-";40
+"null";"7415.39.00.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"[74.16]";;;
+"null";;;;
+"null";"[74.17]";;;
+"null";;;;
+"null";;;;
+"null";"74.18";"Bakırdan sofra, mutfak ve diğer ev işlerinde kullanılan eşya ile sağlığı";;
+"null";;"koruyucu eşya ve bunların aksamı; bakırdan süngerler, temizlik ve parlat-";;
+"null";;"ma işlerinde kullanılan eşya, eldivenler ve benzerleri:";;
+"null";"7418.10";" - Sofra, mutfak ve diğer ev işlerinde kullanılan eşya ve bunların aksamı;";;
+"null";;"    süngerler, temizlik ve parlatma işlerinde kullanılan eşya, eldivenler";;
+"null";;"    ve benzerleri:";;
+"null";"7418.10.10.00.00";" - - Ev işlerinde kullanılan türden, elektrikli olmayan pişirme veya ";;
+"null";;"       ısıtma cihazları ve bunların aksam ve parçaları";"-";50
+"null";;" - - Diğerleri:";;
+"null";"7418.10.90.00.11";" - - - Ev işlerinde kullanılan eşya";"-";40
+"null";"7418.10.90.00.15";" - - - Aksam ve parçalar";"-";40
+"null";"7418.20";" - Sağlığı koruyucu eşya ve bunların aksamı :";;
+"null";"7418.20.00.00.11";" - - Sağlığı koruyucu eşya";"-";40
+"null";"7418.20.00.00.15";" - - Aksam ve parçalar";"-";40
+"null";;;;
+"null";"74.19";"Bakırdan diğer eşya:";;
+"null";"7419.20";" - Döküm, kalıba dökülmüş, presle şekillendirilmiş veya dövülmüş fakat";;
+"null";;"  daha ileri bir işleme tabi tutulmamış:";;
+"null";"7419.20.00.10.00";" - - Her türlü madde için (sıkıştırılmış veya sıvı gaz hariç) bakırdan";;
+"null";;"        depolar, sarnıçlar, küvler ve benzeri diğer kaplar (hacmi 300 Iitreden";;
+"null";;"        fazla olan, mekanik veya termik tertibatı bulunmayanlar) (iç yüzeyleri";;
+"null";;"        kaplanmış ve ısıyı tecrit veya muhafaza edici maddelerle donatılmış olsun";;
+"null";;"        olmasın)";"-";50
+"null";"7419.20.00.90.00";" - - Diğerleri";"-";40
+"null";"7419.80";" - Diğerleri:";;
+"null";;" - - Çapları 6 mm. yi geçmeyen bakır tellerden mensucat ( sonsuz veya ";;
+"null";;"        devamlı mensucat dahil), ızgara, kafeslikler ve ağlar; bakırdan metal ";;
+"null";;"       depluvayye";;
+"null";"7419.80.10.00.11";" - - - Mensucat";"-";40
+"null";"7419.80.10.00.12";" - - - Bakırdan metal depluvayye";"-";40
+"null";"7419.80.10.00.19";" - - - Diğerleri";"-";40
+"null";"7419.80.30.00.00";" - - Bakır yaylar";"-";40
+"null";;" - - Diğerleri:";;
+"null";"7419.80.90.10.00";" - - - Her türlü madde için (sıkıştırılmış veya sıvı gaz hariç) bakırdan";;
+"null";;"        depolar, sarnıçlar, küvler ve benzeri diğer kaplar (hacmi 300 Iitreden";;
+"null";;"        fazla olan, mekanik veya termik tertibatı bulunmayanlar) (iç yüzeyleri";;
+"null";;"        kaplanmış ve ısıyı tecrit veya muhafaza edici maddelerle donatılmış ";;
+"null";;"        olsun olmasın)";"-";50
+"null";"7419.80.90.90.00";" - - - Diğerleri";"-";40

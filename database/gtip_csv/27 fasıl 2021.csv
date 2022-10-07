@@ -1,0 +1,336 @@
+﻿"null";"27.01";"Taşkömürü; taşkömüründen elde edilen briketler,topak ve";;
+"null";;"benzeri katı yakıtlar:";;
+"null";;" - Taşkömürü (toz haline getirilmiş olsun olmasın fakat";;
+"null";;"   aglomere edilmemiş):";;
+"null";"2701.11.00.00.00";" - - Antrasit  ";"-";60
+"null";"2701.12";" - - Bitümenli taşkömürü :";" ";
+"null";"2701.12.10.00.00";" - - - Kokluk taşkömürü";"-";60
+"null";"2701.12.90.00.00";" - - - Diğerleri ";"-";60
+"null";"2701.19.00.00.00";" - - Diğer taşkömürleri";"-";60
+"null";"2701.20";" - Taşkömüründen elde edilen briketler,topak ve benzeri";;
+"null";;"   katı yakıtlar ";;
+"null";"2701.20.00.00.11";" - - Briketler";"-";60
+"null";"2701.20.00.00.12";" - - Topaklar";"-";60
+"null";"2701.20.00.00.19";" - - Diğerleri";"-";60
+"null";;;;
+"null";"27.02";"Linyit (aglomere edilmiş olsun olmasın) (siyah kehribar hariç) :";;
+"null";"2702.10.00.00.00";" - Linyit (toz haline getirilmiş olsun olmasın fakat aglomere edil -";;
+"null";;"   memiş) ";"-";60
+"null";"2702.20.00.00.00";" - Aglomere linyit ";"-";60
+"null";;;;
+"null";"2703.00";"Turba (turba döküntüleri dahil) (aglomere edilmiş olsun olmasın)";;" "
+"null";"2703.00.00.00.11";"- Tarımda kullanılan turba ";"-";60
+"null";"2703.00.00.00.12";"- Tarımda kullanılan aglomere turba ";"-";60
+"null";"2703.00.00.00.19";"- Diğerleri";"-";60
+"null";;;;
+"null";"2704.00";"Taşkömürü,linyit ve turbadan elde edilen kok ve semikok (aglo -";;
+"null";;"mere edilmiş olsun olmasın); karni kömürü:";;
+"null";"2704.00.10.00.00";" -Taşkömüründen elde edilen kok ve semikok";"-";60
+"null";"2704.00.30.00.00";" - Linyitten elde edilen kok ve semikok";"-";60
+"null";;" - Diğerleri :";" ";
+"null";"2704.00.90.10.00";" - - Karni kömürü";"-";5
+"null";"2704.00.90.90.00";" - - Diğerleri";"-";60
+"null";;;;
+"null";"2705.00.00.00.00";"Havagazı, sugazı, fakir gaz ve benzeri gazlar (petrol gazı ve ";;
+"null";;"diğer gazlı hidrokarbonlar hariç)";"1 000 m3";15
+"null";;;;
+"null";"2706.00";"Taşkömürü, linyit ve turbanın damıtılmasından elde edilen katranlar";;
+"null";;"ve diğer mineral katranlar (suyu alınmış veya kısmen damıtılmış";;
+"null";;"olsun olmasın) (yeniden terkip edilmiş katranlar dahil)";" ";" "
+"null";"2706.00.00.00.11";"- Taşkömürü katranı";"-";30
+"null";"2706.00.00.00.19";"- Diğerleri";"-";30
+"null";;;;
+"null";"27.07";"Yüksek sıcaklıkta taşkömürü katranının damıtılmasından elde ";;
+"null";;"edilen yağlar ve diğer ürünler; içindeki aromatik unsurların ağır -";;
+"null";;"lığı aromatik olmayan unsurlardan fazla olan benzeri müstah-";;
+"null";;"zarlar :";;
+"null";"2707.10.00.00.00";" - Benzol (benzen)";"-";30
+"null";"2707.20.00.00.00";" - Toluol (toluen)";"-";30
+"null";"2707.30.00.00.00";" - Ksilol (ksilen)";"-";30
+"null";"2707.40.00.00.00";" - Naftalin";"-";30
+"null";"2707.50";" - ISO 3405 Metodu ile (ASTMD 86 Metoduna eşdeğer) ile ";;
+"null";;"   250°C de hacim itibariyle % 65 veya daha fazlası (kayıplar dahil)";;
+"null";;"   damıtılan diğer aromatik hidrokarbon karışımları:  ";;
+"null";"2707.50.00.00.11";" - - Solvent nafta (çözücü nafta)";"-";30
+"null";"2707.50.00.00.19";" - - Diğerleri ";"-";30
+"null";;" - Diğerleri:";;
+"null";"2707.91.00.00.00";" - - Kreozot yağları";"-";30
+"null";"2707.99";" - - Diğerleri :";;
+"null";;" - - - Ham yağlar:";;
+"null";"2707.99.11.00.00";" - - - - 200°C ye kadar sıcaklıkta,hacim itibariyle % 90 veya daha fazla";;
+"null";;"          damıtılmış ham hafif yağlar";"-";30
+"null";"2707.99.19.00.00";" - - - - Diğerleri";"-";30
+"null";"2707.99.20.00.00";" - - - Sülfürik asitle diğer kısımları alınmış petrol eterleri; Antrasen";"-";30
+"null";;" - - - Bazik ürünler";;" "
+"null";"2707.99.50.00.11";" - - - - Piridin";"-";30
+"null";"2707.99.50.00.12";" - - - - Akridin";"-";30
+"null";"2707.99.50.00.13";" - - - - Anilin";"-";30
+"null";"2707.99.50.00.19";" - - - - Diğerleri:";"-";30
+"null";;" - - - Fenoller";;
+"null";"2707.99.80.00.11";" - - - - Krezoller";"-";30
+"null";"2707.99.80.00.12";" - - - - Ksilenoller";"-";30
+"null";"2707.99.80.00.13";" - - - - Kinoller";"-";30
+"null";"2707.99.80.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"2707.99.91.00.00";" - - - - 28.03 Pozisyonundaki ürünlerin imaline mahsus olanlar";"-";30
+"null";"2707.99.99.00.00";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"27.08";"Taşkömürü katranından veya diğer mineral katranlardan elde ";;
+"null";;"edilen  zift ve zift koku :";;
+"null";"2708.10.00.00.00";" - Zift";"-";25
+"null";"2708.20.00.00.00";" - Zift koku";"-";25
+"null";;;;
+"null";"2709.00";"Petrol yağları ve bitümenli minerallerden elde edilen yağlar (ham):";;
+"null";"2709.00.10.00.00";" - Tabii gazın kondanseleri";"-";25
+"null";"2709.00.90.00.00";" - Diğerleri";"-";25
+"null";;;;
+"null";"27.10";"Petrol yağları ve bitümenli minerallerden elde edilen yağlar";;
+"null";;"(hamyağlar hariç) ; esas unsur olarak, ağırlık itibariyle";;
+"null";;"% 70 veya daha fazla petrol yağları veya bitümenli minerallerden";;
+"null";;" elde edilen yağları içeren ve tarifenin başka yerinde";;
+"null";;" belirtilmeyen veya yer almayan müstahzarlar, atık yağlar:";;
+"null";;" - Petrol yağları ve bitümenli minerallerden elde edilen yağlar";;
+"null";;"(ham yağlar hariç) ; esas unsur olarak, ağırlık itibariyle % 70";;
+"null";;"veya daha fazla petrol yağları veya bitümenli minerallerden";;
+"null";;"elde edilen yağları içeren ve tarifenin başka yerinde belirtilmeyen";;
+"null";;"veya yer almayan müstahzarlar (biodizel ihtiva edenler ve";;
+"null";;" atık yağlar hariç):";;
+"null";"2710.12";" - - Hafif yağlar ve müstahzarları  :";;
+"null";"2710.12.11.00.00";" - - - Özel bir işleme tabi tutulacak olanlar";"-";25
+"null";;" - - - 2710.12.11.00 alt pozisyonunda belirtilen işlemlerden başka";;
+"null";;"        bir işlemle  kimyasal değişime tabi tutulacak olanlar";;
+"null";"2710.12.15.00.11";" - - - - Yakıt Nafta";"-";25
+"null";"2710.12.15.00.19";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğer amaçlar için kullanılanlar :";;
+"null";;" - - - -  Özel benzinler :";;
+"null";"2710.12.21.00.00";" - - - - - White spirit";"-";25
+"null";"2710.12.25.00.00";" - - - - -  Diğerleri";"-";25
+"null";;" - - - -  Diğerleri :";;
+"null";;" - - - - - Motor benzini :  ";;
+"null";"2710.12.31.00.00";" - - - - - - Uçak benzini ";"-";25
+"null";;" - - - - - -  Diğerleri : ";;
+"null";;" - - - - - - -  İçindeki kurşun miktarı litrede 0,013 gramı geçmeyenler :";;
+"null";"2710.12.41.00.00";" - - - - - - - - Oktanı (RON) 95'den az olanlar";"m³ (1)";25
+"null";;" - - - - - - - - Oktanı (RON) 95 veya daha fazla fakat 98'den az olanlar";;
+"null";"2710.12.45.00.11";" - - - - - - - - - Kurşunsuz benzin 95 oktan";"m³ (1)";25
+"null";"2710.12.45.00.13";" - - - - - - - - - Kurşunsuz benzin 95 oktan (E10)";"m³ (1)";25
+"null";"2710.12.45.00.18";" - - - - - - - - - Diğerleri";"m³ (1)";25
+"null";;" - - - - - - - - Oktanı (RON) 98 veya daha fazla olanlar";;
+"null";"2710.12.49.00.11";" - - - - - - - - - Kurşunsuz benzin 98 oktan";"m³ (1)";25
+"null";"2710.12.49.00.12";" - - - - - - - - - Kurşunsuz benzin 98 oktan (E10)";"m³ (1)";25
+"null";"2710.12.49.00.18";" - - - - - - - - - Diğerleri";"m³ (1)";25
+"null";"2710.12.50.00.00";" - - - - - - - İçindeki kurşun miktarı litrede 0,013 gramı geçenler";"m³ (1)";25
+"null";"2710.12.70.00.00";" - - - - - Benzin tipi jet yakıtı";"-";25
+"null";" ";" - - - - - Diğer hafif yağlar ";" ";" "
+"null";"2710.12.90.00.11";" - - - - - - Diğer solventler (çözücüler)";"-";25
+"null";"2710.12.90.00.19";" - - - - - - Diğerleri";"-";25
+"null";"2710.19";" - - Diğerleri:";;
+"null";;" - - - Orta yağlar:";;
+"null";"2710.19.11.00.00";" - - - -  Özel bir işleme tabi tutulacak olanlar";"-";25
+"null";"2710.19.15.00.00";" - - - - 2710.19.11.00 alt pozisyonunda belirtilen işlemlerden başka";;
+"null";;"           bir işlemle  kimyasal değişime tabi tutulacak olanlar";"-";25
+"null";;" - - - - Diğer amaçlar için kullanılanlar :";;
+"null";;" - - - - - Kerosen :";;
+"null";"2710.19.21.00.00";" - - - - - - Jet yakıtı";"-";25
+"null";;" - - - - - - Diğerleri";;
+"null";"2710.19.25.00.11";" - - - - - - - Gazyağı";"-";25
+"null";"2710.19.25.00.19";" - - - - - - - Diğerleri";"-";25
+"null";"2710.19.29.00.00";" - - - - - Diğerleri";"-";25
+"null";;" - - - Ağır yağlar :";;
+"null";;" - - - - Gaz oiller :";;
+"null";"2710.19.31.00.00";" - - - - -  Özel bir işleme tabi tutulacak olanlar";"-";25
+"null";"2710.19.35.00.00";" - - - - - 2710.19.31.00 alt pozisyonunda belirtilen işlemlerden başka";;
+"null";;"            bir işlemle  kimyasal değişime tabi tutulacak olanlar ";"-";25
+"null";" ";" - - - - - Diğer amaçlar için kullanılanlar:";;
+"null";;" - - - - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçmeyenler";;
+"null";"2710.19.43.00.11";" - - - - - - - Motorin";"-";25
+"null";"2710.19.43.00.17";" - - - - - - - Damıtık denizcilik yakıtı";"-";25
+"null";"2710.19.43.00.29";" - - - - - - - Diğerleri";"-";25
+"null";;" - - - - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçen fakat % 0,002'yi ";;
+"null";;"              geçmeyenler";;
+"null";"2710.19.46.00.18";" - - - - - - - Damıtık denizcilik yakıtı";"-";25
+"null";"2710.19.46.00.29";" - - - - - - - Diğerleri";"-";25
+"null";;" - - - - - - Ağırlık itibariyle kükürt oranı % 0,002'yi geçen fakat % 0,1'i geçmeyenler";;
+"null";"2710.19.47.00.18";" - - - - - - - Damıtık denizcilik yakıtı";"-";25
+"null";"2710.19.47.00.19";" - - - - - - - Diğerleri";"-";25
+"null";;" - - - - - - Ağırlık itibariyle kükürt oranı % 0,1'i geçenler";;
+"null";"2710.19.48.00.11";" - - - - - - - Damıtık denizcilik yakıtı";"-";25
+"null";"2710.19.48.00.18";" - - - - - - - Diğerleri";"-";25
+"null";;" - - - - Fuel oiller :";;
+"null";"2710.19.51.00.00";" - - - - - Özel bir işleme tabi tutulacak olanlar";"-";25
+"null";"2710.19.55.00.00";" - - - - - 2710.19.51.00 Alt pozisyonunda belirtilen işlemlerden başka";;
+"null";;"            bir işlemle  kimyasal değişime tabi tutulacak olanlar ";"-";25
+"null";;" - - - - - Diğer amaçlar için kullanılanlar:";;
+"null";;" - - - - - - Ağırlık itibariyle kükürt miktarı %0,1'i geçmeyenler";;
+"null";"2710.19.62.00.10";" - - - - - - - Kalorifer Yakıtı";"-";25
+"null";"2710.19.62.00.11";" - - - - - - - Fuel oil";"-";25
+"null";"2710.19.62.00.31";" - - - - - - - Artık denizcilik yakıtı";"-";25
+"null";"2710.19.62.00.39";" - - - - - - - Diğerleri ";"-";25
+"null";;" - - - - - - Ağırlık itibariyle kükürt miktarı %0,1'i geçen fakat % 0,5'i geçmeyenler";;
+"null";"2710.19.66.00.10";" - - - - - - - Kalorifer Yakıtı";"-";25
+"null";"2710.19.66.00.11";" - - - - - - - Fuel oil";"-";25
+"null";"2710.19.66.00.31";" - - - - - - - Artık denizcilik yakıtı";"-";25
+"null";"2710.19.66.00.39";" - - - - - - - Diğerleri ";"-";25
+"null";;" - - - - - - Ağırlık itibariyle kükürt miktarı % 0,5'i geçenler:";;
+"null";;" - - - - - - - Ağırlık itibariyle kükürt miktarı %0,5'i geçen fakat %1'i geçmeyenler:";;
+"null";"2710.19.67.00.11";" - - - - - - - - Yüksek Kükürtlü Fuel oil";"-";25
+"null";"2710.19.67.00.12";" - - - - - - - - Fuel oil";"-";25
+"null";"2710.19.67.00.13";" - - - - - - - - Kalorifer Yakıtı";"-";25
+"null";"2710.19.67.00.31";" - - - - - - - - Artık denizcilik yakıtı";"-";25
+"null";"2710.19.67.00.39";" - - - - - - - - Diğerleri";"-";25
+"null";;" - - - - - - - Ağırlık itibariyle kükürt miktarı %1'i geçenler:";;
+"null";"2710.19.67.00.41";" - - - - - - - - Yüksek Kükürtlü Fuel oil";"-";25
+"null";"2710.19.67.00.42";" - - - - - - - - Artık denizcilik yakıtı";"-";25
+"null";"2710.19.67.00.49";" - - - - - - - - Diğerleri";"-";25
+"null";;" - - - - Yağlama yağları ; diğer yağlar :";;
+"null";"2710.19.71.00.00";" - - - - - Özel bir işleme tabi tutulacak olanlar                                ";"-";25
+"null";"2710.19.75.00.00";" - - - - - 2710.19.71.00 alt pozisyonunda belirtilen işlemlerden başka";;
+"null";;"          bir işlemle  kimyasal değişime tabi tutulacak olanlar            ";"-";25
+"null";;" - - - - - Diğer amaçlar için kullanılanlar :";;
+"null";"2710.19.81.00.00";" - - - - - - Motor yağları, kompresör yağlama yağları, türbin yağlama yağları ";"-";25
+"null";"2710.19.83.00.00";" - - - - - - Hidrolik yağları                               ";"-";25
+"null";"2710.19.85.00.00";" - - - - - - Beyaz yağlar, sıvı parafin                                                ";"-";25
+"null";"2710.19.87.00.00";" - - - - - - Dişli yağları ve redüktör yağları                                        ";"-";25
+"null";"2710.19.91.00.00";" - - - - - - Metal işlemeye mahsus bileşikler, kalıp çıkarma yağları,";;
+"null";;"             aşınmayı önleyici yağlar                                                  ";"-";25
+"null";"2710.19.93.00.00";" - - - - - - Elektrik izolasyonuna mahsus yağlar                                                   ";"-";25
+"null";;" - - - - - - Diğer yağlama yağları ve diğer yağlar                               ";;
+"null";"2710.19.99.00.11 ";" - - - - - - - Spindle Oil, Light Neutral, Heavy Neutral, Bright Stock";"-";25
+"null";"2710.19.99.00.25";" - - - - - - - Diğer madeni yağlar";"-";25
+"null";"2710.19.99.00.98";" - - - - - - - Diğerleri";"-";25
+"null";"2710.20";" - Petrol yağları ve bitümenli minerallerden elde edilen yağlar";;
+"null";;"(ham yağlar hariç) ; esas unsur olarak, ağırlık itibariyle % 70";;
+"null";;"veya daha fazla petrol yağları veya bitümenli minerallerden";;
+"null";;"elde edilen yağları içeren ve tarifenin başka yerinde belirtilmeyen";;
+"null";;"veya yer almayan müstahzarlar (biodizel ihtiva edenler) (atık yağlar hariç):";;
+"null";;" - - Gaz oiller :";;
+"null";;" - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçmeyenler";;
+"null";"2710.20.11.00.11";" - - - - Motorin";"-";25
+"null";"2710.20.11.00.19";" - - - - Diğerleri";"-";25
+"null";"2710.20.16.00.00";" - - - Ağırlık itibariyle kükürt oranı % 0,001'i geçen fakat % 0,1'i geçmeyenler";"-";25
+"null";"2710.20.19.00.00";" - - - Ağırlık itibariyle kükürt oranı % 0,1'i geçenler";"-";25
+"null";;" - - Fuel oiller :";;
+"null";"2710.20.32.00.00";" - - - Ağırlık itibariyle kükürt miktarı % 0,5'i geçmeyenler";"-";25
+"null";"2710.20.38.00.00";" - - - Ağırlık itibariyle kükürt miktarı % 0,5'i geçenler";"-";25
+"null";"2710.20.90.00.00";" - - Diğer yağlar";"-";25
+"null";;" - Atık yağlar:";;
+"null";"2710.91.00.00.00";" - - Poliklorlu bifeniller (PCB'ler), poliklorlu terfeniller (PCT'ler) veya ";;
+"null";;"     polibromlu bifeniller (PBB'ler) içerenler";"-";25
+"null";"2710.99.00.00.00";" - - Diğerleri";"-";25
+"null";;;;
+"null";"27.11";"Petrol gazları ve diğer gazlı hidrokarbonlar:";;
+"null";;" - Sıvılaştırılmış:";;
+"null";"2711.11.00.00.00";" - - Doğal gaz                                                        ";"     TJ";15
+"null";"2711.12";" - - Propan:";;
+"null";;" - - - Saflığı % 99 veya daha fazla olan propan:";;
+"null";"2711.12.11.00.00";" - - - - Güç temininde veya yakıt olarak kullanılmaya mahsus olanlar      ";"-";15
+"null";"2711.12.19.00.00";" - - - - Diğer amaçlar için kullanılanlar                                 ";"-";15
+"null";;" - - - Diğerleri:";;
+"null";"2711.12.91.00.00";" - - - - Özel bir işleme tabi tutulacak olanlar                             ";"-";15
+"null";"2711.12.93.00.00";" - - - - 2711.12.91.00  Alt pozisyonlarında belirtilen işlemlerden";;
+"null";;"          başka bir işlem ile kimyasal değişime tabi tutulacak olanlar                  ";"-";15
+"null";;" - - - - Diğer amaçlar için kullanılanlar :                              ";;
+"null";"2711.12.94.00.00";" - - - - - % 90'dan daha fazla saflıkta fakat % 99'dan daha az saflıkta";;
+"null";;"            olanlar";"-";15
+"null";"2711.12.97.00.00";" - - - - - Diğerleri";"-";15
+"null";"2711.13";" - - Bütan:";;
+"null";"2711.13.10.00.00";" - - - Özel bir işleme tabi tutulacak olanlar";"-";15
+"null";"2711.13.30.00.00";" - - - 2711.13.10.00 Alt pozisyonunda belirtilen işlemden başka bir ";;
+"null";;"        işlemle kimyasal değişime tabi tutulacak olanlar";"-";15
+"null";;" - - - Diğer amaçlar için kullanılanlar :";;
+"null";"2711.13.91.00.00";" - - - - % 90'dan daha fazla saflıkta fakat % 95'den daha az saflıkta";;
+"null";;"          olanlar";"-";15
+"null";"2711.13.97.00.00";" - - - - Diğerleri";"-";15
+"null";"2711.14";" - - Etilen,propilen,bütilen ve bütadien";;" "
+"null";"2711.14.00.00.11";" - - - Etilen";"-";15
+"null";"2711.14.00.00.12";" - - - Propilen";"-";15
+"null";"2711.14.00.00.13";" - - - Bütilen ";"-";15
+"null";"2711.14.00.00.14";" - - - Bütadien";"-";15
+"null";"2711.19";" - - Diğerleri";;
+"null";"2711.19.00.00.11";" - - - Sıvılaştırılmış petrol gazı (L.P.G.)";"-";15
+"null";"2711.19.00.00.12";" - - - Etan";"-";15
+"null";"2711.19.00.00.13";" - - - Metan";"-";15
+"null";"2711.19.00.00.19";" - - - Diğerleri";"-";15
+"null";;" - Gaz halinde olanlar:";;
+"null";"2711.21.00.00.00";" - - Doğal gaz";"TJ";15
+"null";"2711.29";" - - Diğerleri";;" "
+"null";"2711.29.00.00.11";" - - - Propan";"-";15
+"null";"2711.29.00.00.12";" - - - Bütan";"-";15
+"null";"2711.29.00.00.13";" - - - Etilen";"-";15
+"null";"2711.29.00.00.14";" - - - Propilen";"-";15
+"null";"2711.29.00.00.15";" - - - Bütilen ";"-";15
+"null";"2711.29.00.00.16";" - - - Bütadien";"-";15
+"null";"2711.29.00.00.17";" - - - Metan";"-";15
+"null";"2711.29.00.00.18";" - - - Etan";"-";15
+"null";"2711.29.00.00.29";" - - - Diğerleri";"-";15
+"null";;;;
+"null";"27.12";"Vazelin; parafin; mikro-kristal bünyeli petrol mumu,yağlı mum, ";;
+"null";;"ozokerit, linyit mumu, turba mumu,diğer mineral mumlar,";;
+"null";;"sentez veya diğer işlemlerle elde edilen benzeri ürünler ";;
+"null";;"(renklendirilmiş olsun olmasın):";;
+"null";"2712.10";" - Vazelin:";;
+"null";"2712.10.10.00.00";" - - Ham vazelin";"-";30
+"null";"2712.10.90.00.00";" - - Diğerleri";"-";30
+"null";"2712.20";" - Ağırlık itibariyle % 0,75'den az yağ içeren parafin:";" ";" "
+"null";"2712.20.10.00.00";" - - Sentetik parafin (molekül ağırlığı 460 veya daha fazla fakat 1560'ı";"  ";" "
+"null";;"      geçmeyen)";"-";30
+"null";" ";" - - Diğerleri";" ";" "
+"null";"2712.20.90.00.11";" - - - Ham parafin";"-";30
+"null";"2712.20.90.00.19";" - - - Diğerleri";"-";30
+"null";"2712.90";" - Diğerleri:";;
+"null";;" - - Ozokerit, linyit mumu ve turba mumu (tabii ürünler):";;
+"null";;" - - - Ham                                                    ";;" "
+"null";"2712.90.11.00.11";" - - - - Ham ozokerit";"-";30
+"null";"2712.90.11.00.12";" - - - - Ham linyit mumu ";"-";30
+"null";"2712.90.11.00.13";" - - - - Ham turba mumu";"-";30
+"null";;" - - - Diğerleri                                          ";" ";
+"null";"2712.90.19.00.11";" - - - - Ham olmayan ozokerit";"-";30
+"null";"2712.90.19.00.12";" - - - - Ham olmayan linyit mumu ";"-";30
+"null";"2712.90.19.00.13";" - - - - Ham olmayan turba mumu";"-";30
+"null";;" - - Diğerleri :";;
+"null";;" - - - Ham :";;
+"null";"2712.90.31.00.00";" - - - - Özel bir işleme tabi tutulacak olanlar ";"-";30
+"null";"2712.90.33.00.00";" - - - - 2712.90.31.00 Alt pozisyonunda belirtilen işlemden başka bir ";" ";
+"null";;"          işlemle kimyasal değişime tabi tutulacak olanlar";"-";30
+"null";"2712.90.39.00.00";" - - - - Diğer amaçlar için kullanılanlar";"-";30
+"null";;" - - - Diğerleri :";" ";
+"null";"2712.90.91.00.00";" - - - - Zincir uzunluğu 24 veya daha fazla fakat 28 karbon atomunu ";;
+"null";;"          geçmeyen, ağırlık itibariyle % 80 veya daha fazla alken-1 ihtiva";;
+"null";;"          eden alken-1 karışımları";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"2712.90.99.10.00";" - - - - - Parafin";"-";30
+"null";"2712.90.99.90.00";" - - - - - Diğerleri";"-";30
+"null";;;;
+"null";"27.13";"Petrol koku, petrol bitümeni ve petrol yağlarının veya bitümenli";;
+"null";;"minerallerden elde edilen yağların diğer kalıntıları :";;
+"null";;" - Petrol koku :";;
+"null";"2713.11.00.00.00";" - - Kalsine edilmemiş";"-";20
+"null";"2713.12.00.00.00";" - - Kalsine edilmiş";"-";20
+"null";"2713.20";" - Petrol bitümeni";" ";
+"null";"2713.20.00.00.11";" - - Penetrasyon asfalt";"-";20
+"null";"2713.20.00.00.12";" - - Blown";"-";20
+"null";"2713.20.00.00.19";" - - Diğerleri";"-";20
+"null";"2713.90";" - Petrol yağlarının veya bitümenli minerallerden elde edilen ";" ";
+"null";;"   yağların diğer kalıntıları :";" ";
+"null";"2713.90.10.00.00";" - - 28.03 Pozisyonundaki ürünlerin imaline mahsus olanlar";"-";20
+"null";;" - - Diğerleri";" ";" "
+"null";"2713.90.90.00.11";" - - - Petrol yağları veya şist yağlarının diğer kalıntıları ";"-";20
+"null";"2713.90.90.00.19";" - - - Diğerleri";"-";20
+"null";;;" ";
+"null";"27.14";"Tabii bitümen ve tabii asfalt; bitümenli veya yağlı şist ve katran-";" ";
+"null";;"lı kumlar; asfaltitler ve asfaltlı kayalar :";"  ";
+"null";"2714.10.00.00.00";" - Bitümenli veya yağlı şist ve katranlı kumlar";"-";20
+"null";"2714.90";" - Diğerleri";" ";" "
+"null";"2714.90.00.00.11";" - - Tabii bitümen";"-";20
+"null";"2714.90.00.00.12";" - - Tabii asfalt";"-";20
+"null";"2714.90.00.00.13";" - - Asfaltlı kayalar";"-";20
+"null";"2714.90.00.00.14";" - - Asfaltitler";"-";20
+"null";"2714.90.00.00.19";" - - Diğerleri";"-";20
+"null";;;;
+"null";"2715.00.00.00.00";"Esasını tabii asfalt, tabii bitümen, petrol bitümeni, mineral";;
+"null";;"katran veya mineral katran zifti (bitümenli sakızlar, cut-backs";;
+"null";;"gibi) teşkil eden bitümenli karışımlar";"-";20
+"null";;;;
+"null";"2716.00.00.00.00";"Elektrik enerjisi";"1000 kWs";15
+;;;;
+;;"(1) 15 0C'lik ısıda ölçülmüş.";;

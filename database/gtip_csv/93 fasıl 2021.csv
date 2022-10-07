@@ -1,0 +1,65 @@
+﻿"null";"93.01";"Harp silahları (revolverler, tabancalar ve 93.07 pozisyonundaki";;
+"null";;"silahlar hariç)";;
+"null";"9301.10.00.00.00";" - Topçu silahları (örneğin, toplar, obüsler ve havanlar)";"   Adet";200
+"null";"9301.20.00.00.00";" - Roket fırlatıcılar; alev-atıcılar; el bombası atıcıları; torpil tüpleri";;
+"null";;"   ve benzeri fırlatıcılar";"   Adet";200
+"null";"9301.90.00.00.00";" - Diğerleri";"   Adet";200
+"null";;;;
+"null";"9302.00.00.00.00";"Revolverler ve tabancalar ( 93.03 veya 93.04 pozisyonundakiler ";;
+"null";;"hariç):";"   Adet";75
+"null";;;;
+"null";"93.03";"Bir patlayıcının itiş gücü ile çalışan diğer ateşli silahlar ve benzeri ";;
+"null";;"cihazlar ( spor için av tüfekleri ve tüfekler, ağızdan doldurulan ";;
+"null";;"ateşli silahlar, sadece işaret fişeği atmak üzere imal edilmiş taban-";;
+"null";;"ca ve diğer cihazlar, manevra fişeği atmak için tabanca ve revol-";;
+"null";;"verler, hayvan öldürmeye mahsus sürgülü silahlar, ok-atar tüfekler ";;
+"null";;"gibi):";;
+"null";"9303.10.00.00.00";" - Ağızdan doldurmalı ateşli silahlar";"   Adet";75
+"null";"9303.20";" - Diğer spor, av veya hedef için yivsiz tüfekler (yivli-yivsiz kombine namlulu olanlar ";;
+"null";;"   dahil):";;
+"null";"9303.20.10.00.00";" - - Yivsiz, tek namlulular";"   Adet";75
+"null";"9303.20.95.00.00";" - - Diğerleri";"   Adet";75
+"null";"9303.30.00.00.00";" - Diğer spor, av veya hedef için yivli tüfekler";"   Adet";75
+"null";"9303.90.00.00.00";" - Diğerleri";"   Adet";75
+"null";;;;
+"null";"9304.00.00.00.00";"Diğer silahlar ( yaylı, havalı veya gazlı tüfek ve tabancalar, vuruş";;
+"null";;"sopaları gibi) ( 93.07 pozisyonundakiler hariç)";"   Adet";75
+"null";;;;
+"null";"93.05";"93.01 ila 93.04 Pozisyonlarında yer alan eşyanın aksam, parça ve ";;
+"null";;"aksesuarları:";;
+"null";"9305.10.00.00.00";" - Revolverler ve tabancalara ait olanlar";"-";75
+"null";;" - 93.03 Pozisyonundaki tüfeklere ait olanlar:";;
+"null";"9305.20.00.10.00";" - - Sertleştirilmemiş vulkanize kauçuktan olanlar";"-";50
+"null";"9305.20.00.90.00";" - - Diğerleri";"-";75
+"null";;" - Diğerleri:";" ";
+"null";"9305.91.00.00.00";" - - 93.01 Pozisyonundaki harp silahlarına ait olanlar";"-";200
+"null";;" - - Diğerleri :";" ";
+"null";"9305.99.00.10.00";" - - - Sertleştirilmemiş vulkanize kauçuktan olanlar";"-";50
+"null";" ";" - - - Diğerleri";" ";
+"null";"9305.99.00.90.11";" - - - - Dipçik taslakları";"-";75
+"null";"9305.99.00.90.19";" - - - - Diğerleri";"-";75
+"null";;;;
+"null";"93.06";"Bombalar, el bombaları, torpidolar, mayınlar, güdümlü mermiler";;
+"null";;"ve benzeri harp mühimmatı ve bunların aksam ve parçaları; fişek-";;
+"null";;"ler ve diğer mühimmat ve mermiler ve bunların aksam ve parçala -";;
+"null";;"rı (saçmalar, fişek barut sıkıştırıcıları dahil):";;
+"null";;" - Av tüfekleri için fişekler ve bunların aksam ve parçaları; havalı";;
+"null";;"   silah kurşunları:";" ";
+"null";"9306.21.00.00.00";" - - Fişekler";"1000 Ad";75
+"null";"9306.29.00.00.00";" - - Diğerleri";"-";75
+"null";"9306.30";" - Diğer fişekler ve bunların aksam ve parçaları:";;
+"null";;" - - 93.02 Pozisyonundaki revolverler ve tabancalar ile 93.01 pozisyonun -";;
+"null";;"     daki hafif makinalı tabancalara ait olanlar:";;
+"null";"9306.30.10.10.00";" - - - 93.01 Pozisyonundaki hafif makinalı tabancalara ait olanlar";"-";200
+"null";"9306.30.10.90.00";" - - - Diğerleri";"-";75
+"null";;" - - Diğerleri:";" ";
+"null";"9306.30.30.00.00";" - - - Harp silahlarına ait olanlar";"-";200
+"null";;" - - - Diğerleri";;
+"null";"9306.30.90.00.10";" - - - - Perçinleme veya benzeri alet veya sürgülü hayvan öldürücüler için fişekler";"-";75
+"null";"9306.30.90.00.90";" - - - - Diğerleri";"-";75
+"null";"9306.90";" - Diğerleri:";;
+"null";"9306.90.10.00.00";" - - Harp silahlarına ait olanlar";"-";200
+"null";"9306.90.90.00.00";" - - Diğerleri";"-";75
+"null";;;;
+"null";"9307.00.00.00.00";"Kılıçlar, palalar, süngüler, mızraklar ve benzeri silahlar ve bunların";;
+"null";;"aksam ve parçaları ve bunların kın ve kılıfları";"-";50

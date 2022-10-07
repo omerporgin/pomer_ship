@@ -1,0 +1,109 @@
+﻿"null";"26.01";"Demir cevherleri ve zenginleştirilmiş demir cevherleri (kavrulmuş";;
+"null";;"demir piritleri dahil) :";;
+"null";;" - Demir cevherleri ve zenginleştirilmiş demir cevherleri ";;
+"null";;"  (kavrulmuş demir piritleri hariç): ";;
+"null";"2601.11.00.00.00";" - - Aglomere edilmemiş                                                   ";"-";5
+"null";"2601.12.00.00.00";" - - Aglomere edilmiş                                                       ";"-";5
+"null";"2601.20.00.00.00";" - Kavrulmuş demir piritleri                                                    ";"-";5
+"null";;;;
+"null";"2602.00.00.00.00";"Manganez cevherleri ve zenginleştirilmiş manganez cevherleri ";;
+"null";;"(kuru ağırlık üzerinden hesaplandığında manganez miktarı ";;
+"null";;"%  20 veya daha fazla olan demirli manganez cevherleri ve zen-";;
+"null";;"ginleştirilmiş demirli manganez cevherleri dahil)   ";"-";5
+"null";;"                                             ";;
+"null";"2603.00.00.00.00";"Bakır cevherleri ve zenginleştirilmiş bakır cevherleri                          ";"-";5
+"null";;;;
+"null";"2604.00.00.00.00";"Nikel cevherleri ve zenginleştirilmiş nikel cevherleri                           ";"-";5
+"null";;;;
+"null";"2605.00.00.00.00";"Kobalt cevherleri ve zenginleştirilmiş kobalt cevherleri                         ";"-";5
+"null";;;;
+"null";"2606.00.00.00.00";"Aluminyum cevherleri ve zenginleştirilmiş aluminyum cevherleri                 ";"-";5
+"null";;;;
+"null";"2607.00.00.00.00";"Kurşun cevherleri ve zenginleştirilmiş kursun cevherleri   ";"-";5
+"null";;;;
+"null";"2608.00.00.00.00";"Çinko cevherleri ve zenginleştirilmiş çinko cevherleri   ";"-";5
+"null";;;;
+"null";"2609.00.00.00.00";"Kalay cevherleri ve zenginleştirilmiş kalay cevherleri   ";"-";5
+"null";;;;
+"null";"2610.00.00.00.00";"Krom cevherleri ve zenginleştirilmiş krom cevherleri";"-";5
+"null";;;;
+"null";"2611.00.00.00.00";"Tungsten cevherleri ve zenginleştirilmiş tungsten cevherleri ";"-";5
+"null";;;;
+"null";"26.12";"Uranyum veya toryum cevherleri,zenginleştirilmiş uranyum ve ";;
+"null";;"toryum cevherleri:";;
+"null";"2612.10";" - Uranyum cevherleri ve zenginleştirilmiş uranyum cevherleri:";;
+"null";"2612.10.10.00.00";" - - İçinde ağırlık itibariyle % 5'ten fazla uranyum bulunan uranyum";;
+"null";;"     cevherleri ve peşblent ve bunların zenginleştirilmiş olanları";;
+"null";;"     (EURATOM)                                                                      ";"-";5
+"null";"2612.10.90.00.00";" - - Diğerleri                                                         ";"-";5
+"null";"2612.20";" - Toryum cevherleri ve zenginleştirilmiş toryum cevherleri:";;
+"null";"2612.20.10.00.00";" - - Monazit; içinde ağırlık itibariyle % 20' den fazla toryum bulunan";;
+"null";;"      urano -torianit ve diğer toryum cevherleri ve zenginleştirilmiş diğer";;
+"null";;"      toryum cevherleri (EURATOM)                                              ";"-";5
+"null";"2612.20.90.00.00";" - - Diğerleri                                                        ";"-";5
+"null";;;;
+"null";"26.13";"Molibden cevherleri ve zenginleştirilmiş molibden cevherleri:";;
+"null";"2613.10.00.00.00";" - Kavrulmuş";"-";5
+"null";"2613.90.00.00.00";" - Diğerleri ";"-";5
+"null";;;;
+"null";"2614.00.00.00.00";"Titanyum cevherleri ve zenginleştirilmiş titanyum cevherleri";"-";5
+"null";;;;
+"null";"26.15";"Niobyum,tantalyum,vanadyum veya zirkonyum cevherleri ve bun -";;
+"null";;"ların zenginleştirilmiş cevherleri:";;
+"null";"2615.10.00.00.00";" - Zirkonyum cevherleri ve zenginleştirilmiş zirkonyum cevherleri     ";"-";5
+"null";"2615.90.00.00.00";" - Diğerleri";"-";5
+"null";;;;" "
+"null";"26.16";"Kıymetli metal cevherleri ve zenginleştirilmiş kıymetli metal";;
+"null";;"cevherleri :";;
+"null";"2616.10.00.00.00";" - Gümüş cevherleri ve zenginleştirilmiş gümüş cevherleri ";"-";5
+"null";"2616.90.00.00.00";" - Diğerleri                                      ";"-";5
+"null";;;;
+"null";"26.17";"Diğer metal cevherleri ve zenginleştirilmiş diğer metal cevherleri:";;
+"null";"2617.10.00.00.00";" - Antimon cevherleri ve zenginleştirilmiş antimon cevherleri ";"-";5
+"null";"2617.90.00.00.00";" - Diğerleri                           ";"-";5
+"null";"2618.00.00.00.00";"Demir veya çeliğin imalinden elde edilen granüle cüruf  (cüruf ";;
+"null";;"kumu)";"-";10
+"null";"2619.00";"Cüruf, moloz (granüle cüruf hariç), dövme demir kırıntıları ve ";;
+"null";;"demir veya çeliğin imalinden elde edilen diğer döküntüler:";;
+"null";"2619.00.20.00.00";" - Demir veya manganezin tekrar elde edilmesine uygun döküntüler         ";"-";10
+"null";;" - Diğerleri ";;
+"null";"2619.00.90.00.11";" - - Yüksek fırın cürufu";"-";10
+"null";"2619.00.90.00.12";" - - Diğer cüruflar";"-";10
+"null";"2619.00.90.00.13";" - - Tufal";"-";10
+"null";"2619.00.90.00.19";" - - Diğerleri ";"-";10
+"null";;;;
+"null";"26.20";"Arsenik, metaller veya bunların bileşiklerini içeren cüruf, küller ve ";;
+"null";;"kalıntılar (demir veya çeliğin imalinden elde edilenler hariç):";;
+"null";;" - Başlıca muhtevası çinko olanlar: ";;
+"null";"2620.11.00.00.00";" - - Galvanizli matlar                        ";"-";10
+"null";"2620.19.00.00.00";" - - Diğerleri                                ";"-";10
+"null";;" - Başlıca muhtevası kurşun olanlar:        ";;
+"null";"2620.21.00.00.00";" - - Kurşunlu benzin tortuları (sludges) ve kurşunlu vuruntuyu ";;
+"null";;"     önleyici  bileşiklerin tortuları (sludges)";"-";10
+"null";"2620.29.00.00.00";" - - Diğerleri";"-";10
+"null";"2620.30.00.00.00";" - Başlıca muhtevası bakır olanlar       ";"-";10
+"null";"2620.40.00.00.00";" - Başlıca muhtevası aluminyum olanlar     ";"-";10
+"null";"2620.60.00.00.00";" - Muhtevası arsenik, civa, talyum veya  bunların karışımlarından ";;
+"null";;"   (arsenik veya bu metallerin elde edilmesinde ya da  bunların ";;
+"null";;"  kimyasal bileşiklerinin üretiminde kullanılan türden olanlar)  ";"-";10
+"null";;" - Diğerleri                                ";;
+"null";"2620.91.00.00.00";" - - Muhtevası antimon, berilyum, kadmiyum, krom veya bunların";;
+"null";;"     karışımlarından olanlar";"-";10
+"null";"2620.99";" - - Diğerleri:";;
+"null";"2620.99.10.00.00";" - - - Başlıca muhtevası nikel olanlar                                ";"-";10
+"null";;" - - - Başlıca muhtevası niobyum ve tantalyum olanlar ";;
+"null";"2620.99.20.00.11";" - - - - Başlıca muhtevası niobyum olanlar ";"-";10
+"null";"2620.99.20.00.12";" - - - - Başlıca muhtevası tantalyum olanlar ";"-";10
+"null";"2620.99.40.00.00";" - - - Başlıca muhtevası kalay olanlar                                      ";"-";10
+"null";"2620.99.60.00.00";" - - - Başlıca muhtevası titanyum olanlar                                   ";"-";10
+"null";"2620.99.95.00.00";" - - - Diğerleri                                                            ";"-";10
+"null";;;;
+"null";;;;
+"null";"26.21";"Diğer cüruf ve küller (deniz yosunu ""varech"" külü dahil);";;
+"null";;"şehir atıklarının yakılmasından elde edilen kül ve kalıntılar:";;
+"null";"2621.10.00.00.00";" - Şehir atıklarının yakılmasından elde edilen kül ve kalıntılar";"-";10
+"null";;" - Diğerleri:";;
+"null";;" - - Pancar melasının muamelesinden elde edilen ham potasyum tuzları:";;
+"null";"2621.90.00.11.00";" - - - Ambalajlı brüt ağırlığı en fazla 10 kg. olanlar";"-";15
+"null";"2621.90.00.19.00";" - - - Diğerleri";"-";10
+"null";"2621.90.00.90.00";" - - Diğerleri";"-";10

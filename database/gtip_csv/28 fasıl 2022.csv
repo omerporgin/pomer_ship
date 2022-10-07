@@ -1,0 +1,991 @@
+﻿"null";;"                               I.  KİMYASAL ELEMENTLER";;
+"null";"28.01";"Flor, klor, brom ve iyot:";;
+"null";"2801.10.00.00.00";" - Klor";"-";25
+"null";"2801.20";" - İyot :";" ";
+"null";"2801.20.00.10.00";" - - Resüblime iyot";"-";25
+"null";"2801.20.00.90.00";" - - Diğerleri";"-";25
+"null";"2801.30";" - Flor; brom:";" ";
+"null";"2801.30.10.00.00";" - - Flor";"-";25
+"null";"2801.30.90.00.00";" - - Brom";"-";25
+"null";;;" ";
+"null";"2802.00.00.00.00";"Süblime veya çöktürülmüş kükürt; kolloidal kükürt";"-";30
+"null";;;;
+"null";"2803.00";"Karbon [karbon karaları (carbon blacks) ve tarifenin başka";;
+"null";;"yerinde belirtilmeyen veya yer almayan diğer şekillerdeki karbon]:";;
+"null";"2803.00.00.10.00";" - Petrol gazı karası (metan karası)";"-";30
+"null";"2803.00.00.20.00";" - Bitkisel karalar";"-";5
+"null";;" - Diğerleri:";" ";" "
+"null";"2803.00.00.90.11";" - - İskarası";"-";30
+"null";"2803.00.00.90.12";" - - Antrasen";"-";30
+"null";"2803.00.00.90.19";" - - Diğerleri";"-";30
+"null";;;;
+"null";"28.04";"Hidrojen, asal gazlar ve diğer ametaller:";;
+"null";"2804.10.00.00.00";" - Hidrojen";"   m3 (1)";50
+"null";;" - Asal gazlar:";;
+"null";"2804.21.00.00.00";" - - Argon";"   m3 (1)";15
+"null";"2804.29";" - - Diğerleri:";" ";" "
+"null";"2804.29.10.00.00";" - - - Helyum";"   m3 (1)";15
+"null";;" - - - Diğerleri";;
+"null";"2804.29.90.00.12";" - - - - Neon";"   m3 (1)";15
+"null";"2804.29.90.00.19";" - - - - Diğer asal gazlar";"   m3   (1) ";15
+"null";"2804.30.00.00.00";" - Azot";"   m3 (1)";15
+"null";"2804.40.00.00.00";" - Oksijen";"   m3 (1) ";15
+"null";"2804.50";" - Bor; tellür:";;
+"null";"2804.50.10.00.00";" - - Bor";"-";15
+"null";"2804.50.90.00.00";" - - Tellür";"-";15
+"null";;" - Silisyum :";" ";
+"null";"2804.61.00.00.00";" - - Ağırlık itibariyle en az % 99,99 silisyum içerenler";"-";15
+"null";"2804.69.00.00.00";" - - Diğerleri";"-";15
+"null";"2804.70";" - Fosfor:";" ";
+"null";"2804.70.10.00.00";" - - Kırmızı fosfor";"-";15
+"null";"2804.70.90.00.00";" - - Diğerleri";"-";15
+"null";"2804.80.00.00.00";" - Arsenik";"-";15
+"null";"2804.90.00.00.00";" - Selenyum";"-";15
+"null";;;;
+"null";"28.05";"Alkali metaller veya toprak alkali metaller; nadir toprak";;
+"null";;"metaller,skandiyum ve itriyum (kendi aralarında karıştırılmış";;
+"null";;"ve alaşım haline getirilmiş olsun olmasın); civa:";;
+"null";;" - Alkali metaller veya toprak alkali metaller:";;
+"null";"2805.11.00.00.00";" - - Sodyum";"-";15
+"null";"2805.12.00.00.00";" - - Kalsiyum";"-";15
+"null";"2805.19";" - - Diğerleri";" ";" "
+"null";"2805.19.10.00.00";" - - - Stronsiyum ve baryum";"-";15
+"null";;" - - - Diğerleri";;
+"null";"2805.19.90.00.11";" - - - - Potasyum";"-";15
+"null";"2805.19.90.00.12";" - - - - Lityum";"-";15
+"null";"2805.19.90.00.13";" - - - - Sezyum ve rubidyum";"-";15
+"null";"2805.19.90.00.19";" - - - - Diğerleri";"-";15
+"null";"2805.30";" - Nadir toprak metaller,skandiyum ve itriyum (kendi";;
+"null";;"   aralarında karıştırılmış veya alaşım haline getirilmiş";;
+"null";;"   olsun olmasın):";;
+"null";"2805.30.10.00.00";" - - Kendi aralarında karıştırılmış veya alaşım haline getirilmiş olanlar";"-";15
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlıkça % 95 veya daha fazla saflıkta olanlar:";;
+"null";"2805.30.20.00.00";" - - - - Seryum, Lantan, Praseodim, Neodimyum ve Samaryum";"-";15
+"null";"2805.30.30.00.00";" - - - - Evropiyum, gadolinyum, terbiyum, disprosyum, holmiyum, erbiyum, tulyum,";;
+"null";;"         iterbiyum, lutetyum ve itriyum";"-";15
+"null";"2805.30.40.00.00";" - - - - Skandiyum";"-";15
+"null";"2805.30.80.00.00";" - - - Diğerleri";"-";15
+"null";"2805.40";" - Civa :";;
+"null";"2805.40.10.00.00";" - - Net muhteviyatı 34,5 kg. (standart ağırlık) lık şişelerde olup şişe başına ";;
+"null";;"      FOB kıymeti 224 Euro'yu geçmeyenler  ";"-";30
+"null";"2805.40.90.00.00";" - - Diğerleri";"-";30
+"null";"(1) 1013 mbar basınç altında ve 15C'de";;;
+"null";;"       II. İNORGANİK ASİTLER VE AMETALLERİN İNORGANİK";;
+"null";;"                          OKSİJENLİ BİLEŞİKLERİ";;
+"null";;;;
+"null";"28.06";"Hidrojen klorür (hidroklorik asit); klorsülfirik asit:";;
+"null";"2806.10";" - Hidrojen klorür (hidroklorik asit)";;" "
+"null";"2806.10.00.00.11";" - - Saf hidroklorik asit";"-";40
+"null";"2806.10.00.00.12";" - - Teknik hidroklorik asit ( tuz ruhu )";"-";40
+"null";"2806.20.00.00.00";" - Klorsülfirik asit (klorsülfonik asit)";"-";40
+"null";;;;" "
+"null";"2807.00";"Sülfirik asit; oleum:";;
+"null";;" - Sülfirik asit:";;" "
+"null";"2807.00.00.00.11";" - - Saf sülfirik asit (kodeks evsafında veya daha saf )";"-";30
+"null";"2807.00.00.00.19";" - - Diğerleri";"-";30
+"null";"2807.00.00.00.29";" - Oleum";"-";30
+"null";;;;
+"null";"2808.00";"Nitrik asit; sülfonitrik asitler";;
+"null";"2808.00.00.00.11";"- Saf nitrik asit";"-";40
+"null";"2808.00.00.00.12";"- Teknik nitrik asit (kezzap)";"-";40
+"null";"2808.00.00.00.13";"- Sülfo nitrik asitler (nitrolama asidi) (her oranda nitrik asit, sülfürük asit ka-";" ";
+"null";;"   rışımları)";"-";40
+"null";;;;
+"null";"28.09";"Difosfor pentaoksit; fosforik asit ve polifosforik asitler";;
+"null";;"(kimyaca belirli bir yapıda olsun olmasın) :";;
+"null";"2809.10.00.00.00";" - Fosfor pentaoksit (difosfor pentoksit)";"KgP2O5";15
+"null";"2809.20";" - Fosforik asit ve polifosforik asitler";" ";
+"null";"2809.20.00.00.11";" - - Hipofosforik asit (H4 P2O6)";"KgP2O5";15
+"null";"2809.20.00.00.12";" - - Meta fosforik asitler";"KgP2O5";15
+"null";"2809.20.00.00.14";" - - Piro fosforik asitler";"KgP2O5";15
+"null";"2809.20.00.00.15";" - - Polifosforik asitler";"KgP2O5";15
+"null";;" - - Orto fosforik asitler (fosforik asit ):";;
+"null";"2809.20.00.00.16";" - - - Gıda sanayiinde kullanılanlar";"KgP2O5";15
+"null";"2809.20.00.00.17";" - - - Diğerleri";"KgP2O5";15
+"null";;;;
+"null";"2810.00";"Bor oksitleri; borik asitler:";;
+"null";"2810.00.10.00.00";" - Dibor trioksit";"-";15
+"null";;" - Diğerleri:";;
+"null";"2810.00.90.10.00";" - - Metaborik asit";"-";15
+"null";;" - - Diğerleri";;" "
+"null";"2810.00.90.90.11";" - - - Orto borik asit ( borik asit )";"-";30
+"null";"2810.00.90.90.19";" - - - Diğer borik asitler";"-";30
+"null";"2810.00.90.90.29";" - - - Diğer bor oksitleri";"-";30
+"null";;;;
+"null";"28.11";"Diğer inorganik asitler ve ametallerin diğer inorganik";;
+"null";;"oksijenli bileşikleri:";;
+"null";;" - Diğer inorganik asitler:";;
+"null";"2811.11.00.00.00";" - - Hidrojen florür (hidroflorik asit)";"-";15
+"null";"2811.12.00.00.00";" - - Hidrojen siyanür (hidrosiyanik asit)";"-";15
+"null";"2811.19";" - - Diğerleri :";" ";
+"null";"2811.19.10.00.00";" - - - Hidrojen bromür (hidrobromik asit)";"-";15
+"null";;" - - - Diğerleri:";" ";" "
+"null";"2811.19.80.10.00";" - - - - Arsenik asit";"-";20
+"null";;" - - - - Diğerleri:";;
+"null";"2811.19.80.90.11";" - - - - - Perklorik asit";"-";15
+"null";"2811.19.80.90.12";" - - - - - Sülfamik asit  ( aminosülfonik asit )";"-";15
+"null";"2811.19.80.90.13";" - - - - - Silisik asit";"-";15
+"null";"2811.19.80.90.19";" - - - - - Diğerleri";"-";15
+"null";;" - Ametallerin diğer inorganik oksijenli bileşikleri:";" ";
+"null";"2811.21.00.00.00";" - - Karbondioksit";"-";15
+"null";"2811.22.00.00.00";" - - Silisyum dioksit";"-";15
+"null";"2811.29";" - - Diğerleri:";;
+"null";"2811.29.05.00.00";" - - - Kükürt dioksit";"-";40
+"null";;" - - - Kükürt trioksit (sülfürik anhidrit); diarsenik trioksit :";;
+"null";"2811.29.10.10.00";" - - - - Kükürt trioksit (sülfürik anhidrit)";"-";15
+"null";"2811.29.10.20.00";" - - - - Diarsenik trioksit ";"-";20
+"null";;" - - - Azot oksitleri";" ";" "
+"null";"2811.29.30.00.11";" - - - - Azot protoksit";"-";15
+"null";"2811.29.30.00.19";" - - - - Diğerleri";"-";15
+"null";;" - - - Diğerleri :";" ";
+"null";"2811.29.90.10.00";" - - - - Arsenik pentaoksit (Arsenik asit anhidriti)";"-";20
+"null";"2811.29.90.90.00";" - - - - Diğerleri";"-";15
+"null";;;" ";" "
+"null";;"         III. AMETALLERİN HALOJENLİ VEYA KÜKÜRTLÜ BİLEŞİKLERİ";;
+"null";;"                           ";;
+"null";"28.12";"Ametallerin halojenli ve oksihalojenli bileşikleri:";;
+"null";;" - Klorür ve oksiklorürler:";;
+"null";"2812.11.00.00.00";" - - Fosgen (karbonil diklorür)";"-";20
+"null";"2812.12.00.00.00";" - - Fosfor oksiklorür";"-";20
+"null";"2812.13.00.00.00";" - - Fosfor triklorür";"-";20
+"null";"2812.14.00.00.00";" - - Fosfor pentaklorür";"-";20
+"null";"2812.15.00.00.00";" - - Sülfür monoklorür";"-";20
+"null";"2812.16.00.00.00";" - - Sülfür diklorür";"-";20
+"null";"2812.17.00.00.00";" - - Tionil klorür";"-";20
+"null";"2812.19";" - - Diğerleri:";;
+"null";"2812.19.10.00.00";" - - - Fosfordan olanlar";"-";20
+"null";"2812.19.90.00.00";" - - - Diğerleri";"-";20
+"null";"2812.90";" - Diğerleri:";" ";" "
+"null";"2812.90.00.00.11";" - - Bor triflorür";"-";20
+"null";"2812.90.00.00.12";" - - Fosfor tribromür";"-";20
+"null";"2812.90.00.00.13";" - - Fosfor triiyodür";"-";20
+"null";"2812.90.00.00.14";" - - Arsenik bromür";"-";20
+"null";"2812.90.00.00.15";" - - Arsenik iyodür";"-";20
+"null";"2812.90.00.00.16";" - - Sülfür hegzaflorür";"-";20
+"null";"2812.90.00.00.17";" - - Azot triflorür";"-";20
+"null";"2812.90.00.00.18";" - - Diğerleri";"-";20
+"null";;;" ";"  "
+"null";"28.13";"Ametallerin sülfürleri; ticari fosfortrisülfür:";" ";
+"null";"2813.10.00.00.00";" - Karbonsülfür (karbondisülfür)";"-";15
+"null";"2813.90";" - Diğerleri:";" ";
+"null";"2813.90.10.00.00";" - - Fosfor sülfürleri; ticari fosfortrisülfür";"-";15
+"null";;" - - Diğerleri";" ";" "
+"null";"2813.90.90.00.11";" - - - Selenyum sülfür";"-";15
+"null";"2813.90.90.00.12";" - - - Arsenik sülfür";"-";15
+"null";"2813.90.90.00.19";" - - - Diğer ametallerin sülfürleri";"-";15
+"null";;;;
+"null";;"        IV. İNORGANİK BAZLAR VE METALLERİN OKSİTLERİ,";;
+"null";;"                   HİDROKSİTLERİ VE PEROKSİTLERİ";;
+"null";;;;
+"null";"28.14";"Susuz (saf) amonyak veya amonyağın sulu çözeltileri:";;
+"null";"2814.10.00.00.00";" - Susuz (saf) amonyak";"-";40
+"null";"2814.20.00.00.00";" - Amonyağın sulu çözeltileri";"-";40
+"null";;;;
+"null";"28.15";"Sodyum hidroksit (kostik soda); potasyum hidroksit (kostik potas);";;
+"null";;"sodyum veya potasyumun peroksitleri:";;
+"null";;" - Sodyum hidroksit (kostik soda):";;
+"null";"2815.11.00.00.00";" - - Katı halde";"-";30
+"null";"2815.12.00.00.00";" - - Sulu çözeltileri (soda külsuyu veya sıvı soda)";"KgNaOH";30
+"null";"2815.20.00.00.00";" - Potasyum hidroksit (kostik potas)";"KgKOH";25
+"null";"2815.30.00.00.00";" - Sodyum veya potasyumun peroksitleri";"-";25
+"null";;;;
+"null";"28.16";"Magnezyumun hidroksit ve peroksiti; stronsiyum ve baryumun";;
+"null";;"oksitleri, hidroksitleri ve peroksitleri:";;
+"null";"2816.10.00.00.00";" - Magnezyumun hidroksit ve peroksiti";"-";25
+"null";"2816.40.00.00.00";" - Stronsiyum veya baryumun oksitleri, hidroksitleri ve peroksitleri";"-";25
+"null";;;;
+"null";"2817.00";"Çinko oksit; çinko peroksit :";;
+"null";"2817.00.00.10.00";" - Çinko oksit";"-";20
+"null";"2817.00.00.90.00";" - Çinko peroksit";"-";20
+"null";;;;
+"null";"28.18";"Suni korendon (korundum) (kimyaca belirli bir yapıda olsun olma-";;
+"null";;"sın); aluminyum oksit;aluminyum hidroksit:";;
+"null";"2818.10";" - Suni korendon (korundum) (kimyaca belirli bir yapıda olsun  ";;
+"null";;"   olmasın):";" ";" "
+"null";;" - - İçerdiği aluminyum oksit miktarı ağırlıkça %98,5 veya daha fazla olanlar";;
+"null";"2818.10.11.00.00";" - - - Toplam ağırlığın %50'sinden azının partikül boyu 10 mm'den fazla olanlar ";"-";20
+"null";"2818.10.19.00.00";" - - - Toplam ağırlığın %50'si veya daha fazlasının partikül boyu 10 mm'den fazla olanlar";"-";20
+"null";;" - - İçerdiği aluminyum oksit miktarı ağırlıkça %98,5'ten az olanlar:";;
+"null";"2818.10.91.00.00";" - - - Toplam ağırlığın %50'sinden azının partikül boyu 10 mm'den fazla olanlar ";"-";20
+"null";"2818.10.99.00.00";" - - - Toplam ağırlığın %50'si veya daha fazlasının partikül boyu 10 mm'den fazla olanlar";"-";20
+"null";"2818.20.00.00.00";" - Aluminyum oksit (suni korendon hariç)";"-";20
+"null";"2818.30.00.00.00";" - Aluminyum hidroksit";"-";20
+"null";;;;
+"null";"28.19";"Krom oksitleri ve hidroksitleri:";;
+"null";"2819.10.00.00.00";" - Krom trioksit";"-";25
+"null";"2819.90";" - Diğerleri:";;" "
+"null";"2819.90.10.00.00";" - - Krom dioksit";"-";25
+"null";;" - - Diğerleri";;
+"null";"2819.90.90.00.11";" - - - Krom III oksit ( dikrom trioksit ) ( krom yeşili  ) ( krom seski oksit )";"-";25
+"null";"2819.90.90.00.12";" - - - Krom hidroksitleri";"-";25
+"null";" ";;;
+"null";"28.20";"Manganez oksitleri:";;
+"null";"2820.10.00.00.00";" - Manganez dioksit";"-";15
+"null";"2820.90";" - Diğerleri:";" ";" "
+"null";"2820.90.10.00.00";" - - Ağırlık itibariyle % 77 veya daha fazla manganez içeren manganez oksit";"-";15
+"null";"2820.90.90.00.00";" - - Diğerleri";"-";15
+"null";;;;
+"null";"28.21";"Demir oksitleri ve hidroksitleri; içinde ağırlık itibariyle % 70 veya";;
+"null";;"daha fazla Fe203 olarak değerlendirilen kombine demir içeren toprak boyalar:";;
+"null";"2821.10";" - Demir oksitleri ve hidroksitleri :";;
+"null";;" - - Kodeks evsafında olanlar";;" "
+"null";"2821.10.00.10.11";" - - - Kodeks evsafında olan demir oksitleri";"-";50
+"null";"2821.10.00.10.12";" - - - Kodeks evsafında olan demir hidroksitleri";"-";50
+"null";;" - - Kodeks evsafında olmayanlar";;
+"null";"2821.10.00.90.11";" - - - Kodeks evsafında olmayan demir oksitleri";"-";50
+"null";"2821.10.00.90.12";" - - - Kodeks evsafında olmayan demir hidroksitleri";"-";50
+"null";"2821.20";" - Toprak boyalar :";;
+"null";"2821.20.00.10.00";" - - Kodeks evsafında olanlar";"-";50
+"null";"2821.20.00.90.00";" - - Kodeks evsafında olmayanlar";"-";50
+"null";;;;
+"null";"2822.00";"Kobalt oksitleri ve hidroksitleri; ticari kobalt oksitleri";" ";" "
+"null";"2822.00.00.00.11";" - Kobalt oksitleri ";"-";15
+"null";"2822.00.00.00.12";" - Ticari kobalt oksitleri";"-";15
+"null";"2822.00.00.00.13";" - Kobalt hidroksitleri (hidratları)";"-";15
+"null";;;;
+"null";"2823.00.00.00.00";"Titan oksitleri ";"-";15
+"null";;;;
+"null";"28.24";"Kurşun oksitleri; minyum ve minoranj:";;
+"null";"2824.10.00.00.00";" - Kurşun monoksit [Iitarge (mürdesenk),massicot]";"-";50
+"null";"2824.90";" - Diğerleri";;
+"null";;" - - Minyum ve minoranj";;
+"null";"2824.90.00.00.11";" - - - Minyum (sülyen) (Pb3 O4)";"-";50
+"null";"2824.90.00.00.12";" - - - Minoranj";"-";50
+"null";"2824.90.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"28.25";"Hidrazin ve hidroksilamin ve bunların inorganik tuzları; diğer";;
+"null";;"inorganik bazlar; diğer metal oksitler,hidroksitler ve peroksitler :";;
+"null";"2825.10";" - Hidrazin ve hidroksilamin ve bunların inorganik tuzları";;" "
+"null";"2825.10.00.00.11";" - - Hidrazin ve inorganik tuzları";"-";25
+"null";"2825.10.00.00.12";" - - Hidroksilamin ve inorganik tuzları";"-";25
+"null";"2825.20.00.00.00";" - Lityum oksit ve hidroksit";"-";25
+"null";"2825.30";" - Vanadyum oksitleri ve hidroksitleri";;
+"null";"2825.30.00.00.11";" - - Vanadyum penta oksit";"-";25
+"null";"2825.30.00.00.19";" - - Vanadyumun diğer oksitleri ve hidroksitler";"-";25
+"null";"2825.40.00.00.00";" - Nikel oksitleri ve hidroksitleri";"-";25
+"null";"2825.50";" - Bakır oksitleri ve hidroksitleri";;
+"null";"2825.50.00.00.11";" - - Bakır I oksit ( kırmızı bakır oksit )";"-";25
+"null";"2825.50.00.00.12";" - - Bakır II oksit ( siyah bakır oksit )";"-";25
+"null";"2825.50.00.00.13";" - - Bakır hidroksitler";"-";25
+"null";"2825.60";" - Germanyum oksitleri ve zirkonyum dioksit";" ";
+"null";"2825.60.00.00.11";" - - Germanyum oksitleri ";"-";25
+"null";"2825.60.00.00.12";" - - Zirkonyum dioksit";"-";25
+"null";"2825.70.00.00.00";" - Molibden oksitleri ve hidroksitleri";"-";25
+"null";"2825.80.00.00.00";" - Antimon oksitleri";"-";25
+"null";"2825.90";" - Diğerleri:";;" "
+"null";;" - - Kalsiyum oksit,hidroksit ve peroksit:";;" "
+"null";"2825.90.11.00.00";" - - - Kalsiyum hidroksit (aşağıda belirtilen partikül formlarında olup kuru ";;
+"null";;"        ağırlık üzerinden hesaplandığında % 98 veya daha fazla saflıktaki; ";;
+"null";;"         - 75 mikrometreyi aşan partikül boyuna sahip olup ağırlık itibariyle ";;
+"null";;"           % 1'den fazla olmayan ve;";;
+"null";;"         - 1,3 mikrometreden daha düşük partikül boyuna sahip olup ağırlık ";;
+"null";" ";"           itibariyle % 4'den fazla olmayan)";"-";25
+"null";" ";" - - - Diğerleri";" ";"  "
+"null";"2825.90.19.00.11";" - - - - Kalsiyum oksit ";"-";25
+"null";"2825.90.19.00.12";" - - - - Kalsiyum peroksit";"-";25
+"null";"2825.90.19.00.19";" - - - - Diğerleri";"-";25
+"null";"2825.90.20.00.00";" - - Berilyum oksit ve hidroksit";"-";25
+"null";"2825.90.40.00.00";" - - Tungsten oksit ve hidroksitleri";"-";25
+"null";"2825.90.60.00.00";" - - Kadmiyum oksit";"-";25
+"null";;" - - Diğerleri:";;
+"null";"2825.90.85.10.00";" - - - Kalay oksitleri";"-";15
+"null";"2825.90.85.90.00";" - - - Diğerleri";"-";25
+"null";;;;
+"null";;"                V. İNORGANİK ASİTLERİN VE METALLERİN";;
+"null";;"                          TUZLARI VE PEROKSİ TUZLARI";;
+"null";;;;
+"null";"28.26";"Florürler; florslikatlar, floraluminatlar ve diğer kompleks";;
+"null";;"flor tuzları:";;
+"null";;" - Florürler:";;
+"null";"2826.12.00.00.00";" - - Aluminyum";"-";15
+"null";"2826.19";" - - Diğerleri :";;
+"null";;" - - - Amonyum ve sodyum";;
+"null";"2826.19.10.10.00";" - - - - Amonyum";"-";25
+"null";"2826.19.10.90.00";" - - - - Sodyum";"-";15
+"null";;" - - - Diğerleri";;
+"null";"2826.19.90.10.00";" - - - - Potasyum";"-";20
+"null";;" - - - - Diğerleri";;
+"null";"2826.19.90.90.11";" - - - - - Kalsiyum";"-";15
+"null";"2826.19.90.90.12";" - - - - - Baryum";"-";15
+"null";"2826.19.90.90.19";" - - - - - Diğer florürler";"-";15
+"null";"2826.30.00.00.00";" - Sodyum hekzafloraluminat (sentetik kriyolit)";"-";15
+"null";"2826.90";" - Diğerleri:";;
+"null";"2826.90.10.00.00";" - - Dipotasyum hekzaflorzirkonat";"-";20
+"null";;" - - Diğerleri :";;
+"null";"2826.90.80.10.00";" - - - Potasyum florborat ve potasyumun diğer kompleks flor tuzları";"-";20
+"null";"2826.90.80.20.00";" - - - Amonyum florborat ve amonyumun diğer kompleks flor tuzları";"-";25
+"null";"2826.90.80.50.00";" - - - Sodyum florsilikat";"-";15
+"null";"2826.90.80.60.00";" - - - Potasyum florsilikat";"-";20
+"null";;" - - - Diğerleri";;" "
+"null";"2826.90.80.90.11";" - - - - Sodyum floraluminat";"-";15
+"null";"2826.90.80.90.12";" - - - - Sodyum florborat ve sodyumun diğer kompleks flor tuzları";"-";15
+"null";"2826.90.80.90.19";" - - - - Diğerleri";"-";15
+"null";;;;
+"null";"28.27";"Klorürler, oksiklorürler ve hidroksiklorürler; bromürler ve oksi -";;
+"null";;"bromürler; iyodürler ve oksiiyodürler:";;
+"null";"2827.10.00.00.00";" - Amonyum klorür (nişadır)";"-";25
+"null";"2827.20.00.00.00";" - Kalsiyum klorür";"-";40
+"null";;" - Diğer klorürler:";;
+"null";"2827.31.00.00.00";" - - Magnezyum klorür";"-";50
+"null";"2827.32.00.00.00";" - - Aluminyum klorür";"-";50
+"null";"2827.35.00.00.00";" - - Nikel klorür";"-";50
+"null";"2827.39";" - - Diğerleri:";;
+"null";;" - - - Kalay klorür";;" "
+"null";"2827.39.10.00.11";" - - - - Kalay  II klorür";"-";15
+"null";"2827.39.10.00.12";" - - - - Kalay IV  klorür";"-";15
+"null";;" - - - Demir klorür";;
+"null";"2827.39.20.00.11";" - - - - Demir  II klorür";"-";50
+"null";"2827.39.20.00.12";" - - - - Demir III klorür";"-";50
+"null";"2827.39.30.00.00";" - - - Kobalt klorür";"-";50
+"null";;" - - - Diğerleri :";;
+"null";"2827.39.85.10.00";" - - - - Mangan klorür";"-";40
+"null";;" - - - - Bizmut, stronsiyum, bakır, kadmiyum, kurşun klorür :";;" "
+"null";"2827.39.85.20.11";" - - - - - Bizmut klorür";"-";40
+"null";"2827.39.85.20.12";" - - - - - Stronsiyum klorür";"-";40
+"null";"2827.39.85.20.13";" - - - - - Bakır klorür";"-";40
+"null";"2827.39.85.20.14";" - - - - - Kadmiyum klorür";"-";40
+"null";"2827.39.85.20.15";" - - - - - Kurşun klorür";"-";40
+"null";"2827.39.85.30.00";" - - - - Antimon klorür";"-";50
+"null";"2827.39.85.40.00";" - - - - Baryum klorür";"-";50
+"null";"2827.39.85.50.00";" - - - - Çinko klorür";"-";40
+"null";"2827.39.85.90.00";" - - - - Diğerleri";"-";50
+"null";;" - Oksiklorürler ve hidroksiklorürler:";;
+"null";"2827.41";" - - Bakır :";;
+"null";"2827.41.00.10.00";" - - - Bakır oksiklorür";"-";40
+"null";"2827.41.00.20.00";" - - - Bakır hidroksiklorür";"-";50
+"null";"2827.49";" - - Diğerleri:";;
+"null";;" - - - Kurşun:";;
+"null";"2827.49.10.10.00";" - - - - Kurşun oksiklorür";"-";40
+"null";"2827.49.10.20.00";" - - - - Kurşun hidroksiklorür";"-";50
+"null";;" - - - Diğerleri :";;
+"null";"2827.49.90.10.00";" - - - - Kalay oksiklorür";"-";15
+"null";;" - - - - Kalsiyum, çinko, mangan, bizmut, stronsiyum, kadmiyum, oksiklorürler";;
+"null";"2827.49.90.30.11";" - - - - - Kadmiyum oksiklorür";"-";40
+"null";"2827.49.90.30.19";" - - - - - Diğerleri";"-";40
+"null";"2827.49.90.40.00";" - - - - Baryum oksiklorür";"-";50
+"null";"2827.49.90.90.00";" - - - - Diğerleri";"-";50
+"null";;" - Bromürler ve oksibromürler:";;
+"null";"2827.51";" - - Sodyum ve potasyum bromürler";;" "
+"null";"2827.51.00.00.11";" - - - Sodyum bromürler";"-";25
+"null";"2827.51.00.00.12";" - - - Potasyum bromürler";"-";25
+"null";"2827.59";" - - Diğerleri:";;
+"null";"2827.59.00.10.00";" - - - Oksibromürler";"-";30
+"null";"2827.59.00.20.00";" - - - Diğer bromürler";"-";25
+"null";"2827.60";" - İyodürler ve oksiiyodürler :";;
+"null";"2827.60.00.10.00";" - - Sodyum iyodür ve oksiiyodür";"-";25
+"null";;" - - Lityum, baryum, magnezyum, demir, çinko, mangan, kobalt ";;
+"null";;"      iyodürler ve oksiiyodürler";;" "
+"null";"2827.60.00.20.12";" - - - Lityum iyodür ve oksiiyodür";"-";30
+"null";"2827.60.00.20.13";" - - - Baryum iyodür ve oksiiyodür";"-";30
+"null";"2827.60.00.20.14";" - - - Magnezyum iyodür ve oksiiyodür";"-";30
+"null";"2827.60.00.20.15";" - - - Mangan iyodür ve oksiiyodür";"-";30
+"null";"2827.60.00.20.16";" - - - Demir iyodür ve oksiiyodür";"-";30
+"null";"2827.60.00.20.17";" - - - Çinko iyodür ve oksiiyodür";"-";30
+"null";"2827.60.00.20.18";" - - - Kobalt iyodür ve oksiiyodür";"-";30
+"null";"2827.60.00.30.00";" - - Potasyum iyodür";"-";0
+"null";"2827.60.00.90.10";" - - Diğer iyodür ve oksiiyodürler";"-";40
+"null";"28.28";"Hipokloritler; ticari kalsiyum hipoklorit; kloritler; hipobromitler:";;
+"null";"2828.10";" - Ticari kalsiyum hipoklorit ve diğer kalsiyum hipokloritler";;
+"null";"2828.10.00.00.11";" - - Ticari kalsiyum hipoklorit (kireç kaymağı)";"-";40
+"null";"2828.10.00.00.19";" - - Diğerleri";"-";40
+"null";"2828.90";" - Diğerleri :";;
+"null";;" - - Hipokloritler";;" "
+"null";"2828.90.00.10.11";" - - - Sodyum hipoklorit (Javel suyu)";"-";40
+"null";"2828.90.00.10.12";" - - - Potasyum hipoklorit";"-";40
+"null";"2828.90.00.10.19";" - - - Diğer hipokloritler";"-";40
+"null";;" - - Kloritler:";;
+"null";"2828.90.00.21.00";" - - - Sodyum klorit";"-";40
+"null";"2828.90.00.29.00";" - - - Diğer kloritler";"-";40
+"null";"2828.90.00.30.00";" - - Hipobromitler";"-";30
+"null";;;;
+"null";"28.29";"Kloratlar  ve perkloratlar;  bromatlar ve perbromatlar;";;
+"null";;"iyodatlar ve periyodatlar:";;
+"null";;" - Kloratlar:";;
+"null";"2829.11.00.00.00";" - - Sodyum klorat";"-";25
+"null";"2829.19";" - - Diğerleri";;"  "
+"null";"2829.19.00.00.11";" - - - Amonyum klorat ";"-";25
+"null";"2829.19.00.00.12";" - - - Potasyum klorat";"-";25
+"null";"2829.19.00.00.13";" - - - Baryum klorat ";"-";25
+"null";"2829.19.00.00.19";" - - - Diğer kloratlar ";"-";25
+"null";"2829.90";" - Diğerleri:";;
+"null";;" - - Perkloratlar :";;
+"null";"2829.90.10.10.00";" - - - Amonyum perklorat";"-";50
+"null";;" - - - Diğer perkloratlar";;" "
+"null";"2829.90.10.20.11";" - - - - Sodyum perklorat";"-";25
+"null";"2829.90.10.20.19";" - - - - Diğer perkloratlar";"-";25
+"null";"2829.90.40.00.00";" - - Potasyum ve sodyum bromatlar";"-";30
+"null";;" - - Diğerleri :";;
+"null";;" - - - Diğer bromatlar, perbromatlar,lityum, baryum, magnezyum,";;
+"null";;"        mangan, demir, çinko, kobalt iyodatları ve periyodatları";;" "
+"null";"2829.90.80.10.12";" - - - - Lityum iyodat ve periyodat";"-";30
+"null";"2829.90.80.10.19";" - - - - Diğerleri";"-";30
+"null";"2829.90.80.20.00";" - - - Sodyum iyodat ve periyodat";"-";25
+"null";"";" - - - Diğer iyodatlar ve periyodatlar";;" "
+"null";"2829.90.80.30.11";" - - - - Diğer iyodatlar";"-";40
+"null";"2829.90.80.30.12";" - - - - Diğer periyodatlar";"-";40
+"null";;;;
+"null";"28.30";"Sülfürler; polisülfürler (kimyaca belirli bir yapıda olsun olmasın):";;
+"null";"2830.10";" - Sodyum sülfürler";;" "
+"null";"2830.10.00.00.11";" - - Sodyum sülfür";"-";30
+"null";"2830.10.00.00.12";" - - Sodyum hidrojen sülfür ( sodyum hidrosülfür )";"-";30
+"null";"2830.90";" - Diğerleri:";;
+"null";;" - - Kalsiyum; antimuan; demir sülfürleri :";;
+"null";"2830.90.11.10.00";" - - - Demir sülfürler";"-";50
+"null";"2830.90.11.20.00";" - - - Kalsiyum ve antimuan sülfür";"-";20
+"null";;" - -  Diğerleri";;" "
+"null";;" - - - Potasyum ,kalay sülfür ve polisülfürler";;" "
+"null";"2830.90.85.10.11";" - - - - Potasyum sülfürler";"-";40
+"null";"2830.90.85.10.12";" - - - - Kalay sülfürler";"-";40
+"null";"2830.90.85.10.13";" - - - - Potasyum polisülfürler";"-";40
+"null";"2830.90.85.10.14";" - - - - Kalay polisülfürler";"-";40
+"null";"2830.90.85.20.00";" - - - Kalsiyum, antimuan polisülfür";"-";20
+"null";"2830.90.85.30.00";" - - - Sodyum polisülfür";"-";30
+"null";;" - - - Diğerleri";;
+"null";"2830.90.85.90.11";" - - - - Baryum sülfürler";"-";50
+"null";"2830.90.85.90.13";" - - - - Amonyum hidrosülfür";"-";50
+"null";"2830.90.85.90.14";" - - - - Amonyum sülfür";"-";50
+"null";"2830.90.85.90.19";" - - - - Diğer sülfürler";"-";50
+"null";"2830.90.85.90.21";" - - - - Baryum polisülfür";"-";50
+"null";"2830.90.85.90.22";" - - - - Demir polisülfür";"-";50
+"null";"2830.90.85.90.23";" - - - - Amonyum polisülfür";"-";50
+"null";"2830.90.85.90.29";" - - - - Diğer polisülfürler";"-";50
+"null";;;;
+"null";"28.31";"Ditiyonitler ve sülfoksilatlar:";;
+"null";"2831.10";" - Sodyum ";;" "
+"null";"2831.10.00.00.11";" - - Sodyum ditiyonit ( sodyum hidrosülfit)";"-";25
+"null";"2831.10.00.00.12";" - - Sodyum sülfoksilat";"-";25
+"null";"2831.90.00.00.00";" - Diğerleri";"-";25
+"null";;;;" "
+"null";"28.32";"Sülfitler; tiyosülfatlar:";;
+"null";"2832.10";" - Sodyum sülfitler";;" "
+"null";"2832.10.00.00.11";" - - Sodyum sülfit";"-";35
+"null";"2832.10.00.00.12";" - - Sodyum bisülfit (sodyum hidrojen sülfit)";"-";35
+"null";"2832.10.00.00.13";" - - Sodyum metabisülfit (disodyum disülfit)";"-";35
+"null";"2832.20";" - Diğer sülfitler :";;
+"null";"2832.20.00.10.00";" - - Amonyum sülfit";"-";35
+"null";;" - - Diğer sülfitler";;
+"null";"2832.20.00.90.11";" - - - Potasyum sülfitler";"-";25
+"null";"2832.20.00.90.19";" - - - Diğer sülfitler";"-";25
+"null";"2832.30";" - Tiyosülfatlar :";;
+"null";"2832.30.00.10.00";" - - Sodyum tiyosülfat";"-";35
+"null";"2832.30.00.20.00";" - - Amonyum tiyosülfat";"-";35
+"null";"2832.30.00.90.00";" - - Diğer tiyosülfatlar ";"-";25
+"null";;;;
+"null";"28.33";"Sülfatlar; şaplar; peroksisülfatlar (persülfatlar):";;
+"null";;" - Sodyum sülfatlar:";;
+"null";"2833.11.00.00.00";" - - Disodyum sülfat (sodyum sülfat)";"-";15
+"null";"2833.19";" - - Diğerleri";;
+"null";"2833.19.00.00.11";" - - - Sodyum bisülfat ( sodyum hidrojen sülfat )";"-";15
+"null";"2833.19.00.00.12";" - - - Sodyum pirosülfat ( disodyum disülfat )";"-";15
+"null";;" - Diğer sülfatlar:";;
+"null";"2833.21.00.00.00";" - - Magnezyum sülfat";"-";15
+"null";"2833.22.00.00.00";" - - Aluminyum sülfat";"-";30
+"null";"2833.24.00.00.00";" - - Nikel sülfatlar";"-";50
+"null";"2833.25";" - - Bakır sülfatlar :";;
+"null";"2833.25.00.10.00";" - - - Bakır I sülfat";"-";5
+"null";"2833.25.00.20.00";" - - - Bakır II sülfat (göz taşı) ";"-";0
+"null";"2833.27.00.00.00";" - - Baryum sülfat";"-";50
+"null";"2833.29";" - - Diğerleri:";;
+"null";;"- - -Kadmiyum; krom, çinko";;
+"null";"2833.29.20.10.00";" - - - - Kadmiyum sülfat";"-";20
+"null";"2833.29.20.20.00";" - - - - Krom sülfat";"-";15
+"null";"2833.29.20.30.00";" - - - - Çinko sülfat";"-";15
+"null";"2833.29.30.00.00";" - - - Kobalt sülfat,titan sülfat";"-";50
+"null";"2833.29.60.00.00";" - - - Kurşun sülfat";"-";15
+"null";;" - - - Diğerleri :";;
+"null";"2833.29.80.00.11";" - - - - Manganez sülfat ( mangan sülfat )";"-";50
+"null";"2833.29.80.00.12";" - - - - Aluminyum magnezyum sülfat";"-";50
+"null";"2833.29.80.00.19";" - - - - Diğerleri";"-";50
+"null";"2833.30";" - Şaplar:";;
+"null";"2833.30.00.10.00";" - - Aluminyum amonyum sülfat (amonyak şapı)";"-";50
+"null";"2833.30.00.20.00";" - - Aluminyum potasyum sülfat (potas şapı)";"-";50
+"null";;" - -  Diğerleri";;
+"null";"2833.30.00.90.11";" - - - Aluminyum sodyum sülfatlar ( soda şapı )";"-";50
+"null";"2833.30.00.90.12";" - - - Krom potasyum sülfat ( krom şapı )";"-";50
+"null";"2833.30.00.90.13";" - - - Amonyum krom sülfat (amonyaklı krom şapı )";"-";50
+"null";"2833.30.00.90.14";" - - - Amonyum demir bisülfat (amonyaklı demir şapı )";"-";50
+"null";"2833.30.00.90.15";" - - - Demir III potasyum sülfat ( potaslı demir şapı )";"-";50
+"null";"2833.30.00.90.19";" - - - Diğer şaplar";"-";50
+"null";"2833.40";" - Peroksisülfatlar (persülfatlar) :";;
+"null";"2833.40.00.10.00";" - - Sodyum";"-";15
+"null";"2833.40.00.20.00";" - - Amonyum";"-";50
+"null";"2833.40.00.30.00";" - - Potasyum";"-";30
+"null";;;;
+"null";"28.34";"Nitritler; nitratlar:";;
+"null";"2834.10";" - Nitritler :";;
+"null";"2834.10.00.10.00";" - - Baryum";"-";20
+"null";;" - - Amonyum, potasyum, kalsiyum,kurşun";;
+"null";"2834.10.00.20.11";" - - - Potasyum nitrit";"-";25
+"null";"2834.10.00.20.19";" - - - Diğerleri";"-";25
+"null";"2834.10.00.30.00";" - - Bakır, magnezyum, lityum";"-";15
+"null";;" - - Kadmiyum, bizmut, civa, uranyum";;
+"null";"2834.10.00.40.11";" - - - Kadmiyum nitrit";"-";30
+"null";"2834.10.00.40.19";" - - - Diğerleri";"-";30
+"null";"2834.10.00.50.00";" - - Sodyum";"-";25
+"null";"2834.10.00.90.00";" - - Diğerleri";"-";50
+"null";;" - Nitratlar:";;
+"null";"2834.21.00.00.00";" - - Potasyum nitrat";"-";25
+"null";"2834.29";" - - Diğerleri:";;
+"null";;" - - - Baryum; berilyum; kadmiyum; kobalt; nikel; kurşun nitrat:";;
+"null";"2834.29.20.10.00";" - - - - Baryum nitrat";"-";20
+"null";"2834.29.20.20.00";" - - - - Kadmiyum nitrat";"-";30
+"null";;" - - - - Berilyum; kobalt;nikel nitratlar";;
+"null";"2834.29.20.30.11";" - - - - - Berilyum nitrat";"-";50
+"null";"2834.29.20.30.12";" - - - - - Kobalt nitrat";"-";50
+"null";"2834.29.20.30.13";" - - - - - Nikel nitrat";"-";50
+"null";"2834.29.20.40.00";" - - - - Kurşun nitrat";"-";25
+"null";"2834.29.40.00.00";" - - - Bakır nitratlar";"-";15
+"null";;" - - - Diğerleri :";;
+"null";;" - - - - Kalsiyum nitrat:";;
+"null";"2834.29.80.11.00";" - - - - - Ağırlıkça % 16 veya daha az azot içeren";"-";20
+"null";"2834.29.80.12.00";" - - - - - Tablet, pastil ve diğer benzeri şekillerde olanlar ile ambalajlı";;
+"null";;"             brüt ağırlığı en fazla 10 kg. olanlar";"-";15
+"null";"2834.29.80.19.00";" - - - - - Diğerleri";"-";25
+"null";;" - - - - Magnezyum, lityum nitrat";;
+"null";"2834.29.80.20.11";" - - - - - Magnezyum nitrat";"-";15
+"null";"2834.29.80.20.12";" - - - - - Lityum nitrat";"-";15
+"null";"2834.29.80.30.00";" - - - - Uranyum nitrat";"-";30
+"null";"2834.29.80.40.00";" - - - - Bazik bizmut nitrat";"-";30
+"null";"2834.29.80.50.00";" - - - - Bizmut nitrat";"-";30
+"null";"2834.29.80.90.00";" - - - - Diğer nitratlar";"-";50
+"null";;;;
+"null";"28.35";"FosfinatIar (hipofosfitler), fosfonatlar (fosfitler) ve fosfatlar; poIifosfatlar";;
+"null";;"(kimyaca belirli bir yapıda olsun olmasın) :";;
+"null";"2835.10";" - Fosfinatlar (hipofosfitler) ve fosfonatlar (fosfitler) :";;
+"null";;" - - Sodyum, kalsiyum fosfit ve hipofosfit";;
+"null";"2835.10.00.10.11";" - - - Sodyum fosfit ve hipofosfit";"-";20
+"null";"2835.10.00.10.12";" - - - Kalsiyum fosfit ve hipofosfit";"-";20
+"null";"2835.10.00.20.00";" - - Potasyum fosfit ve hipofosfit";"-";30
+"null";"2835.10.00.90.00";" - - Diğer fosfitler ve hipofosfitler";"-";50
+"null";;" - Fosfatlar:";;
+"null";"2835.22";" - - Mono - veya di -sodyum fosfat";;
+"null";"2835.22.00.00.11";" - - - Monosodyum fosfat";"-";20
+"null";"2835.22.00.00.12";" - - - Disodyum fosfat";"-";20
+"null";"2835.24.00.00.00";" - - Potasyum fosfatlar";"-";30
+"null";"2835.25.00.00.00";" - - Kalsiyum hidrojen ortofosfat (dikalsiyum fosfat)";"-";20
+"null";"2835.26.00.00.00";" - - Diğer kalsiyum fosfatlar";"-";20
+"null";"2835.29";" - - Diğerleri :";;
+"null";"2835.29.10.00.00";" - - - Triamonyum fosfat";"-";30
+"null";"2835.29.30.00.00";" - - - Trisodyumfosfat";"-";20
+"null";;" - - - Diğerleri:";;
+"null";"2835.29.90.10.00";" - - - - Demir fosfatlar";"-";50
+"null";"2835.29.90.20.00";" - - - - Sodyum fosfatlar";"-";20
+"null";"2835.29.90.90.00";" - - - - Diğer fosfatlar";"-";50
+"null";;" - Polifosfatlar:";;
+"null";"2835.31.00.00.00";" - - Sodyum trifosfat (sodyum tripolifosfat)";"-";20
+"null";"2835.39";" - - Diğerleri:";;
+"null";"2835.39.00.10.00";" - - - Sodyum ve kalsiyum polifosfatlar";"-";20
+"null";"2835.39.00.20.00";" - - - Potasyum polifosfatlar";"-";30
+"null";"2835.39.00.90.00";" - - - Diğer polifosfatlar";"-";50
+"null";;;;
+"null";"28.36";"Karbonatlar; peroksikarbonatlar (perkarbonatlar); amonyum kar -";;
+"null";;"bamat içeren ticari amonyum karbonat:";;
+"null";"2836.20";" - Disodyum karbonat :";;
+"null";"2836.20.00.00.11";" - - Susuz disodyum karbonat ( dehidrate )";"-";15
+"null";"2836.20.00.00.12";" - - Kristal sulu disodyum karbonat (çamaşır sodası )";"-";15
+"null";"2836.30.00.00.00";" - Sodyum hidrojen karbonat (sodyum bikarbonat)";"-";15
+"null";"2836.40";" - Potasyum karbonatlar";;
+"null";"2836.40.00.00.11";" - - Potasyum karbonat ( potas )";"-";15
+"null";"2836.40.00.00.12";" - - Potasyum bikarbonat ( potasyum hidrojen karbonat )";"-";15
+"null";"2836.50.00.00.00";" - Kalsiyum karbonat";"-";50
+"null";"2836.60.00.00.00";" - Baryum karbonat";"-";30
+"null";;" - Diğerleri:";;
+"null";"2836.91.00.00.00";" - - Lityum karbonatlar";"-";25
+"null";"2836.92.00.00.00";" - - Stronsiyum karbonat";"-";30
+"null";"2836.99";" - - Diğerleri:";;
+"null";;" - - - Karbonatlar:";;
+"null";;" - - - - Magnezyum; bakır :";;
+"null";"2836.99.11.10.00";" - - - - -  Magnezyum karbonat";"-";30
+"null";"2836.99.11.20.00";" - - - - - Bakır karbonat";"-";25
+"null";;" - - - - Diğerleri :";;
+"null";"2836.99.17.10.00";" - - - - - Manganez karbonatlar";"-";30
+"null";"2836.99.17.20.00";" - - - - - Demir II karbonat(FeCO3)";"-";50
+"null";"2836.99.17.30.00";" - - - - - Bizmut karbonat (bazik bizmut karbonat)";"-";25
+"null";"2836.99.17.40.00";" - - - - - Amonyum bikarbonat";"-";50
+"null";"2836.99.17.50.00";" - - - - - Diğer amonyum karbonatlar";"-";50
+"null";"2836.99.17.60.00";" - - - - - Kurşun karbonatlar";"-";15
+"null";;" - - - - - Diğerleri";;
+"null";"2836.99.17.90.11";" - - - - - - Berilyum karbonatlar";"-";50
+"null";"2836.99.17.90.12";" - - - - - - Kobalt karbonatlar";"-";50
+"null";"2836.99.17.90.19";" - - - - - - Diğerleri";"-";50
+"null";;" - - - Peroksikarbonatlar (perkarbonatlar) :";;" "
+"null";"2836.99.90.10.00";" - - - - Sodyum perkarbonatlar";"-";15
+"null";"2836.99.90.20.00";" - - - - Potasyum perkarbonatlar";"-";15
+"null";"2836.99.90.30.00";" - - - - Baryum perkarbonatlar";"-";30
+"null";"2836.99.90.90.00";" - - - - Diğer perkarbonatlar";"-";50
+"null";"28.37";"Siyanürler, oksisiyanürler ve kompleks siyanürler:";;
+"null";;" - Siyanürler ve oksisiyanürler:";;
+"null";;" - - Sodyum";;
+"null";"2837.11.00.00.11";" - - - Sodyum siyanürler";"-";5
+"null";"2837.11.00.00.12";" - - - Sodyum oksisiyanürler";"-";5
+"null";"2837.19";" - - Diğerleri :";;
+"null";;" - - - Kadmiyum, kalsiyum siyanür";;
+"null";"2837.19.00.20.11";" - - - - Kadmiyum siyanür";"-";5
+"null";"2837.19.00.20.12";" - - - - Kalsiyum siyanür";"-";5
+"null";"2837.19.00.30.00";" - - - Potasyum siyanür";"-";50
+"null";"2837.19.00.40.00";" - - - Amonyum siyanür";"-";50
+"null";;" - - - Diğerleri";;
+"null";"2837.19.00.90.11";" - - - - Çinko siyanürler";"-";15
+"null";"2837.19.00.90.12";" - - - - Bakır  siyanürler ";"-";15
+"null";"2837.19.00.90.14";" - - - - Nikel siyanürler";"-";15
+"null";"2837.19.00.90.16";" - - - - Kobalt siyanürler";"-";15
+"null";"2837.19.00.90.17";" - - - - Kadmiyum (di, tri, tetra) siyanürler";"-";15
+"null";"2837.19.00.90.19";" - - - - Diğer siyanürler";"-";15
+"null";"2837.20";" - Kompleks siyanürler :";;
+"null";;" - - Kadmiyum, kalsiyum :";;
+"null";"2837.20.00.20.11";" - - - Kompleks kadmiyum siyanürler";"-";5
+"null";"2837.20.00.20.12";" - - - Kompleks kalsiyum siyanürler";"-";5
+"null";;" - - Sodyum :";;
+"null";"2837.20.00.30.11";" - - - Sodyum ferrosiyanür";"-";5
+"null";"2837.20.00.30.19";" - - - Diğer kompleks sodyum siyanürleri";"-";5
+"null";;" - - Potasyum, amonyum :";;
+"null";"2837.20.00.40.11";" - - - Potasyum ferrosiyanür";"-";50
+"null";"2837.20.00.40.12";" - - - Potasyum ferrisiyanür";"-";50
+"null";"2837.20.00.40.13";" - - - Diğer kompleks potasyum siyanürler";"-";50
+"null";"2837.20.00.40.14";" - - - Kompleks amonyum siyanürler";"-";50
+"null";"2837.20.00.90.00";" - - Diğer kompleks siyanürler";"-";15
+"null";;;;
+"null";"[28.38]";;;
+"null";;;;
+"null";"28.39";"Silikatlar; ticari alkali metal silikatlar:";;
+"null";;" - Sodyum:";;
+"null";"2839.11.00.00.00";" - - Sodyum metasilikatlar";"-";50
+"null";"2839.19";" - - Diğerleri";;
+"null";"2839.19.00.00.11";" - - - Sodyum silikat (su camı veya cam suyu)";"-";50
+"null";"2839.19.00.00.19";" - - - Diğerleri";"-";50
+"null";"2839.90";" - Diğerleri :";;
+"null";"2839.90.00.10.00";" - - Potasyum silikat";"-";40
+"null";"2839.90.00.20.00";" - - Ticari alkali metal silikatlar";"-";30
+"null";;" - - Diğerleri";;
+"null";"2839.90.00.90.11";" - - - Kurşun silikat";"-";25
+"null";"2839.90.00.90.12";" - - - Zirkonyum silikat";"-";25
+"null";"2839.90.00.90.13";" - - - Çöktürülmüş kalsiyum silikat ";"-";25
+"null";"2839.90.00.90.15";" - - - Diğer silikatlar";"-";25
+"null";;;;
+"null";"28.40";"Boratlar; peroksiboratlar (perboratlar):";;
+"null";;" - Disodyum tetraborat (rafine boraks):";;
+"null";"2840.11.00.00.00";" - - Anhidrit";"-";40
+"null";"2840.19";" - - Diğerleri:";" ";" "
+"null";"2840.19.10.00.00";" - - - Disodyum tetraborat pentahidrat";"-";40
+"null";"2840.19.90.00.00";" - - - Diğerleri";"-";40
+"null";"2840.20";" - Diğer boratlar:";;
+"null";"2840.20.10.00.00";" - -  Sodyum boratlar (anhidrit)";"-";40
+"null";;" - - Diğerleri :";;
+"null";"2840.20.90.10.00";" - - - Amonyum boratlar";"-";50
+"null";"2840.20.90.90.00";" - - - Diğer boratlar";"-";15
+"null";"2840.30";" - Peroksiboratlar (perboratlar) :";;
+"null";;" - - Sodyum perborat (perboraks)";;
+"null";"2840.30.00.10.11";" - - - Sodyum perborat monohidrat";"-";40
+"null";"2840.30.00.10.19";" - - - Diğerleri";"-";40
+"null";"2840.30.00.20.00";" - - Amonyum perborat";"-";50
+"null";"2840.30.00.90.00";" - - Diğerleri";"-";15
+"null";;;;
+"null";"28.41";"Oksimetalik veya peroksimetalik asitlerin tuzları:";;
+"null";"2841.30.00.00.00";" - Sodyum dikromat";"-";15
+"null";"2841.50";" - Diğer kromatlar ve dikromatlar; peroksikromatlar";;
+"null";"2841.50.00.10.00";" - - Potasyum dikromat";"-";15
+"null";;" - - Diğerleri:";;
+"null";"2841.50.00.90.11";" - - - Sodyum kromat";"-";15
+"null";"2841.50.00.90.12";" - - - Potasyum kromat";"-";15
+"null";"2841.50.00.90.13";" - - - Amonyum kromat";"-";15
+"null";"2841.50.00.90.14";" - - - Baryum kromat";"-";15
+"null";"2841.50.00.90.19";" - - - Diğer kromatlar";"-";15
+"null";"2841.50.00.90.29";" - - - Diğer dikromatlar";"-";15
+"null";"2841.50.00.90.31";" - - - Peroksikromatlar";"-";15
+"null";;" - Manganitler,manganatlar ve permanganatlar :";;
+"null";"2841.61.00.00.00";" - - Potasyum permanganat";"-";15
+"null";"2841.69";" - - Diğerleri";;
+"null";"2841.69.00.00.11";" - - - Manganitler";"-";15
+"null";"2841.69.00.00.12";" - - - Manganatlar";"-";15
+"null";"2841.69.00.00.19";" - - - Diğer permanganatlar ";"-";15
+"null";"2841.70";" - Molibdatlar :";;
+"null";"2841.70.00.10.00";" - - Amonyum molibdat";"-";10
+"null";;" - - Diğerleri";;
+"null";"2841.70.00.90.11";" - - - Sodyum molibdat";"-";15
+"null";"2841.70.00.90.19";" - - - Diğer molibdatlar";"-";15
+"null";"2841.80.00.00.00";" - Tungstatlar (volframatlar)";"-";15
+"null";"2841.90";" - Diğerleri:";;
+"null";;" - - Zinkatlar ve vanadatlar :";;
+"null";"2841.90.30.10.00";" - - - Zinkatlar";"-";15
+"null";"2841.90.30.20.00";" - - - Vanadatlar ";"-";10
+"null";;" - - Diğerleri:";;
+"null";"2841.90.85.10.00";" - - - Antimonatlar";"-";15
+"null";"2841.90.85.20.00";" - - - Baryum aluminat ve kobalt aluminat";"-";50
+"null";;" - - - Diğer aluminatlar:";;
+"null";"2841.90.85.30.13";" - - - - Sodyum aluminat";"-";15
+"null";"2841.90.85.30.19";" - - - - Diğer aluminatlar";"-";15
+"null";;" - - - Diğerleri ";;
+"null";"2841.90.85.90.11";" - - - - Sodyum stanat";"-";15
+"null";"2841.90.85.90.19";" - - - -  Diğerleri ";"-";15
+"null";;;;
+"null";"28.42";"İnorganik asitlerin veya peroksi asitlerin diğer tuzları (kimyaca belirli ";;
+"null";;"bir yapıda olsun olmasın alumina silikatlar dahil) (azotürler hariç ):";;
+"null";"2842.10.00.00.00";" - Kompleks veya çift silikatlar (kimyaca belirli bir yapıda olsun          ";;
+"null";;"   olmasın alumina silikatlar dahil)      ";"-";25
+"null";"2842.90";" - Diğerleri:";;
+"null";;" - - Selen veya tellür asitlerin tuzları, çift tuzları ve kompleks tuzları  ";;
+"null";"2842.90.10.00.11";" - - - Selen asitlerin tuzları, çift tuzları ve kompleks tuzları  ";"-";25
+"null";"2842.90.10.00.12";" - - - Tellür asitlerin tuzları, çift tuzları ve kompleks tuzları  ";"-";25
+"null";;" - - Diğerleri:";;
+"null";;" - - - Arsenit ve arsenatlar:";;
+"null";"2842.90.80.11.00";" - - - - Sodyum arsenit";"-";15
+"null";"2842.90.80.12.00";" - - - - Sodyum arsenat";"-";15
+"null";;" - - - - Kalsiyum, çinko, potasyum ve aluminyum arsenit ve arsenatlar";;
+"null";"2842.90.80.14.11";" - - - - - Kalsiyum arsenit  ";"-";15
+"null";"2842.90.80.14.19";" - - - - - Diğerleri";"-";15
+"null";"2842.90.80.15.00";" - - - - Kurşun, bakır arsenit ve arsenatlar";"-";50
+"null";"2842.90.80.16.00";" - - - - Diğer arsenit ve arsenatlar";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"2842.90.80.91.00";" - - - - Demir amonyum klorür";"-";50
+"null";"2842.90.80.92.00";" - - - - Fülminatlar, siyanatlar ve tiyosiyanatlar ";"-";15
+"null";;" - - - - Diğerleri";;
+"null";"2842.90.80.99.11";" - - - - - Kompleks veya çift fosfatlar";"-";25
+"null";"2842.90.80.99.12";" - - - - - Kompleks veya çift karbonatlar";"-";25
+"null";"2842.90.80.99.19";" - - - - - Diğerleri";"-";25
+"null";;;;
+"null";;"                                 VI. MUHTELİF";;
+"null";;;;
+"null";"28.43";"Kolloidal haldeki kıymetli metaller; kıymetli metallerin";;
+"null";;"inorganik veya organik bileşikleri (kimyasal olarak belirli";;
+"null";;"bir yapıda olsun olmasın); kıymetli metallerin amalgamları :";;
+"null";"2843.10";" - Kolloidal haldeki kıymetli metaller:";;
+"null";"2843.10.10.00.00";" - - Gümüş (Purotargol)";"-";15
+"null";;" - - Diğerleri:";;
+"null";"2843.10.90.00.11";" - - - Kolloidal altın ";"-";5
+"null";"2843.10.90.00.12";" - - - Kolloidal platin";"-";5
+"null";;" - Gümüş bileşikleri:";;
+"null";"2843.21.00.00.00";" - - Gümüş nitrat";"-";30
+"null";"2843.29";" - - Diğerleri :";;
+"null";;" - - - Diğer gümüş tuzları :";;
+"null";"2843.29.00.10.11";" - - - - Gümüş siyanürler";"-";15
+"null";"2843.29.00.10.19";" - - - - Diğerleri";"-";15
+"null";"2843.29.00.20.00";" - - - Diğer gümüş bileşikleri";"-";5
+"null";"2843.30.00.00.00";" - Altın bileşikleri";"Gr";5
+"null";"2843.90";" - Diğer bileşikler; amalgamlar:";;
+"null";"2843.90.10.00.00";" - - Amalgamlar";"-";5
+"null";"2843.90.90.00.00";" - - Diğerleri";"Gr";25
+"null";;;;
+"null";"28.44";"Radyoaktif kimyasal elementler ve radyoaktif izotoplar (parçalanabilir";;
+"null";;"veya çoğalabilir kimyasal elementler ve izotoplar dahil) ve bunların";;
+"null";;"bileşikleri; bu ürünleri içeren karışım ve artıklar:";;
+"null";"2844.10";" - Tabii uranyum ve bunun bileşikleri; tabii uranyum veya";;
+"null";;"   tabii uranyum bileşikleri içeren alaşımlar, dispersiyonlar";;
+"null";;"   (sermetler dahil), seramik ürünler ve karışımları:";;
+"null";;" - - Tabii uranyum:";;
+"null";"2844.10.10.00.00";" - - - Ham; döküntü ve hurdalar (EURATOM)";"Kg U";15
+"null";"2844.10.30.00.00";" - - - İşlenmiş (EURATOM) ";"Kg U";15
+"null";"2844.10.50.00.00";" - - Ferro uranyum";"Kg U";5
+"null";"2844.10.90.00.00";" - - Diğerleri (EURATOM)";"Kg U";15
+"null";"2844.20";" - U 235 olarak zenginleştirilmiş uranyum ve bunun bileşikleri;";;
+"null";;"   plutonyum ve bunun bileşikleri; U 235 olarak zenginleştirilmiş";;
+"null";;"   uranyum, plutonyum veya bu ürünlerin bileşiklerini içeren";;
+"null";;"   alaşımlar, dispersiyonlar (sermetler dahil), seramik ürünler";;
+"null";;"   ve karışımlar : ";;
+"null";;" - - U 235 olarak zenginleştirilmiş uranyum ve bunun bileşikleri; U 235";;
+"null";;"      olarak zenginleştirilmiş uranyum veya bu ürünlerin bileşiklerini";;
+"null";;"      içeren alaşımlar, dispersiyonlar (sermetler dahil), seramik ürünler ve";;
+"null";;"      karışımlar:";;
+"null";"2844.20.25.00.00";" - - - Ferro uranyum";"giF/S";15
+"null";"2844.20.35.00.00";" - - - Diğerleri (EURATOM)";"giF/S";15
+"null";;" - - Plutonyum ve bunun bileşikleri; plutonyum veya bu ürünlerin";;
+"null";;"     bileşiklerini içeren alaşımlar,dispersiyonlar (sermetler dahil),";;
+"null";;"     seramik ürünler ve karışımlar:";;
+"null";;" - - - Uranyum ve plutonyum karışımları :";;
+"null";"2844.20.51.00.00";" - - - - Ferro uranyum";"giF/S";15
+"null";"2844.20.59.00.00";" - - - - Diğerleri (EURATOM)";"giF/S";15
+"null";"2844.20.99.00.00";" - - - Diğerleri ";"giF/S";15
+"null";"2844.30";" - U 235 olarak fakirleştirilmiş uranyum ve bunun bileşikleri;";;
+"null";;"   toryum ve bunun bileşikleri; U 235 olarak fakirleştirilmiş uran -";;
+"null";;"   yum ,toryum veya bu ürünlerin bileşiklerini içeren alaşımlar,";;
+"null";;"   dispersiyonlar (sermetler dahil),seramik ürünler ve karışımları:";;
+"null";;" - - U 235 olarak fakirleştirilmiş uranyum; U 235 olarak fakirleştirilmiş";;
+"null";;"     uranyum veya bu ürünün bileşiklerini içeren alaşımlar,dispersiyon  -";;
+"null";;"     lar (sermetler dahil),seramik ürünler ve karışımlar:";;
+"null";"2844.30.11.00.00";" - - - Sermetler";"-";15
+"null";;" - - - Diğerleri ";;
+"null";"2844.30.19.10.00";" - - - - U 235 olarak fakirleştirilmiş uranyum";"-";5
+"null";"2844.30.19.20.00";" - - - - U 235 olarak fakirleştirilmiş uranyumun bileşikleri";"-";15
+"null";"2844.30.19.90.00";" - - - - Diğerleri";"-";15
+"null";;" - - Toryum; toryum veya bu ürünün bileşiklerini içeren alaşımlar,dis  -";;
+"null";;"     persiyonlar (sermetler dahil),seramik ürünler ve karışımlar:";;
+"null";"2844.30.51.00.00";" - - - Sermetler";"-";15
+"null";;" - - - Diğerleri (EURATOM) :";;
+"null";;" - - - - Ham; döküntü ve hurdalar :";;
+"null";"2844.30.55.10.00";" - - - - - Toryum";"-";"5"
+"null";"2844.30.55.20.00";" - - - - - Toryum bileşikleri";"-";0
+"null";"2844.30.55.30.00";" - - - - - Toryum izotopları";"-";0
+"null";;" - - - - İşlenmiş :";;
+"null";;" - - - - - Çubuklar, profiller, teller,levha,tabaka,yaprak ve şeritler :";;
+"null";"2844.30.61.10.00";" - - - - - - Toryum";"-";5
+"null";"2844.30.61.20.00";" - - - - - - Toryum bileşikleri";"-";0
+"null";"2844.30.61.30.00";" - - - - - - Toryum izotopları";"-";0
+"null";;" - - - - - Diğerleri :";;
+"null";"2844.30.69.10.00";" - - - - - - Toryum ";"-";"5"
+"null";"2844.30.69.20.00";" - - - - - - Toryum bileşikleri ";"-";0
+"null";"2844.30.69.30.00";" - - - - - - Toryum izotopları ";"-";0
+"null";;" - - U 235 olarak fakirleştirilmiş uranyum veya toryumun bileşikleri";;
+"null";;"     (birbirleriyle karıştırılmış olsun olmasın):";;
+"null";"2844.30.91.00.00";" - - - Toryum veya U 235 olarak fakirleştirilmiş uranyumdan olanlar";;
+"null";;"        (birbirleriyle karıştırılmış olsun olmasın) (toryum tuzları hariç) (EURATOM)";"-";15
+"null";"2844.30.99.00.00";" - - - Diğerleri";"-";15
+"null";;" - Radyoaktif elementler ve izotoplar ve bileşikler (2844.10, 2844.20,";;
+"null";;"   2844.30 alt pozisyonlarındakiler hariç); bu elementleri, izotopları ";;
+"null";;"   veya bileşikleri içeren alaşımlar, dispersiyonlar (sermetler dahil),";;
+"null";;"   seramik ürünler ve karışımlar; radyoaktif artıklar:";;
+"null";"2844.41";" - - Trityum ve bileşikleri; trityum ve bileşiklerini içeren  alaşımlar,";;
+"null";;"      dispersiyonlar (sermetler dahil),  seramik ürünler ve karışımlar:";;
+"null";"2844.41.10.00.00";" - - - Yapay radyoaktif izotop (Euratom); yapay radyoaktif izotop bileşikleri (Euratom) ";"-";0
+"null";"2844.41.90.00.00";" - - - Diğerleri";"-";0
+"null";"2844.42";" - - Aktinyum-225, aktinyum-227, kaliforniyum-253, küriyum-240, küriyum-241, ";;
+"null";;"     küriyum-242, küriyum-243, küriyum-244, einsteinyum-253, einsteinyum-254, ";;
+"null";;"     gadolinyum-148, polonyum-208, polonyum- 209, polonyum-210, radyum-223, ";;
+"null";;"     uranyum-230 veya uranyum-232 ve bunların bileşikleri; bu element veya bileşikleri";;
+"null";;"     içeren alaşımlar, dispersiyonlar (sermetler dahil), seramik ürünler ve karışımlar:";;
+"null";"2844.42.10.00.00";" - - - Yapay radyoaktif izotop (Euratom); yapay radyoaktif izotop bileşikleri (Euratom) ";"-";0
+"null";"2844.42.90.00.00";" - - - Diğerleri";"-";0
+"null";"2844.43";" - - Diğer radyoaktif elementler ve izotoplar ve bileşikler; bu elementleri,";;
+"null";;"    izotopları veya bileşikleri içeren alaşımlar, dispersiyonlar (sermetler dahil),";;
+"null";;"     seramik ürünler ve karışımlar:";;
+"null";;" - - - U 233 'den elde edilen uranyum ve bunun bileşikleri; U 233 veya bu";;
+"null";;"      ürünün bileşiklerinden elde edilen alaşımlar, dispersiyonlar (sermetler";;
+"null";;"      dahil) seramik ürünler ve karışımlar :";;
+"null";"2844.43.10.10.00";" - - - - Ferro-uranyum";"-";5
+"null";"2844.43.10.90.00";" - - - - Diğerleri";"-";0
+"null";;" - - - Yapay radyoaktif izotop (Euratom); yapay radyoaktif izotop bileşikleri (Euratom) ";" ";
+"null";" ";" - - - - Yapay radyoaktif izotoplar (EURATOM)";" ";" "
+"null";"2844.43.20.00.11";" - - - - - Radyoaktif iyot";"-";0
+"null";"2844.43.20.00.12";" - - - - - Radyoaktif fosfor";"-";0
+"null";"2844.43.20.00.13";" - - - - - Radyoaktif karbon";"-";0
+"null";"2844.43.20.00.14";" - - - - - Radyoaktif kobalt";"-";0
+"null";"2844.43.20.00.19";" - - - - - Diğerleri";"-";0
+"null";"2844.43.20.00.21";" - - - - Yapay radyoaktif izotopların bileşikleri (EURATOM)";"-";0
+"null";;" - - - Diğerleri:";;
+"null";"2844.43.80.10.00";" - - - - Radyoaktif bileşiklerle radyoaktif hale getirilmiş ''luminofor '' olarak";" ";
+"null";;"          kullanılacak cinsten inorganik bileşikler";"-";0
+"null";" ";" - - - - Diğerleri";" ";
+"null";"2844.43.80.90.11";" - - - - - Uranyum izotopu";"-";15
+"null";"2844.43.80.90.19";" - - - - - Diğerleri";"-";15
+"null";"2844.44.00.00.00";" - - Radyoaktif atıklar";"-";15
+"null";"2844.50.00.00.00";" - Nükleer reaktörlerin kullanılmış (radyasyon yayan) yakıt elementleri ";;
+"null";;"(kartuşlar)";"giF/S";15
+"null";;;;
+"null";"28.45";"28.44 Pozisyonu dışında kalan izotoplar; bunların belirli bir kim -";;
+"null";;"yasal yapıda olsun olmasın organik ve inorganik bileşikleri:";;
+"null";"2845.10.00.00.00";" -  Ağır su (döteryum oksit) (EURATOM)";"-";15
+"null";"2845.20.00.00.00";" - Boron-10 içinde zenginleştirilmiş Boron ve bileşikleri";"-";15
+"null";"2845.30.00.00.00";" - Lityum-6 içinde zenginleştirilmiş Lityum ve bileşikleri";"-";15
+"null";"2845.40.00.00.00";" - Helyum-3";"-";15
+"null";"2845.90";" - Diğerleri:";;
+"null";;" - - Döteryum ve bunun bileşikleri; döteryumca zenginleştirilmiş hidrojen  ";;
+"null";;"      ve bileşikleri; bu ürünleri içeren karışım ve çözeltiler (EURATOM)";;
+"null";"2845.90.10.00.11";" - - - Dötere organik bileşikler";"-";15
+"null";"2845.90.10.00.19";" - - - Diğerleri";"-";15
+"null";;" - - Diğerleri";;
+"null";"2845.90.90.00.11";" - - - Tirityumlu bileşikler";"-";15
+"null";"2845.90.90.00.19";" - - - Diğerleri";"-";15
+"null";;;;
+"null";"28.46";"Nadir toprak metallerin, itriyum veya skandiyum veya bu";;
+"null";;"metallerin karışımlarının organik veya inorganik bileşikleri:";;
+"null";"2846.10.00.00.00";" - Seryum bileşikleri";"-";15
+"null";"2846.90";" - Diğerleri";;
+"null";"2846.90.10.00.00";" - - Lantan, Praseodim, Neodimyum veya Samaryum bileşikleri";"-";15
+"null";"2846.90.20.00.00";" - - Evropiyum, gadolinyum, terbiyum, disprosyum, holmiyum, erbiyum, tulyum,";;
+"null";;"     iterbiyum, lutetyum veya itriyum bileşikleri";"-";15
+"null";"2846.90.30.00.00";" - - Skandiyum bileşikleri";"-";15
+"null";"2846.90.90.00.00";" - - Metal karışımlarının bileşikleri";"-";15
+"null";;;;
+"null";"2847.00";"Hidrojen peroksit (üre ile sertleştirilmiş  olsun olmasın) :";;
+"null";"2847.00.00.10.00";" - Perhidrol (en az % 30 H2O2 içeren)";"KgH2O2";25
+"null";" ";" - Diğerleri";" ";" "
+"null";"2847.00.00.90.11";" - - Katı hidrojen peroksit";"KgH2O2";50
+"null";"2847.00.00.90.19";" - - Diğerleri";"KgH2O2";50
+"null";;;;
+"null";"[28.48]";;;
+"null";;;;
+"null";"28.49";"Karbürler (kimyaca belirli bir yapıda olsun olmasın):";;
+"null";"2849.10.00.00.00";" - Kalsiyum karbür";"-";35
+"null";"2849.20.00.00.00";" - Silisyum karbür";"-";25
+"null";"2849.90";" - Diğerleri:";" ";
+"null";"2849.90.10.00.00";" - - Bor karbür";"-";35
+"null";"2849.90.30.00.00";" - - Tungsten karbür";"-";35
+"null";;" - - Aluminyum; krom; molibden; vanadyum; tantal ve titan  karbürleri";" ";
+"null";"2849.90.50.00.11";" - - - Aluminyum karbür";"-";35
+"null";"2849.90.50.00.12";" - - - Krom karbür";"-";35
+"null";"2849.90.50.00.13";" - - - Molibden karbür";"-";35
+"null";"2849.90.50.00.14";" - - - Vanadyum karbür";"-";35
+"null";"2849.90.50.00.15";" - - - Tantal karbür";"-";35
+"null";"2849.90.50.00.16";" - - - Titan karbür";"-";35
+"null";"2849.90.90.00.00";" - - Diğerleri";"-";35
+"null";;;;
+"null";"2850.00";"Hidrürler, nitrürler, azotürler, silisürler ve borürler (kimyaca";;
+"null";;"belirli bir yapıda olsun olmasın) (aynı zamanda 28.49 pozisyo- ";;
+"null";;"nunun karbürleri de olan bileşikler hariç ) :";;
+"null";"2850.00.20.00.00";" - Hidrürler; nitrürler";"-";15
+"null";;" - Azotürler, silüsürler:";" ";
+"null";;" - - Azotürler :";;
+"null";"2850.00.60.10.11";" - - - Sodyum azotür";"-";15
+"null";"2850.00.60.10.19";" - - - Diğer azotürler";"-";15
+"null";"2850.00.60.20.00";" - - Silüsürler";"-";"15"
+"null";"2850.00.90.00.00";" - Borürler";"-";15
+"null";;;;
+"null";"[28.51]";;;
+"null";;;;
+"null";"28.52";" Civanın organik veya inorganik bileşikleri (kimyasal olarak tanımlanmış ";;
+"null";;"  olsun olmasın) (amalgamlar hariç):";;
+"null";;" - Kimyasal olarak tanımlanmış olanlar: ";;
+"null";"2852.10.00.11.00";" - - Civa oksitleri";"-";25
+"null";;" - -  Civa klorür ve oksiklorür:";;
+"null";"2852.10.00.12.11";" - - - Civa (I) klorür (kalomel)";"-";15
+"null";"2852.10.00.12.12";" - - - Civa (II) klorür (süblime)";"-";15
+"null";"2852.10.00.12.13";" - - - Civa oksiklorür";"-";15
+"null";"2852.10.00.13.00";" - -  Civa hidroksiklorür";"-";50
+"null";"2852.10.00.14.00";" - - Civa iyodürler ve oksiiyodürler ";"-";30
+"null";"2852.10.00.15.00";" - - Civa sülfir ve polisülfür";"-";50
+"null";"2852.10.00.16.00";" - - Bazik cıva sülfat";"-";20
+"null";"2852.10.00.17.00";" - - Bazik olmayan cıva sülfat";"-";30
+"null";"2852.10.00.18.00";" - - Civa nitratlar";"-";30
+"null";"2852.10.00.21.00";" - - Civa polifosfatlar";"-";50
+"null";;" - - Saf civa siyanür ve saf kompleks civa siyanür :";;
+"null";"2852.10.00.22.11";" - - -  Saf  kompleks civa siyanür";"-";0
+"null";"2852.10.00.22.12";" - - - Civa tetra siyanür";"-";0
+"null";"2852.10.00.22.19";" - - - Diğerleri";"-";0
+"null";;" - -  Saf  olmayan civa siyanür ve saf olmayan kompleks civa siyanür:";;
+"null";"2852.10.00.23.11";" - - -  Saf  olmayan kompleks civa siyanür";"-";5
+"null";"2852.10.00.23.12";" - - - Civa tetra siyanür";"-";5
+"null";"2852.10.00.23.19";" - - - Diğerleri";"-";5
+"null";"2852.10.00.24.00";" - - Civa fülminat, siyanat ve tiyosiyanat ";"-";30
+"null";"2852.10.00.25.00";" - - Civa kromat,  dikromat ve peroksikromat";"-";15
+"null";"2852.10.00.26.00";" - - Civanın kompleks veya çift silikatları  ";"-";25
+"null";"2852.10.00.27.00";" - - Civa arsenitler ve arsenatlar";"-";25
+"null";"2852.10.00.28.00";" - - Kıymetli metallerin civalı bileşikleri ";"-";5
+"null";"2852.10.00.31.00";" - - Civa fosfürler ";"-";15
+"null";"2852.10.00.32.00";" - - Civa karbürler";"-";35
+"null";"2852.10.00.33.00";" - - Civa hidrürleri ve civa nitrürleri";"-";15
+"null";"2852.10.00.34.00";" - - Civa azotürleri";"-";15
+"null";"2852.10.00.35.00";" - - Civa silüsürler ";"-";15
+"null";"2852.10.00.36.00";" - - Civa borürler";"-";15
+"null";"2852.10.00.37.00";" - - Civalı aminoklorür ";"-";30
+"null";"2852.10.00.38.00";" - - Civalı organik bileşikler";"-";15
+"null";;" - - Diğerleri :";;
+"null";"2852.10.00.99.11";" - - -  Civa II oksisiyanür";"-";50
+"null";"2852.10.00.99.12";" - - - Diğerleri";"-";50
+"null";"2852.90.00.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"2853.00";"Fosfürler (kimyaca belirli bir yapıda olsun olmasın) (ferro fosfor hariç); ";;
+"null";;"diğer inorganik bileşikler (damıtılmış veya iletkenlik suyu";;
+"null";;"ve benzeri saflıktaki su dahil); sıvı hava (içindeki asal gazlar";;
+"null";;"alınmış olsun olmasın); sıkıştırılmış hava; amalgamlar (kıymetli";;
+"null";;"metallerin amalgamları hariç) :";;
+"null";"2853.10.00.00.00";" - Siyanojen klorür (klorsiyan)";"-";"30"
+"null";"2853.90";" - Diğerleri:";;
+"null";"2853.90.10.00.00";" - - Damıtılmış  veya iletkenlik suyu ve benzeri saflıktaki su";"-";"30"
+"null";"2853.90.30.00.00";" - - Sıvı hava (içindeki asal gazlar alınmış olsun olmasın); sıkıştırılmış";;
+"null";;"    hava";"-";"15"
+"null";;" - - Diğerleri :";;
+"null";"2853.90.90.10.00";" - - - Kalaylı bakır amalgamları";"-";30
+"null";"2853.90.90.30.00";" - - - Bakır fosfür (ağırlık itibariyle % 15' den fazla fosfor içerenler)";"-";50
+"null";"2853.90.90.40.00";" - - - Saf çinko fosfür";"-";20
+"null";"2853.90.90.50.00";" - - - Saf olmayan çinko fosfür";"-";25
+"null";"2853.90.90.60.00";" - - - Diğer fosfürler";"-";15
+"null";"2853.90.90.90.00";" - - - Diğerleri";"-";"30"

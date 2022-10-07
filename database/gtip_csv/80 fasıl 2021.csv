@@ -1,0 +1,41 @@
+﻿"null";"80.01";"İşlenmemiş kalay:";;
+"null";"8001.10.00.00.00";" - Alaşımsız kalay";"-";10
+"null";"8001.20.00.00.00";" - Kalay alaşımları";"-";10
+"null";;;" ";
+"null";"8002.00.00.00.00";"Kalay döküntü ve hurdaları";"-";10
+"null";;;;
+"null";"8003.00";"Kalaydan çubuklar, profiller ve teller:";;
+"null";"8003.00.00.10.00";" - İçi boş profiller ";"-";40
+"null";" ";" - Diğerleri :";" ";
+"null";"8003.00.00.90.11";" - - Kalay alaşımlarından içi dolu profiller";"-";10
+"null";"8003.00.00.90.12";" - - Alaşımsız kalaydan içi dolu profiller";"-";10
+"null";"8003.00.00.90.13";" - - Kalay alaşımlarından  çubuklar";"-";10
+"null";"8003.00.00.90.14";" - - Alaşımsız kalaydan çubuklar";"-";10
+"null";"8003.00.00.90.15";" - - Kalay alaşımlarından teller";"-";10
+"null";"8003.00.00.90.16";" - - Alaşımsız kalaydan teller";"-";10
+"null";;;;
+"null";"[80.04]";;;
+"null";;;;
+"null";"[80.05]";;;
+"null";;;;
+"null";"[80.06]";;;
+"null";;;;
+"null";"8007.00";"Kalaydan diğer eşya";;
+"null";;" -  Kalay saclar, levhalar ve şeritler (kalınlığı 0,2 mm. yi geçenler)";" ";
+"null";;" - - M2 ağırlığı 1 kg.ı geçenler :";;
+"null";"8007.00.10.10.11";" - - - Kalay alaşımlarından olanlar";"-";10
+"null";"8007.00.10.10.12";" - - - Alaşımsız kalaydan olanlar";"-";10
+"null";;" - - M2 ağırlığı 1 kg.  veya daha az olanlar :";;
+"null";"8007.00.10.90.11";" - - - Kalay alaşımlarından olanlar";"-";40
+"null";"8007.00.10.90.12";" - - - Alaşımsız kalaydan olanlar";"-";40
+"null";;" - Diğerleri:";;
+"null";;" - -  Kalaydan yapraklar ve şeritler (baskılı veya baskısız veya kağıttan, kartondan,";;
+"null";;"      suni plastik maddelerden veya benzeri maddelerden bir mesnet";;
+"null";;"      üzerine tesbit edilmiş bulunsun bulunmasın) (mesnedi hariç,kalınlıkları";;
+"null";;"      0,2 mm. yi geçmeyenler); kalaydan tozlar ve ince pullar:";;
+"null";"8007.00.80.11.00";" - - - M2 ağırlığı 1 kg.ı geçen yaprak ve şeritler";"-";10
+"null";"8007.00.80.19.00";" - - - Diğerleri";"-";40
+"null";;" - - Diğerleri:";;
+"null";"8007.00.80.21.00";" - - - Kalaydan ince ve kalın borular ve boru bağlantı parçaları( rakorlar, dirsekler";;
+"null";;"        manşonlar ve benzerleri";"-";40
+"null";"8007.00.80.29.00";" - - - Diğerleri";"-";50

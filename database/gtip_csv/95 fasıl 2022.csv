@@ -1,0 +1,143 @@
+﻿"null";"[95.01]";;;
+"null";;;;
+"null";"[95.02]";;;
+"null";;;;
+"null";"9503.00";" Üç tekerlekli bisikletler, skuterler, pedallı arabalar ve benzeri";" ";
+"null";;" tekerlekli oyuncaklar; oyuncak bebekler için arabalar;oyuncak bebekler;";" ";
+"null";;"diğer oyuncaklar; küçültülmüş (scale) modeller ve benzeri eğlencelik";;
+"null";;"modeller( hareketli olsun olmasın );her türlü bilmeceler (puzzle):";;
+"null";;" - Üç tekerlekli bisikletler, skuterler, pedallı arabalar ve benzeri";;
+"null";;"    tekerlekli oyuncaklar; oyuncak bebekler için arabalar:";;
+"null";"9503.00.10.11.00";"  - - Oyuncak bebekler için arabalar";" -";100
+"null";"9503.00.10.12.00";"  - - Üç tekerlekli bisikletler";" -";50
+"null";;"  - - Diğerleri";;
+"null";"9503.00.10.19.11";" - - - Skuterler";" -";100
+"null";"9503.00.10.19.19";" - - - Diğerleri";" -";100
+"null";;" -Sadece insan şeklinde yapma bebekler (bunların aksam, parça ve ";;
+"null";;"  aksesuarları dahil) :";;
+"null";"9503.00.21.00.00";" - - Oyuncak bebekler";" -";100
+"null";"9503.00.29.00.00";" - - Aksam, parça ve aksesuarlar";" -";100
+"null";"9503.00.30.00.00";" -Elektrikli trenler (rayları, işaretleri ve diğer aksesuarı dahil);birleştirilecek";;
+"null";;" türden küçültülmüş modeller ";" -";100
+"null";;" - Diğer yapı setleri ve yapı oyuncakları:";" ";
+"null";"9503.00.35.00.00";" - - Plastik maddelerden olanlar";"-";100
+"null";"9503.00.39.00.00";" - - Diğer maddelerden olanlar";"-";100
+"null";;" - Hayvanları ve insan dışı yaratıkları tasvir eden oyuncaklar:";" ";
+"null";"9503.00.41.00.00";" - - İçleri doldurulmuş olanlar";"-";100
+"null";"9503.00.49.00.00";" - - Diğerleri";"-";100
+"null";"9503.00.55.00.00";" - Oyuncak müzik alet ve cihazları";"-";100
+"null";;" - Bilmeceler:";;
+"null";"9503.00.61.00.00";" - - Ahşap olanlar";"-";100
+"null";"9503.00.69.00.00";" - - Diğerleri";"-";100
+"null";"9503.00.70.00.00";" - Diğer oyuncaklar (takım veya set halinde olanlar)";"-";100
+"null";;" - Diğer oyuncak ve modeller (motorlu olanlar):";;
+"null";"9503.00.75.00.00";" - - Plastik maddelerden olanlar";"-";100
+"null";"9503.00.79.00.00";" - - Diğer maddelerden olanlar";"-";100
+"null";;" - Diğerleri:";;
+"null";"9503.00.81.00.00";" - - Oyuncak silahlar";"-";100
+"null";"9503.00.85.00.00";" - -  Kalıplanarak elde edilen minyatür metal modeller";"-";100
+"null";"9503.00.87.00.00";" - - Esas olarak çocuklar için dizayn edilmiş taşınabilir interaktif elektronik eğitim cihazları ";"-";100
+"null";;" - - Diğerleri :";;
+"null";"9503.00.95.00.00";" - - - Plastik maddelerden olanlar ";"-";100
+"null";"9503.00.99.00.00";" - - - Diğerleri";"-";100
+"null";;;;
+"null";"95.04";"Video oyun konsolları ve makinaları, tilt makinası, bilardo, kumarhane ";" ";
+"null";;"oyunları için özel masalar ve otomatik bowling ekipmanları dahil salon ";" ";
+"null";;"veya masa oyunları, madeni para, banknot (kağıt para), banka kartları,";" ";
+"null";;"jeton veya benzeri ödeme araçları ile çalışan eğlence makinaları:  ";;
+"null";"9504.20";" - Her çeşit bilardo eşyası ve aksesuarı:";" ";
+"null";"9504.20.00.10.00";"  - - Bilardo tebeşirleri";"-";60
+"null";"9504.20.00.90.00";"  - - Diğerleri";"-";100
+"null";;;;
+"null";"9504.30";" - Madeni para, banknot (kağıt para), banka kartları,jeton veya benzeri ";;
+"null";;"   ödeme araçları ile çalışan diğer oyunlar (otomatik bowling oyunu hariç):";;
+"null";"9504.30.10.00.00";" - - Ekranlı olanlar";"   Adet";100
+"null";"9504.30.20.00.00";" - - Diğer oyunlar";"   Adet";100
+"null";"9504.30.90.00.00";" - -  Aksam ve parçalar";"-";100
+"null";"9504.40.00.00.00";" - Oyun kağıtları";"-";100
+"null";"9504.50.00.00.00";" - Video oyun konsolları ve makineleri (9504.30 alt pozisyonundakiler hariç)";"-";100
+"null";"9504.90";" - Diğerleri:";" ";
+"null";"9504.90.10.00.00";" - - Takım halinde elektrikli yarış arabaları (yarış oyunları özelliğine sahip";" ";
+"null";;"      olanlar)";"-";100
+"null";"9504.90.80.00.00";" - - Diğerleri";"-";100
+"null";;;" ";
+"null";"95.05";"Bayram, karnaval veya diğer eğlenceler için eşya (sihirbazlık";" ";
+"null";;"eşyası veya sürpriz eşyası dahil):";" ";
+"null";"9505.10";" - Noel eğlenceleri için eşya:";" ";
+"null";"9505.10.10.00.00";" - - Camdan olanlar";"-";100
+"null";"9505.10.90.00.00";" - - Diğer maddelerden olanlar";"-";100
+"null";"9505.90.00.00.00";" - Diğerleri";"-";100
+"null";;;;
+"null";"95.06";"Bu fasılın diğer pozisyonlarında belirtilmeyen veya yer almayan";;
+"null";;"kültür fizik, jimnastik, atletizm ve diğer sporlara (masa tenisi dahil)";;
+"null";;"veya açık hava oyunlarına mahsus eşya ve malzeme; yüzme ha -";;
+"null";;"vuzları ve küçük oyun havuzları:";;
+"null";;" - Kar kayakları ve kar kayağı yapmaya mahsus diğer malzemeler:";;
+"null";"9506.11";" - - Kayaklar:";;
+"null";"9506.11.10.00.00";" - - - Uzun mesafe kayağı";" Çift";40
+"null";;" - - - Yokuş aşağı iniş için kayaklar";;
+"null";"9506.11.21.00.00";" - - - - Tek kayaklar ve snowboard'lar";"Adet";40
+"null";"9506.11.29.00.00";" - - - - Diğerleri";" Çift";40
+"null";"9506.11.80.00.00";" - - - Diğer kayaklar";" Çift";40
+"null";"9506.12.00.00.00";" - - Kayak bağlayıcıları";"-";40
+"null";"9506.19.00.00.00";" - - Diğerleri";"-";40
+"null";;" - Su kayakları, sörf tahtaları, rüzgar sörfleri ve su sporları yapmak";" ";
+"null";;"    için diğer malzeme:";" ";
+"null";"9506.21.00.00.00";" - - Rüzgar sörfleri";"-";40
+"null";"9506.29.00.00.00";" - - Diğerleri";"-";40
+"null";;" - Golf sopaları ve golf oyunlarına mahsus diğer malzeme:";" ";
+"null";"9506.31.00.00.00";" - - Sopalar (komple)";"   Adet";40
+"null";"9506.32.00.00.00";" - - Toplar";"   Adet";40
+"null";"9506.39";" - - Diğerleri:";" ";
+"null";"9506.39.10.00.00";" - - - Sopaların aksam ve parçaları";"-";40
+"null";"9506.39.90.00.00";" - - - Diğerleri";"-";40
+"null";"9506.40";" - Masa tenisi için eşya ve malzeme:";;
+"null";"9506.40.00.00.11";" - - Masalar";"-";40
+"null";"9506.40.00.00.19";" - - Diğerleri";"-";40
+"null";;" - Tenis, badminton veya benzeri sporlar için raketler (fileli olsun olmasın): ";" ";
+"null";"9506.51.00.00.00";" - - Tenis raketleri (fileli olsun olmasın)";"-";40
+"null";"9506.59.00.00.00";" - - Diğerleri";"-";40
+"null";;" - Küçük ve büyük toplar (golf ve masa tenis topları hariç):";" ";
+"null";"9506.61.00.00.00";" - - Tenis topları";"-";40
+"null";"9506.62.00.00.00";" - - Şişirilebilen toplar";"-";40
+"null";"9506.69";" - - Diğerleri:";" ";
+"null";"9506.69.10.00.00";" - - - Kriket ve polo topları";"-";40
+"null";"9506.69.90.00.00";" - - - Diğerleri";"-";40
+"null";"9506.70";" - Buz patenleri ve tekerlekli patenler (paten takılmış botlar dahil):";" ";
+"null";"9506.70.10.00.00";" - - Buz patenleri";" Çift";40
+"null";"9506.70.30.00.00";" - - Tekerlekli patenler";" Çift";40
+"null";"9506.70.90.00.00";" - - Aksam, parça ve aksesuar";"-";40
+"null";;" - Diğerleri:";" ";
+"null";"9506.91";" - - Kültür-fizik, jimnastik veya atletizm eşya ve malzemesi";;
+"null";"9506.91.10.00.00";" - - - Güç ayarlama mekanizmalı egzersiz aletleri";"-";40
+"null";"9506.91.90.00.00";" - - - Diğerleri";"-";40
+"null";"9506.99";" - - Diğerleri:";" ";
+"null";"9506.99.10.00.00";" - - - Kriket veya polo malzemesi (toplar hariç)";"-";40
+"null";"9506.99.90.00.00";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"95.07";"Oltayla balık avlamaya mahsus olta kamışları, olta iğneleri ve ";;
+"null";;"diğer balık takımları; balık yakalamaya mahsus el kepçeleri, ";;
+"null";;"kelebek ağları ve benzeri diğer ağlar; kuş avcılığına mahsus ";;
+"null";;"yapma kuşlar (92.08 veya 97.05 pozisyonundakiler hariç) ve benze-";;
+"null";;"ri avcılık ve atıcılık levazımatı:";;
+"null";"9507.10.00.00.00";" - Olta değnekleri";"-";40
+"null";"9507.20";" - Olta iğneleri (misina takılı olsun olmasın):";" ";
+"null";"9507.20.10.00.00";" - - Olta iğneleri (misina takılmamış)";"-";40
+"null";"9507.20.90.00.00";" - - Diğerleri";"-";40
+"null";"9507.30.00.00.00";" - Olta makaraları";"-";40
+"null";"9507.90.00.00.00";" - Diğerleri";"-";40
+"null";;;;
+"null";"95.08";"Gezici sirkler ve gezici hayvan sergileri; eğlence parkı gezinti eşyası ve";;
+"null";;"su parkı eğlence eşyası; atış standları dahil fuar ve panayır eğlencelerine";;
+"null";;"mahsus eşya; gezici tiyatrolar:";;
+"null";"9508.10.00.00.00";" - Gezici sirkler ve gezici hayvan sergileri";"-";50
+"null";;" - Eğlence parkı gezinti eşyası ve su parkı eğlence eşyası";;
+"null";"9508.21.00.00.00";" - - Hızlı trenler (roller coaster)";"-";50
+"null";"9508.22.00.00.00";" - - Atlı karıncalar, salıncaklar ve dönen platformlar";"-";50
+"null";"9508.23.00.00.00";" - - Çarpışan arabalar";"-";50
+"null";"9508.24.00.00.00";" - - Hareket simulatörleri ve hareketli sinemalar";"-";50
+"null";"9508.25.00.00.00";" - - Su gezinti eşyası";"-";50
+"null";"9508.26.00.00.00";" - - Su parkı eğlence eşyası";"-";50
+"null";"9508.29.00.00.00";" - - Diğerleri";"-";50
+"null";"9508.30.00.00.00";" - Fuar ve panayır eğlencelerine mahsus eşya";"-";50
+"null";"9508.40.00.00.00";" - Gezici tiyatrolar";"-";50

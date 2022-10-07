@@ -1,0 +1,150 @@
+﻿"null";"37.01";"Fotoğrafçılıkta kullanılan hassas hale getirilmiş boş fotoğraf";;
+"null";;"levhaları ve boş düz filmler (kağıt, karton veya mensucat hariç";;
+"null";;"olmak üzere herhangi bir maddeden); anında develope olarak";;
+"null";;"fotoğraf veren boş, düz, hassas hale getirilmiş filmler (seri";;
+"null";;"halinde olsun olmasın):";;
+"null";"3701.10.00.00.00";" - X  - ışınları için filmler";"    m2";0
+"null";"3701.20";" - Anında develope olarak fotoğraf veren filmler :";;
+"null";"3701.20.00.10.00";" - - Film kutusu (filmpak) içinde olanlar";"Adet";25
+"null";;" - - Diğerleri";;
+"null";"3701.20.00.90.11";" - - - Seluloitten veya diğer plastik maddelerden grafik sanatlarında kulla-";;
+"null";;"        nılanlar ";"Adet";25
+"null";"3701.20.00.90.12";" - - - Seluloitten veya diğer plastik maddelerden sağlık işlerinde ";;
+"null";;"        kullanılanlar";"Adet";25
+"null";"3701.20.00.90.19";" - - - Seluloitten veya diğer plastik maddelerden diğer filmler";"Adet";25
+"null";"3701.20.00.90.29";" - - - Diğerleri";"Adet";25
+"null";"3701.30";" - Diğer levha ve filmler (herhangi bir kenarı 255 mm.yi geçenler)";;
+"null";"3701.30.00.00.11";" - - Seluloitten veya diğer plastik maddelerden grafik sanatlarında ";;
+"null";;"      kullanılanlar";"    m2";25
+"null";"3701.30.00.00.19";" - - Seluloitten veya diğer plastik maddelerden diğer levha ve filmler";"    m2";25
+"null";"3701.30.00.00.21";" - - Klişe yapımı için hassas hale getirilmiş magnezyum plakalar";"    m2";25
+"null";"3701.30.00.00.29";" - - Diğerleri";"    m2";25
+"null";;" - Diğerleri:";;
+"null";"3701.91";" - - Renkli fotoğraf (polikrom) için kullanılan filmler";;
+"null";"3701.91.00.00.11";" - - - Seluloitten veya diğer plastik maddelerden grafik sanatlarında ";;
+"null";" ";"        kullanılanlar";"-";25
+"null";"3701.91.00.00.12";" - - - Seluloitten veya diğer plastik maddelerden diğer filmler";"-";25
+"null";"3701.91.00.00.13";" - - - Grafik sanatlarında kullanılan diğer filmler";"-";25
+"null";"3701.91.00.00.19";" - - - Diğerleri";"-";25
+"null";"3701.99.00.00.00";" - - Diğerleri";"-";25
+"null";;;;
+"null";"37.02";"Fotoğrafçılıkta kullanılan rulo halinde hassas hale getirilmiş boş";;
+"null";;"fotoğraf filmleri (kağıt, karton veya mensucat dışındaki herhangi";;
+"null";;"bir maddeden); rulo halinde anında develope olarak fotoğraf";;
+"null";;"veren filmler (hassas, boş):";;
+"null";"3702.10.00.00.00";" - X  ışınları için filmler";"    m2";0
+"null";;" - Diğer filmler, perfore edilmemiş eni 105 mm.yi geçmeyenler:";;
+"null";"3702.31";" - - Renkli fotoğraf (polikrom) için filmler:";;
+"null";"3702.31.91.00.00";" - - -  Renkli negatif film ;";;
+"null";;"         ( - Eni 75 mm veya daha fazla fakat 105 mm.yi geçmeyen,";;
+"null";;"          - Uzunluğu 100 m. veya daha fazla,anında develope olarak fotoğraf ";;
+"null";;"            veren film kutularında kullanılan filmlerin imaline mahsus olan)";"m";"35"
+"null";;" - - - Diğerleri:";;
+"null";"3702.31.97.10.00";" - - - - Anında develope olarak fotoğraf veren filmler (film kutusu ";;
+"null";;"         içinde olanlar";"m";"25"
+"null";"3702.31.97.90.00";" - - - - Diğerleri";"m";"35"
+"null";"3702.32";" - - Diğerleri (gümüş halojenür emülsiyonlu) :";;
+"null";;" - - - Eni 35 mm. yi geçmeyenler:";;
+"null";"3702.32.10.00.00";" - - - - Mikrofilmler; grafik sanatları için filmler";"-";"35"
+"null";;" - - - - Diğerleri:";;
+"null";"3702.32.20.10.00";" - - - - - Anında develope olarak fotoğraf veren filmler (film kutusu ";;
+"null";;"         içinde olanlar";"-";"25"
+"null";"3702.32.20.90.00";" - - - - - Diğerleri";"-";"35"
+"null";;" - - - Eni 35 mm. yi geçenler:";;
+"null";"3702.32.85.10.00";" - - - - Anında develope olarak fotoğraf veren filmler (film kutusu ";;
+"null";;"         içinde olanlar";"-";"25"
+"null";"3702.32.85.90.00";" - - - - Diğerleri";"-";"35"
+"null";"3702.39";" - - Diğerleri:";;
+"null";"3702.39.00.10.00";" - - -  Anında develope olarak fotoğraf veren filmler (film kutusu ";;
+"null";;"         içinde olanlar";"-";25
+"null";"3702.39.00.90.00";" - - - Diğerleri";"-";35
+"null";;" - Diğer filmler, perfore edilmemiş eni 105 mm. yi geçenler:";;
+"null";"3702.41";" - - Eni 610 mm. yi ve uzunluğu 200 m. yi geçen renkli fotoğraf";;
+"null";;"     (polikrom) filmleri:";;
+"null";"3702.41.00.10.00";" - - -  Anında develope olarak fotoğraf veren filmler (film kutusu ";;
+"null";;"         içinde olanlar";"    m2";"25"
+"null";"3702.41.00.90.00";" - - - Diğerleri";"    m2";"35"
+"null";"3702.42";" - - Eni 610 mm. yi ve uzunluğu 200 m. yi geçen filmler (renkli ";;
+"null";;"     fotoğraf filmleri hariç):";;
+"null";"3702.42.00.10.00";" - - -  Anında develope olarak fotoğraf veren filmler (film kutusu ";;
+"null";;"         içinde olanlar";"    m2";"25"
+"null";"3702.42.00.90.00";" - - - Diğerleri";"    m2";"35"
+"null";"3702.43";" - - Eni 610 mm. yi geçen, uzunluğu 200 m. yi geçmeyen filmler:";;
+"null";"3702.43.00.10.00";" - - -  Anında develope olarak fotoğraf veren filmler (film kutusu ";;
+"null";;"         içinde olanlar";"    m2";"25"
+"null";"3702.43.00.90.00";" - - - Diğerleri";"    m2";"35"
+"null";"3702.44";" - - Eni 105 mm. yi geçen, fakat 610 mm. yi geçmeyen filmler:";;
+"null";"3702.44.00.10.00";" - - -  Anında develope olarak fotoğraf veren filmler (film kutusu ";;
+"null";;"         içinde olanlar";"    m2";"25"
+"null";"3702.44.00.90.00";" - - - Diğerleri";"    m2";"35"
+"null";;" - Diğer filmler, renkli fotoğraf (polikrom) için:";;
+"null";"3702.52.00.00.00";" - - Eni 16 mm. yi geçmeyen filmler";"-";35
+"null";"3702.53.00.00.00";" - - Eni 16 mm. yi geçen, fakat 35 mm. yi geçmeyen ve uzunluğu";;
+"null";;"     30 m. yi geçmeyen filmler (slaytlar için)";"Adet";35
+"null";"3702.54.00.00.00";" - - Eni 16 mm. yi geçen fakat 35 mm. yi geçmeyen ve uzunluğu";;
+"null";;"     30 m.yi geçmeyen filmler (slaytlar için olanlar hariç)";"Adet";35
+"null";"3702.55.00.00.00";" - - Eni 16 mm. yi geçen fakat 35 mm. yi geçmeyen ve uzunluğu ";;
+"null";;"     30 m.yi geçen filmler";"    m";35
+"null";"3702.56.00.00.00";" - - Eni 35 mm. yi geçen filmler";"-";35
+"null";;" - Diğerleri:";;
+"null";"3702.96";" - - Eni 35 mm. yi geçmeyen ve uzunluğu 30 m.yi geçmeyen filmler:";;
+"null";"3702.96.10.00.00";" - - - Mikro filmler; grafik sanatları için filmler";"-";35
+"null";"3702.96.90.00.00";" - - - Diğerleri";"Adet";35
+"null";"3702.97";" - - Eni 35 mm. yi geçmeyen ve uzunluğu 30 m.yi geçen filmler:";;
+"null";"3702.97.10.00.00";" - - - Mikro filmler; grafik sanatları için filmler";"-";35
+"null";"3702.97.90.00.00";" - - - Diğerleri";"m";35
+"null";"3702.98";" - - Eni 35 mm. yi geçen filmler";;
+"null";"3702.98.00.00.11";" - - - Uzunluğu 30 m. veya daha az olanlar";"-";35
+"null";"3702.98.00.00.12";" - - - Uzunluğu 30 m. den fazla olanlar";"-";35
+"null";;;;
+"null";"37.03";"Fotoğrafçılıkta kullanılan hassas hale getirilmiş boş kağıt, karton";;
+"null";;"ve mensucat:";;
+"null";"3703.10";" - Rulo halinde olup eni 610 mm. yi geçenler";;
+"null";"3703.10.00.00.11";" - - Büro makinalarında kullanılan kağıtlar";"-";25
+"null";"3703.10.00.00.19";" - - Diğerleri";"-";25
+"null";"3703.20.00.00.00";" - Diğerleri (renkli fotoğraf ""polikrom"" için)";"-";25
+"null";"3703.90.00.00.00";" - Diğerleri";"-";25
+"null";;;;
+"null";"3704.00";"Fotoğrafçılıkta kullanılan levha, film, kağıt, karton ve mensucat";;
+"null";;"(dolu, fakat develope edilmemiş):";;
+"null";"3704.00.10.00.00";" - Levhalar ve filmler";"-";35
+"null";"3704.00.90.00.00";" - Diğerleri";"-";35
+"null";;;;
+"null";"3705.00";"Fotoğrafçılıkta kullanılan levha ve filmler (dolu ve develope ";;
+"null";;"edilmiş) (sinemacılıkta kullanılan filmler hariç):";;
+"null";"3705.00.10.00.00";" - Ofset baskı için olanlar";"-";35
+"null";"3705.00.90.00.00";" - Diğerleri";"-";35
+"null";;;;
+"null";"37.06";"Sinemacılıkta kullanılan filmler (dolu ve develope edilmiş) (ses-";;
+"null";;"lendirme iziyle birlikte veya sadece seslendirme izinden meyda-";;
+"null";;"na gelmiş olsun olmasın ) :";;
+"null";"3706.10";" - Eni 35 mm. veya daha fazla olanlar:";;
+"null";;" - - Sadece seslendirme izinden; negatiflerden; ara pozitiflerden ";;
+"null";;"     meydana gelmiş olanlar:";;
+"null";"3706.10.20.10.00";" - - - Siyah-beyaz olanlar";"    m";25
+"null";"3706.10.20.20.00";" - - - Renkli olanlar";"    m";25
+"null";" ";" - - Diğer pozitifter:";;
+"null";"3706.10.99.10.00";" - - - Siyah-beyaz olanlar";"    m";25
+"null";"3706.10.99.20.00";" - - - Renkli olanlar";"    m";25
+"null";"3706.90";" - Diğerleri:";;
+"null";;" - - Sadece seslendirme izinden; negatiflerden; ara pozitiflerden; aktüalite";;
+"null";;"      filmlerinden meydana gelmiş olanlar:";;
+"null";"3706.90.52.10.00";" - - - Siyah-beyaz olanlar";"    m";25
+"null";"3706.90.52.20.00";" - - - Renkli olanlar";"    m";25
+"null";;" - - Diğerleri:";;
+"null";" ";" - - - Eni 10 mm. den az olanlar:";;
+"null";"3706.90.91.10.00";" - - - - Siyah-beyaz olanlar";"    m";25
+"null";"3706.90.91.20.00";" - - - - Renkli olanlar";"    m";25
+"null";" ";" - - - Eni 10 mm. veya daha fazla olanlar:";;
+"null";"3706.90.99.10.00";" - - - - Siyah-beyaz olanlar";"    m";25
+"null";"3706.90.99.20.00";" - - - - Renkli olanlar";"    m";25
+"null";;;;
+"null";"37.07";"Fotoğrafçılıkta kullanılan kimyasal müstahzarlar (vernikler, tutkal-";;
+"null";;"lar, yapıştırıcılar ve benzeri müstahzarlar hariç); fotoğrafçılıkta";;
+"null";;"kullanılmak üzere hazır hale getirilmiş ve karıştırılmamış ürünler ";;
+"null";;"(dozlandırılmış veya kullanıma hazır bir şekilde perakende satıla-";;
+"null";;"cak hale getirilmiş):";;
+"null";"3707.10.00.00.00";" - Yüzeyleri hassas hale getirmeye mahsus emülsiyonlar";"-";25
+"null";"3707.90";" - Diğerleri:";" ";
+"null";"3707.90.20.00.00";" - - Develope ediciler ve sabitleştiriciler";"-";25
+"null";"3707.90.90.00.00";" - -  Diğerleri";"-";25

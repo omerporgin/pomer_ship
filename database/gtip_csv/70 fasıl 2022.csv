@@ -1,0 +1,403 @@
+﻿"null";"7001.00";"Cam kırıkları ve diğer cam döküntü ve artıkları, katot ışınlı tüpler veya ";;
+"null";;"85.49 pozisyonundaki diğer aktive edilmiş cam hariç; külçe cam:";;
+"null";"7001.00.10.00.00";" - Cam kırıkları ve diğer cam döküntü ve artıkları";"-";10
+"null";;" - Külçe cam:";;
+"null";"7001.00.91.00.00";" - - Optik camdan olanlar";"-";15
+"null";;" - - Diğerleri:";;
+"null";"7001.00.99.10.00";" - - - Rubinli cam";"-";25
+"null";"7001.00.99.90.00";" - - - Diğerleri";"-";10
+"null";;;;
+"null";"70.02";"İşlenmemiş cam bilyalar (70.18 pozisyonundaki cam kürecikler ";;
+"null";;" hariç), çubuklar veya borular:";;
+"null";"7002.10.00.00.00";" - Bilyalar";"-";25
+"null";"7002.20";" - Çubuklar:";;
+"null";"7002.20.10.00.00";" - - Optik camdan olanlar";"-";15
+"null";"7002.20.90.00.00";" - - Diğerleri";"-";25
+"null";;" - Borular:";;
+"null";"7002.31.00.00.00";" - - Eritilmiş kuvartz veya diğer eritilmiş silisten";"-";25
+"null";"7002.32.00.00.00";" - - 0 oC ile 300 oC'Ier arasındaki ısıda doğrusal genleşme katsayısı 5x10- 6/";;
+"null";;"     Kelvin'i geçmeyen (ısıya dayanıklı) diğer camlardan";"-";25
+"null";"7002.39.00.00.00";" - - Diğerleri";"-";25
+"null";;;;
+"null";"70.03";"Dökme cam ve haddeden geçirilmiş cam (plaka veya";;
+"null";;"profil halinde) absorblayıcı (emici) veya yansıtıcı ya da yansıtıcı olmayan ";;
+"null";;"bir tabakası olsun olmasın,fakat başka şekilde işlenmemiş) :";;
+"null";;" - Tel ile takviye edilmemiş plakalar :";;
+"null";"7003.12";" - - Kütle halinde renklendirilmiş, opaklaştırılmış, parlatılmış";;
+"null";;"    veya absorplayıcı (emici) veya yansıtıcı  ya da yansıtıcı olmayan ";;
+"null";;"     bir tabakası olanlar:";;
+"null";"7003.12.10.00.00";" - - - Optik camdan olanlar";"m2";15
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Yansıtıcı olmayan bir tabakası olanlar";;
+"null";"7003.12.91.10.00";" - - - - - Buzlu,renkli,dalgalı ve çizgili camlar";"m2";100
+"null";"7003.12.91.90.00";" - - - - - Diğerleri";"m2";40
+"null";;" - - - - Diğerleri";;
+"null";"7003.12.99.10.00";" - - - - - Buzlu,renkli,dalgalı ve çizgili camlar";"m2";100
+"null";"7003.12.99.90.00";" - - - - - Diğerleri";"m2";40
+"null";"7003.19";" - - Diğerleri:";;
+"null";"7003.19.10.00.00";" - - - Optik camdan olanlar";"m2";15
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Buzlu,renkli,dalgalı ve çizgili camlar";;
+"null";"7003.19.90.10.11";" - - - - - Buzlu renkli cam";"m2";100
+"null";"7003.19.90.10.12";" - - - - - Buzlu renksiz cam";"m2";100
+"null";"7003.19.90.10.19";" - - - - - Diğerleri";"m2";100
+"null";"7003.19.90.90.00";" - - - - Diğerleri";"m2";40
+"null";"7003.20";" - Tel ile takviye edilmiş plakalar:";;
+"null";"7003.20.00.10.00";" - - Kütle halinde renklendirilmiş, opaklaştırılmış, parlatılmış";;
+"null";;"      veya absorplayıcı (emici) veya yansıtıcı bir tabakası olanlar";"m2";40
+"null";"7003.20.00.90.00";" - - Diğerleri";"m2";40
+"null";"7003.30.00.00.00";" - Profiller";"-";100
+"null";;;;
+"null";"70.04";"Çekme ve üfleme cam (plaka halinde),absorblayıcı(emici) veya yansıtıcı ";;
+"null";;"ya da yansıtıcı olmayan bir tabakası olsun olmasın, fakat başka şekilde";;
+"null";;"işlenmemiş):";;
+"null";"7004.20";" - Kütle halinde renklendirilmiş, opaklaştırılmış veya parlatılmış veya";;
+"null";;"   absorplayıcı (emici) veya yansıtıcı ya da yansıtıcı olmayan bir";;
+"null";;"   'tabakası olanlar:";;
+"null";"7004.20.10.00.00";" - - Optik camdan olanlar";"m2";15
+"null";;" - - Diğerleri:";;
+"null";"7004.20.91.00.00";" - - - Yansıtıcı olmayan bir tabakası olanlar";"m2";100
+"null";;" - - - Diğerleri:";;
+"null";"7004.20.99.10.00";" - - - - Antik cam";"m2";100
+"null";;" - - - - Diğerleri";;
+"null";"7004.20.99.90.11";" - - - - - Kalınlığı 2,5 mm.yi geçmeyenler";"m2";50
+"null";"7004.20.99.90.12";" - - - - - Kalınlığı 2,5 mm.yi geçen fakat 3,5 mm.yi geçmeyenler";"m2";50
+"null";"7004.20.99.90.13";" - - - - - Kalınlığı 3,5 mm.yi geçen fakat 4,5 mm.yi geçmeyenler";"m2";50
+"null";"7004.20.99.90.14";" - - - - - Kalınlığı 4,5 mm.yi geçenler";"m2";50
+"null";"7004.90";" - Diğer camlar:";;
+"null";"7004.90.10.00.00";" - - Optik camdan olanlar";"m2";15
+"null";;" - - Diğerleri:";;
+"null";"7004.90.80.10.00";" - - - Antik cam";"m2";100
+"null";"7004.90.80.90.00";" - - - Diğerleri";"m2";50
+"null";;;;
+"null";"70.05";"Float cam ve yüzeyi taşlanmış veya parlatılmış cam (plakalar";;
+"null";;"halinde) absorblayıcı (emici) veya yansıtıcı ya da yansıtıcı olmayan bir ";;
+"null";;"tabakası 'olsun olmasın, fakat başka şekilde işlenmemiş:";;
+"null";"7005.10";" - Tel ile takviye edilmemiş cam absorplayıcı (emici) veya yansıtıcı ya ";;
+"null";;"   da yansıtcı olmayan bir tabakası olanlar:";;
+"null";"7005.10.05.00.00";" - - Yansıtıcı olmayan bir tabakası olanlar";"m2";75
+"null";;" - - Diğerleri:";;
+"null";"7005.10.25.00.00";" - - - Kalınlığı 3,5 mm. yi geçmeyenler";"m2";75
+"null";"7005.10.30.00.00";" - - - Kalınlığı 3,5 mm. yi geçen fakat 4,5 mm. yi geçmeyenler";"m2";75
+"null";"7005.10.80.00.00";" - - -  Kalınlığı 4,5 mm. yi geçenler";"m2";75
+"null";;" - Tel ile takviye edilmemiş diğer camlar:";;
+"null";"7005.21";" - - Kütle halinde renklendirilmiş, opaklaştırılmış";;
+"null";;"     parlatılmış veya sadece taşlanmış:";;
+"null";"7005.21.25.00.00";" - - - Kalınlığı 3,5 mm. yi geçmeyenler";"m2";75
+"null";"7005.21.30.00.00";" - - - Kalınlığı 3,5 mm. yi geçen fakat 4,5 mm. yi geçmeyenler";"m2";75
+"null";"7005.21.80.00.00";" - - -  Kalınlığı 4,5 mm. yi geçenler";"m2";75
+"null";"7005.29";" - - Diğerleri:";;
+"null";"7005.29.25.00.00";" - - - Kalınlığı 3,5 mm. yi geçmeyenler";"m2";75
+"null";"7005.29.35.00.00";" - - - Kalınlığı 3,5 mm. yi geçen fakat 4,5 mm. yi geçmeyenler";"m2";75
+"null";"7005.29.80.00.00";" - - -  Kalınlığı 4,5 mm. yi geçenler";"m2";75
+"null";"7005.30.00.00.00";" - Tel ile takviye edilmiş  cam";"m2";75
+"null";;;;
+"null";"7006.00";"70.03, 70.04 veya 70.05 Pozisyonlarındaki camların bombelendirilmiş, ";;
+"null";;"kenar işlemeli, aşındırılmış, delinmiş, emaye baskı uygulanmış";;
+"null";;"veya başka şekilde işlenmiş, fakat diğer malzemelerle çerçevelen-";;
+"null";;"memiş veya donatılmamış olanlar:";;
+"null";"7006.00.10.00.00";" - Optik camdan";"-";15
+"null";;" - Diğerleri";" ";
+"null";"7006.00.90.00.11";" - - Şekilleri ne olursa olsun, kenarları işlenmiş camlar";"-";100
+"null";"7006.00.90.00.12";" - - Her türlü sable cam (kum püskürtülmüş) ";"-";100
+"null";"7006.00.90.00.19";" - - Diğerleri";"-";100
+"null";;;;
+"null";"70.07";"Emniyet camları [sertleştirilmiş (temperlenmiş) veya lamine ";;
+"null";;"edilmiş camlardan]:";;
+"null";;" - Sertleştirilmiş emniyet camları:";;
+"null";"7007.11";" - - Kara, hava ve uzay araçlarında veya deniz araçlarında kulla-";;
+"null";;"     nılmak üzere uygun ebat ve şekilde olanlar:";;
+"null";;" - - - Motorlu araçlarda kullanılmaya uygun ebat ve şekillerde olanlar";;
+"null";"7007.11.10.00.11";" - - - - Kütle halinde renklendirilmiş veya emici veya yansıtıcı tabakası olan düz";;
+"null";;"          emniyet camları";"-";50
+"null";"7007.11.10.00.12";" - - - - Kütle halinde renklendirilmiş veya emici veya yansıtıcı tabakası olan ";;
+"null";;"          bombeli emniyet camları";"-";50
+"null";"7007.11.10.00.19";" - - - - Diğer düz emniyet camları";"-";50
+"null";"7007.11.10.00.29";" - - - - Diğer bombeli emniyet camları";"-";50
+"null";;" - - - Diğerleri";;
+"null";"7007.11.90.00.11";" - - - - Kütle halinde renklendirilmiş veya emici veya yansıtıcı tabakası olan düz";;
+"null";;"          emniyet camları";"-";50
+"null";"7007.11.90.00.12";" - - - - Kütle halinde renklendirilmiş veya emici veya yansıtıcı tabakası olan ";;
+"null";;"          bombeli emniyet camları";"-";50
+"null";"7007.11.90.00.19";" - - - - Diğer düz emniyet camları";"-";50
+"null";"7007.11.90.00.29";" - - - - Diğer bombeli emniyet camları";"-";50
+"null";"7007.19";" - - Diğerleri:";;
+"null";;" - - - Emaye olanlar";;
+"null";"7007.19.10.00.11";" - - - - Düz camlar";"m2";50
+"null";"7007.19.10.00.12";" - - - - Bombeli camlar";"m2";50
+"null";;" - - - Kütle halinde renklendirilmiş, opaklaştırılmış, parlatılmış veya emici ";;
+"null";;"       veya yansıtıcı tabakası olanlar";;
+"null";"7007.19.20.00.11";" - - - - Düz camlar";"m2";50
+"null";"7007.19.20.00.12";" - - - - Bombeli camlar";"m2";50
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Düz camlar";;
+"null";"7007.19.80.00.13";" - - - - - 85.28 tarife pozisyonunda yer alan akıllı tahtalarda kullanılan tipte";;
+"null";;"           yansımasız (anti-glare) ve optik özellikli olanlar ";"m2";50
+"null";"7007.19.80.00.14";" - - - - - 84.71, 85.17 ve 85.28 tarife pozisyonlarında yer alan eşyalarda ";;
+"null";;"            kullanılan türde ekran koruma camları";"m2";50
+"null";"7007.19.80.00.15";" - - - - - Diğerleri";"m2";50
+"null";"7007.19.80.00.16";" - - - - Bombeli camlar";"m2";50
+"null";;" - Lamine edilmiş emniyet camları:";;
+"null";"7007.21";" - - Kara, hava ve uzay araçlarında veya deniz araçlarında kulla-";;
+"null";;"     nılmak üzere uygun ebat ve şekillerde olanlar:";;
+"null";;" - - - Motorlu kara taşıtlarında kullanılmaya uygun ebat ve şekillerde olanlar:";;
+"null";;" - - - - Düz camlar:";;
+"null";"7007.21.20.00.21";" - - - - - Kurşuna dayanıklı olanlar";"-";50
+"null";"7007.21.20.00.29";" - - - - - Diğerleri";"-";50
+"null";;" - - - - Bombeli camlar:";;
+"null";"7007.21.20.00.31";" - - - - - Kurşuna dayanıklı olanlar";"-";50
+"null";"7007.21.20.00.39";" - - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri:";" ";
+"null";;" - - - - Düz camlar:";;
+"null";"7007.21.80.00.21";" - - - - - Kurşuna dayanıklı olanlar";"-";50
+"null";"7007.21.80.00.29";" - - - - - Diğerleri";"-";50
+"null";;" - - - - Bombeli camlar:";;
+"null";"7007.21.80.00.31";" - - - - - Kurşuna dayanıklı olanlar";"-";50
+"null";"7007.21.80.00.39";" - - - - - Diğerleri";"-";50
+"null";"7007.29";" - - Diğerleri";;
+"null";"7007.29.00.00.11";" - - - Kurşuna dayanıklı düz emniyet camları";"m2";50
+"null";"7007.29.00.00.12";" - - - Kurşuna dayanıklı bombeli emniyet camları";"m2";50
+"null";"7007.29.00.00.13";" - - - Rezistanslı veya iletken düz emniyet camları";"m2";50
+"null";"7007.29.00.00.14";" - - - Rezistanslı veya iletken bombeli emniyet camları";"m2";50
+"null";"7007.29.00.00.19";" - - - Diğer düz emniyet camları";"m2";50
+"null";"7007.29.00.00.29";" - - - Diğer bombeli emniyet camları";"m2";50
+"null";;;;
+"null";"7008.00";"Çok katlı yalıtım camları:";;
+"null";"7008.00.20.00.00";" - Kütle halinde renklendirilmiş; opaklaştırılmış, parlatılmış veya";;
+"null";;"   emici veya yansıtıcı tabakası olanlar";"m2";100
+"null";;" - Diğerleri:";;
+"null";"7008.00.81.00.00";" - - İki camı levhadan müteşekkil olup, birbirinden bir hava tabakası veya";;
+"null";;"     diğer gazlardan bir tabaka veya vakumla ayrılmış ve etrafı hava";;
+"null";;"     geçirmeyecek şekilde kapatılmış olanlar";"m2";100
+"null";"7008.00.89.00.00";" - - Diğerleri";"m2";100
+"null";;;;
+"null";"70.09";"Cam aynalar (çerçeveli olsun olmasın) (dikiz aynaları dahil):";;
+"null";"7009.10";" - Taşıtlar için dikiz aynaları:";;
+"null";"7009.10.00.10.00";" - - Sadece kesilmiş olanlar";"Adet";75
+"null";"7009.10.00.90.00";" - - Diğerleri";"Adet";100
+"null";;" - Diğerleri:";;
+"null";"7009.91";" - - Çerçevesiz:";;
+"null";"7009.91.00.10.00";" - - - Sadece kesilmiş olanlar";"-";75
+"null";"7009.91.00.90.00";" - - - Diğerleri";"-";100
+"null";"7009.92.00.00.00";" - - Çerçeveli";"-";100
+"null";;;;
+"null";;;;
+"null";"70.10";"Cam damacana, kavanoz, şişe, küçük şişe, çanak, tüp, serum";;
+"null";;"ampulleri ve diğer kaplar (eşyanın nakli ve ambalajında kullanıl-";;
+"null";;"maya elverişli cinsten); camdan konserve kavanozları; camdan";;
+"null";;"tıpa,kapak ve benzerleri:";;
+"null";"7010.10.00.00.00";"- Serum ampulleri";"Adet";50
+"null";"7010.20.00.00.00";" - Camdan tıpa,kapak ve benzeri kapama tertibatı ";"-";75
+"null";"7010.90";" - Diğerleri:";;
+"null";"7010.90.10.00.00";" - - Konserve kavanozları (sterilizasyon kavanozları)";"Adet";100
+"null";;" - - Diğerleri:";;
+"null";;" - - - Boru şeklinde camdan yapılmış olanlar :";;
+"null";"7010.90.21.00.11";" - - - - Eczacılıkta kullanılanlar";"Adet";75
+"null";"7010.90.21.00.19";" - - - - Diğerleri";"Adet";75
+"null";;" - - - Diğerleri:";;
+"null";"7010.90.31.00.00";" - - - - Hacmi 2,5 litre veya daha fazla olanlar";"Adet";100
+"null";;" - - - - Hacmi 2,5 litreden az olanlar :";;
+"null";;" - - - - - Yiyecek ve içecekler için olanlar:";;
+"null";;" - - - - - - Şişeler :";;
+"null";;" - - - - - - - Renksiz camdan:";;
+"null";"7010.90.41.00.00";" - - - - - - - - Hacmi 1 litre veya daha fazla olanlar";"Adet";75
+"null";"7010.90.43.00.00";" - - - - - - - - Hacmi 0,33 litreden fazla fakat 1 litreden az olanlar ";"Adet";75
+"null";"7010.90.45.00.00";" - - - - - - - - Hacmi 0,15 litre veya daha fazla, fakat 0,33 litreyi geçmeyenler";"Adet";75
+"null";"7010.90.47.00.00";" - - - - - - - - Hacmi 0,15 litreden az olanlar ";"Adet";75
+"null";;" - - - - - - - Renkli camdan:";;
+"null";"7010.90.51.00.00";" - - - - - - - - Hacmi 1 litre veya daha fazla olanlar";"Adet";75
+"null";"7010.90.53.00.00";" - - - - - - - - Hacmi 0,33 litreden fazla fakat 1 litreden az olanlar ";"Adet";75
+"null";"7010.90.55.00.00";" - - - - - - - - Hacmi 0,15 litre veya daha fazla, fakat 0,33 litreyi geçmeyenler";"Adet";75
+"null";"7010.90.57.00.00";" - - - - - - - - Hacmi 0,15 litreden az olanlar ";"Adet";75
+"null";;" - - - - - - Diğerleri:";;
+"null";"7010.90.61.00.00";" - - - - - - - Hacmi 0,25 litre veya daha fazla olanlar";"Adet";75
+"null";"7010.90.67.00.00";" - - - - - - - Hacmi 0,25 litreden az olanlar ";"Adet";75
+"null";;" - - - - - Eczacılık ürünleri için olanlar:";;
+"null";"7010.90.71.00.00";" - - - - - - Hacmi 0,055 litreyi geçenler ";"Adet";75
+"null";"7010.90.79.00.00";" - - - - - - Hacmi 0,055 litreyi geçmeyenler ";"Adet";75
+"null";;" - - - - - Diğer ürünler için olanlar:";;
+"null";;" - - - - - - Renksiz camdan";;
+"null";"7010.90.91.00.11";" - - - - - - - Hacmi 0,20 litreyi geçmeyenler";"Adet";75
+"null";"7010.90.91.00.12";" - - - - - - - Hacmi 0,20 litreyi geçenler";"Adet";75
+"null";;" - - - - - - Renkli camdan";;
+"null";"7010.90.99.00.11";" - - - - - - - Hacmi 0,20 litreyi geçmeyenler";"Adet";75
+"null";"7010.90.99.00.12";" - - - - - - - Hacmi 0,20 litreyi geçenler";"Adet";75
+"null";;;;
+"null";;;;
+"null";"70.11";"Açık cam zarflar (ampuller ve tüpler dahil) ve bunların camdan";;
+"null";;"parçaları(donanımsız) (elektrik lambaları, ışık kaynakları, katod ışın ";;
+"null";;"tüpleri ve benzerleri için):";;
+"null";"7011.10.00.00.00";" - Elektrikli aydınlatma için";"-";50
+"null";"7011.20";" - Katod ışın tüpleri için";" ";
+"null";"7011.20.00.00.11";" - - Yapıştırılmamış tüp camı parçaları (ekran, huni, boyun)";"-";50
+"null";"7011.20.00.00.12";" - - Siyah beyaz yapıştırılmış (kaynaklanmış) tüp camı";"-";50
+"null";"7011.20.00.00.13";" - - Renkli yapıştırılmış (kaynaklanmış) tüp camı";"-";50
+"null";"7011.90.00.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"[70.12]";;;
+"null";;;;
+"null";"70.13";"Sofra, mutfak, tuvalet, yazıhane, ev tezyinatı ve benzeri işler ";;
+"null";;" için cam eşya (70.10 ve 70.18 pozisyonundakiler hariç):";;
+"null";"7013.10";" - Cam seramiğinden olanlar:";;
+"null";"7013.10.00.10.00";" - - Sofra ve mutfak işleri için olanlar";"Adet";100
+"null";"7013.10.00.90.00";" - - Diğerleri";"Adet";100
+"null";;" -Ayaklı bardak (cam seramiğinden olanlar hariç):";;
+"null";"7013.22";" - - Kurşun kristalden:";;
+"null";"7013.22.10.00.00";" - - - El imali olanlar";"Adet";100
+"null";"7013.22.90.00.00";" - - - Makina imali olanlar";"Adet";100
+"null";"7013.28";" - - Diğerleri:";;
+"null";"7013.28.10.00.00";" - - - El imali olanlar";"Adet";100
+"null";"7013.28.90.00.00";" - - - Makina imali olanlar";"Adet";100
+"null";;" - Diğer bardaklar (cam seramiğinden olanlar hariç):";;
+"null";"7013.33";" - - Kurşun kristalden:";;
+"null";;" - - - El imali olanlar:";;
+"null";"7013.33.11.00.00";" - - - - Kesilmiş veya başka şekilde dekorlanmış";"Adet";100
+"null";"7013.33.19.00.00";" - - - - Diğerleri";"Adet";100
+"null";;" - - - Makina imali olanlar:";;
+"null";"7013.33.91.00.00";" - - - - Kesilmiş veya başka şekilde dekorlanmış";"Adet";100
+"null";"7013.33.99.00.00";" - - - - Diğerleri";"Adet";100
+"null";"7013.37";" - - Diğerleri:";;
+"null";"7013.37.10.00.00";" - - - Sertleştirilmiş camdan olanlar";"Adet";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - El imali olanlar:";;
+"null";"7013.37.51.00.00";" - - - - - Kesilmiş veya başka şekilde dekorlanmış";"Adet";100
+"null";"7013.37.59.00.00";" - - - - - Diğerleri";"Adet";100
+"null";;" - - - - Makina imali olanlar:";;
+"null";"7013.37.91.00.00";" - - - - - Kesilmiş veya başka şekilde dekorlanmış";"Adet";100
+"null";"7013.37.99.00.00";" - - - - - Diğerleri";"Adet";100
+"null";;" - Sofra veya mutfak işlerinde kullanılan cam eşya (bardaklar hariç)";;
+"null";;"   (cam seramiğinden olanlar hariç):";;
+"null";"7013.41";" - - Kurşun kristalden olanlar:";;
+"null";"7013.41.10.00.00";" - - - EI imali olanlar";"Adet";100
+"null";"7013.41.90.00.00";" - - - Makina imali olanlar";"Adet";100
+"null";"7013.42.00.00.00";" - - 00 C ile 300 0C'ler arasındaki ısıda doğrusal genleşme katsayısı ";;
+"null";;"     5x10-6/Kelvini geçmeyen (ısıya dayanıklı) camdan olanlar";"Adet";100
+"null";"7013.49";" - - Diğerleri:";;
+"null";"7013.49.10.00.00";" - - - Sertleştirilmiş camdan olanlar";"Adet";100
+"null";;" - - - Diğerleri:";;
+"null";"7013.49.91.00.00";" - - - - EI imali olanlar";"Adet";100
+"null";"7013.49.99.00.00";" - - - - Makina imali olanlar";"Adet";100
+"null";;" - Diğer cam eşya:";;
+"null";"7013.91";" - - Kurşun kristalden:";;
+"null";"7013.91.10.00.00";" - - - El imali olanlar";"Adet";100
+"null";"7013.91.90.00.00";" - - - Makina imali olanlar";"Adet";100
+"null";"7013.99.00.00.00";" - - Diğerleri";"Adet";100
+"null";;;;
+"null";"7014.00";"Sinyalizasyon camları ve camdan optik elemanlar(70.15 pozisyo-";;
+"null";;"nundakiler hariç) (optik tarzda işlenmemiş):";;
+"null";;" - Optik camdan olanlar";;
+"null";"7014.00.00.10.11";" - - Motorlu kara nakil vasıtaları için far ve stop camları";"-";15
+"null";"7014.00.00.10.19";" - - Diğer far ve stop camları";"-";15
+"null";"7014.00.00.10.29";" - - Diğerleri";"-";15
+"null";;" - Diğerleri";" ";
+"null";"7014.00.00.90.11";" - - Motorlu kara nakil vasıtaları için far ve stop camları";"-";75
+"null";"7014.00.00.90.19";" - - Diğer far ve stop camları";"-";75
+"null";"7014.00.00.90.29";" - - Diğerleri";"-";75
+"null";;;;
+"null";"70.15";"Saat camları ve benzeri camlar, numaralı veya numarasız gözlük";;
+"null";;"camları (bombeli, kavisli, içi oyuk ve benzeri şekillerde) (optik";;
+"null";;"tarzda işlenmemiş); bu camların imalinde kullanılan içi boş cam";;
+"null";;"küreler ve segmanlar:";;
+"null";"7015.10.00.00.00";" - Numaralı gözlük camları";"-";15
+"null";"7015.90";" - Diğerleri:";;
+"null";;" - - Numarasız gözlük camları";;
+"null";"7015.90.00.10.11";" - - - Güneş gözlüğü camları";"-";60
+"null";"7015.90.00.10.12";" - - - Oksijen ve elektrik kaynağında kullanılan gözlük ve maske camları";"-";60
+"null";"7015.90.00.20.00";" - - Saat camları";"-";60
+"null";;" - - Diğerleri";" ";
+"null";"7015.90.00.90.11";" - - - Sigorta, buşon kapaklarında kullanılan özel camlar";"-";60
+"null";"7015.90.00.90.19";" - - - Diğerleri";"-";60
+"null";;;" ";
+"null";"70.16";"Bina veya inşaat için dökme veya kalıp camdan kaldırım blokları,";;
+"null";;"tuğlalar,karolar, kiremitler ve diğer eşya [takviye edilmiş (telli) ";;
+"null";;"olsun olmasın];mozaik ve benzeri tezyinat için cam küpler ve ";;
+"null";;"diğer küçük cam eşya (mesnedi olsun olmasın); vitray halinde";;
+"null";;"birleştirilmiş camlar; çok hücreli cam (cam köpüğü) (blok,";;
+"null";;"pano, levha ve benzeri şekillerde):";;
+"null";"7016.10.00.00.00";" - Mozaik veya benzeri tezyinat için cam küpler ve diğer küçük";;
+"null";;"   cam eşya (mesnedi olsun olmasın)";"-";150
+"null";"7016.90";" - Diğerleri:";;
+"null";;" - - Vitray halinde birleştirilmiş camlar";;
+"null";"7016.90.10.00.11";" - - - Kurşunla tutturulmuş cam";"m2";100
+"null";"7016.90.10.00.19";" - - - Diğerleri";"m2";100
+"null";"7016.90.40.00.00";" - - Bina veya inşaat için bloklar ve tuğlalar";"-";50
+"null";"7016.90.70.00.00";" - - Diğerleri";"-";50
+"null";"70.17";"Camdan laboratuvar ve eczane eşyası ile sağlığı koruyucu eşya";;
+"null";;" (taksimatlı veya ölçülü olsun olmasın):";;
+"null";"7017.10";" - Eritilmiş kuvars veya eritilmiş silisten olanlar";;
+"null";"7017.10.00.00.11";" - - Laboratuvar eşyası";"-";40
+"null";"7017.10.00.00.19";" - - Diğerleri";"-";40
+"null";"7017.20";" - 0 oC ile 300 oC'Ier arasındaki ısıda doğrusal genleşme katsayısı 5x10- 6/";;
+"null";;"   Kelvin'i geçmeyen (ısıya dayanıklı) diğer camdan olanlar";;
+"null";"7017.20.00.00.11";" - - Laboratuvar eşyası";"-";40
+"null";"7017.20.00.00.19";" - - Diğerleri";"-";40
+"null";"7017.90.00.00.00";" - Diğerleri";"-";40
+"null";;;;
+"null";"70.18";"Cam boncuklar, taklit inciler, kıymetli veya yarı kıymetli taş";;
+"null";;"taklitleri ve camdan benzeri boncuk türü eşya ve bunlardan eşya ";;
+"null";;"(taklit mücevherci eşyası hariç); camdan gözler (protez olanlar";;
+"null";;"hariç); şalümo ile işlenmek suretiyle yapılan camdan heykelcikler";;
+"null";;"veya diğer süsler (taklit mücevherci eşyası hariç); çapı 1 mm. den";;
+"null";;"az olan cam kürecikler:";;
+"null";"7018.10";" - Cam boncuklar, taklit inciler, kıymetli veya yarı kıymetli taş ";;
+"null";;"    taklitleri ve camdan benzeri boncuk türü eşya:";;
+"null";;" - - Camdan boncuklar:";;
+"null";"7018.10.11.00.00";" - - - Kesilmiş ve makina ile cilalanmış";"-";150
+"null";"7018.10.19.00.00";" - - - Diğerleri";"-";150
+"null";"7018.10.30.00.00";" - - Taklit inciler";"-";150
+"null";;" - - Kıymetli veya yarı kıymetli taş taklitleri:";;
+"null";"7018.10.51.00.00";" - - - Kesilmiş ve makina ile cilalanmış";"-";150
+"null";"7018.10.59.00.00";" - - - Diğerleri";"-";150
+"null";"7018.10.90.00.00";" - - Diğerleri";"-";150
+"null";"7018.20.00.00.00";" - Çapı 1 mm. den az olan cam kürecikler";"-";150
+"null";"7018.90";" - Diğerleri:";;
+"null";;" - - Camdan gözler; camdan eşya";;
+"null";"7018.90.10.00.11";" - - - Camdan gözler";"-";150
+"null";"7018.90.10.00.12";" - - - Camdan eşya";"-";150
+"null";"7018.90.90.00.00";" - - Diğerleri";"-";150
+"null";;;;
+"null";"70.19";"Cam lifleri (cam yünü dahil) ve bunlardan eşya (iplik, fitil, dokunmuş ";;
+"null";;"mensucat gibi):";;
+"null";;" - Şeritler, fitiller, iplikler, kırpılmış iplikler ve bunlardan takviye tabakaları:";;
+"null";"7019.11.00.00.00";" - - Cam liflerinden uzunluğu 50 mm.yi geçmeyen kırpılmış iplikler";"-";50
+"null";"7019.12.00.00.00";" - - Fitiller";"-";50
+"null";"7019.13.00.00.00";" - - Diğer iplikler, şeritler";"-";50
+"null";"7019.14.00.00.00";" - - Mekanik olarak bağlanmış takviye tabakaları";"-";50
+"null";"7019.15.00.00.00";" - - Kimyasal olarak bağlanmış takviye tabakaları";"-";50
+"null";"7019.19.00.00.00";" - - Diğerleri";"-";50
+"null";;" - Mekanik olarak bağlanmış mensucat:";;
+"null";"7019.61.00.00.00";" - - Fitillerden kapalı dokuma mensucat";"-";50
+"null";"7019.62.00.00.00";" - - Fitillerden kapalı diğer mensucat";"-";50
+"null";"7019.63.00.00.00";" - - İpliklerden kapalı dokuma mensucat, düz dokumalar (kaplanmamış";;
+"null";;"     veya lamine edilmemiş) ";"-";50
+"null";"7019.64.00.00.00";" - - İpliklerden kapalı dokuma mensucat, düz dokumalar (kaplanmış";;
+"null";;"     veya lamine edilmiş) ";"-";50
+"null";"7019.65.00.00.00";" - - Genişliği 30 cm'yi geçmeyen açık dokuma mensucat";"-";50
+"null";"7019.66.00.00.00";" - - Genişliği 30 cm'yi geçen açık dokuma mensucat ";"-";50
+"null";"7019.69";" - - Diğerleri:";;
+"null";"7019.69.10.00.00";" - - - Dikişli kumaşlar ve iğneli kumaşlar ";"-";50
+"null";"7019.69.90.00.00";" - - - Diğerleri";"-";50
+"null";;" - Kimyasal olarak bağlanmış mensucat:";;
+"null";"7019.71.00.00.00";" - - Cam tülü";"-";50
+"null";"7019.72.00.00.00";" - - Diğer kapalı mensucat";"-";50
+"null";"7019.73.00.00.00";" - - Diğer açık mensucat";"-";50
+"null";"7019.80";" - Cam yünü ve cam yününden eşya";;
+"null";"7019.80.10.00.00";" - - Pano, şilte ve benzeri eşya";"-";50
+"null";"7019.80.90.00.00";" - - Diğerleri";"-";50
+"null";"7019.90";" - Diğerleri:";;
+"null";"7019.90.00.10.00";" - - Dokumaya elverişli liflerden";"-";100
+"null";"7019.90.00.30.00";" - - Cam liflerden keçe";"-";60
+"null";"7019.90.00.90.00";" - - Diğerleri";"-";100
+"null";;;;
+"null";"7020.00";"Camdan  diğer eşya:";;
+"null";"7020.00.05.00.00";" - Yarı iletken  disklerin üretimine mahsus difüzyon ve ";;
+"null";;"    oksidasyon ocaklarına  konulmak için   hazırlanmış";;
+"null";;"    kuvars reaktör tüpleri ve tutucuları";"-";100
+"null";;"- İzole edici kaplar ve diğer vakumlu kaplar için camdan iç gövdeler:";;
+"null";"7020.00.07.00.00";" - - Tamamlanmamış";"-";10
+"null";"7020.00.08.00.00";" - - Tamamlanmış";"-";10
+"null";;" - Diğerleri :";;
+"null";"7020.00.10.00.00";" - - Eritilmiş kuvars veya diğer eritilmiş silisten olanlar";"-";50
+"null";"7020.00.30.00.00 ";" - - 0 oC ile 300 oC'Ier arasındaki ısıda genleşme katsayısı 5x10- 6/ Kelvin'i";;
+"null";;"      geçmeyen  (ısıya dayanıklı) camdan olanlar";"-";50
+"null";"7020.00.80.00.00 ";" - - Diğerleri";"-";100

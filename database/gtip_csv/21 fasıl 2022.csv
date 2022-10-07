@@ -1,0 +1,142 @@
+﻿"null";"21.01";"Kahve, çay veya Paraguay çayı hülasası, esans ve konsantreleri ";;
+"null";;"ve esası bu ürünler veya kahve, çay, Paraguay çayı olan ";;
+"null";;"müstahzarlar;kavrulmuş hindiba ve kavrulmuş kahve yerine";;
+"null";;"kullanılan diğer maddeler ve bunların hülasa, esans ve ";;
+"null";;"konsantreleri:";;
+"null";;" - Kahve hülasası, esans ve konsantreleri ve esası bu hülasa,";;
+"null";;"   esans ve konsantreler veya kahve olan müstahzarlar:";;
+"null";"2101.11";" - - Hülasa, esans ve konsantreler:";;
+"null";"2101.11.00.10.00";" - - - Toz halinde";"-";75
+"null";"2101.11.00.90.00";" - - - Diğerleri ";"-";100
+"null";"2101.12";" - - Esası hülasa, esans ve konsantre veya kahve olan müstah-";;
+"null";;"     zarlar :";;
+"null";;" - - - Esası kahve hülasası, esansı ve konsantresi olan müstahzarlar :";;
+"null";"2101.12.92.10.00";" - - - - Katı süt yağı, süt proteinleri, sakkaroz, izoglikoz, nişasta veya";;
+"null";;"          glikoz içermeyen veya % 1,5'dan az katı süt yağı, % 2,5'dan az süt ";;
+"null";;"          proteinleri, % 5'dan az sakkaroz veya izoglikoz, % 5'dan az nişasta ";;
+"null";;"          veya glikoz içerenler";"-";75
+"null";"2101.12.92.90.00";" - - - - Diğerleri ";"-";100
+"null";;" - - - Diğerleri :";;
+"null";"2101.12.98.10.00";" - - - - Katı süt yağı, süt proteinleri, sakkaroz, izoglikoz, nişasta veya";;
+"null";;"          glikoz içermeyen veya % 1,5'dan az katı süt yağı, % 2,5'dan az süt ";;
+"null";;"          proteinleri, % 5'dan az sakkaroz veya izoglikoz, %5'dan az nişasta ";;
+"null";;"          veya glikoz içerenler";"-";75
+"null";"2101.12.98.90.00";" - - - - Diğerleri ";"-";100
+"null";"2101.20";" - Çay ve Paraguay çayı hülasası, esans ve konsantreleri ve ";;
+"null";;"    esası bu hülasa, esans veya konsantreler veya çay veya ";;
+"null";;"    Paraguay  çayı olan müstahzarlar :";;
+"null";;" - - Hülasa, esans ve konsantreler";;"  "
+"null";"2101.20.20.00.11";" - - - Çay hülasası";"-";100
+"null";"2101.20.20.00.19";" - - - Diğerleri";"-";100
+"null";;" - - Müstahzarlar:";;
+"null";"2101.20.92.00.00";" - - - Esası çay ve maté  hülasası, esansı ve konsantresi olanlar";"-";100
+"null";"2101.20.98.00.00";" - - - Diğerleri";"-";100
+"null";"2101.30";" - Kavrulmuş hindiba ve kavrulmuş kahve yerine kullanılan";;
+"null";;"   diğer maddeler ve bunların hülasa, esans ve konsantreleri:";;
+"null";;" - - Kavrulmuş hindiba ve kavrulmuş kahve yerine kullanılan diğer ";;
+"null";;"      maddeler :";;
+"null";"2101.30.11.00.00";" - - - Kavrulmuş hindiba";"-";100
+"null";"2101.30.19.00.00";" - - - Diğerleri";"-";100
+"null";;" - - Kavrulmuş hindiba ve kavrulmuş kahve yerine kullanılan ";;
+"null";;"      maddelerin hülasa,esans ve konsantreleri:";;
+"null";"2101.30.91.00.00";" - - - Kavrulmuş hindibadan elde edilenler";"-";100
+"null";"2101.30.99.00.00";" - - - Diğerleri";"-";100
+"null";;;;
+"null";;;;
+"null";"21.02";"Mayalar (canlı veya cansız); cansız diğer tek hücreli mikro -";;
+"null";;"organizmalar (30.02 pozisyonunda yer alan aşılar hariç); ";;
+"null";;"hazırlanmış kabartma tozları:";;
+"null";"2102.10";" - Canlı mayalar:";;
+"null";"2102.10.10.00.00";" - - Kültür mayaları";"-";25
+"null";;" - - Ekmekçi mayası:";;
+"null";"2102.10.31.00.00";" - - - Kuru maya";"-";35
+"null";"2102.10.39.00.00";" - - - Diğerleri";"-";35
+"null";;" - - Diğerleri :";;
+"null";"2102.10.90.10.00";" - - - Bira mayası";"-";25
+"null";"2102.10.90.90.00";" - - - Diğerleri";"-";25
+"null";"2102.20";" - Cansız mayalar; cansız diğer tek hücreli mikroorganizmalar:";;
+"null";;" - - Cansız mayalar:";;
+"null";;" - - - Tablet, küp veya benzeri şekillerde veya net ağırlığı 1 kg.ı";;
+"null";;"        geçmeyen ambalajlarda :";;
+"null";"2102.20.11.10.00";" - - - - Bira mayası";"-";25
+"null";"2102.20.11.90.00";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğerleri :";;
+"null";"2102.20.19.10.00";" - - - - Bira mayası";"-";25
+"null";"2102.20.19.90.00";" - - - - Diğerleri";"-";25
+"null";;" - - Diğerleri:";;
+"null";"2102.20.90.10.00";" - - - Tek hücreli algler";"-";25
+"null";"2102.20.90.90.00";" - - - Diğerleri";"-";5
+"null";"2102.30.00.00.00";" - Hazırlanmış kabartma tozları";"-";25
+"null";;;;
+"null";"21.03";"Soslar ve müstahzarları; çeşni ve lezzet verici karışımlar;";;
+"null";;"hardal unu ve kaba unu ve hazır hardal:";;
+"null";"2103.10.00.00.00";" - Soya sosu";"-";75
+"null";"2103.20.00.00.00";" - Domates ketçapı ve diğer domates sosları";"-";75
+"null";"2103.30";" - Hardal unu ve kaba unu ve hazır hardal:";;
+"null";;" - - Hardal unu ve irmiği";;
+"null";"2103.30.10.00.11";" - - - Net ağırlığı 1 kg veya daha az olanlar";"-";50
+"null";"2103.30.10.00.12";" - - - Net ağırlığı 1 kg. dan fazla olanlar";"-";50
+"null";"2103.30.90.00.00";" - - Hazır hardal";"-";50
+"null";"2103.90";" - Diğerleri:";;
+"null";"2103.90.10.00.00";" - - Mango çetnisi (sıvı halde)";"-";75
+"null";"2103.90.30.00.00";" - - Hacim itibariyle alkol  derecesi % 44,2 veya daha fazla fakat % 49,2'yi";;
+"null";;"     geçmeyenler, ağırlık olarak % 1,5 - % 6 oranında çantaniye otu ";;
+"null";;"     (gentiane) baharat ve çeşitli katkı maddeleri ile %4 - %10 arasında şe- ";;
+"null";;"     ker içeren ve muhtevası 0,5 litreyi geçmeyen kaplarda bulunan aromatik";" ";
+"null";;"     lezzet verici müstahzarlar ";"Lt alk.%100";120
+"null";;" - - Diğerleri";" ";" "
+"null";"2103.90.90.00.11";" - - - Acı biber sosu";"-";75
+"null";"2103.90.90.00.12";" - - - Çemen";"-";75
+"null";"2103.90.90.00.13 ";" - - - Harissa sosu";"-";75
+"null";"2103.90.90.00.18";" - - - Diğerleri";"-";75
+"null";;;;
+"null";"21.04";"Çorbalar, et suları ve müstahzarları; karışım halindeki homo -";;
+"null";;"jenize gıda müstahzarları:";;
+"null";"2104.10";" - Çorbalar, et suları ve müstahzarları :";;
+"null";"2104.10.00.00.11";" - - Et suyu tabletleri";"-";75
+"null";"2104.10.00.00.12";" - - Çorbalar";"-";75
+"null";"2104.10.00.00.19";" - - Diğerleri";"-";75
+"null";"2104.20.00.00.00";" - Karışım halindeki homojenize gıda müstahzarları";"-";75
+"null";;;;
+"null";"2105.00";"Dondurma ve yenilen diğer buzlar (kakao içersin içermesin):";;
+"null";;" - Katı süt yağı içermeyenler veya ağırlık itibariyle % 3 'ten az";;
+"null";;"   katı süt yağı içerenler:";;
+"null";"2105.00.10.10.00";" - - Kakao içerenler";"-";100
+"null";"2105.00.10.90.00";" - - Diğerleri";"-";75
+"null";;" - Ağırlık itibariyle katı süt yağı oranı:";;
+"null";;" - - % 3 veya daha fazla, fakat % 7'den az olanlar:";;
+"null";"2105.00.91.10.00";" - - - Kakao içerenler";"-";100
+"null";"2105.00.91.90.00";" - - - Diğerleri";"-";75
+"null";;" - - % 7 veya daha fazla olanlar:";;
+"null";"2105.00.99.10.00";" - - - Kakao içerenler";"-";100
+"null";"2105.00.99.90.00";" - - - Diğerleri";"-";75
+"null";;;;
+"null";"21.06";"Tarifenin başka yerinde belirtilmeyen veya yer almayan gıda ";;
+"null";;"müstahzarları:";;
+"null";"2106.10";" - Protein konsantreleri ve protein bünyeli maddeler:";;
+"null";;" - - Katı süt yağı, sakkaroz, izoglikoz, glikoz veya nişasta içermeyen ";;
+"null";;"     veya ağırlık itibariyle % 1,5 'ten az katı süt yağı, % 5'ten az ";;
+"null";;"     sakkaroz veya izoglikoz, % 5'ten az glikoz veya nişasta içerenler ";;
+"null";"2106.10.20.00.11";" - - - Diyet mamaları";"-";75
+"null";"2106.10.20.00.19";" - - - Diğerleri";"-";75
+"null";;" - - Diğerleri";;
+"null";"2106.10.80.00.11";" - - - Diyet mamaları";"-";75
+"null";"2106.10.80.00.19";" - - - Diğerleri";"-";75
+"null";"2106.90";" - Diğerleri:";;
+"null";"2106.90.20.00.00";" - - Bileşik alkol müstahzarları (içki imalinde kullanılan koku veren madde-";;
+"null";;"      ler esaslı olanlar hariç)";"Lt alk.%100";120
+"null";;" - - Aromalandırılmış veya renklendirilmiş şeker şurupları:";;
+"null";"2106.90.30.00.00";" - - - İzoglikoz şurupları";"-";"75"
+"null";;" - - - Diğerleri:";;
+"null";"2106.90.51.00.00";" - - - - Laktoz şurubu";"-";"75"
+"null";"2106.90.55.00.00";" - - - - Glikoz şurubu ve malto dekstrin şurubu";"-";"75"
+"null";"2106.90.59.00.00";" - - - - Diğerleri";"-";"75"
+"null";;" - - Diğerleri:";;
+"null";"2106.90.92.00.00";" - - - Katı süt yağı, sakkaroz, izoglikoz, nişasta veya glikoz içermeyen";;
+"null";;"       veya ağırlık itibariyle % 1,5 'ten az katı süt yağı, % 5'ten az sakkaroz ";;
+"null";;"       veya izoglikoz, % 5'ten az glikoz veya nişasta içerenler ";"-";75
+"null";" ";" - - - Diğerleri ";;
+"null";"2106.90.98.00.14";" - - - - Jöleler";"-";75
+"null";"2106.90.98.00.15";" - - - - Emülgatörler";"-";75
+"null";"2106.90.98.00.16";" - - - - Diyet mamaları";"-";75
+"null";"2106.90.98.00.19";" - - - - Diğerleri";"-";75

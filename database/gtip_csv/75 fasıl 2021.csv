@@ -1,0 +1,60 @@
+﻿"null";"75.01";"Nikel matları, nikel oksit sinterleri ve nikel metalürjisinin diğer ara ";;
+"null";;"ürünleri:";;
+"null";"7501.10.00.00.00";" - Nikel matları";"-";5
+"null";"7501.20";" - Nikel oksit sinterleri ve nikel metalürjisinin diğer ara ürünleri :";;" "
+"null";"7501.20.00.00.11";" - - Nikel oksit sinterleri";"-";5
+"null";"7501.20.00.00.12";" - - Nikel speissleri ";"-";5
+"null";"7501.20.00.00.19";" - - Diğerleri";"-";5
+"null";;;;" "
+"null";"75.02";"İşlenmemiş nikel: ";;" "
+"null";"7502.10";" - Alaşımsız nikel:";;" "
+"null";"7502.10.00.10.00";" - - Mond ve katot nikel";"-";0
+"null";;" - - Diğerleri :";" ";" "
+"null";"7502.10.00.90.11";" - - - Bilya şeklinde nikel";"-";5
+"null";"7502.10.00.90.19";" - - - Diğerleri";"-";5
+"null";"7502.20.00.00.00";" - Nikel alaşımları";"-";5
+"null";;;" ";" "
+"null";"7503.00";"Nikel döküntü ve hurdaları:";" ";" "
+"null";"7503.00.10.00.00";" - Alaşımsız nikelden olanlar";"-";5
+"null";"7503.00.90.00.00";" - Nikel alaşımlarından olanlar";"-";5
+"null";;;" ";" "
+"null";"7504.00.00.00.00";"Nikel tozu ve nikelden ince pullar";"-";25
+"null";;;;
+"null";"75.05";"Nikelden çubuklar, profiller ve teller:";;
+"null";;" - Çubuklar ve profiller:";;
+"null";"7505.11";" - - Alaşımsız nikelden olanlar:";;
+"null";"7505.11.00.10.00";" - - - İçi boş profiller ";"-";25
+"null";;" - - - Diğerleri :";" ";
+"null";"7505.11.00.90.11";" - - - - İçi dolu profiller";"-";20
+"null";"7505.11.00.90.12";" - - - - Çubuklar";"-";20
+"null";"7505.12";" - - Nikel alaşımlarından olanlar:";" ";
+"null";"7505.12.00.10.00";" - - - İçi boş profiller";"-";25
+"null";;" - - - Diğerleri :";" ";
+"null";"7505.12.00.90.11";" - - - - İçi dolu profiller";"-";20
+"null";"7505.12.00.90.12";" - - - - Çubuklar";"-";20
+"null";;" - Teller:";" ";
+"null";"7505.21.00.00.00";" - - Alaşımsız nikelden olanlar";"-";20
+"null";"7505.22.00.00.00";" - - Nikel alaşımlarından olanlar";"-";20
+"null";;;" ";
+"null";"75.06";"Nikelden saclar, levhalar, şeritler ve yapraklar:";" ";
+"null";"7506.10.00.00.00";" - Alaşımsız nikelden olanlar";"-";25
+"null";"7506.20";" - Nikel alaşımlarından olanlar :";" ";
+"null";"7506.20.00.00.13";" - - Şeritler";"-";25
+"null";"7506.20.00.00.19";" - - Diğerleri";"-";25
+"null";;;" ";
+"null";"75.07";"Nikelden ince ve kalın borular ve boru bağlantı parçaları (rakorlar,";" ";
+"null";;"dirsekler ve manşonlar gibi):";" ";
+"null";;" - İnce ve kalın borular:";" ";
+"null";"7507.11.00.00.00";" - - Alaşımsız nikelden olanlar";"-";25
+"null";"7507.12.00.00.00";" - - Nikel alaşımlarından olanlar";"-";25
+"null";"7507.20.00.00.00";" - Boru bağlantı parçaları";"-";25
+"null";;;" ";
+"null";"75.08";"Nikelden diğer eşya:";" ";
+"null";"7508.10.00.00.00";" - Nikel tellerden mensucat, ızgara, ağ ve kafesler";"-";60
+"null";"7508.90";" - Diğerleri:";" ";
+"null";;" - - Nikelaj için anotlar (elektrolizle elde edilenler dahil) :";" ";
+"null";"7508.90.00.10.11";" - - - Kalıba dökülmüş";"-";15
+"null";"7508.90.00.10.19";" - - - Diğerleri";"-";15
+"null";;" - - Diğerleri :";" ";
+"null";"7508.90.00.90.11";" - - - Vidalar, civatalar, somunlar, perçin çivileri ve rondelalar";"-";60
+"null";"7508.90.00.90.19";" - - - Diğerleri";"-";60

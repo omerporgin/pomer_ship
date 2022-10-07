@@ -1,0 +1,232 @@
+﻿"null";"32.01";"Debagatte kullanılan bitkisel menşeli hülasalar; tanenler ve";;
+"null";;"bunların tuzları, eterleri, esterleri ve diğer türevleri:";;
+"null";"3201.10.00.00.00";" - Kebrako hülasası";"-";75
+"null";"3201.20";" - Mimoza hülasası:";;
+"null";"3201.20.00.10.00";" - - Kuru hülasa ";"-";75
+"null";"3201.20.00.90.00";" - - Diğerleri";"-";75
+"null";"3201.90";" - Diğerleri:";;
+"null";" ";" - - Sumak, boya meşesi palamudu (valonia), meşe ağacı ve at kestane-";;
+"null";;"      si ağacı hülasası ";;
+"null";"3201.90.20.00.11";" - - - Sumak hülasası";"-";75
+"null";"3201.90.20.00.12";" - - - Boya meşesi palamudu hülasası";"-";75
+"null";"3201.90.20.00.19";" - - - Diğerleri";"-";75
+"null";;" - - Diğerleri :";;
+"null";"3201.90.90.10.00";" - - - Diğer bitkisel menşeli hülasalar";"-";75
+"null";"3201.90.90.20.00";" - - - Tanenler (tannik asitler) ( sulu mazı taneni dahil)";"-";25
+"null";"3201.90.90.90.00";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"32.02";"Debagatte kullanılan sentetik organik maddeler ve debagatte";;
+"null";;"kullanılan inorganik maddeler; debagatte kullanılan";;
+"null";;"müstahzarlar (tabii debagat maddeleri içersin içermesin); ön";;
+"null";;"debagatte kullanılan enzimli müstahzarlar:";;
+"null";"3202.10.00.00.00";" - Debagatte kullanılan sentetik organik maddeler";"-";40
+"null";"3202.90";" - Diğerleri";;
+"null";"3202.90.00.00.11";" - - Bazik krom sülfat";"-";40
+"null";"3202.90.00.00.12";" - - Debagatte kullanılan diğer anorganik maddeler";"-";40
+"null";"3202.90.00.00.13";" - - Debagatte kullanılan müstahzarlar (tabii debagat maddeleri içersin ";;
+"null";;"      içermesin)";"-";40
+"null";"3202.90.00.00.14";" - - Ön debagatte kullanılan enzimli müstahzarlar";"-";40
+"null";;;;
+"null";"3203.00";"Hayvansal veya bitkisel menşeli boyayıcı maddeler (hayvansal karalar";;
+"null";;"dışındaki boyayıcı hülasalar dahil), (kimyasal olarak";;
+"null";;"belirli bir yapıda olsun olmasın); bu fasılın 3 numaralı";;
+"null";;"notunda belirtilen müstahzarlardan esası bitkisel veya";;
+"null";;"hayvansal menşeli boyayıcı maddeler olan müstahzarlar:";;
+"null";;" - Bitkisel menşeli boyayıcı maddeler ve esası bitkisel menşeli";;
+"null";;"    boyayıcı madde olan müstahzarlar:";;
+"null";"3203.00.10.10.00";" - - Tabii indigo (tabii çivit)";"-";25
+"null";"3203.00.10.90.00";" - - Diğerleri";"-";40
+"null";"3203.00.90.00.00";" - Hayvansal menşeli boyayıcı maddeler ve esası hayvansal";;
+"null";;"   menşeli boyayıcı madde olan müstahzarlar";"-";40
+"null";;;;
+"null";"32.04";"Sentetik organik boyayıcı maddeler (kimyasal olarak belirli";;
+"null";;"bir yapıda olsun olmasın); bu fasılın 3 numaralı notunda";;
+"null";;"belirtilen müstahzarlardan esası sentetik organik boyayıcı";;
+"null";;"maddeler olan müstahzarlar; fluoresanlı aydınlatma maddeleri";;
+"null";;"veya lüminofor olarak kullanılan sentetik organik ürünler";;
+"null";;"(kimyasal olarak belirli bir yapıda olsun olmasın):";;
+"null";;" - Sentetik organik boyayıcı maddeler ve bu fasılın 3 numaralı";;
+"null";;"   notunda belirtilen müstahzarlardan esası sentetik organik";;
+"null";;"   boyayıcı maddeler olan müstahzarlar:";;
+"null";"3204.11.00.00.00";" - - Dağılan boyalar ve esası bu boyalar olan müstahzarlar";"-";20
+"null";"3204.12";" - - Asit boyalar (premetalize olsun olmasın) ve esası bu boyalar olan";;
+"null";;"     müstahzarlar; mordan boyalar ve esası bu boyalar olan müstahzarlar";;
+"null";"3204.12.00.00.11";" - - - Asit boyalar";"-";20
+"null";"3204.12.00.00.12";" - - - Mordan boyalar";"-";20
+"null";"3204.12.00.00.19";" - - - Diğerleri";"-";20
+"null";"3204.13.00.00.00";" - - Bazik boyalar ve esası bu boyalar olan müstahzarlar";"-";20
+"null";"3204.14.00.00.00";" - - Direkt boyalar ve esası bu boyalar olan müstahzarlar";"-";20
+"null";"3204.15.00.00.00";" - - Vat boyalar (bu durumda pigment olarak kullanılanlar dahil)";;
+"null";;"      ve esası bu boyalar olan müstahzarlar";"-";20
+"null";"3204.16.00.00.00";" - - Reaktif boyalar ve esası bu boyalar olan müstahzarlar";"-";20
+"null";"3204.17";" - - Pigmentler ve esası pigment olan müstahzarlar";;
+"null";"3204.17.00.00.11";" - - - Pigmentler";"-";20
+"null";"3204.17.00.00.12";" - - - Esası pigment olan müstahzarlar";"-";20
+"null";"3204.18.00.00.00";" - - Karotenoid renklendirici maddeler ve bunlara dayalı müstahzarlar ";"-";20
+"null";"3204.19";" - - Diğerleri (3204.11 ila 3204.19 aIt pozisyonlarında yer alan";;
+"null";;"     boyayıcı maddelerin iki veya daha fazlasından meydana gelen";;
+"null";;"     karışımlar dahil)";;
+"null";"3204.19.00.00.11";" - - - Kükürtlü boyalar";"-";20
+"null";"3204.19.00.00.12";" - - - Solvent boyalar";"-";20
+"null";"3204.19.00.00.19";" - - - Diğerleri";"-";20
+"null";"3204.20.00.00.00";" - Fluoresanlı aydınlatma maddeleri olarak kullanılan sentetik";;
+"null";;"   organik ürünler";"-";20
+"null";"3204.90.00.00.00";" - Diğerleri";"-";20
+"null";;;;
+"null";"3205.00";"Boyayıcı laklar; bu fasılın 3 numaralı notunda belirtilen";;
+"null";;"müstahzarlardan esası boyayıcı laklar olan müstahzarlar:";;
+"null";"3205.00.00.10.00";" - Sentetik laklar";"-";20
+"null";"3205.00.00.90.00";" - Diğerleri";"-";30
+"null";;;;
+"null";"32.06";"Diğer boyayıcı maddeler; bu fasılın 3 numaralı notunda belirtilen";;
+"null";;"müstahzarlar (32.03, 32.04 veya 32.05 pozisyonundakiler hariç);";;
+"null";;"lüminofor olarak kullanılan inorganik ürünler (kimyasal olarak";;
+"null";;"belirli bir yapıda olsun olmasın) :";;
+"null";;" - Esası titandioksit olan pigmentler ve müstahzarlar:";;
+"null";"3206.11.00.00.00";" - - Kuru madde üzerinden hesaplandığında ağırlık itibariyle % 80 ";;
+"null";;"      veya daha fazla titandioksit içerenler";"-";50
+"null";"3206.19.00.00.00";" - - Diğerleri";"-";50
+"null";"3206.20";" - Esası krom bileşikleri olan pigmentler ve müstahzarlar";;
+"null";"3206.20.00.00.11";" - - Baryum kromat esaslı pigmentler";"-";50
+"null";"3206.20.00.00.12";" - - Çinko kromat esaslı pigmentler";"-";50
+"null";"3206.20.00.00.13";" - - Stronsiyum kromat esaslı pigmentler";"-";50
+"null";"3206.20.00.00.14";" - - Kurşun kromat esaslı pigmentler";"-";50
+"null";"3206.20.00.00.19";" - - Diğerleri";"-";50
+"null";;" - Diğer boyayıcı maddeler ve diğer müstahzarlar:";;
+"null";"3206.41";" - - Ultramarin ve esası ultramarin olan müstahzarlar:";;
+"null";"3206.41.00.10.00";" - - - Ultramarin";"-";30
+"null";"3206.41.00.90.00";" - - - Diğerleri";"-";50
+"null";"3206.42.00.00.00";" - - Litopon ve esası çinko sülfür olan diğer pigmentler ve";;
+"null";;"     müstahzarlar";"-";50
+"null";"3206.49";" - - Diğerleri:";;
+"null";"3206.49.10.00.00";" - - - Magnetit";"-";50
+"null";"3206.49.70.00.00";" - - - Diğerleri";"-";50
+"null";"3206.50.00.00.00";" - Lüminofor olarak kullanılan inorganik ürünler";"-";50
+"null";;;;
+"null";"32.07";"Seramik, emaye veya cam sanayiinde kullanılan müstahzar";;
+"null";;"pigmentler, müstahzar donuklaştırıcılar ve müstahzar boyalar,";;
+"null";;"cam haline gelebilen terkipler, sırlar, sıvı cilalar ve benzeri müstah-";;
+"null";;"zarlar; toz, granül veya pul şeklindeki cam hamuru ve diğer camlar:";;
+"null";"3207.10.00.00.00";" - Müstahzar pigmentler, müstahzar donuklaştırıcılar, müstahzar";;
+"null";;"   boyalar ve benzeri müstahzarlar";"-";30
+"null";"3207.20";" - Cam haline gelebilen terkipler, sırlar ve benzeri müstahzarlar :";;
+"null";"3207.20.10.00.00";" - - Sırlar";"-";30
+"null";;" - - Diğerleri";;
+"null";"3207.20.90.00.11";" - - - Cam haline gelebilen terkipler";"-";30
+"null";"3207.20.90.00.19";" - - - Diğerleri";"-";30
+"null";"3207.30.00.00.00";" - Sıvı cilalar ve benzeri müstahzarlar";"-";30
+"null";"3207.40";" - Cam hamuru ve diğer camlar (toz, granül veya pul halinde):";;
+"null";"3207.40.40.00.00";" - - Pul halindeki camlar (uzunluğu 0,1 mm veya daha fazla fakat 3,5";" ";
+"null";;"      mm'yi geçmeyen ve kalınlığı 2 mikrometre veya daha fazla fakat ";;
+"null";;"      5 mikrometreyi geçmeyen) ;Toz veya granül halindeki camlar ";;
+"null";;"     (ağırlık itibariyle % 99 veya daha  fazla silikon dioksid  içeren)";"-";10
+"null";"3207.40.85.00.00";" - - Diğerleri";"-";10
+"null";;;;
+"null";"32.08";"Esası sentetik polimerler veya kimyasal olarak tadil edilmiş";;
+"null";;"tabii polimerler olan, susuz bir ortamda eriyen veya dağılan";;
+"null";;"boyalar ve vernikler (emaye ve laklar dahil); bu fasılın 4";;
+"null";;"numaralı notunda belirtilen çözeltiler:";;
+"null";"3208.10";" - Esası poliester olanlar:";;
+"null";"3208.10.10.00.00";" - - Bu fasılın 4 numaralı notunda belirtilen çözeltiler";"-";50
+"null";"3208.10.90.00.00";" - - Diğerleri";"-";50
+"null";"3208.20";" - Esası akrilik veya vinil polimer olanlar:";;
+"null";;" - - Bu fasılın 4 numaralı notunda belirtilen çözeltiler";;
+"null";"3208.20.10.00.11";" - - - Esası akrilik olanlar";"-";50
+"null";"3208.20.10.00.12";" - - - Esası vinil polimer olanlar ";"-";50
+"null";;" - - Diğerleri";;
+"null";"3208.20.90.00.11";" - - - Esası akrilik olanlar";"-";50
+"null";"3208.20.90.00.12";" - - - Esası vinil polimer olanlar ";"-";50
+"null";"3208.90";" - Diğerleri :";;
+"null";" ";" - - Bu fasılın 4 numaralı notunda belirtilen çözeltiler:";" ";" "
+"null";"3208.90.11.00.00";" - - - 2,2'- (tert - butilimino) dietanol ve 4,4'- metilendisiklohekzil ";;
+"null";;"       diiozosiyanat poliüretanın N,N - dimetilasetamid'de ağırlık itibariyle";;
+"null";;"       % 48 veya daha fazla polimer içeren çözeltisi ";"-";50
+"null";"3208.90.13.00.00";" - - - p - Krezol ve divinilbenzen kopolimerinin N,N - dimetilasetamid'de ";;
+"null";;"       ağırlık itibariyle % 48 veya daha fazla polimer içeren çözeltisi";"-";50
+"null";"3208.90.19.00.00";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";;
+"null";;" - - - Esası sentetik polimer olanlar";;
+"null";"3208.90.91.00.11";" - - - - Florlu polimer vernikler";"-";50
+"null";"3208.90.91.00.19";" - - - - Diğer sentetik vernikler";"-";50
+"null";"3208.90.91.00.21";" - - - - Florlu polimer boyalar";"-";50
+"null";"3208.90.91.00.22";" - - - - Trafik yol boyaları ";"-";50
+"null";"3208.90.91.00.23";" - - - - Yapı (inşaat) son kat boyaları";"-";50
+"null";"3208.90.91.00.29";" - - - - Diğer sentetik boyalar";"-";50
+"null";;" - - - Esası kimyasal olarak tadil edilmiş tabii polimer olanlar";;
+"null";"3208.90.99.00.11";" - - - - Selülozik vernikler";"-";50
+"null";"3208.90.99.00.12";" - - - - Selülozik boyalar";"-";50
+"null";"3208.90.99.00.19";" - - - - Diğerleri";"-";50
+"null";;;;
+"null";"32.09";"Esası sentetik polimer veya kimyasal olarak tadil edilmiş";;
+"null";;"tabii polimerler olup sulu ortamda dağılan ve çözülen boyalar";;
+"null";;"ve vernikler (emaye ve laklar dahil):";;
+"null";"3209.10";" - Esası akrilik ve vinil polimer olanlar";;
+"null";"3209.10.00.00.11";" - - Yapı son kat boyaları (su bazlı)";"-";50
+"null";"3209.10.00.00.19";" - - Diğer akrilik esaslı  olanlar";"-";50
+"null";"3209.10.00.00.21";" - - Esası vinil polimer olanlar";"-";50
+"null";"3209.90.00.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"3210.00";"Diğer boyalar ve vernikler (emayeler, laklar ve ""distemperler""";;
+"null";;"dahil); derilerin finisajında kullanılan müstahzar sulu pigmentler:";;
+"null";;" - Yağlı boya ve vernikler (emaye ve laklar dahil)";;
+"null";"3210.00.10.00.11";" - - Yağlı boyalar";"-";50
+"null";"3210.00.10.00.12";" - - Vernikler";"-";50
+"null";;" - Diğerleri";;
+"null";"3210.00.90.00.11";" - - Zehirli boyalar ( antifouling boyalar ) ";"-";50
+"null";"3210.00.90.00.12";" - - Diğer müstahzar boyalar";"-";50
+"null";"3210.00.90.00.13";" - - Derilerin finisajında kullanılan müstahzar sulu pigmentler";"-";50
+"null";"3210.00.90.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"3211.00.00.00.00";"Müstahzar kurutucu maddeler (sikatifler)";"-";50
+"null";;;;
+"null";"32.12";"Boyaların (emaye dahil) imalinde kullanılan, susuz bir ortamda";;
+"null";;"dağılan, sıvı veya hamur şeklindeki pigmentler (metalik tozlar";;
+"null";;"ve pullar dahil); ıstampacılığa mahsus varaklar; perakende";;
+"null";;"satılacak şekil veya ambalajlarda bulunan boyalar ve diğer";;
+"null";;"boyayıcı maddeler:";;
+"null";"3212.10.00.00.00";" - Istampacılığa mahsus varaklar";"-";50
+"null";"3212.90";" - Diğerleri:";;
+"null";"3212.90.00.00.11";" - - Bronz patlar";"-";50
+"null";"3212.90.00.00.12";" - - Hazır boya imalinde kullanılacak bezir yağı,esanslı vernik ve diğer ";;
+"null";;"     boya ortamları içerisinde ezilmiş pigmentler";"-";50
+"null";"3212.90.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"32.13";"Resim, eğitim ve afiş boyaları, renkleri değiştirici boyalar,";;
+"null";;"eğlence için boyalar ve benzerleri (tablet, tüp, kavanoz, şişe,";;
+"null";;"çanak veya benzeri şekillerde veya ambalajlar içinde):";;
+"null";"3213.10.00.00.00";" - Takım halindeki boyalar";"-";30
+"null";"3213.90.00.00.00";" - Diğerleri";"-";30
+"null";;;;
+"null";"32.14";"Camcı macunu, aşılama macunu, reçineli çimentolar, kalafatçı";;
+"null";;"bileşikleri ve diğer macunlar; boyacılıkta kullanılan dolgu,";;
+"null";;"sıvama maddeleri; binaların dış cephesinde, binaların";;
+"null";;"içindeki duvar, tavan, taban ve benzeri yerlerde kullanılan";;
+"null";;"ateşe dayanıklı olmayan sıvama müstahzarları:";;
+"null";"3214.10";" - Camcı macunu, aşılama macunu, reçineli çimentolar, kalafatçı";;
+"null";;"   bileşikleri ve diğer macunlar; boyacılıkta kullanılan dolgu,";;
+"null";;"   sıvama maddeleri :";;
+"null";" ";" - - Camcı macunu, aşılama macunu, reçineli çimentolar, kalafatçı";;
+"null";;"      bileşikleri ve diğer macunlar ";;
+"null";"3214.10.10.00.11";" - - - Reçineli macunlar ve çimentolar";"-";35
+"null";"3214.10.10.00.12";" - - - Plastik esaslı macunlar";"-";35
+"null";"3214.10.10.00.19";" - - - Diğer macunlar";"-";35
+"null";"3214.10.90.00.00";" - - Boyacılıkta kullanılan dolgu, sıvama maddeleri";"-";35
+"null";;" - Diğerleri";;
+"null";"3214.90.00.00.11";" - - Çimento esaslı fayans, seramik ve döşeme plağı için yapıştırıcılar";"-";35
+"null";"3214.90.00.00.12";" - - Dış cepheler için sentetik emülsiyon esaslı hazır sıva";"-";35
+"null";"3214.90.00.00.19";" - - Diğerleri";"-";35
+"null";;;;
+"null";"32.15";"Baskı mürekkepleri, yazı ve çizim mürekkepleri ve diğer";;
+"null";;"mürekkepler (konsantre edilmiş veya katı halde olsun olmasın):";;
+"null";;" - Baskı mürekkepleri:";;
+"null";"3215.11.00.00.00";" - - Siyah ";"-";15
+"null";"3215.19.00.00.00";" - - Diğerleri";"-";15
+"null";"3215.90";" - Diğerleri:";;
+"null";"3215.90.20.00.00";" - - 8443.31, 8443.32 veya 8443.39 alt pozisyonlarındaki cihazlara takılacak";;
+"null";;"       ve mekanik veya elektrikli bileşenler içeren, entegre yazdırma başlığı olmayan";;
+"null";;"       mürekkep kartuşları; 8443.31, 8443.32 veya 8443.39 alt pozisyonlarındaki ";;
+"null";;"      cihazlara takılacak özel şekillerde katı mürekkepler";"-";25
+"null";;" - - Diğerleri:";;
+"null";"3215.90.70.00.11";" - - - Tekstil makinaları, ıstampa ve yazı makinalarının şeritleri için";"  ";
+"null";;"        mürekkepler";"-";25
+"null";"3215.90.70.00.19";" - - - Diğerleri";"-";25

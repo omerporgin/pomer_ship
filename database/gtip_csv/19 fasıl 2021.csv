@@ -1,0 +1,195 @@
+﻿"null";"19.01";"Malt hülasası; tarifenin başka yerinde belirtilmeyen veya yer";;
+"null";;"almayan esasını un, hububatın kabaca öğütülmesinden elde ";;
+"null";;"edilen küçük parçalar, kaba un, nişasta veya malt hülasası teşkil";;
+"null";;"eden gıda müstahzarları (içinde kakao bulunmayanlar veya";;
+"null";"                                   ";"tamamen yağının alınması esasına göre hesaplanan içindeki";;
+"null";;"kakao miktarı ağırlık itibariyle % 40'dan az olanlar); tarifenin";;
+"null";;"başka yerinde belirtilmeyen veya yer almayan esasını 04.01 ila";;
+"null";;"04.04 pozisyonlarında yer alan maddeler teşkil eden gıda ";;
+"null";;"müstahzarları ( içinde kakao  bulunmayanlar veya tamamen ";;
+"null";;"yağının alınması esasına göre hesaplandığında içindeki";;
+"null";;"kakao miktarı ağırlık itibariyle % 5'den az olanlar ):";;
+"null";"1901.10";" - Bebek veya küçük çocukların beslenmesinde kullanılan";;
+"null";;"    müstahzarlar (perakende satılacak hale getirilmiş):";;
+"null";;" - - Esasını 04.01 ila 04.04 pozisyonlarında yer alan maddeler";;
+"null";;"      teşkil edenler:";;
+"null";"1901.10.00.11.00";" - - - Diyet mamaları";"-";75
+"null";"1901.10.00.19.00";" - - - Diğerleri";"-";75
+"null";"1901.10.00.20.00";" - - Esasını 04.01 ila 04.04 pozisyonlarında yer alan maddeler teşkil";;
+"null";;"      edenler ve ağırlık itibariyle %5'den az kakao içerenler";"-";100
+"null";"1901.10.00.90.00";" - - Diğerleri";"-";60
+"null";"1901.20";" - 19.05 Pozisyonunda yer alan ekmekçilik mamullerinin hazırlan -";;
+"null";;"    masında  kullanılan karışımlar ve hamurlar:";;
+"null";"1901.20.00.10.00";" - - Esasını 04.01 ila 04.04 pozisyonlarında yer alan maddeler";;
+"null";;"      teşkil edenler";"-";75
+"null";"1901.20.00.20.00";" - - Esasını 04.01 ila 04.04 pozisyonlarında yer alan maddeler teşkil ";;
+"null";;"      edenler ve ağırlık itibariyle % 5'den az kakao  içerenler";"-";100
+"null";"1901.20.00.90.00";" - - Diğerleri";"-";60
+"null";"1901.90";" - Diğerleri:";;
+"null";;" - - Malt hülasası:";;
+"null";"1901.90.11.00.00";" - - - Kuru hülasa oranı ağırlık itibariyle % 90 veya daha fazla olanlar";"-";70
+"null";"1901.90.19.00.00";" - - - Diğerleri";"-";70
+"null";;" - - Diğerleri:";;
+"null";"1901.90.91.00.00";" - - - Katı süt yağı,sakkaroz, izoglikoz,glikoz veya nişasta içermeyen";;
+"null";;"        veya % 1,5'dan az katı süt yağı, % 5 sakkaroz ( invert şeker dahil)";;
+"null";;"        veya izoglikoz, % 5 glikoz veya nişasta içerenler (04.01 ila 04.04";;
+"null";;"        pozisyonlarındaki ürünlerin toz halindeki gıda müstahzarları hariç)";"-";50
+"null";"1901.90.95.00.00";" - - - Katı/sıvı yağ içeriği ağırlıkça %30'u geçmeyen, yağsız süt ve/veya peyniraltı";;
+"null";;"        suyu ve bitkisel katı/sıvı yağların karışımdan oluşan toz şeklinde ";;
+"null";;"        gıda müstahzarları";"-";50
+"null";;" - - - Diğerleri :";;
+"null";"1901.90.99.10.00";" - - - - Esasını 04.01 ila 04.04 pozisyonlarında yer alan maddeler";;
+"null";;"          teşkil edenler";"-";75
+"null";"1901.90.99.20.00";" - - - - Esasını 04.01 ila 04.04 pozisyonlarında yer alan maddeler teşkil";;
+"null";;"          edenler ve ağırlık itibariyle % 5'den az kakao tozu içerenler";"-";100
+"null";;" - - - - Diğerleri";;
+"null";"1901.90.99.90.11";" - - - - - Fenilketonüri hastaları için düşük proteinli un";"-";60
+"null";"1901.90.99.90.12";" - - - - - Fenilketonüri hastaları için düşük proteinli pirinç";"-";60
+"null";"1901.90.99.90.13";" - - - - - Fenilketonüri hastaları için yumurta ikamesi";"-";60
+"null";"1901.90.99.90.19";" - - - - - Diğerleri";"-";60
+"null";;;;
+"null";"19.02";"Makarnalar (pişirilmiş veya et ile veya diğer maddelerle doldu-";;
+"null";;"rulmuş  veya başka şekilde hazırlanmış olsun olmasın) (spagetti, ";;
+"null";;"makaroni, şehriye, lazanya, gnocchi, ravioli, canelloni gibi); ";;
+"null";;"kuskus (hazırlanmış olsun olmasın):";;
+"null";;" - Pişirilmemiş makarna (doldurulmamış veya başka şekilde ";;
+"null";;"   hazırlanmamış) :";;
+"null";"1902.11";" - - Yumurta içerenler";;
+"null";"1902.11.00.00.11";" - - - Sadece yumurta ve makarnalık buğday (durum buğdayı) unu ve";;
+"null";;"        irmiği içerenler";"-";50
+"null";"1902.11.00.00.19";" - - - Diğerleri";"-";50
+"null";"1902.19";" - - Diğerleri :";;
+"null";;" - - - Ekmeklik buğday unu veya irmiği içermeyenler";;
+"null";"1902.19.10.00.11";" - - - - Fenilketonüri hastaları için düşük proteinli makarna";"-";50
+"null";"1902.19.10.00.19";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri";;
+"null";"1902.19.90.00.11";" - - - - Sebzeli olanlar";"-";50
+"null";"1902.19.90.00.12";" - - - - Sade olanlar";"-";50
+"null";"1902.19.90.00.13";" - - - - Fenilketonüri hastaları için düşük proteinli makarna";"-";50
+"null";"1902.19.90.00.19";" - - - - Diğerleri";"-";50
+"null";"1902.20";" - Doldurulmuş makarnalar (pişirilmiş veya başka şekilde";;
+"null";;"   hazırlanmış olsun olmasın):";;
+"null";"1902.20.10.00.00";" - - Ağırlık itibariyle % 20'den fazla balık, yumuşakça, kabuklu hayvan";;
+"null";;"     ve diğer su omurgasızları içerenler";"-";60
+"null";;" - - Ağırlık itibariyle % 20'den fazla sosis ve benzerlerini, her cins et ve";;
+"null";;"     sakatatı içerenler (her türlü katı yağ dahil):";;
+"null";"1902.20.30.10.00";" - - - Et ve sakatat içerenler";"-";80
+"null";"1902.20.30.90.00";" - - - Diğerleri";"-";75
+"null";;" - - Diğerleri:";;
+"null";"1902.20.91.00.00";" - - - Pişirilmiş";"-";75
+"null";"1902.20.99.00.00";" - - - Diğerleri";"-";75
+"null";;;;
+"null";"1902.30";" - Diğer makarnalar:";;
+"null";"1902.30.10.00.00";" - - Kurutulmuş";"-";75
+"null";"1902.30.90.00.00";" - - Diğerleri";"-";75
+"null";"1902.40";" - Kuskus:";;
+"null";"1902.40.10.00.00";" - - Hazırlanmamış kuskus";"-";50
+"null";"1902.40.90.00.00";" - - Diğerleri";"-";75
+"null";;;;
+"null";"1903.00.00.00.00";"Tapyoka ve nişastadan hazırlanan tapyoka benzerleri (flokon,";;
+"null";;"dane, yuvarlak, kalbur içi kalıntısı veya benzeri şekillerde)";"-";50
+"null";;;;
+"null";"19.04";"Hububat veya hububat ürünlerinin kabartılması veya kavrulması";;
+"null";;"suretiyle elde edilen gıda mamulleri (corn flakes gibi); tarifenin";;
+"null";;"başka yerinde belirtilmeyen veya yer almayan ön pişirme ya -";;
+"null";;"pılmış veya başka surette hazırlanmış dane (mısır hariç) veya";;
+"null";;"flokon halindeki hububat veya diğer şekilde işlenmiş daneler ";;
+"null";;"(un, hububatın kabaca öğütülmesinden elde edilen küçük ";;
+"null";;"parçalar ve kaba un hariç) :";;
+"null";"1904.10";" - Hububat veya hububat ürünlerinin kabartılması veya kavrul -";;
+"null";;"   ması suretiyle elde edilen gıda mamulleri:";;
+"null";" ";" - - Mısırdan elde edilenler:";;
+"null";"1904.10.10.10.00";" - - - Kakao içerenler";"-";100
+"null";"1904.10.10.90.00";" - - - Diğerleri";"-";50
+"null";" ";" - - Pirinçten elde edilenler:";;
+"null";"1904.10.30.10.00";" - - - Kakao içerenler";"-";100
+"null";"1904.10.30.90.00";" - - - Diğerleri";"-";50
+"null";" ";" - - Diğerleri:";;
+"null";"1904.10.90.10.00";" - - - Kakao içerenler";"-";100
+"null";"1904.10.90.90.00";" - - - Diğerleri";"-";50
+"null";"1904.20";" - Kavrulmamış hububat flokonlarından veya kavrulmamış hubu -";;
+"null";;"   bat flokonları ile kavrulmuş hububat flokonları yada kabartılmış";;
+"null";;"   hububat karışımlarından elde edilen hazır gıdalar :";;
+"null";"1904.20.10.00.00";" - - Esası kavrulmamış hububat flokonları olan ""Müsli"" tipi müstahzarlar ";"-";75
+"null";" ";" - - Diğerleri:";;
+"null";" ";" - - - Mısırdan elde edilenler :";;
+"null";"1904.20.91.10.00";" - - - - Kakao içerenler";"-";100
+"null";"1904.20.91.90.00";" - - - - Diğerleri";"-";50
+"null";" ";" - - - Pirinçten elde edilenler :";;
+"null";"1904.20.95.10.00";" - - - - Kakao içerenler";"-";100
+"null";"1904.20.95.90.00";" - - - - Diğerleri";"-";50
+"null";" ";" - - - Diğerleri :";;
+"null";"1904.20.99.10.00";" - - - - Kakao içerenler";"-";100
+"null";"1904.20.99.90.00";" - - - - Diğerleri";"-";50
+"null";"1904.30.00.00.00";" - Bulgur ";"-";75
+"null";"1904.90";" - Diğerleri:";;
+"null";" ";" - - Pirinç";;
+"null";"1904.90.10.10.00";" - - - Kakao içerenler";"-";100
+"null";"1904.90.10.90.00";" - - - Diğerleri";"-";75
+"null";" ";" - - Diğerleri";;
+"null";"1904.90.80.10.00";" - - - Kakao içerenler";"-";100
+"null";"1904.90.80.90.00";" - - - Diğerleri";"-";75
+"null";;;;
+"null";"19.05";"Ekmek, pasta, kek, bisküvi ve diğer ekmekçilik mamulleri (kakao";;
+"null";;"içersin içermesin); hosti, eczacılıkta kullanılan boş ilaç kapsülleri,";;
+"null";;"mühür güllacı, pirinç kağıdı ve benzeri ürünler:";;
+"null";"1905.10.00.00.00";" - Gevrek ekmek";"-";50
+"null";"1905.20";" - Zencefilli ekmek ve benzerleri:";;
+"null";"1905.20.10.00.00";" - - Ağırlık itibariyle % 30'dan az sakkaroz (sakkaroz olarak ifade";;
+"null";;"     edilen invert şeker dahil) içerenler";"-";75
+"null";"1905.20.30.00.00";" - - Ağırlık itibariyle % 30 veya daha fazla fakat % 50'den az sakkaroz";;
+"null";;"      (sakkaroz olarak ifade edilen invert şeker dahil) içerenler";"-";75
+"null";"1905.20.90.00.00";" - - Ağırlık itibariyle % 50 veya daha fazla sakkaroz (sakkaroz olarak";;
+"null";;"      ifade edilen invert şeker dahil) içerenler";"-";75
+"null";;" - Tatlı bisküviler, waffle ve gofretler :";;
+"null";"1905.31";" - - Tatlı bisküviler:";;
+"null";;" - - - Çikolata veya kakao içeren diğer müstahzarlarla kısmen veya ";;
+"null";;"       tamamen sıvanmış veya kaplanmış olanlar:";;
+"null";"1905.31.11.00.00";" - - - - Net muhtevası 85 gr.ı geçmeyen hazır ambalajlarda olanlar";"-";75
+"null";"1905.31.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri :";;
+"null";"1905.31.30.00.00";" - - - -  Ağırlık itibariyle % 8 veya daha fazla katı süt yağı içerenler";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";"1905.31.91.00.00";" - - - - - Çift katlı doldurulmuş bisküviler";"-";75
+"null";;" - - - - - Diğerleri";;
+"null";"1905.31.99.00.13";" - - - - - - Fenilketonüri hastaları için düşük proteinli biskuvi";"-";75
+"null";"1905.31.99.00.19";" - - - - - - Diğerleri";"-";75
+"null";"1905.32";" - - Waffle ve gofretler:";;
+"null";"1905.32.05.00.00";" - - - Su muhteviyatı ağırlık itibariyle % 10'dan fazla olanlar";"-";75
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Çikolata veya kakao içeren diğer müstahzarlarla kısmen veya ";;
+"null";;"       tamamen sıvanmış veya kaplanmış olanlar:";;
+"null";"1905.32.11.00.00";" - - - - - Net muhtevası 85 gr.ı geçmeyen hazır ambalajlarda olanlar";"-";75
+"null";"1905.32.19.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Diğerleri";;
+"null";"1905.32.91.00.00";" - - - - -  Tuzlanmış (doldurulmuş olsun olmasın)";"-";75
+"null";;" - - - - - Diğerleri";;
+"null";"1905.32.99.00.11";" - - - - - -  Fenilketonüri hastaları için düşük proteinli gofret";"-";75
+"null";"1905.32.99.00.19";" - - - - - -  Diğerleri";"-";75
+"null";"1905.40";" - Gevrekler, kızartılmış ekmek ve diğer kızartılmış mamuller:";;
+"null";"1905.40.10.00.00";" - - Gevrekler";"-";75
+"null";"1905.40.90.00.00";" - - Diğerleri";"-";50
+"null";"1905.90";" - Diğerleri:";;
+"null";"1905.90.10.00.00";" - - Mayasız ekmek (matzos)";"-";50
+"null";;" - - Hosti, eczacılıkta kullanılan boş ilaç kapsülleri, mühür güllacı,";;
+"null";;"     pirinç kağıdı ve benzeri ürünler";;
+"null";"1905.90.20.00.11";" - - - Hosti";"-";50
+"null";"1905.90.20.00.12";" - - - Eczacılıkta kullanılan boş ilaç kapsülleri";"-";50
+"null";"1905.90.20.00.13";" - - - Mühür güllacı";"-";50
+"null";"1905.90.20.00.14";" - - - Pirinç kağıdı";"-";50
+"null";"1905.90.20.00.19";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri :";;
+"null";"1905.90.30.00.00";" - - - Bal, yumurta, peynir veya meyva içermeyen ve kuru madde";;
+"null";;"        üzerinden ağırlık itibariyle her biri % 5'i geçmeyen oranda şeker";;
+"null";;"        ve katı  yağ içeren ekmekler";"-";50
+"null";"1905.90.45.00.00";" - - -  Bisküviler";"-";75
+"null";"1905.90.55.00.00";" - - - Aromalı veya tuzlu ürünler";"-";75
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Ağırlıkça %5 veya daha fazla sukroz, invert şeker veya izoglikoz içerenler";;
+"null";"1905.90.70.00.17";" - - - - - Fenilketonüri hastaları için düşük proteinli ürünler";"-";75
+"null";"1905.90.70.00.19";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Diğerleri";;
+"null";"1905.90.80.00.11";" - - - - - Şeker hastaları için gluten ekmeği";"-";50
+"null";"1905.90.80.00.13";" - - - - - Fenilketonüri hastaları için düşük proteinli ürünler";"-";50
+"null";"1905.90.80.00.19";" - - - - - Diğerleri";"-";50
+;;;" ";

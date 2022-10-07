@@ -1,0 +1,587 @@
+﻿"null";"38.01";"Suni grafit; kolloidal veya yarı kolloidal grafit; esası hamur, blok, levha";;
+"null";;"veya diğer yarı mamul halde grafit veya diğer karbon olan müstahzarlar : ";;
+"null";"3801.10.00.00.00";" - Suni grafit";"-";"15"
+"null";"3801.20";" - Kolloidal veya yarı-kolloidal grafit:";;
+"null";"3801.20.10.00.00";" - - Sıvı yağ içinde çözelti halinde olan kolloidal grafit; yarı-kolloidal grafit";"-";"30"
+"null";"3801.20.90.00.00";" - - Diğerleri";"-";"30"
+"null";"3801.30.00.00.00";" - Elektrotlar için karbonlu hamurlar ve fırınların izolasyonunda";" ";
+"null";;"   kullanılan benzeri hamurlar";"-";"30"
+"null";"3801.90";" - Diğerleri :";" ";
+"null";"3801.90.00.10.00";" - - Metalo-grafitik bileşikler halindeki karbonlar veya diğerleri (blok, levha, çubuk";" ";
+"null";;"      veya benzeri yarı mamuller halinde)";"-";"30"
+"null";"3801.90.00.90.00";" - - Diğerleri";"-";"25"
+"null";;;;
+"null";"38.02";"Aktif hale getirilmiş karbon (aktif kömür); aktif hale getirilmiş tabii";;
+"null";;"mineral maddeler; hayvansal karalar (kullanılmış ve tesiri kalma-";;
+"null";;"mış hayvansal karalar dahil):";;
+"null";"3802.10.00.00.00";" - Aktif hale getirilmiş karbon";"-";"35"
+"null";"3802.90";" - Diğerleri :";;
+"null";"3802.90.00.10.00";" - - Hayvansal karalar (kullanılmış ve tesiri kalmamış hayvansal karalar dahil)";"-";"15"
+"null";;" - - Diğerleri";" ";
+"null";"3802.90.00.90.12";" - - - Aktif hale getirilmiş toprak ve killer (ağartma toprağı ve asit aktivasyonlu killer ";;
+"null";;"       hariç)";"-";"35"
+"null";"3802.90.00.90.13";" - - - Ağartma toprağı-Asit aktivasyonlu killer";"-";"35"
+"null";"3802.90.00.90.18";" - - - Diğerleri";"-";"35"
+"null";;;;
+"null";"3803.00";"Tall oil (sıvı reçine) (rafine edilmiş olsun olmasın):";;
+"null";"3803.00.10.00.00";" - Ham tall oil";"-";"35"
+"null";"3803.00.90.00.00";" - Diğerleri";"-";"35"
+"null";;;;
+"null";"3804.00";"Odun hamurunun imalinden arta kalan lesivler (konsantre edilmiş, ";;
+"null";;"şekeri giderilmiş veya kimyasal bir işlem görmüş olsun olmasın) ";;
+"null";;"(linyosülfonatlar dahil, fakat 38.03 pozisyonundaki tall oil hariç):";;
+"null";"3804.00.00.10.00";" - Konsantre edilmiş sülfitli lesivler";"-";"35"
+"null";"3804.00.00.91.00";" - Odun hamurunun soda veya sülfat usulleri ile imalatından arta kalan";;
+"null";" ";"      lesivler";"-";"30"
+"null";"3804.00.00.99.00";" - Diğerleri";"-";"35"
+"null";;;;
+"null";"38.05";"Terabantin esansı, çam ağacı esansı veya kağıt imalinden arta ";;
+"null";;"kalan sülfatlı esans ve iğne yapraklı ağaç odununun damıtılma -";;
+"null";;"sından veya başka şekilde işlenmesinden elde edilen diğer ter -";;
+"null";;"penik yağlar; ham dipenten; kağıt imalinden arta kalan bisülfitli";;
+"null";;"esans ve diğer ham para -simen; esas madde olarak alfaterpineol";;
+"null";;"içeren çam yağı:";;
+"null";"3805.10";" - Terabantin esansı, çam ağacı esansı veya kağıt imalinden arta";;
+"null";;"   kalan sülfatlı esans:";;
+"null";"3805.10.10.00.00";" - - Terabantin esansı";"-";"100"
+"null";"3805.10.30.00.00";" - - Çam ağacı esansı";"-";"100"
+"null";"3805.10.90.00.00";" - - Kağıt imalinden arta kalan sülfatlı esans";"-";"100"
+"null";"3805.90";" - Diğerleri :";;
+"null";"3805.90.10.00.00";" - - Çam yağı";"-";"100"
+"null";;" - - Diğerleri";;
+"null";"3805.90.90.10.00";" - - - Ham para-simenler (kaynağı ne olursa olsun)";"-";"30"
+"null";;" - - - Diğerleri";;
+"null";"3805.90.90.90.11";" - - - - Ham dipenten";"-";"100"
+"null";"3805.90.90.90.12";" - - - - Kağıt imalinden arta kalan bisülfitli esans";"-";"100"
+"null";"3805.90.90.90.19";" - - - - Diğerleri";"-";"100"
+"null";;;;
+"null";"38.06";"Kolofanlar, reçine asitleri ve bunların türevleri; kolofan esansı ve ";;
+"null";;"kolofan yağları; eritilmiş sakızlar:";;
+"null";"3806.10.00.00.00";" - Kolofanlar ve reçine asitleri";"-";"100"
+"null";"3806.20.00.00.00";" - Kolofanların veya reçine asitlerinin veya  kolofan veya reçine";;
+"null";;"   asidi türevlerinin tuzları (kolofan adüktlerinin tuzları hariç)";"-";"100"
+"null";"3806.30";" - Ester sakızları :";;
+"null";"3806.30.00.10.00";" - - Sıvı veya hamur halde veya blok, parça , pıhtı, şekilsiz külçe, granül,";;
+"null";;"      pul ve toz halinde olanlar";"-";"50"
+"null";"3806.30.00.90.00";" - - Diğerleri";"-";"50"
+"null";;;;
+"null";"3806.90";" - Diğerleri :";;
+"null";"3806.90.00.10.00";" - - Eritilmiş sakızlar";"-";"50"
+"null";;" - - Diğerleri";;
+"null";"3806.90.00.90.11";" - - - Reçine asitlerinin esterleri";"-";"100"
+"null";"3806.90.00.90.19";" - - - Diğerleri";"-";"100"
+"null";;;;
+"null";"3807.00";"Odun katranı; odun katranı yağları; odun kreozotu; odun naftası; ";;
+"null";;"bitkisel zift; esası kolofan, reçine asitleri veya bitkisel zift olan ";;
+"null";;"biracılıkta kullanılan ziftler ve benzeri müstahzarlar:";;
+"null";;" - Odun katranı :";;
+"null";"3807.00.10.10.00";" - - Karışık çözücüler ve incelticiler";"-";"40"
+"null";"3807.00.10.90.00";" - - Diğerleri";"-";"50"
+"null";;" - Diğerleri :";;
+"null";;" - - Odun katranı yağları; odun kreozotu; odun naftası :";;
+"null";"3807.00.90.11.00";" - - - Karışık çözücüler ve incelticiler";"-";"40"
+"null";;" - - - Diğerleri";;
+"null";"3807.00.90.19.11";" - - - - Odun katranı yağları";"-";"50"
+"null";"3807.00.90.19.12";" - - - - Odun kreozotu";"-";"50"
+"null";"3807.00.90.19.13";" - - - - Odun naftası ( metilen )";"-";"50"
+"null";;" - - Diğerleri";;
+"null";"3807.00.90.90.11";" - - - Bitkisel ziftler";"-";"25"
+"null";"3807.00.90.90.12";" - - - Diğerleri";"-";"25"
+"null";;;;
+"null";"38.08";"Haşarat öldürücü, kemirici hayvanlara karşı koruyucu, zararlı ";;
+"null";;"mantarları ve bitkileri yok edici, sürgünleri önleyici ürünler ve ";;
+"null";;"bitkilerin büyümesini düzenleyici, dezenfekte edici ve benzeri ürünler ";;
+"null";;"(perakende satılacak şekillerde veya ambalajlarda veya müstahzar";;
+"null";;" haline getirilmiş) (kükürtlü şerit; fitil ve mumlar ile sinek kağıtları gibi):";;
+"null";;" - Bu faslın 1 nolu altpozisyon notunda belirtilen eşya:";;
+"null";"3808.52.00.00.00";" - - DDT (ISO) (clofenotane (INN)), net ağırlığı 300 gr’ı geçmeyen ambalajlarda     ";"-";"40"
+"null";;" olanlar    ";;
+"null";"3808.59.00.00.00";" - - Diğerleri";"-";"40"
+"null";;" - Bu faslın 2 nolu altpozisyon notunda belirtilen eşya:";;
+"null";"3808.61.00.00.00";" - - Net ağırlığı 300 gr’ı geçmeyen ambalajlarda olanlar";"-";"40"
+"null";"3808.62.00.00.00";" - - Net ağırlığı 300 gr’ı geçen 7,5 kg’ı geçmeyen ambalajlarda olanlar  ";"-";"40"
+"null";"3808.69.00.00.00";" - - Diğerleri";"-";"40"
+"null";;" - Diğerleri :";;
+"null";"3808.91";" - - Haşarat öldürücüler:";;
+"null";"3808.91.10.00.00";" - - - Esası pretroitler olanlar";"-";"40"
+"null";;" - - - Esası klorlanmış hidrokarbonlar olanlar :";;
+"null";"3808.91.20.00.11";" - - - - Dikofol içerenler";"-";"40"
+"null";"3808.91.20.00.19";" - - - - Diğerleri";"-";"40"
+"null";"3808.91.30.00.00";" - - - Esası karbamatlar olanlar";"-";"40"
+"null";"3808.91.40.00.00";" - - - Esası organo-fosfor bileşikleri olanlar";"-";"40"
+"null";;" - - - Diğerleri";;
+"null";"3808.91.90.00.11";" - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.91.90.00.19";" - - - - Diğerleri";"-";"40"
+"null";"3808.92";" - - Zararlı mantarları yokediciler:";;
+"null";;" - - - İnorganik";;
+"null";"3808.92.10.00.00";" - - - - Esası bakır bileşikleri olan müstahzarlar";"-";"40"
+"null";;" - - - - Diğerleri:";;
+"null";"3808.92.20.00.11";" - - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.92.20.00.19";" - - - - - Diğerleri";"-";"40"
+"null";;" - - - Diğerleri:";;
+"null";"3808.92.30.00.00";" - - - - Esası ditiokarbamatlar olanlar";"-";"40"
+"null";"3808.92.40.00.00";" - - - - Esası benzimidazoller olanlar";"-";"40"
+"null";"3808.92.50.00.00";" - - - - Esası diazol veya triazol olanlar";"-";"40"
+"null";"3808.92.60.00.00";" - - - - Esası diazin veya morfolinler olanlar";"-";"40"
+"null";;" - - - - Diğerleri:";;
+"null";"3808.92.90.00.11";" - - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.92.90.00.19";" - - - - - Diğerleri";"-";"40"
+"null";"3808.93";" - - Zararlı bitkileri yok edici, sürgünleri önleyici , bitki -";;
+"null";;"   lerin büyümesini düzenleyici ürünler:";;
+"null";;" - - - Zararlı bitkileri yok ediciler:";;
+"null";"3808.93.11.00.00";" - - - - Esası fenoksi -bitki hormonları olanlar";"-";"40"
+"null";"3808.93.13.00.00";" - - - - Esası triazinler olanlar";"-";"40"
+"null";"3808.93.15.00.00";" - - - - Esası amidler olanlar";"-";"40"
+"null";"3808.93.17.00.00";" - - - - Esası karbamatlar olanlar";"-";"40"
+"null";"3808.93.21.00.00";" - - - - Esası dinitroanilin türevleri olanlar";"-";"40"
+"null";"3808.93.23.00.00";" - - - - Esası üre, ürasil ve süfonilüre türevleri olanlar";"-";"40"
+"null";;" - - - - Diğerleri:";;
+"null";"3808.93.27.00.11";" - - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.93.27.00.19";" - - - - - Diğerleri";"-";"40"
+"null";;" - - - Sürgünleri  önleyiciler:";;
+"null";"3808.93.30.00.11";" - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.93.30.00.19";" - - - - Diğerleri";"-";"40"
+"null";;" - - - Bitkilerin büyümesini düzenleyiciler:";;
+"null";"3808.93.90.00.11";" - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.93.90.00.19";" - - - - Diğerleri";"-";"40"
+"null";"3808.94";" - - Dezenfekte ediciler:";;
+"null";"3808.94.10.00.00";" - - - Esası kuaterner amonyum tuzları olanlar";"-";"40"
+"null";"3808.94.20.00.00";" - - - Esası halojenlenmiş bileşikler olanlar";"-";"40"
+"null";;" - - - Diğerleri:";;
+"null";"3808.94.90.00.11";" - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.94.90.00.19";" - - - - Diğerleri";"-";"40"
+"null";"3808.99";" - - Diğerleri :";;
+"null";;" - - - Kemirici hayvanlara karşı kullanılanlar:";;
+"null";"3808.99.10.00.11";" - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.99.10.00.19";" - - - - Diğerleri";"-";"40"
+"null";;" - - - Diğerleri:";;
+"null";"3808.99.90.00.11";" - - - - Bromoklormetan ya da bromometan (Metil bromür) içerenler";"-";"40"
+"null";"3808.99.90.00.19";" - - - - Diğerleri";"-";"40"
+"null";;;;
+"null";"38.09";"Tarifenin başka yerinde yer almayan veya belirtilmeyen mensu-";;
+"null";;"cat ,kağıt, deri ve benzeri sanayilerde kullanılan türde ""apre veya ";;
+"null";;"finisaj''müstahzarları, boyayıcı maddelerin sabitleştirilmesini veya ";;
+"null";;"boyama işlemini hızlandırmayı sağlayıcılar ve diğer ürünler ve ";;
+"null";;"müstahzarlar (örneğin; müstahzar haşıl ve apreler, müstahzar ";;
+"null";;"mordanlar gibi) :";;
+"null";"3809.10";" - Esası nişastalı madde olanlar:";;
+"null";"3809.10.10.00.00";" - - Ağırlık itibariyle içindeki nişastalı madde miktarı % 55'ten az olanlar";"-";"20"
+"null";"3809.10.30.00.00";" - - Ağırlık itibariyle içindeki nişastalı madde miktarı % 55 veya ";;
+"null";;"     daha fazla, fakat % 70'den az olanlar";"-";"20"
+"null";"3809.10.50.00.00";" - - Ağırlık itibariyle içindeki nişastalı madde miktarı % 70 veya daha ";;
+"null";;"     fazla, fakat % 83'den az olanlar";"-";"20"
+"null";"3809.10.90.00.00";" - - Ağırlık itibariyle içindeki nişastalı madde miktarı  % 83 veya ";;
+"null";;"     daha fazla olanlar";"-";"20"
+"null";;;;
+"null";;" - Diğerleri :";;
+"null";"3809.91";" - - Mensucat sanayiinde veya benzeri sanayilerde kullanılan ";;
+"null";;"     türde olanlar :";;
+"null";;" - - - Müstahzar haşıl ve apreler ; mordansaj müstahzarları";;
+"null";"3809.91.00.10.11";" - - - - Müstahzar haşıl ve apreler ";"-";"20"
+"null";"3809.91.00.10.12";" - - - - Mordansaj müstahzarları";"-";"20"
+"null";;" - - - Diğerleri";;
+"null";"3809.91.00.90.11";" - - - - Mensucatın su geçirmez hale getirilmesine mahsus müstahzarlar";"-";"30"
+"null";"3809.91.00.90.19";" - - - - Diğerleri";"-";"30"
+"null";"3809.92";" - - Kağıt sanayiinde veya benzeri sanayilerde kullanılan türde";;
+"null";;"     olanlar :";;
+"null";"3809.92.00.10.00";" - - - Müstahzar haşıl ve apreler";"-";"20"
+"null";"3809.92.00.90.00";" - - - Diğerleri";"-";"30"
+"null";"3809.93";" - - Deri sanayiinde veya benzeri sanayilerde kullanılan  türde ";;
+"null";;"     olanlar :";;
+"null";"3809.93.00.10.00";" - - - Müstahzar apreler";"-";"20"
+"null";"3809.93.00.90.00";" - - - Diğerleri";"-";"30"
+"null";;;;
+"null";"38.10";"Metal satıhlarının temizlenmesinde kullanılan müstahzarlar; ";;
+"null";;"metallere lehim ve kaynak yapılmasında kullanılan sıvı müstah -";;
+"null";;"zarlar ve diğer yardımcı müstahzarlar; metal ve diğer maddeler-";;
+"null";;"den meydana gelen lehim ve kaynak pastaları ve tozları; lehim";;
+"null";;"ve kaynak çubuklarının ve elektrotlarının sıvanmasında veya ";;
+"null";;"kaplanmasında kullanılan müstahzarlar:";;
+"null";"3810.10";" - Metal satıhlarının temizlenmesinde kullanılan müstahzarlar; ";;
+"null";;"   metal ve diğer maddelerden meydana gelen lehim ve kaynak";;
+"null";;"   pastaları ve tozları";;
+"null";"3810.10.00.00.11";" - - Metal satıhlarının temizlenmesinde kullanılan müstahzarlar";"-";"40"
+"null";"3810.10.00.00.12";" - - Metal ve diğer maddelerden meydana gelen lehim ve kaynak pastaları";;
+"null";;"      ve tozları";"-";"40"
+"null";"3810.90";" - Diğerleri:";;
+"null";"3810.90.10.00.00";" - - Lehim ve kaynak çubuklarının ve elektrotlarının sıvanmasında";;
+"null";;"      veya kaplanmasında kullanılan müstahzarlar";"-";"40"
+"null";"3810.90.90.00.00";" - - Diğerleri";"-";"40"
+"null";;;;
+"null";"38.11";"Vuruntuyu önleyici müstahzarlar, oksidasyonu durdurucu ";;
+"null";;"maddeler, peptizan katkılar, akışkanlığı düzenleyici maddeler, ";;
+"null";;"aşınmayı önleyici katkılar ve mineral yağlar (benzin dahil) veya ";;
+"null";;"mineral yağlar gibi aynı amaçla kullanılan diğer sıvı yağlar ";;
+"null";;"için diğer müstahzar katkılar:";;
+"null";;" - Vuruntuyu önleyici müstahzarlar:";;
+"null";"3811.11";" - - Esası kurşun bileşikleri olanlar:";;
+"null";"3811.11.10.00.00";" - - - Esası kurşuntetraetil olanlar";"-";"30"
+"null";"3811.11.90.00.00";" - - - Diğerleri";"-";"30"
+"null";"3811.19.00.00.00";" - - Diğerleri";"-";"30"
+"null";;" - Yağlama yağları için katkılar:";;
+"null";"3811.21";" - - Petrol yağları veya bitümenli minerallerden elde edilen";;
+"null";;"     yağları içerenler:";;
+"null";"3811.21.00.10.00";" - - - Mineral yağlar veya mineral yağlar gibi aynı amaçla kullanılan diğer sıvı";;
+"null";;"        yağlar için diğer müstahzar katkılar";"-";"30"
+"null";"3811.21.00.90.00";" - - - Diğerleri";"-";"30"
+"null";"3811.29";" - - Diğerleri";;
+"null";"3811.29.00.10.00";" - - - Mineral yağlar veya mineral yağlar gibi aynı amaçla kullanılan diğer sıvı";;
+"null";;"        yağlar için diğer müstahzar katkılar";"-";"30"
+"null";"3811.29.00.90.00";" - - - Diğerleri";"-";"30"
+"null";"3811.90";" - Diğerleri";;
+"null";;" - - Mineral yağlar veya mineral yağlar gibi aynı amaçla kullanılan diğer sıvı";;
+"null";;"      yağlar için diğer müstahzar katkılar";;
+"null";"3811.90.00.10.11";" - - - Ağır mineral yağlar için müstahzar katkılar";"-";"30"
+"null";"3811.90.00.10.12";" - - - Hafif mineral yağlar için müstahzar katkılar";"-";"30"
+"null";"3811.90.00.10.19";" - - - Diğerleri";"-";"30"
+"null";"3811.90.00.90.00";" - - Diğerleri";"-";"30"
+"null";;;;
+"null";"38.12";"Vulkanizasyonu çabuklaştırıcı müstahzarlar; kauçuk ve plastikler";;
+"null";;"için, tarifenin başka yerinde belirtilmeyen veya yer almayan ";;
+"null";;"plastifiyan bileşikler; oksidasyonu önleyici müstahzarlar ve kau -";;
+"null";;"çuk veya plastikleri dayanıklı hale getirmede kullanılan diğer";;
+"null";;"stabilizatör bileşikler:";;
+"null";"3812.10.00.00.00";" - Vulkanizasyonu çabuklaştırıcı müstahzarlar";"-";"25"
+"null";"3812.20";" - Kauçuk veya plastikler için plastifiyan bileşikler:";" ";" "
+"null";"3812.20.10.00.00";" - - Benzil 3 - izobutiriloksi - 1 - izopropil - 2,2 - dimetilpropil ftalat ve benzil";;
+"null";;"      3 -  izobutiriloksi - 2,2,4 - trimetilpentil ftalat içeren reaksiyon karışımı";"-";"30"
+"null";"3812.20.90.00.00";" - - Diğerleri";"-";"30"
+"null";;" - Oksidasyonu önleyici müstahzarlar ve kauçuk veya plastikleri ";;
+"null";;"   dayanıklı hale getirmede kullanılan diğer stabilizatör bileşikler:";;
+"null";"3812.31.00.00.00";" - -  2,2,4-trimetil-1,2 dihidroquinoline (TMQ) oligomerlerinin karışımları";"-";"30"
+"null";"3812.39";" - - Diğerleri:";;
+"null";;" - - - Oksidasyonu önleyici müstahzarlar:";;
+"null";"3812.39.10.00.11";" - - - - Kauçuk için oksidasyonu önleyici müstahzarlar";"-";"30"
+"null";"3812.39.10.00.19";" - - - - Diğer oksidasyonu önleyici müstahzarlar";"-";"30"
+"null";"3812.39.90.00.00";" - - - Diğerleri";"-";"30"
+"null";;;;
+"null";"3813.00";"Yangın söndürme aletleri için dolgu maddeleri ve bileşimler;";;
+"null";;" her çeşit yangın söndürme bombaları";;
+"null";"3813.00.00.00.13";"- Bromoklordiflormetan, bromotriflormetan veya dibromo-tetrafloretan içerenler";"-";"25"
+"null";"3813.00.00.00.14";"- Metan, etan veya propan hidrobromoflorkarbonlar (HBFC'ler) içerenler";"-";"25"
+"null";"3813.00.00.00.15";"- Metan, etan veya propan hidrokloroflorkarbonlar (HCFC'ler) içerenler";"-";"25"
+"null";"3813.00.00.00.16";"- Bromoklormetan içerenler";"-";"25"
+"null";"3813.00.00.00.17";"- Diğerleri";"-";"25"
+"null";;;;
+"null";"3814.00";"Tarifenin başka yerinde belirtilmeyen veya yer almayan organik";;
+"null";;"karma çözücüler ve incelticiler; boya ve vernik çıkarmada ";;
+"null";;"kullanılan müstahzarlar:";;
+"null";"3814.00.10";" - Esası bütilasetat olanlar:";;
+"null";"3814.00.10.00.11";" - - Metan, etan veya propan klorflorokarbonları (CFC) içerenler ";;
+"null";;"     (HCFC içersin içermesin)";"-";"40"
+"null";"3814.00.10.00.12";" - - Metan, etan veya propan hidrokloroflorokarbonları (HCFC) içeren fakat ";;
+"null";;"     CFC'leri içermeyenler";"-";"40"
+"null";"3814.00.10.00.13";" - - Karbontetraklorür, bromoklorometan veya 1,1,1-trikloroetan (metilkloroform) ";;
+"null";;"     içerenler";"-";"40"
+"null";"3814.00.10.00.19";" - - Diğerleri";"-";"40"
+"null";"3814.00.90";" - Diğerleri:";;
+"null";"3814.00.90.00.11";" - - Metan, etan veya propan klorflorokarbonları (CFC) içerenler ";;
+"null";;"     (HCFC içersin içermesin)";"-";"40"
+"null";"3814.00.90.00.12";" - - Metan, etan veya propanhidrokloroflorokarbonları (HCFC) içeren fakat ";;
+"null";;"     CFC'leri içermeyenler";"-";"40"
+"null";"3814.00.90.00.13";" - - Karbontetraklorür, bromoklorometan veya 1,1,1-trikloroetan (metilkloroform)";;
+"null";;"       içerenler";"-";"40"
+"null";"3814.00.90.00.19";" - - Diğerleri";"-";"40"
+"null";;;;
+"null";"38.15";"Tarifenin başka yerinde belirtilmeyen veya yer almayan reaksi -";;
+"null";;"yon başlatıcılar,reaksiyon hızlandırıcılar ve katalitik müstahzarlar:";;
+"null";;" - Takviye edilmiş katalizatörler:";;
+"null";"3815.11.00.00.00";" - - Aktif maddesi nikel veya nikel bileşikleri olanlar";"-";"30"
+"null";"3815.12.00.00.00";" - - Aktif maddesi kıymetli metal veya kıymetli metal bileşikleri ";;
+"null";;"     olanlar";"-";"30"
+"null";"3815.19";" - - Diğerleri:";" ";" "
+"null";"3815.19.10.00.00";" - - - Ağırlık itibariyle % 90 veya daha fazlası partikül boyu 10 mikrometreyi";;
+"null";;"       geçmeyen, taneler şeklinde olan ve magnezyum silikat mesnetli oksit-";;
+"null";;"       lerin karışımını içeren, ";;
+"null";;"       - Ağırlık itibariyle % 20 veya daha fazla fakat % 35'den fazla olmayan";;
+"null";;"         bakır ve ";;
+"null";;"       - Ağırlık itibariyle % 2 veya daha fazla fakat % 3'den fazla olmayan";;
+"null";;"         bizmut içeren ve görünür özgül kütlesi  0,2 veya daha fazla fakat";;
+"null";;"         1,0'ı geçmeyen, ";;
+"null";;"         katalizörler";"-";"30"
+"null";"3815.19.90.00.00";" - - - Diğerleri";"-";"30"
+"null";"3815.90";" - Diğerleri:";" ";" "
+"null";"3815.90.10.00.00";" - - Metanol içinde çözelti halinde etiltrifenilfosfonyum asetat içeren ";;
+"null";;"      katalizörler";"-";"30"
+"null";"3815.90.90.00.00";" - - Diğerleri";"-";"30"
+"null";;;;
+"null";"3816.00";"Ateşe dayanıklı çimentolar, harçlar, betonlar ve benzeri karışım-";;
+"null";;"lar, (Dolomit ateş tuğlası harcı dahil) (38.01 pozisyonundaki ürünler hariç)";;
+"null";"3816.00.10.00.00";" - Dolomit ateş tuğlası harcı";"-";"30"
+"null";;" - Diğerleri:";;
+"null";"3816.00.90.00.11";"- - Ateşe dayanıklı çimentolar";"-";"30"
+"null";"3816.00.90.00.12";"- - Ateşe dayanıklı  harçlar";"-";"30"
+"null";"3816.00.90.00.19";"- - Diğerleri";"-";"30"
+"null";;;;
+"null";"3817.00";"Karışım halinde alkilbenzenler ve alkilnaftalinler (27.07 veya 29.02";;
+"null";;"pozisyonundakiler hariç) :";;
+"null";"3817.00.50.00.00";" - Lineer alkilbenzen";"-";"30"
+"null";;" - Diğerleri";;
+"null";"3817.00.80.00.11";" - - Post dodesilbenzen ( heavy-alkylates )";"-";"30"
+"null";"3817.00.80.00.19";" - - Karışım halinde diğer alkil benzenler";"-";"30"
+"null";"3817.00.80.00.29";" - - Diğerleri";"-";"30"
+"null";;;;
+"null";"3818.00";"Elektronikte kullanılmak üzere dope edilmiş kimyasal elementler ";;
+"null";;"(disk, pul veya benzeri şekillerde); elektronikte kullanılmak üzere ";;
+"null";;"dope edilmiş kimyasal bileşikler:";;
+"null";"3818.00.10.00.00";" - Dope edilmiş silisyum";"-";"30"
+"null";"3818.00.90.00.00";" - Diğerleri";"-";"30"
+"null";;;;
+"null";"3819.00.00.00.00";"Hidrolik fren sıvıları ve hidrolik transmisyonlar için petrol yağları";;
+"null";;"veya bitümenli minerallerden elde edilen yağları içermeyen veya";;
+"null";;"ağırlık itibariyle % 70'den az oranda içeren müstahzar sıvılar";"-";"30"
+"null";;;;
+"null";"3820.00.00.00.00";"Donmayı önleyici müstahzarlar ve donmayı çözücü müstahzar ";;
+"null";;"sıvılar";"-";"30"
+"null";;;;
+"null";"3821.00.00.00.00";" Mikroorganizmaların ( virüsler ve benzerleri ),bitkilerin, insan veya hayvan ";;
+"null";;" hücrelerinin geliştirilmesine veya idamesine mahsus müstahzar kültür ortamları";"-";"50"
+"null";;;;
+"null";"38.22";"Bir mesnet üzerinde bulunan laboratuvarlarda veya teşhiste ";;
+"null";;"kullanılan  reaktifler, bir mesnet üzerinde ve kit şeklinde olsun olmasın";;
+"null";;"laboratuvarlarda veya teşhiste kullanılan müstahzar reaktifler";;
+"null";;" (30.06 pozisyonunda yer alanlar hariç); standart";;
+"null";;" (referans) maddeleri:";;
+"null";;" - Bir mesnet üzerinde bulunan laboratuvarlarda veya teşhiste ";;
+"null";;"kullanılan  reaktifler, bir mesnet üzerinde ve kit şeklinde olsun olmasın";;
+"null";;"laboratuvarlarda veya teşhiste kullanılan müstahzar reaktifler:";;
+"null";"3822.11.00.00.00";" - - Sıtma için olanlar";"-";"30"
+"null";"3822.12.00.00.00";" - - Zika ve Aedes cinsi sivrisineklerden geçen diğer hastalıklar için olanlar";"-";"30"
+"null";"3822.13.00.00.00";" - - Kan gruplarının veya kan faktörlerinin tayini için olanlar";"-";"30"
+"null";"3822.19.00.00.00";" - - Diğerleri";"-";"30"
+"null";"3822.90";" - Diğerleri:";;
+"null";"3822.90.00.00.11";" - - DNA temelli biyolojik işaretleyiciler";"-";"30"
+"null";"3822.90.00.00.19";" - - Diğerleri";"-";"30"
+"null";;;;
+"null";"38.23";"Sınai monokarboksilik yağ asitleri; rafinaj mahsulü asit yağları;";;
+"null";;"sınai yağ alkolleri:";;
+"null";;" - Sınai monokarboksilik yağ asitleri, rafinaj mahsülü asit yağları:";;
+"null";"3823.11.00.00.00";" - - Stearik asit";"-";"40"
+"null";"3823.12.00.00.00";" - - Oleik asit";"-";"40"
+"null";"3823.13.00.00.00";" - - Tall oil sıvı yağ asitleri";"-";"40"
+"null";"3823.19";" - - Diğerleri :";;
+"null";"3823.19.10.00.00";" - - - Damıtılmış yağ asitleri";"-";"40"
+"null";"3823.19.30.00.00";" - - - Yağ asitleri damıtma ürünleri";"-";"40"
+"null";"3823.19.90.00.00";" - - - Diğerleri";"-";"40"
+"null";"3823.70";"  - Sınai yağ alkolleri :";;
+"null";"3823.70.00.10.00";" - - Mum karakterine haiz sınai yağ alkolleri";"-";"20"
+"null";"3823.70.00.90.00";" - - Diğer sınai yağ alkolleri";"-";"40"
+"null";;;;
+"null";"38.24";"Dökümhane maçalarına veya kalıplarına mahsus müstahzar";;
+"null";;"bağlayıcılar; tarifenin başka yerinde belirtilmeyen veya yer ";;
+"null";;"almayan kimya sanayii veya kimya sanayiine bağlı sanayilerde ";;
+"null";;"kullanılan kimyasal ürünler ve müstahzarlar (tabii ürünlerin karı-";;
+"null";;"şımlarından oluşanlar dahil);";;
+"null";"3824.10";" - Dökümhane maçalarına veya kalıplarına mahsus müstahzar ";;
+"null";;"   bağlayıcılar :";;
+"null";"3824.10.00.10.00";" - - Esası tabii reçine olanlar";"-";"25"
+"null";;" - - Diğerleri";;
+"null";"3824.10.00.90.11";" - - - Esası sentetik reçine olan,dökümhane maçalarına veya kalıplarına ";;
+"null";;"        mahsus müstahzar bağlayıcılar";"-";"30"
+"null";"3824.10.00.90.19";" - - - Diğerleri";"-";"30"
+"null";"3824.30.00.00.00";" - Kendi aralarında veya metalik bağlayıcılarla karıştırılmış";;
+"null";;"   aglomere edilmemiş metal karbürler";"-";"30"
+"null";"3824.40.00.00.00";" - Çimento, harç veya betonlara mahsus müstahzar katkılar";"-";"30"
+"null";"3824.50";" - Ateşe dayanıklı olmayan harç ve betonlar:";;
+"null";"3824.50.10.00.00";" - - Kalıba dökülmeye hazır beton";"-";"30"
+"null";"3824.50.90.00.00";" - - Diğerleri";"-";"30"
+"null";"3824.60";" - Sorbitol (2905.44 alt pozisyonunda belirtilen sorbitol hariç):";;
+"null";;" - - Sulu çözelti halinde sorbitol:";;
+"null";"3824.60.11.00.00";" - - - D-glusitol miktarı üzerinden hesaplandığında ağırlık itibariyle % 2 ";;
+"null";;"        veya daha az D-mannitol içerenler";"-";"30"
+"null";"3824.60.19.00.00";" - - - Diğerleri";"-";"30"
+"null";;" - - Diğerleri:";;
+"null";"3824.60.91.00.00";" - - - D-glusitol miktarı üzerinden hesaplandığında ağırlık itibariyle % 2 ";;
+"null";;"        veya daha az D-mannitol içerenler";"-";"30"
+"null";"3824.60.99.00.00";" - - - Diğerleri";"-";"30"
+"null";;" - Bu faslın 3 nolu altpozisyon notunda belirtilen eşya:";;
+"null";"3824.81.00.00.00";" - - Oksiran (etilenoksit) içerenler";"-";"30"
+"null";"3824.82.00.00.00";" - - Poliklorine edilmiş bifeniller (PCBs),poliklorine edilmiş terpeniller (PCTs) veya ";;
+"null";;"     polibromine edilmiş bifeniller (PBBs) içerenler";"-";"30"
+"null";"3824.83.00.00.00";"  - -  tris (2,3-dibromopropil) fosfat içerenler";"-";"30"
+"null";"3824.84.00.00.00";" - - Aldrin (ISO), camphechlor (ISO) (toxaphene), chlordane (ISO), ";;
+"null";;"     chlordecone (ISO), DDT (ISO) (clofenotane (INN), 1,1,1-";;
+"null";;"     trichloro-2,2-bis(p-chlorophenyl)ethane), dieldrin (ISO, INN), ";;
+"null";;"    endosulfan (ISO), endrin (ISO), heptachlor (ISO) veya mirex (ISO) içerenler ";"-";"30"
+"null";"3824.85.00.00.00";" - - Lindane (ISO, INN) dahil, 1,2,3,4,5,6 hexachlorocyclohexane (HCH (ISO)) içerenler ";"-";"30"
+"null";"3824.86.00.00.00";" - - Pentachlorobenzene (ISO) veya hexachlorobenzene (ISO) içerenler ";"-";"30"
+"null";"3824.87.00.00.00";" - - Perfluorooctane sülfonik asit, tuzları, perfluorooctane ";;
+"null";;"    sülfonamidler veya perfluorooctane sulphonyl fluoride içerenler ";"-";"30"
+"null";"3824.88.00.00.00";" - - Tetra-, penta-, hexa- hepta- veya octabromodiphenyl eterleri içerenler";"-";"30"
+"null";"3824.89.00.00.00";" - - Kısa zincirli klorlu parafinleri içerenler";"-";"30"
+"null";;" - Diğerleri:";;
+"null";"3824.91.00.00.00";" - - Esas olarak 5-ethyl-2-methyl-2-oxido- 1,3,2-dioxaphosphinan-";;
+"null";;"     5-yl) methyl methyl methylphosphonate ve bis[(5-ethyl-2-";;
+"null";;"     methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl] ";;
+"null";;"    methylphosphonate içeren karışımlar ve müstahzarlar";"-";"30"
+"null";"3824.92.00.00.00";" - - Metilfosfonik asidin poliglikol esterleri ";"-";"30"
+"null";"3824.99";" - - Diğerleri:";;
+"null";"3824.99.10.00.00";" - - - Petrol sülfonatları (alkali metallerin, amonyumun ve etanolaminlerin";;
+"null";;"     petrol sülfonatları hariç); bitümenli minerallerden elde edilen tiofenli ";;
+"null";;"     sülfonik asitlerin yağları ve bunların tuzları";"-";"30"
+"null";;" - - - İyon değiştiriciler:";;
+"null";"3824.99.15.00.11";" - - - - Esası sülfonlu karbonlar veya tabii mineral madde olanlar";"-";"30"
+"null";"3824.99.15.00.12";" - - - - Sentetik zeolit";"-";"30"
+"null";"3824.99.15.00.19";" - - - - Diğer iyon değiştiriciler";"-";"30"
+"null";"3824.99.20.00.00";" - - - Elektrik tüpleri ve valflerinde vakum teminine yarayan emici bileşimler";"-";"30"
+"null";"3824.99.25.00.00";" - - - Pirolinyitler (kalsiyum pirolinyit gibi); ham kalsiyum tartrat; ham ";;
+"null";;"      kalsiyum sitrat";"-";"30"
+"null";"3824.99.30.00.00";" - - - Naftenik asitler, bunların suda çözünmeyen tuzları ve esterleri";"-";"30"
+"null";;" - - - Diğerleri:";;
+"null";"3824.99.45.00.00";" - - - - Kabuklanmayı önleyici bileşikler ve benzerleri";"-";"30"
+"null";"3824.99.50.00.00";" - - - - Elektroliz yoluyla kaplamada kullanılan müstahzarlar";"-";"30"
+"null";"3824.99.55.00.00";" - - - - Mono, di ve tri stearatlardan oluşan gliserol karışımları (katı yağlar ";;
+"null";;"         için emilsifiyan olarak kullanılanlar)";"-";"30"
+"null";" ";" - - - - Eczacılık ve cerrahide kullanılan ürünler ve müstahzarlar:";" ";" "
+"null";"3824.99.61.00.00";" - - - - - 30.04 Pozisyonundaki insanlar için kullanılan ilaçların imaline mahsus";;
+"null";;"          Streptomyces tenebrarius' un fermantasyonuyla elde edilen antibiyo-";;
+"null";;"          tik imalat işlemi ara ürünleri (kurutulmuş olsun olmasın)";"-";"30"
+"null";"3824.99.62.00.00";" - - - - - Monensin tuzların imalinden elde edilen ara ürünler";"-";"30"
+"null";"3824.99.64.00.00";" - - - - - Diğerleri";"-";"30"
+"null";"3824.99.65.00.00";" - - - -  Dökümcülükte kullanılan türden yardımcı ürünler (3824.10.00.00 alt ";;
+"null";;"         pozisyonunda belirtilenler hariç)";"-";"30"
+"null";"3824.99.70.00.00";" - - - - İnşaat sanayiinde kullanılan yanmayı ve su geçirmeyi önleyen ";;
+"null";;"        müstahzarlar ve benzerleri";"-";"30"
+"null";;" - - - - Diğerleri :";;
+"null";"3824.99.75.00.00";" - - - - - Lityum niyobat wafer (dope edilmemiş)";"-";"30"
+"null";"3824.99.80.00.00";" - - - - - Dimerize edilmiş yağ asitlerinden türetilmiş, ortalama molekül ağırlığı";;
+"null";;"          520 veya daha fazla fakat 550'yi geçmeyen aminlerin karışımı";"-";"30"
+"null";"3824.99.85.00.00";" - - - - -  3 - (1 - Etil - 1 metilpropil) izoksazol - 5 - ylamin (tolüen içinde ";;
+"null";;"          çözelti halinde )";"-";"30"
+"null";"3824.99.86.00.00";" - - - - - Çoğunlukla dimetil metilfosfonat, oksiran ve difosforpentaoksit";;
+"null";;"            içeren karışımlar";"-";"30"
+"null";;" - - - - - Başka yerde belirtilmeyen veya yer almayan esas olarak organik bileşiklerden";;
+"null";;"          oluşan kimyasal ürünler veya müstahzarlar:";;
+"null";;" - - - - - - 20 °C'de sıvı formunda olanlar:";;
+"null";"3824.99.92.00.11";" - - - - - - - Füzel yağları";"-";"30"
+"null";"3824.99.92.00.12";" - - - - - - - Dippel yağı";"-";"30"
+"null";"3824.99.92.00.13";" - - - - - - - Emülsiyon kırıcılar";"-";"30"
+"null";"3824.99.92.00.16";" - - - - - - - Başlıca o- alkyl (£ C10, cycloalkyl içeren ) alkyl (methyl, ethyl";" ";" "
+"null";;"               n-propyl veya isopropyl) phosphonofluoridates içeren karışımlar";"-";"30"
+"null";"3824.99.92.00.17";" - - - - - - - Başlıca o- alkyl (£ C10, cycloalkyl içeren ) N,N-dialkyl (methyl,";;
+"null";;"                ethyl, n-propyl veya isopropyl) phosphoramidocyanidates içeren ";;
+"null";;"                karışımlar";"-";"30"
+"null";"3824.99.92.00.18";" - - - - - - - Başlıca [S-2-(dialkyl (methyl, ethyl, n-propyl veya isopropyl) amino)";;
+"null";;"                ethyl] hydrogen alkyl (methyl, ethyl, n-propyl veya isopropyl)";;
+"null";;"                phosphonothioates ve bunların o-alkyl (£ C10, cycloalkyl içeren)";;
+"null";;"                esterlerini içeren karışımlar; başlıca bunların alkillendirilmiş veya";;
+"null";;"                protonlandırılmış tuzlarını içeren karışımlar ";"-";"30"
+"null";"3824.99.92.00.21";" - - - - - - - Başlıca alkyl (methyl, ethyl, n-propyl veya isopropyl) phosphonyl-";;
+"null";;"               difluorides içeren karışımlar";"-";"30"
+"null";"3824.99.92.00.22";" - - - - - - - Başlıca [o-2- dialkyl (methyl, ethyl, n-propyl veya isopropyl) ";;
+"null";;"               aminoethyl] hydrogen alkyl (methyl, ethyl, n-propyl veya isopropyl)";;
+"null";;"               phosphonites ve bunların o-alkyl (£ C10, cycloalkyl içeren) ";;
+"null";;"               esterleri içeren karışımlar; başlıca bunların alkillendirilmiş veya";;
+"null";;"               protonlandırılmış tuzlarını içeren karışımlar";"-";"30"
+"null";"3824.99.92.00.23";" - - - - - - - Başlıca N,N- dialkyl (methyl, ethyl, n-propyl veya isopropyl) ";;
+"null";;"               phosphoramidic dihalides içeren karışımlar";"-";"30"
+"null";"3824.99.92.00.24";" - - - - - - - Başlıca dialkyl (methyl, ethyl, n-propyl veya isopropyl) N,N-dialkyl";;
+"null";;"               (methyl, ethyl, n-propyl veya isopropyl) phosphoramidates içeren ";;
+"null";;"               karışımlar";"-";"30"
+"null";"3824.99.92.00.25";" - - - - - - - Başlıca N,N-dialkyl (methyl, ethyl,n-propyl veya isopropyl) ";;
+"null";;"               2-chloroethylamines veya bunların protonlandırılmış tuzlarını içeren";;
+"null";;"               karışımlar";"-";"30"
+"null";;" - - - - - - - Başlıca N,N-dialkyl (methyl, ethyl,n-propyl veya isopropyl)-";;
+"null";;"               2-aminoethanols veya bunların protonlandırılmış tuzlarını içeren";;
+"null";;"               karışımlar:";;
+"null";"3824.99.92.00.26";" - - - - - - - - Başlıca N,N-dimethyl-2-aminoethanol veya N,N-diethyl-2-amino-";;
+"null";;"                  ethanol veya bunların protonlandırılmış tuzlarını içeren karışımlar";"-";"30"
+"null";"3824.99.92.00.29";" - - - - - - - - Diğerleri";"-";"30"
+"null";"3824.99.92.00.31";" - - - - - - - Başlıca N,N-dialkyl (methyl, ethyl,n-propyl veya isopropyl)";;
+"null";;"               aminoethane-2-thiols veya bunların protonlandırılmış tuzlarını ";;
+"null";;"               içeren karışımlar";"-";"30"
+"null";"3824.99.92.00.32";" - - - - - - - Başlıca fosfor atomuna bağlı bir metil, etil, n-propil veya isopropil";;
+"null";;"               grubu ihtiva eden (fakat daha fazla karbon atomlu grup ihtiva";;
+"null";;"               etmeyen) kimyasalları içeren diğer karışımlar";"-";"30"
+"null";"3824.99.92.00.39";" - - - - - - - Diğerleri";"-";"30"
+"null";;" - - - - - - Diğerleri:";;
+"null";"3824.99.93.00.11";" - - - - - - - Gaz halindeki halojenlenmiş hidrokarbonların karışımları";"-";"30"
+"null";"3824.99.93.00.12";" - - - - - - - Zineb";"-";"30"
+"null";"3824.99.93.00.13";" - - - - - - - Yüksek Yoğunluklu Tatlandırıcı Karışımları ";"-";"30"
+"null";"3824.99.93.00.14";" - - - - - - - Sakız mayası ( gomelastik )";"-";"30"
+"null";"3824.99.93.00.19";" - - - - - - - Diğerleri";"-";"30"
+"null";;" - - - - - Diğerleri:";;
+"null";"3824.99.96.10.00";" - - - - - - Farklı anyon içeren bileşiklerin tuzlarının karışımları";"-";"15"
+"null";"3824.99.96.20.00";" - - - - - - Yazı teksirinde, matbaa merdanelerinde ve benzeri işlerde kullanılan";;
+"null";" ";"           jelatin esaslı patlar (kağıttan veya dokumaya elverişli maddelerden";;
+"null";;"           bir mesnet üzerinde bulunsun bulunmasın)";"-";"40"
+"null";;" - - - - - - Diğerleri:";;
+"null";"3824.99.96.90.14";" - - - - - - - Seramik fırınlarının ısısını kontrola yarayan eriyebilen göstergeler";"-";"30"
+"null";"3824.99.96.90.21";" - - - - - - - Akümülatörler için kadmiyum oksit veya nikel hidroksit esaslı  bileşikler";"-";"30"
+"null";"3824.99.96.90.68";" - - - - - - - Diğerleri";"-";"30"
+"null";;;;
+"null";"38.25";"Tarifenin başka yerinde belirtilmeyen  veya yer almayan kimya sanayi ve ";;
+"null";;"kimya sanayine bağlı sanayilere mahsus artık ürünler; belediye atıkları; ";;
+"null";;"kanalizasyon çamuru, bu fasılın 6. Notunda belirtilen diğer atıklar:";;
+"null";"3825.10.00.00.00";"- Şehir atıkları";"-";"30"
+"null";"3825.20.00.00.00";"- Kanalizasyon çamuru";"-";"30"
+"null";"3825.30.00.00.00";"- Klinik atıkları";"-";"30"
+"null";;"- Artık organik çözücüler:";;
+"null";"3825.41.00.00.00";"- - Halojenlenmiş";"-";"30"
+"null";"3825.49.00.00.00";"- - Diğerleri";"-";"30"
+"null";"3825.50.00.00.00";"- Metal dekapajı için amonyaklı suların, hidrolik sıvıların, fren ve antifiriz";;
+"null";;"  sıvılarının atıkları";"-";"30"
+"null";;"- Kimya sanayi ve kimya sanayine bağlı sanayilerin diğer atıkları:";;
+"null";"3825.61.00.00.00";"- - Esas olarak organik bileşenleri içerenler";"-";"30"
+"null";"3825.69.00.00.00";"- - Diğerleri";"-";"30"
+"null";"3825.90";"- Diğerleri";;
+"null";"3825.90.10.00.00";"- - Gaz temizleyici alkalinize demir oksitler";"-";"30"
+"null";"3825.90.90.00.00";"- - Diğerleri";"-";"30"
+"null";;;;
+"null";"38.26";"Biodizel ve bunların karışımları (Ağırlık itibariyle %70'den az petrol yağları ";;
+"null";;"veya bitümenli minerallerden elde edilen yağları içerenler ";;
+"null";;"veya içermeyenler)";;
+"null";;"-Yağ asidi mono-alkil esterleri, ağırlık itibariyle %96,5 veya daha fazla ester içerenler";;
+"null";;"(FAMAE)";;
+"null";"3826.00.10.00.11";" - - Ağırlık itibariyle %96,5 veya daha fazla yağ asiti metil esteri içerenler ";;
+"null";;"     (YAME/Biodizel)";"-";"30"
+"null";"3826.00.10.00.19";" - - Diğerleri";"-";"30"
+"null";"3826.00.90.00.00";"- Diğerleri";"-";"30"
+"null";;;;
+"null";"38.27";"Tarifenin başka yerinde belirtilmeyen veya yer almayan metan, etan veya ";;
+"null";;"propanın halojenlenmiş türevlerini içeren karışımlar:";;
+"null";;" - Kloroflorokarbonlar içerenler (CFCs) (hidrokloroflorokarbonlar (HCFCs),";;
+"null";;"perflorokarbonlar (PFCs) veya hidroflorokarbonlar (HFCs) içersin içermesin);";;
+"null";;"hidrobromoflorokarbonlar (HBFCs) içerenler; karbon teraklorür içerenler;";;
+"null";;"1,1,1-trikloroetan (metil kloroform) içerenler:";;
+"null";"3827.11";" - -  Kloroflorokarbonlar içerenler (CFCs) (hidrokloroflorokarbonlar (HCFCs),";;
+"null";;"perflorokarbonlar (PFCs) veya hidroflorokarbonlar (HFCs) içersin içermesin):";;
+"null";"3827.11.00.00.11";" - - - R-502 [R-115 (Kloropentafloroetan), R-22 (Klorodiflorometan)] karışımı";"-";"30"
+"null";"3827.11.00.00.19";" - - - Diğerleri";"-";"30"
+"null";"3827.12.00.00.00";" - - Hidrobromoflorokarbonlar (HBFCs) içerenler";"-";"30"
+"null";"3827.13.00.00.00";" - - Karbon teraklorür içerenler";"-";"30"
+"null";"3827.14.00.00.00";" - - 1,1,1-trikloroetan (metil kloroform) içerenler";"-";"30"
+"null";"3827.20.00.00.00";" - Bromoklorodiflorometan (Halon-1211), bromotriflorometan (Halon-1301) veya ";;
+"null";;"   dibromotetrafloroetanlar (Halon-2402) içerenler";"-";"30"
+"null";;" - Hidrokloroflorokarbonlar içerenler (HCFCs) (perflorokarbonlar (PFCs),";;
+"null";;"     veya hidroflorokarbonlar (HFCs) içersin içermesin, ancak, kloroflorokarbonlar ";;
+"null";;"     (CFCs) içermeyenler:";;
+"null";"3827.31.00.00.00";" - - 2903.41 ila 2903.48 alt pozisyonlarındaki maddeleri içerenler";"-";"30"
+"null";"3827.32";" - - Diğerleri, 2903.71 ila 2903.75 alt pozisyonlarındaki maddeleri içerenler:";;
+"null";"3827.32.00.00.11";" - - - 142B [(Klorodifloroetan), R-22 (Klorodiflorometan)] karışımı";"-";"30"
+"null";"3827.32.00.00.19";" - - - Diğerleri";"-";"30"
+"null";"3827.39.00.00.00";" - - Diğerleri";"-";"30"
+"null";"3827.40.00.00.00";" - Bromometan (metil bromür) veya bromoklorometan içerenler";"-";"30"
+"null";;" - Triflorometan (HFC-23) veya perflorokarbonlar (PFC'ler) içeren,";;
+"null";;"   ancak kloroflorokarbonlar (CFC'ler) veya hidrokloroflorokarbonlar ";;
+"null";;"  (HCFC'ler) içermeyenler: ";;
+"null";"3827.51.00.00.00";" - - Triflorometan içerenler (HFC-23) ";"-";"30"
+"null";"3827.59.00.00.00";" - - Diğerleri";"-";"30"
+"null";;" - Diğer hidroflorokarbonlar (HFC'ler) içeren ancak kloroflorokarbonlar";;
+"null";;"   (CFC'ler) veya hidrokloroflorokarbonlar (HCFC'ler) içermeyenler: ";;
+"null";"3827.61.00.00.00";" - - Kütlece %15 veya daha fazla 1,1,1-trifloroetan (HFC-143a) içerenler ";"-";"30"
+"null";"3827.62.00.00.00";" - - Diğerleri, yukarıdaki alt pozisyona dahil olmayan, kütlece %55 veya daha";;
+"null";;"     fazla pentafloroetan (HFC-125) içeren, ancak asiklik hidrokarbonların (HFO'lar) ";;
+"null";;"     doymamış florlu türevlerini içermeyenler ";"-";"30"
+"null";"3827.63.00.00.00";" - - Diğerleri, yukarıdaki alt pozisyonlarda yer almayan, kütlece % 40 veya daha ";;
+"null";;"     fazla pentafloroetan (HFC-125) içeren";"-";"30"
+"null";"3827.64.00.00.00";" - - Diğerleri, yukarıdaki alt pozisyonlarda yer almayan, kütlece %30 veya daha ";;
+"null";;"     fazla 1,1,1,2-tetrafloroetan (HFC-134a) içeren ancak doymamış florlu asiklik ";;
+"null";;"     hidrokarbon türevlerini (HFO'lar) içermeyenler ";"-";"30"
+"null";"3827.65.00.00.00";" - - Diğerleri, yukarıdaki alt pozisyonlarda yer almayan, kütlece %20 veya daha ";;
+"null";;"     fazla diflorometan (HFC-32) ve kütlece %20 veya daha fazla pentafloroetan  ";;
+"null";;"     (HFC-125) içerenler";"-";"30"
+"null";"3827.68.00.00.00";" - - Diğerleri, yukarıdaki alt pozisyonlarda yer almayan,";;
+"null";;"     2903.41 ila 2903.48 alt pozisyonlarında yer alan maddeleri içerenler ";"-";"30"
+"null";"3827.69.00.00.00";" - - Diğerleri";"-";"30"
+"null";"3827.90.00.00.00";" - Diğerleri";"-";"30"

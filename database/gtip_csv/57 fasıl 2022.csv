@@ -1,0 +1,140 @@
+﻿"null";"57.01";"Düğümlü veya sarmalı halılar ve diğer dokumaya elverişli madde-";;
+"null";;"lerden düğümlü veya sarmalı yer kaplamaları (hazır eşya halinde ";;
+"null";;"olsun olmasın):";;
+"null";"5701.10";" - Yünden veya ince hayvan kıllarından:";;
+"null";" ";" - - Toplam ağırlık itibariyle % 10'dan fazla ipek veya ipek döküntüsü";;
+"null";;"      içerenler (buret hariç) ";;
+"null";;" - - - El yapımı olanlar ";;
+"null";"5701.10.10.00.12";" - - - - Dm2 sinde 1600 den daha az düğüm olanlar";"m2";100
+"null";"5701.10.10.00.13";" - - - - Dm2 sinde 1600 ve daha fazla düğüm olanlar ";"m2";100
+"null";"5701.10.10.00.19";" - - - Diğerleri";"m2";100
+"null";;" - - Diğerleri:";;
+"null";;" - - - El yapımı olanlar ";;
+"null";"5701.10.90.00.11";" - - - - Dm2 sinde 858 den daha az düğüm olanlar";"m2";100
+"null";"5701.10.90.00.12";" - - - - Dm2 sinde 858 ile 1599 arasında düğüm olanlar";"m2";100
+"null";"5701.10.90.00.13";" - - - - Dm2 sinde 1600 ile 2499 arasında düğüm olanlar";"m2";100
+"null";"5701.10.90.00.14";" - - - - Dm2 sinde 2500 ve daha fazla düğüm olanlar";"m2";100
+"null";"5701.10.90.00.90";" - - - Diğerleri";"m2";100
+"null";"5701.90";" - Dokumaya elverişli diğer maddelerden:";;
+"null";" ";" - - İpekten, ipek döküntüsünden (buret hariç), sentetik liflerden,";;
+"null";" ";"      56.05 pozisyonundaki ipliklerden veya metal iplik içeren dokumaya";;
+"null";;"      elverişli maddelerden: ";;
+"null";" ";" - - - Tabii ipekten olanlar :";;
+"null";;" - - - - El yapımı olanlar ";;
+"null";"5701.90.10.00.12";" - - - - - Dm2 sinde 10.000 den daha az düğüm olanlar";"m2";100
+"null";"5701.90.10.00.13";" - - - - - Dm2 sinde 10.000 ve daha fazla düğüm olanlar";"m2";100
+"null";"5701.90.10.00.19";" - - - - Diğerleri ";"m2";100
+"null";" ";" - - - Suni ipekten olanlar :";" ";
+"null";"5701.90.10.00.21";" - - - - El yapımı olanlar  ";"m2";100
+"null";"5701.90.10.00.29";" - - - - Diğerleri";"m2";100
+"null";" ";" - - - Sentetik liflerden olanlar :";" ";
+"null";"5701.90.10.00.31";" - - - - El yapımı olanlar  ";"m2";100
+"null";"5701.90.10.00.39";" - - - - Diğerleri";"m2";100
+"null";" ";" - - - Diğerleri :";" ";
+"null";"5701.90.10.00.41";" - - - - El yapımı olanlar  ";"m2";100
+"null";"5701.90.10.00.49";" - - - - Diğerleri ";"m2";100
+"null";" ";" - - Dokumaya elverişli diğer maddelerden:";" ";
+"null";" ";" - - - Jütten ve hindistan cevizi (koko) liflerinden olanlar ";" ";
+"null";"5701.90.90.10.11";" - - - - El yapımı olanlar  ";"m2";100
+"null";"5701.90.90.10.19";" - - - - Diğerleri";"m2";100
+"null";" ";" - - - Diğerleri: ";" ";
+"null";" ";" - - - - Suni liflerden olanlar ";" ";
+"null";"5701.90.90.90.11";" - - - - - El yapımı olanlar  ";"m2";100
+"null";"5701.90.90.90.19";" - - - - - Diğerleri ";"m2";100
+"null";" ";" - - - - Diğerleri ";" ";
+"null";"5701.90.90.90.21";" - - - - - El yapımı olanlar";"m2";100
+"null";"5701.90.90.90.29";" - - - - - Diğerleri ";"m2";100
+"null";" ";;;
+"null";"57.02";"Dokunmuş halılar ve dokumaya elverişli maddelerden diğer yer";;
+"null";;"kaplamaları (tufte veya floke edilmemiş) (hazır eşya halinde olsun";;
+"null";;"olmasın)  (kilim, sumak, Karaman ve elde dokunmuş benzeri yer ";;
+"null";;"döşemeleri dahil):";;
+"null";"5702.10";" - Kilim, sumak, Karaman ve elde dokunmuş benzeri yer ";;
+"null";;"   döşemeleri";;
+"null";"5702.10.00.10.00";" - - Jütten ve hindistan cevizi (koko) liflerinden kilimler ";"m2";100
+"null";" ";" - - Diğerleri ";;
+"null";"5702.10.00.90.11";" - - - Yünden ve ince hayvan kıllarından kilimler ";"m2";100
+"null";"5702.10.00.90.19";" - - - Diğerleri ";"m2";100
+"null";"5702.20.00.00.00";" - Hindistan cevizi (koko) liflerinden yer kaplamaları";"m2";100
+"null";;" - Diğerleri (hav yapısında)(hazır eşya halinde olmayanlar):";;
+"null";;" - - Yünden veya ince hayvan kıllarından :";;
+"null";"5702.31.10.00.00";" - - - Aksminster halıları";"m2";100
+"null";"5702.31.80.00.00";" - - - Diğerleri ";"m2";100
+"null";"5702.32.00.00.00";" - - Sentetik veya suni dokumaya elverişli maddelerden";"m2";100
+"null";"5702.39";" - - Diğer dokumaya elverişli maddelerden:";" ";
+"null";"5702.39.00.00.11";" - - - Pamuktan";"m2";100
+"null";"  ";" - - - Diğerleri";;
+"null";"5702.39.00.00.91";" - - - - 53.03 pozisyonundaki jüt ve bitki iç kabuklarının dokumaya elverişli";;
+"null";" ";"          liflerinden olanlar";"m2";100
+"null";"5702.39.00.00.92";" - - - - Sisalden, Agave ve Manila kendiri liflerinden olanlar ";"m2";100
+"null";"5702.39.00.00.99";" - - - - Diğerleri";"m2";100
+"null";;" - Diğerleri (hav yapısında)(hazır eşya halinde olanlar):";" ";
+"null";"5702.41";" - - Yünden veya ince hayvan kıllarından";;
+"null";"5702.41.10.00.00";" - - - Aksminster halıları";"m2";100
+"null";"5702.41.90.00.00";" - - - Diğerleri";"m2";100
+"null";"5702.42.00.00.00";" - - Sentetik veya suni dokumaya elverişli maddelerden";"m2";100
+"null";"5702.49";" - - Diğer dokumaya elverişli maddelerden:";" ";
+"null";;" - - - Jütten ve koko liflerinden paspaslar";;
+"null";"5702.49.00.10.11";" - - - - 53.03 pozisyonundaki jüt ve bitki iç kabuklarının dokumaya elveriş-";;
+"null";;"             li liflerinden olanlar ";"m2";100
+"null";"5702.49.00.10.12";" - - - - Koko liflerinden paspaslar";"m2";100
+"null";;" - - - Diğerleri";;
+"null";"5702.49.00.90.11";" - - - - Pamuktan ";"m2";100
+"null";"5702.49.00.90.12";" - - - - Sisalden, Agave ve Manila kendiri liflerinden olanlar ";"m2";100
+"null";"5702.49.00.90.19";" - - - - Diğerleri ";"m2";100
+"null";"5702.50";" - Diğerleri (hav yapısında olmayan)(hazır eşya halinde olmayanlar):";" ";
+"null";"5702.50.10.00.00";" - - Yünden veya ince hayvan kıllarından";"m2";100
+"null";;" - - Sentetik veya suni dokumaya elverişli maddelerden:";;
+"null";"5702.50.31.00.00";" - - - Polipropilenden olanlar";"m2";100
+"null";"5702.50.39.00.00";" - - - Diğerleri";"m2";100
+"null";"5702.50.90.00.00";" - - Diğer dokumaya elverişli maddelerden";"m2";100
+"null";;" - Diğerleri (hav yapısında olmayan)(hazır eşya halinde olanlar):";" ";
+"null";"5702.91.00.00.00";" - - Yünden veya ince hayvan kıllarından ";"m2";100
+"null";;" - - Sentetik veya suni dokumaya elverişli maddelerden ";;
+"null";"5702.92.10.00.00";" - - - Polipropilenden olanlar";"m2";100
+"null";"5702.92.90.00.00";" - - - Diğerleri ";"m2";100
+"null";"5702.99";" - - Diğer dokumaya elverişli maddelerden";" ";
+"null";"5702.99.00.00.11";" - - - 53.03 pozisyonundaki jüt ve bitki iç kabuklarının dokumaya elveriş-";" ";
+"null";" ";"        li liflerinden olanlar ";"m2";100
+"null";"5702.99.00.00.12";" - - - Pamuktan olanlar";"m2";100
+"null";"5702.99.00.00.13";" - - - Sisalden, Agave ve Manila kendiri liflerinden olanlar";"m2";100
+"null";"5702.99.00.00.19";" - - - Diğerleri ";"m2";100
+"null";;;" ";
+"null";"57.03";"Halılar ve dokumaya elverişli maddelerden diğer yer kaplamaları";" ";
+"null";;"(çim dahil) (tufte edilmiş) (hazır eşya halinde olsun olmasın) :";" ";
+"null";"5703.10.00.00.00";" - Yünden veya ince hayvan kıllarından ";"m2";100
+"null";;" - Naylon veya diğer poliamidlerden:";" ";
+"null";"5703.21.00.00.00";" - - Çim";"m2";100
+"null";"5703.29";" - - Diğerleri:";;
+"null";;" - - - Baskılı:";" ";
+"null";"5703.29.10.00.00";" - - - - Karolar (yüzeyi 1 m2.yi geçmeyenler) ";"m2";100
+"null";"5703.29.19.00.00";" - - - - Diğerleri ";"m2";100
+"null";;" - - - Diğerleri :";" ";
+"null";"5703.29.91.00.00";" - - - - Karolar (yüzeyi 1 m2.yi geçmeyenler) ";"m2";100
+"null";"5703.29.99.00.00";" - - - - Diğerleri ";"m2";100
+"null";;" - Sentetik veya suni diğer dokumaya elverişli maddelerden:";" ";
+"null";"5703.31.00.00.00";" - - Çim";"m2";100
+"null";"5703.39";" - - Diğerleri:";;
+"null";;" - - - Polipropilenden:";" ";
+"null";"5703.39.10.00.00";" - - - - Karolar (yüzeyi 1 m2.yi geçmeyenler) ";"m2";100
+"null";"5703.39.19.00.00";" - - - - Diğerleri ";"m2";100
+"null";;" - - - Diğerleri:";" ";
+"null";"5703.39.91.00.00";" - - - - Karolar (yüzeyi 1 m2.yi geçmeyenler) ";"m2";100
+"null";"5703.39.99.00.00";" - - - - Diğerleri ";"m2";100
+"null";"5703.90";" - Diğer dokumaya elverişli maddelerden:";" ";
+"null";"5703.90.20.00.00";" - - Karolar (yüzeyi 1 m2.yi geçmeyenler) ";"m2";100
+"null";"5703.90.80.00.00";" - - Diğerleri ";"m2";100
+"null";;;" ";
+"null";"57.04";"Keçeden halılar ve dokumaya elverişli maddelerden diğer yer";" ";
+"null";;"kaplamaları (tufte veya floke edilmemiş) (hazır eşya halinde olsun ";" ";
+"null";;"olmasın) :";" ";
+"null";"5704.10.00.00.00";" - Karolar (yüzeyi 0,3 m2.yi geçmeyenler) ";"m2";50
+"null";"5704.20.00.00.00";" - Karolar (yüzeyi 0,3 m2’yi geçen fakat 1 m2’yi geçmeyenler)";"m2";50
+"null";"5704.90";" - Diğerleri";" ";
+"null";"5704.90.00.00.11";" - - El yapımı olanlar ";"m2";50
+"null";"5704.90.00.00.19";" - - Diğerleri ";"m2";50
+"null";;;"  ";
+"null";"5705.00";"Diğer halılar ve dokumaya elverişli maddelerden diğer yer ";" ";
+"null";;"kaplamaları (hazır eşya halinde olsun olmasın):";" ";
+"null";"5705.00.30.00.00";" - Sentetik veya suni dokumaya elverişli maddelerden";"m2";100
+"null";"5705.00.80.00.00";" - Diğer dokumaya elverişli maddelerden";"m2";100

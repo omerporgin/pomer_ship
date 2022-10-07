@@ -1,0 +1,47 @@
+﻿"null";"79.01";"İşlenmemiş çinko:";;
+"null";;" - Alaşımsız çinko:";;
+"null";"7901.11";" - - Ağırlık itibariyle % 99,99 veya daha fazla çinko içerenler :";;
+"null";;" - - - Külçe";;
+"null";"7901.11.00.10.11";" - - - - İşlenmemiş elektrolitik olan külçe çinko";"-";25
+"null";"7901.11.00.10.12";" - - - - İşlenmemiş elektrolitik olmayan külçe çinko";"-";25
+"null";"7901.11.00.90.00";" - - - Diğerleri ";"-";25
+"null";"7901.12";" - - Ağırlık itibariyle % 99,99'dan az çinko içerenler:";;
+"null";" ";" - - - Ağırlık itibariyle % 99,95 veya daha fazla fakat % 99,99'dan az";;
+"null";;"       çinko içerenler";;
+"null";;" - - - - Külçe :";;
+"null";"7901.12.10.10.11";" - - - - - İşlenmemiş elektrolitik olan külçe çinko";"-";25
+"null";"7901.12.10.10.12";" - - - - - İşlenmemiş elektrolitik olmayan külçe çinko";"-";25
+"null";"7901.12.10.90.00";" - - - - Diğerleri ";"-";25
+"null";" ";" - - - Ağırlık itibariyle % 98,5 veya daha fazla fakat % 99,95'den az çinko";;
+"null";;"        içerenler :";;
+"null";"7901.12.30.10.00";" - - - - Külçe";"-";25
+"null";"7901.12.30.90.00";" - - - - Diğerleri";"-";25
+"null";" ";" - - - Ağırlık itibariyle % 97,5 veya daha fazla fakat % 98,5 'dan az çinko";;
+"null";;"        içerenler :";;
+"null";"7901.12.90.10.00";" - - - - Külçe";"-";25
+"null";"7901.12.90.90.00";" - - - - Diğerleri";"-";25
+"null";"7901.20.00.00.00";" - Çinko alaşımları";"-";25
+"null";;;" ";
+"null";"7902.00.00.00.00";"Çinko döküntü ve hurdaları";"-";25
+"null";;;;
+"null";"79.03";"Çinkodan ince tozlar, tozlar ve ince pullar:";;
+"null";"7903.10.00.00.00";" - İnce tozlar";"-";40
+"null";"7903.90";" - Diğerleri :";" ";
+"null";"7903.90.00.00.11";" - - Tozlar";"-";40
+"null";"7903.90.00.00.12";" - - İnce pullar";"-";40
+"null";;;;
+"null";"7904.00";"Çinko çubuklar, profiller ve teller:";;
+"null";"7904.00.00.10.00";" - İçi boş profiller";"-";40
+"null";" ";" - Diğerleri :";" ";
+"null";"7904.00.00.90.11";" - - İçi dolu profiller";"-";35
+"null";"7904.00.00.90.12";" - - Çubuklar";"-";35
+"null";"7904.00.00.90.13";" - - Teller";"-";35
+"null";;;;
+"null";"7905.00.00.00.00";"Çinko saclar, levhalar,  yapraklar ve şeritler";"-";40
+"null";;;;
+"null";"[79.06]";;;
+"null";;;;
+"null";"7907.00";"Çinkodan diğer eşya";;
+"null";"7907.00.00.10.00";" - Çinkodan ince ve kalın borular ve ince ve kalın boru bağlantı parçaları";;
+"null";;"   (rakorlar, dirsekler, manşonlar gibi)";"-";40
+"null";"7907.00.00.90.00";" - Diğerleri";"-";50

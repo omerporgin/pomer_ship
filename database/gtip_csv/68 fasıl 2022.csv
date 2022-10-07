@@ -1,0 +1,207 @@
+﻿"null";"6801.00.00.00.00";"Tabii taşlardan kaldırım taşları ve kaldırım kenar taşları ile";;
+"null";;"döşeme taşları (kayagan taşından olanlar hariç)";"-";100
+"null";;;;
+"null";"68.02";"Yontulmaya veya inşaata elverişli işlenmiş taşlar (kayagan taşı";;
+"null";;"hariç) ve mamulleri (68.01 pozisyonunda yer alanlar hariç); tabii ";;
+"null";;"taşlardan (kayagan taşı dahil) mozaik için küp şeklinde taşlar ve ";;
+"null";;"benzerleri (takviye edilmiş olsun olmasın); tabii taşlardan (kaya-";;
+"null";;"gan taşı dahil) suni olarak boyanmış granüller, küçük parçalar ve";;
+"null";;"tozlar:";;
+"null";"6802.10";" - Karolar, küpler ve benzeri eşya (dikdörtgen ve kare şeklinde ";;
+"null";;"   olsun olmasın) (en geniş yüzü, bir kenarı 7 cm. den az olan ";;
+"null";;"   kare içine girebilecek olanlar); suni olarak boyanmış granüller, ";;
+"null";;"   küçük parçalar ve tozlar:";;
+"null";"6802.10.00.10.00";" - - Kayagan taşından mozaik için küpler ve benzerleri ve suni olarak";;
+"null";;"      boyanmış granüller,küçük parçalar ve tozlar";"-";75
+"null";;" - -Diğerleri";" ";
+"null";"6802.10.00.90.11";" - - - Kalkerli taşlardan veya su mermerinden";"-";100
+"null";"6802.10.00.90.19";" - - - Diğerleri";"-";100
+"null";;" - Yontulmaya veya inşaata elverişli diğer taşlar ve bunlardan ";;
+"null";;"   eşya (basitçe kesilmiş veya yontulmuş, yüzeyleri düz ve yassı ";;
+"null";;"   olanlar): ";;
+"null";"6802.21";" - - Mermer, traverten ve su mermeri";;
+"null";"6802.21.00.00.11";" - - - Yontulmuş veya kesilmiş mermer ";"-";100
+"null";"6802.21.00.00.12";" - - - Yontulmuş veya kesilmiş traverten";"-";100
+"null";"6802.21.00.00.13";" - - - Yontulmuş veya kesilmiş su mermeri";"-";100
+"null";"6802.21.00.00.19";" - - - Diğerleri";"-";100
+"null";"6802.23.00.00.00";" - - Granit";"-";100
+"null";"6802.29";" - - Diğer taşlar";;
+"null";"6802.29.00.10.00";" - - - Diğer kalkerli taşlar";"-";100
+"null";"6802.29.00.90.00";" - - - Diğerleri";"-";100
+"null";;" - Diğerleri:";;
+"null";"6802.91";" - - Mermer, traverten ve su mermeri :";;" "
+"null";"6802.91.00.00.11";" - - - Heykeltraşlık sanatına göre yontulmuş mermerden salon süs eşyaları";"-";100
+"null";"6802.91.00.00.19";" - - - Diğerleri";"-";100
+"null";"6802.92.00.00.00";" - - Diğer kalkerli taşlar ";"-";100
+"null";"6802.93";" - - Granit:";;
+"null";"6802.93.10.00.00";" - - - Net ağırlığı 10 kg. veya daha fazla olan, cilalanmış, dekore";;
+"null";;"       edilmiş veya başka şekilde işlenmiş fakat yontulmamış olanlar";"-";100
+"null";"6802.93.90.00.00";" - - - Diğerleri";"-";100
+"null";"6802.99";" - - Diğer taşlar:";;
+"null";"6802.99.10.00.00";" - - - Net ağırlığı 10 kg. veya daha fazla olan, cilalanmış, dekore";;
+"null";;"        edilmiş veya başka şekilde işlenmiş fakat yontulmamış olanlar";"-";100
+"null";"6802.99.90.00.00";" - - - Diğerleri";"-";100
+"null";;;;
+"null";"6803.00";"İşlenmiş kayagan taşı ve kayagan taşından veya aglomere";;
+"null";;" kayagan taşından eşya";;
+"null";"6803.00.10.00.00";" - Çatı ve duvar kaplamalarında kullanılanlar ";"-";75
+"null";"6803.00.90.00.00";" - Diğerleri";"-";75
+"null";"68.04";"Değirmen taşları, bileği taşları, bileği çarkları ve benzerleri";;
+"null";;"(karkassız) (öğütme, bileme, parlatmaya, rektifiye etme veya kes-";;
+"null";;"me işlerine mahsus),el ile bilemeye veya parlatmaya mahsus";;
+"null";;"taşlar ve bunların parçaları (tabii taştan, aglomere edilmiş tabii ";;
+"null";;"veya suni aşındırıcılardan veya seramikten)(diğer maddelerden";;
+"null";;"parçalar ile birlikte olsun olmasın):";;
+"null";"6804.10";" - Öğütme, ezme veya liflere ayırmaya mahsus değirmen taşları ";;
+"null";;"   ve diğer öğütücü taşlar";;
+"null";"6804.10.00.00.11";" - - Değirmen taşları";"-";30
+"null";"6804.10.00.00.19";" - - Diğerleri";"-";30
+"null";;" - Bileği taşları, bileği çarkları ve benzerleri:";;
+"null";"6804.21";" - - Aglomere edilmiş sentetik veya tabii elmastan";;
+"null";"6804.21.00.00.11";" - - - Bileği taşları";"-";50
+"null";"6804.21.00.00.12";" - - - Matkap uçları";"-";50
+"null";"6804.21.00.00.19";" - - - Diğerleri";"-";50
+"null";"6804.22";" - - Aglomere edilmiş diğer aşındırıcılardan veya seramikten:";;
+"null";;" - - - Suni aşındırıcılardan (bir bağlayıcı ile birlikte):";;
+"null";;" - - - - Sentetik veya suni reçinelerden:";;
+"null";"6804.22.12.00.00";" - - - - - Takviye edilmemiş";"-";50
+"null";"6804.22.18.00.00";" - - - - - Takviye edilmiş";"-";50
+"null";"6804.22.30.00.00";" - - - - Seramikten veya silikattan";"-";50
+"null";"6804.22.50.00.00";" - - - - Diğer maddelerden";"-";50
+"null";"6804.22.90.00.00";" - - - Diğerleri";"-";50
+"null";"6804.23";" - - Tabii taşlardan";;
+"null";"6804.23.00.00.11";" - - - Matkap uçları";"-";50
+"null";"6804.23.00.00.12";" - - - Traş bıçakları için bileme taşları";"-";50
+"null";"6804.23.00.00.19";" - - - Diğerleri";"-";50
+"null";"6804.30";" - El ile bilemeye veya parlatmaya mahsus taşlar";;
+"null";"6804.30.00.00.11";" - - Aglomere edilmiş aşındırıcılardan olanlar";"-";50
+"null";"6804.30.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"68.05";"Tabii veya suni aşındırıcı toz veya küçük taneler (mesnedi doku-";;
+"null";;"maya elverişli maddelerden, kağıttan, kartondan veya diğer mad-";;
+"null";;"delerden)(kesilerek şekil verilmiş, dikilmiş veya başka şekilde ";;
+"null";;"hazırlanmış olsun olmasın) :";;
+"null";"6805.10.00.00.00";" - Mesnedi sadece dokunmuş mensucattan olanlar";"-";50
+"null";"6805.20.00.00.00";" - Mesnedi sadece kağıt veya karton olanlar";"-";50
+"null";"6805.30.00.00.00";" - Mesnedi diğer maddelerden olanlar";"-";50
+"null";;;;
+"null";"68.06";"Cüruf yünü, kaya yünü ve benzeri mineral yünler; genleştirilmiş";;
+"null";;"vermikülit, genleştirilmiş kil, köpüklü cüruf ve benzeri genleştiril-";;
+"null";;"miş mineral maddeler; mineral maddelerden ısıyı tecrit edici,sesi ";;
+"null";;"tecrit edici veya sesi muhafaza edici eşya ve karışımlar (68.11 ";;
+"null";;"veya 68.12 pozisyonlarıyla 69. fasıla girenler hariç):";;
+"null";"6806.10";" - Cüruf yünü, kaya yünü ve benzeri mineral yünler (bunların bir-";;
+"null";;"   birleriyle olan karışımları dahil) (kütle, yaprak ve rulo halinde): ";;
+"null";"6806.10.00.00.11";" - - Dökme seramik elyaf";"-";50
+"null";"6806.10.00.00.12";" - - Seramik elyaf battaniye";"-";50
+"null";"6806.10.00.00.19";" - - Diğerleri";"-";50
+"null";"6806.20";" - Genleştirilmiş vermikülit, genleştirilmiş kil, köpüklü cüruf ve";;
+"null";;"    benzeri genleştirilmiş mineral maddeler (bunların birbirleriyle";;
+"null";;"    olan karışımları dahil):";;
+"null";"6806.20.10.00.00";" - - Genleştirilmiş kil";"-";50
+"null";" ";" - - Diğerleri";;
+"null";"6806.20.90.00.12";" - - - Genleştirilmiş perlitten blok ürünler";"-";50
+"null";"6806.20.90.00.13";" - - - Genleştirilmiş perlitten harçlar";"-";50
+"null";"6806.20.90.00.18";" - - - Diğerleri";"-";50
+"null";"6806.90";" - Diğerleri";;
+"null";"6806.90.00.00.11";" - - Soğuk tandiş plakaları";"-";50
+"null";"6806.90.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"68.07";"Asfalttan veya benzeri maddelerden eşya (petrol bitümeni veya";;
+"null";;"taşkömürü zifti gibi):";;
+"null";"6807.10.00.00.00";" - Rulo halinde";"   m2";50
+"null";"6807.90.00.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"6808.00.00.00.00";"Bitkisel liflerden, samandan veya ağaç talaşından, ağaç";;
+"null";;"kırpıntılarından,ağaç parçacıklarından, testere talaşından veya ";;
+"null";;"diğer döküntülerden yapılmış panolar, levhalar, karolar, bloklar ";;
+"null";;"ve benzerleri(çimento, alçı ve diğer mineral bağlayıcılarla aglo-";;
+"null";;"mere edilmiş)";"-";75
+"null";;;;
+"null";"68.09";"Alçı ve alçı esaslı bileşiklerden eşya:";;
+"null";;" - Levhalar, plakalar, panolar, karolar ve benzerleri (tezyin edil-";;
+"null";;"   memiş):";;
+"null";"6809.11.00.00.00";" - - Yüzü sadece kağıt veya kartonla kaplanmış veya takviye edil-";;
+"null";;"     miş olanlar";"   m2";100
+"null";"6809.19.00.00.00";" - - Diğerleri";"   m2";100
+"null";"6809.90.00.00.00";" - Diğer eşya";"-";100
+"null";;;;
+"null";"68.10";"Çimentodan, betondan veya suni taştan eşya (takviye edilmiş ";;
+"null";;"olsun olmasın):";;
+"null";;" - Karolar, döşemelik taşlar, tuğlalar ve benzeri eşya:";;
+"null";"6810.11";" - - İnşaat için bloklar ve levhalar :";;
+"null";"6810.11.10.00.00";" - - - Hafif betondan (esası ezilmiş süngertaşı, granüle cüruf vb.) olanlar";"-";75
+"null";;" - - - Diğerleri";;
+"null";"6810.11.90.00.11";" - - - - Suni mermerden olanlar";"-";75
+"null";"6810.11.90.00.19";" - - - - Diğerleri";"-";75
+"null";"6810.19.00.00.00";" - - Diğerleri ";"-";75
+"null";;" - Diğer eşya:";;
+"null";"6810.91.00.00.00";" - - İnşaat mühendisliği ve bina yapımı için prefabrik yapı elemanları ";"-";75
+"null";"6810.99";" - - Diğerleri";;
+"null";"6810.99.00.00.11";" - - - Betondan bordür taşları";"-";75
+"null";"6810.99.00.00.19";" - - - Diğerleri";"-";75
+"null";;;" ";
+"null";"68.11";"Amyantlı çimentodan, selülozlu çimentodan ve benzerlerinden eşya:";" ";
+"null";"6811.40.00.00.00";" - Amyant içerenler ";"-";75
+"null";;" - Amyant içermeyenler:";;
+"null";"6811.81.00.00.00";" - - Oluklu levhalar";"-";75
+"null";"6811.82.00.00.00";" - - Diğer levhalar, panolar, karolar ve benzeri eşya";"-";75
+"null";"6811.89.00.00.00";" - - Diğer eşya";"-";75
+"null";;;;
+"null";"68.12";"İşlenmiş amyant (lif halinde) ; amyant veya amyant ve magnez -";;
+"null";;"yum karbonat esaslı karışımlar; bu karışımlardan veya amyanttan ";;
+"null";;"eşya (iplikler,mensucat, giyim eşyası, başlıklar, ayakkabılar, con-";;
+"null";;"talar gibi) (takviye edilmiş olsun olmasın) (68.11 veya 68.13 pozis-";;
+"null";;"yonları hariç):";;
+"null";"6812.80";" - Krisidolitten olanlar:";;
+"null";"6812.80.10.00.00";" - - İşlenmiş lifler; amyant veya magnezyum karbonat ve amyant esaslı karışımlar";"-";75
+"null";;" - - Diğerleri:";;
+"null";"6812.80.90.10.00";" - - - İplikler";"-";75
+"null";"6812.80.90.20.00";" - - - Dokunmuş veya örme mensucat";"-";75
+"null";"6812.80.90.90.00";" - - - Diğerleri";"-";75
+"null";;" - Diğerleri:";;
+"null";"6812.91.00.00.00";" - - Giyim eşyası, giyim eşyası aksesuarı, ayakkabılar ve başlıklar";"-";75
+"null";"6812.99";" - - Diğerleri:";;
+"null";"6812.99.10.00.00";" - - - İşlenmiş amyant (lif halinde); amyant veya amyant ve magnezyum";;
+"null";;"       karbonat esaslı karışımlar ";"-";75
+"null";"6812.99.90.00.00";" - - - Diğerleri";"-";75
+"null";;;;
+"null";"68.13";"Esası amyant (asbest), mineral maddeler veya selüloz olan, frenler-";;
+"null";;"de ve sürtünmeyi temin edici her türlü cihazda kullanılmak üzere ";;
+"null";;"monte edilmemiş maddeler ve bunların garnitürleri (levhalar,rulo-";;
+"null";;"lar, şeritler, segmanlar,diskler, rondelalar, balatalar gibi) (dokumaya elve-";;
+"null";;"rişli maddeler veya diğer maddelerle birlikte olsun olmasın):";;
+"null";"6813.20";" - Amyant içerenler:";;
+"null";;" - - Fren balataları ve yastıkları:";;
+"null";"6813.20.00.21.00";" - - - Fren balataları";"-";60
+"null";"6813.20.00.29.00";" - - - Diğerleri";"-";60
+"null";"6813.20.00.90.00";" - - Diğerleri";"-";60
+"null";;" - Amyant içermeyenler:";;
+"null";"6813.81";" - - Fren balataları ve yastıkları:";;
+"null";"6813.81.00.10.00";" - - - Fren balataları";"-";60
+"null";"6813.81.00.90.00";" - - - Diğerleri";"-";60
+"null";"6813.89.00.00.00";" - - Diğerleri";"-";60
+"null";;;;
+"null";"68.14";"İşlenmiş mika ve mikadan eşya (aglomere edilmiş veya terkip";;
+"null";;"yoluyla elde edilmiş mika dahil) (kağıt, karton veya diğer mad-";;
+"null";;"delerden bir mesnet üzerinde olsun olmasın):";;
+"null";"6814.10.00.00.00";" - Aglomere edilmiş veya terkip yoluyla elde edilmiş mikadan ";;
+"null";;"   levha, yaprak ve şeritler (mesnedi olsun olmasın)";"-";60
+"null";"6814.90.00.00.00";" - Diğerleri";"-";60
+"null";;;;
+"null";"68.15";"Tarifenin başka yerinde belirtilmeyen veya yer almayan taştan ";;
+"null";;"veya diğer mineral maddelerden eşya ( karbon elyaf ve karbon";;
+"null";;"elyafdan eşya ve turbdan eşya dahil):";;
+"null";;" - Karbon elyaf; karbon elyaftan eşya (elektrik işlerinde kullanılanlar hariç); ";;
+"null";;"    Grafit veya diğer karbondan eşya (elektrik işlerinde kullanılanlar hariç):";;
+"null";"6815.11.00.00.00";" - - Karbon elyaf";"-";60
+"null";"6815.12.00.00.00";" - - Karbon elyaftan mensucat";"-";60
+"null";"6815.13.00.00.00";" - - Karbon elyaftan diğer eşya";"-";60
+"null";"6815.19.00.00.00";" - - Diğerleri";"-";60
+"null";"6815.20.00.00.00";" - Turbadan eşya";"-";60
+"null";;" - Diğer eşya:";;
+"null";"6815.91";" - - Magnezit, periklas formunda magneziya, dolomit (dolim formunda dahil)";;
+"null";;"     veya kromit içerenler";;
+"null";"6815.91.00.00.11";" - - - Pişirilmemiş kromit tuğlası";"-";60
+"null";"6815.91.00.00.19";" - - - Diğerleri";"-";60
+"null";"6815.99.00.00.00";" - - Diğerleri";"-";60

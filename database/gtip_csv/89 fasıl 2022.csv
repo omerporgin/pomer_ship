@@ -1,0 +1,100 @@
+﻿"null";"89.01";"Yolcu gemileri, gezinti gemileri, feribotlar, yük gemileri, mavnalar";;
+"null";;"ve insan veya yük taşımaya mahsus benzeri deniz taşıtları:";;
+"null";"8901.10";" - Yolcu gemileri, gezinti gemileri ve esasen insan taşımak üzere";;
+"null";;"    imal edilmiş benzeri deniz taşıtları; her türlü feribotlar:";;
+"null";" ";" - - Denizde seyretmeye mahsus olanlar";;
+"null";"8901.10.10.00.11";" - - - 18 Gros tonilatoyu geçmeyen gezinti gemileri";"Adet";50
+"null";"8901.10.10.00.59";" - - - Diğerleri";"Adet";50
+"null";" ";" - - Diğerleri";;" "
+"null";"8901.10.90.00.11";" - - - Yolcu ve gezinti gemileri";"Adet";50
+"null";"8901.10.90.00.19";" - - - Diğerleri";"Adet";50
+"null";"8901.20";" - Sarnıçlı gemiler (tankerler):";;" "
+"null";"8901.20.10.00.00";" - - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";"8901.20.90.00.00";" - - Diğerleri";"Ct/I";50
+"null";"8901.30";" - Frigorifik deniz taşıtları (8901.20 alt pozisyonundakiler hariç):";;
+"null";"8901.30.10.00.00";" - - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";"8901.30.90.00.00";" - - Diğerleri";"Ct/I";50
+"null";"8901.90";" - Yük taşımaya mahsus diğer deniz taşıtları ve hem insan hem de yük ";;
+"null";;"    taşımaya mahsus diğer deniz taşıtları:";;
+"null";"8901.90.10.00.00";" - - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";"8901.90.90.00.00";" - - Diğerleri";"Ct/I";50
+"null";;;;
+"null";"8902.00";"Balıkçılığa mahsus deniz taşıtları; balıkçılık ürünlerinin işlenmesine, korunmasına ve";;
+"null";;"konserve edilmesine mahsus fabrika gemileri ve diğer deniz taşıtları:";;
+"null";"8902.00.10.00.00";" - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";"8902.00.90.00.00";" - Diğerleri";"Adet";50
+"null";;;;
+"null";"89.03";"Yatlar ve diğer eğlence ve spor amaçlı deniz taşıtları; kürekli kayıklar ve ";;
+"null";;"kanolar:";;
+"null";;" - Şişirilebilir (sert karinalı şişirilebilir dahil) olanlar:";;
+"null";"8903.11.00.00.00";" - - Bir motorla donatılmış veya takılmak üzere tasarlanmış, yüksüz (net) ağırlığı ";;
+"null";;"    (motor hariç) 100 kg'ı geçmeyenler";"Adet";50
+"null";"8903.12.00.00.00";" - - Bir motorla kullanılmak üzere tasarlanmamış ve yüksüz (net) ağırlığı  ";;
+"null";;"    100 kg'ı geçmeyenler";"Adet";50
+"null";"8903.19.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" -Yelkenli tekneler (yardımcı motoru olsun olmasın) (şişirilebilir olanlar hariç) :";;
+"null";"8903.21.00.00.00";" - - Uzunluğu 7,5 m.yi geçmeyenler";"Adet";50
+"null";"8903.22";" - - Uzunluğu 7,5 m.yi geçen fakat 24 m geçmeyenler:";;
+"null";"8903.22.10.00.00";" - - - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";"8903.22.90.00.00";" - - - Diğerleri:";"Adet";50
+"null";"8903.23";" - - Uzunluğu 24 m.yi geçenler";;
+"null";"8903.23.10.00.00";" - - - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";"8903.23.90.00.00";" - - - Diğerleri:";"Adet";50
+"null";;" - Motorbotlar (dıştan takma motoru olanlar hariç) (şişirilebilir olanlar hariç):";;
+"null";"8903.31.00.00.00";" - - Uzunluğu 7,5 m.yi geçmeyenler";"Adet";50
+"null";"8903.32";" - - Uzunluğu 7,5 m.yi geçen fakat 24 m geçmeyenler:";;
+"null";"8903.32.10.00.00";" - - - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";"8903.32.90.00.00";" - - - Diğerleri:";"Adet";50
+"null";"8903.33";" - - Uzunluğu 24 m.yi geçenler";;
+"null";"8903.33.10.00.00";" - - - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";"8903.33.90.00.00";" - - - Diğerleri:";"Adet";50
+"null";;" - Diğerleri:";;
+"null";"8903.93";" - - Uzunluğu 7,5 m.yi geçmeyenler";;
+"null";"8903.93.10.00.00";" - - - Birim ağırlığı 100 kg.ı geçmeyenler";"Adet";50
+"null";"8903.93.90.00.00";" - - - Diğerleri:";"Adet";50
+"null";"8903.99";" - - Diğerleri:";;" "
+"null";;" - - - Birim ağırlığı 100 kg.ı geçmeyenler";;
+"null";"8903.99.10.00.11";" - - - - Kürekli kayık ve kanolar";"Adet";50
+"null";"8903.99.10.00.19";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";;" "
+"null";"8903.99.99.00.11";" - - - - Kürekli kayık ve kanolar";"Adet";50
+"null";"8903.99.99.00.19";" - - - - Diğerleri";"Adet";50
+"null";;;;
+"null";"8904.00";"Römorkörler ve itici gemiler:";;
+"null";"8904.00.10.00.00";" - Römorkörler";"Adet";30
+"null";;" - İtici gemiler:";;
+"null";"8904.00.91.00.00";" - - Denizde seyretmeye mahsus olanlar";"Adet";30
+"null";"8904.00.99.00.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"89.05";"Fener gemileri, yangın söndürme gemileri,tarak gemileri, yüzer ";;
+"null";;"vinçler ve esas görevine göre sefer hizmetleri ikinci derecede olan";;
+"null";;"diğer deniz taşıtları; yüzer havuzlar; yüzer veya dalabilen sondaj ve ";;
+"null";;"üretim platformları:";;
+"null";"8905.10";" - Tarak gemileri:";;
+"null";"8905.10.10.00.00";" - - Denizde seyretmeye mahsus olanlar";"Adet";30
+"null";"8905.10.90.00.00";" - - Diğerleri";"Adet";30
+"null";"8905.20.00.00.00";" - Yüzer veya dalabilen sondaj ve üretim platformları";"Adet";40
+"null";"8905.90";" - Diğerleri:";;" "
+"null";"8905.90.10.00.00";" - - Denizde seyretmeye mahsus olanlar";"Adet";30
+"null";"8905.90.90.00.00";" - - Diğerleri";"Adet";30
+"null";;;;
+"null";"89.06";"Diğer deniz taşıtları (savaş gemileri ve kurtarma gemileri dahil, kürekli";;
+"null";;"olanlar hariç) :";;
+"null";"8906.10.00.00.00";" - Savaş gemileri";"Adet";50
+"null";"8906.90";" - Diğerleri:";;
+"null";"8906.90.10.00.00";" - - Denizde seyretmeye mahsus olanlar";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";"8906.90.91.00.00";" - - - Birim ağırlığı 100 kg.ı geçmeyenler";"Adet";50
+"null";"8906.90.99.00.00";" - - - Diğerleri";"Adet";50
+"null";;;;
+"null";"89.07";"Diğer yüzer araçlar  (sallar,tanklar, coffer -damlar, yükleme,";;
+"null";;"boşaltma platformları, şamandıralar ve işaret kuleleri gibi):";;
+"null";"8907.10.00.00.00";" - Şişirilebilir sallar";"Adet";40
+"null";"8907.90";" - Diğerleri";;" "
+"null";"8907.90.00.00.11";" - - Metalden olanlar";"Adet";40
+"null";"8907.90.00.00.16";" - - Ahşap ve diğer maddelerden olanlar";"Adet";40
+"null";;;;" "
+"null";"8908.00";"Sökülecek deniz taşıtları, suda yüzen sökülecek diğer araçlar:";;" "
+"null";"8908.00.00.10.00";" - Sökülecek deniz taşıtları";"-";0
+"null";"8908.00.00.20.00";" - Suda yüzen sökülecek diğer araçlar";"-";40
+;;;;" "

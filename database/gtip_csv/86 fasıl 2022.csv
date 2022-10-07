@@ -1,0 +1,92 @@
+﻿"null";"86.01";"Elektrikli lokomotifler (elektrik enerjisini dışarıdan alanlar veya";;
+"null";;"elektrik akümülatörlü olanlar) :";;
+"null";"8601.10.00.00.00";" - Elektrik enerjisini dışarıdan alanlar";"Adet";20
+"null";"8601.20.00.00.00";" - Elektrik akümülatörlü olanlar";"Adet";20
+"null";;;;
+"null";"86.02";"Diğer lokomotifler; lokomotif tenderler:";;
+"null";"8602.10.00.00.00";" - Dizel elektrikli lokomotifler";"-";20
+"null";"8602.90";" - Diğerleri :";;
+"null";"8602.90.00.00.11";" - - Dizel motorlu lokomotifler";"-";20
+"null";"8602.90.00.00.12";" - - Buharlı lokomotifler";"-";20
+"null";"8602.90.00.00.13";" - - Tenderler";"-";20
+"null";"8602.90.00.00.19";" - - Diğerleri";"-";20
+"null";;;;
+"null";"86.03";"Kendinden hareketli demiryolu veya tramvay vagonları (86.04 ";;
+"null";;"pozisyonuna girenler hariç):";;
+"null";"8603.10.00.00.00";" - Elektrik enerjisini dışarıdan alanlar";"Adet";20
+"null";"8603.90.00.00.00";" - Diğerleri";"Adet";20
+"null";;;;
+"null";"8604.00";"Demiryolu veya tramvayların bakım veya servisine ait taşıtlar (ken-";;
+"null";;"dinden hareketli olsun olmasın) (atölye vagonları, vinçli vagonlar, ";;
+"null";;"balast sıkıştırıcılarıyla donatılmış vagonlar, hat döşeyiciler, dene-";;
+"null";;"me vagonları ve drezinler gibi) :";;
+"null";"8604.00.00.00.11";"- Atölye vagonları";"Adet";30
+"null";"8604.00.00.00.12";"- Vinçli vagonlar";"Adet";30
+"null";"8604.00.00.00.13";"- Balast sıkıştırıcılarıyla donatılmış vagonlar";"Adet";30
+"null";"8604.00.00.00.14";"- Hat döşeyiciler";"Adet";30
+"null";"8604.00.00.00.15";"- Motorlu drezinler";"Adet";30
+"null";"8604.00.00.00.16";"- Motorsuz drezinler";"Adet";30
+"null";"8604.00.00.00.17";"- Kar küreme makinaları";"Adet";30
+"null";"8604.00.00.00.19";"-  Diğerleri";"Adet";30
+"null";;;;
+"null";"8605.00";"Kendinden hareketli olmayan demiryolu veya tramvay yolcu va-";;
+"null";;"gonları; kendinden hareketli olmayan bagaj furgonları, posta va-";;
+"null";;"gonları ve diğer özel amaçlı demiryolu ve tramvay vagonları (86.04 ";;
+"null";;"pozisyonuna girenler hariç) :";;
+"null";"8605.00.00.00.11";"- Yolcu vagonları";"Adet";30
+"null";"8605.00.00.00.19";"- Diğerleri";"Adet";30
+"null";;;;
+"null";"86.06";"Kendinden hareketli olmayan yük taşımaya mahsus demiryolu ";;
+"null";;"veya tramvay vagonları:";;
+"null";"8606.10.00.00.00";" - Sarnıçlı vagonlar ve benzerleri";"Adet";30
+"null";"8606.30.00.00.00";" - Kendinden boşaltma tertibatlı vagonlar (8606.10 alt pozisyonuna";;
+"null";;"   girenler hariç)";"Adet";30
+"null";;" - Diğerleri:";;
+"null";"8606.91";" - - Örtülü veya kapalı olanlar:";;
+"null";"8606.91.10.00.00";" - - - Yüksek radyoaktif maddelerin taşınması için özel olarak ";;
+"null";;"        yapılmış olanlar";"Adet";30
+"null";;" - - - Diğerleri :";;
+"null";"8606.91.80.00.11";" - - - - İzoterm vagonlar";"Adet";30
+"null";"8606.91.80.00.12";" - - - - Frigorifik vagonlar";"Adet";30
+"null";"8606.91.80.00.19";" - - - - Diğerleri";"Adet";30
+"null";"8606.92.00.00.00";" - - Açık olanlar (sabit kenarlı olup yüksekliği 60 cm.yi geçenler)";"Adet";30
+"null";"8606.99.00.00.00";" - - Diğerleri";"Adet";30
+"null";;;;
+"null";"86.07";"Demiryolu taşıtlarının veya tramvayların aksam ve parçaları:";;
+"null";;" - Bojiler, bissel bojiler, dingiller ve tekerlekler ve bunların aksam ";;
+"null";;"    ve parçaları:";;
+"null";"8607.11.00.00.00";" - - Çekici bojiler ve bissel bojiler";"-";10
+"null";"8607.12.00.00.00";" - - Diğer bojiler ve bissel bojiler";"-";10
+"null";"8607.19";" - - Diğerleri (aksam ve parçalar dahil):";;
+"null";"8607.19.10.00.00";" - - - Dingiller (monte edilmiş veya edilmemiş); tekerlekler ve bunların";;
+"null";;"      aksam ve parçaları";"-";10
+"null";"8607.19.90.00.00";" - - - Bojiler, bissel bojiler ve benzerlerinin aksam ve parçaları";"-";10
+"null";;" - Frenler ve bunların aksam ve parçaları:";" ";
+"null";"8607.21";" - - Havalı frenler ve bunların aksam ve parçaları:";" ";
+"null";"8607.21.10.00.00";" - - - Demir döküm veya çelik dökümden olanlar";"-";10
+"null";"8607.21.90.00.00";" - - - Diğerleri";"-";10
+"null";"8607.29.00.00.00";" - - Diğerleri";"-";10
+"null";"8607.30.00.00.00";" - Cer kancaları ve diğer koşum takımları, müsademe tamponları,";" ";
+"null";;"    bunların aksam ve parçaları";"-";10
+"null";;" - Diğerleri:";" ";
+"null";"8607.91";" - - Lokomotiflere ait olanlar:";" ";
+"null";"8607.91.10.00.00";" - - - Dingil kutuları ve bunların aksam ve parçaları";"-";10
+"null";"8607.91.90.00.00";" - - - Diğerleri";"-";10
+"null";"8607.99";" - - Diğerleri:";" ";
+"null";"8607.99.10.00.00";" - - - Dingil kutuları ve bunların aksam ve parçaları";"-";10
+"null";"8607.99.80.00.00";" - - - Diğerleri";"-";10
+"null";;;;
+"null";"8608.00";"Demiryolu veya tramvay hatlarında kullanılan sabit malzeme;";;
+"null";;"demiryolları, tramvaylar, karayolları, dahili su yolları, park yerleri,";;
+"null";;"liman tesisleri veya hava limanları için mekanik (elektro mekanik";;
+"null";;"dahil) işaret, emniyet veya trafik kontrol ve kumanda cihazları;";;
+"null";;"bunların aksam ve parçaları:";;
+"null";"8608.00.00.10.00";" -  Elektrik motorlu olanlar ve bunların aksam ve parçaları";"-";15
+"null";"8608.00.00.90.00";" -  Diğerleri";"-";25
+"null";;;;
+"null";"8609.00";"Bir veya daha fazla taşıma şekline göre özel olarak yapılmış ve";;
+"null";;"donatılmış konteynerler (sıvıların taşınmasına mahsus konteynerler";;
+"null";;"dahil):";;
+"null";"8609.00.10.00.00";" - Radyoaktif maddelerin taşınmasında kullanılan radyasyondan ";;
+"null";;"   korunmak için kurşunla kaplanmış konteynerler (EURATOM)";"Adet";30
+"null";"8609.00.90.00.00";" - Diğerleri";"Adet";30

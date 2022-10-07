@@ -1,0 +1,115 @@
+﻿"null";"49.01";"Kitaplar, broşürler, risaleler ve benzeri matbuat (ayrı ayrı";;
+"null";;"sayfalar halinde olsun olmasın):";;
+"null";"4901.10";" - Ayrı ayrı sayfalar halinde (katlanmış olsun olmasın):";;
+"null";"4901.10.00.10.00";" - - Türkçe basılmış okul kitapları";"-";25
+"null";" ";" - - Türkçe basılmış diğerleri";;
+"null";"4901.10.00.20.11";" - - - Türk kültürü ile ilgili Türkçe basılmış eserler";"-";25
+"null";"4901.10.00.20.12";" - - - Türk kültürü ile ilgili olmayan Türkçe basılmış eserler";"-";25
+"null";"4901.10.00.20.19";" - - - Diğerleri";"-";25
+"null";" ";" - - Yabancı dilde basılmış kitap ve periyodik olmayan mecmualar";" ";
+"null";"4901.10.00.30.11";" - - - Okul kitapları, teknik, ilmi, edebi ve sanata ait kitaplar ";"-";0
+"null";"4901.10.00.30.19";" - - - Diğer kitaplar ";"-";0
+"null";"4901.10.00.30.21";" - - - Periyodik olmayan mecmualar";"-";0
+"null";" ";" - - Yabancı dilde basılmış diğerleri";" ";
+"null";"4901.10.00.90.11";" - - - Türk kültürü ile ilgili periyodik yayınlar";"-";0
+"null";"4901.10.00.90.19";" - - - Diğerleri";"-";0
+"null";;" - Diğerleri:";" ";
+"null";"4901.91";" - - Sözlükler ve ansiklopediler (fasikül halinde olsun olmasın):";" ";
+"null";" ";" - - - Türkçe basılmış olanlar";" ";
+"null";"4901.91.00.10.11";" - - - - Sözlükler";"-";25
+"null";"4901.91.00.10.12";" - - - - Ansiklopediler";"-";25
+"null";" ";" - - - Diğerleri";" ";
+"null";"4901.91.00.90.11";" - - - - Sözlükler";"-";0
+"null";"4901.91.00.90.12";" - - - - Ansiklopediler";"-";0
+"null";"4901.99";" - - Diğerleri :";" ";
+"null";"4901.99.00.10.00";" - - - Türkçe basılmış okul kitapları";"-";25
+"null";"4901.99.00.20.00";" - - - Reklam amacı ile yayınlanan gazete ve periyodik yayınlar";"-";60
+"null";"4901.99.00.30.00";" - - - Daktilo edilmiş metinler";"-";0
+"null";;" - - - Yabancı dilde basılmış kitap ve periyodik olmayan mecmualar";" ";
+"null";"4901.99.00.40.11";" - - - - Okul kitapları, teknik, ilmi ve sanata ait kitaplar";"-";0
+"null";"4901.99.00.40.19";" - - - - Diğer kitaplar";"-";0
+"null";"4901.99.00.40.21";" - - - - Periyodik olmayan mecmualar";"-";0
+"null";"4901.99.00.90.00";" - - - Diğerleri";"-";25
+"null";;;" ";
+"null";"49.02";"Gazeteler ve periyodik yayınlar (resimli olsun olmasın veya reklam";" ";
+"null";;"içersin içermesin):";" ";
+"null";"4902.10";" - Haftada en az dört kere çıkanlar :";" ";
+"null";"4902.10.00.10.00";" - - Türkçe basılmış olanlar";"-";50
+"null";"4902.10.00.20.00";" - - Her dilde moda mecmuaları";"-";50
+"null";"4902.10.00.30.00";" - - Reklam amaçlı olanlar";"-";60
+"null";;" - - Diğerleri";" ";
+"null";"4902.10.00.90.11";" - - - Siyasi ve ticari gazeteler ";"-";0
+"null";"4902.10.00.90.12";" - - - Teknik, ilmi, mesleki ve sanata ait gazeteler ";"-";0
+"null";"4902.10.00.90.19";" - - - Diğerleri";"-";0
+"null";"4902.90";" - Diğerleri:";" ";
+"null";"4902.90.00.10.00";" - -  Reklam amaçlı olanlar";"-";"60"
+"null";"4902.90.00.20.00";" - -  Türkçe basılmış olanlar";"-";"50"
+"null";"4902.90.00.30.00";" - -  Her dilde moda mecmuaları";"-";"50"
+"null";"4902.90.00.90.00";" - -  Diğerleri";"-";0
+"null";;;;
+"null";"4903.00";"Çocuklar için resimli albüm veya kitaplar, resim yapmaya veya";;
+"null";;"boyamaya mahsus albümler :";;
+"null";"4903.00.00.10.00";" - Türkçe basılmış olanlar";"-";25
+"null";"4903.00.00.90.00";" - Diğerleri";"-";0
+"null";;;" ";
+"null";"4904.00.00.00.00";"Müzik notaları (basılmış veya el ile yazılmış, resimli veya";" ";
+"null";;"ciltli olsun olmasın)";"-";0
+"null";;;" ";
+"null";"49.05";"Her nevi matbu haritalar ve hidrografik veya benzeri haritalar";" ";
+"null";;"(atlaslar, duvar haritaları, topografya planları ve küreler dahil):";" ";
+"null";"4905.20";" - Kitap halinde";" ";
+"null";"4905.20.00.00.11";" - - Atlaslar";"-";0
+"null";"4905.20.00.00.12";" - - Topoğrafya planları";"-";0
+"null";"4905.20.00.00.13";" - - Deniz haritaları";"-";0
+"null";"4905.20.00.00.19";" - - Diğerleri";"-";0
+"null";"4905.90";" - Diğerleri";" ";
+"null";"4905.90.00.00.11";" - - Duvar haritaları";"-";0
+"null";"4905.90.00.00.12";" - - Atlaslar";"-";0
+"null";"4905.90.00.00.13";" - - Topoğrafya planları";"-";0
+"null";"4905.90.00.00.14";" - - Deniz haritaları";"-";0
+"null";"4905.90.00.00.19";" - - Diğerleri";"-";0
+"null";;;" ";
+"null";"4906.00.00.00.00";"Mimarlık, mühendislik, sınai, ticari, topografik veya benzeri";" ";
+"null";;"amaçlar için planlar ve çizimler (orijinalleri el ile çizilmiş);";" ";
+"null";;"elle yazılmış metinler; hassas kağıt üzerine fotoğrafik reprodüksi-";" ";
+"null";;"yonlar ve bu pozisyonda sayılanların karbon kopyaları";"-";0
+"null";;;;
+"null";"4907.00";"İtibari kıymeti tanınmış olan veya tanınacak olan ülkede tedavülde";;
+"null";;" bulunan veya tedavüle çıkacak olan, kullanılmamış posta pulları,";;
+"null";;"damga ve benzeri pullar; damgalı kağıtlar; banknotlar; çek defterleri;";;
+"null";;"senetler , hisse senedi veya tahviller ve benzeri kıymetli evrak:";;
+"null";"4907.00.10.00.00";" - Posta pulları, damga pulları ve benzeri pullar";"-";60
+"null";"4907.00.30.00.00";" - Banknotlar";"-";0
+"null";;" - Diğerleri:";" ";
+"null";"4907.00.90.10.00";" - - Hisse senedi, tahvilat ve kıymetli evrak";"-";0
+"null";"4907.00.90.90.00";" - - Diğerleri";"-";60
+"null";;;;
+"null";"49.08";"Her nevi çıkartmalar:";;
+"null";"4908.10.00.00.00";" - Cam üzerine tatbik edilenler";"-";60
+"null";"4908.90.00.00.00";" - Diğerleri";"-";60
+"null";;;" ";
+"null";"4909.00";"Matbu veya resimli kartpostallar; tebrik kartları, davetiyeler veya";" ";
+"null";;"teşekkür kartları (resimli, zarflı veya süslemeli olsun olmasın):";" ";
+"null";"4909.00.00.11.00";" - Resimli kartpostallar";"-";"75"
+"null";"4909.00.00.12.00";" - Reklam kartpostalları";"-";"60"
+"null";"4909.00.00.19.00";" - Diğerleri";"-";"75"
+"null";;;" ";
+"null";"4910.00.00.00.00";"Matbu her türlü takvim (blok halinde takvimler dahil)";"-";25
+"null";;;;
+"null";"49.11";"Matbu diğer yayınlar (matbu resimler ve fotoğraflar dahil) :";;
+"null";"4911.10";" - Ticari reklam yayınları, katologlar ve benzerleri :";;
+"null";"4911.10.10.00.00";" - - Ticari kataloglar";"-";60
+"null";"4911.10.90.00.00";" - - Diğerleri";"-";60
+"null";;" - Diğerleri:";;
+"null";"4911.91";" - - Resimler, gravürler ve fotoğraflar:";;
+"null";" ";" - - - Eğitim ve öğretim ile ilgili olanlar ";;
+"null";"4911.91.00.10.11";" - - - - Resimler";"-";0
+"null";"4911.91.00.10.12";" - - - - Gravürler";"-";0
+"null";"4911.91.00.10.13";" - - - - Fotoğraflar";"-";0
+"null";"4911.91.00.90.00";" - - - Diğerleri";"-";60
+"null";"4911.99";" - - Diğerleri:";;
+"null";;" - - - Eğitim ve öğretim ile ilgili olanlar ";;
+"null";"4911.99.00.10.11";" - - - - Planlar ve levhalar";"-";0
+"null";"4911.99.00.10.12";" - - - - Yabancı dilde basılmış her nevi kataloglar ve prospektüsler";"-";0
+"null";"4911.99.00.10.19";" - - - - Diğerleri";"-";0
+"null";"4911.99.00.90.00";" - - - Diğerleri";"-";60

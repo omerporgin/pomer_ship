@@ -1,0 +1,95 @@
+﻿"null";"8801.00";"Balonlar ve hava gemileri; planörler, delta kanatlı planörler ve ";;
+"null";;"motorsuz diğer hava taşıtları:";;
+"null";"8801.00.10.00.00";" - Balonlar ve hava gemileri; planörler ve delta kanatlı planörler ";"Adet";5
+"null";"8801.00.90.00.00";" - Diğerleri";"Adet";5
+"null";;;;
+"null";"88.02";"Diğer hava taşıtları (helikopterler, uçaklar gibi) (88.06 pozisyonundaki";;
+"null";;" insansız hava taşıtları hariç); uzay araçları (uydular dahil), uzay ";;
+"null";;"araçlarını fırlatıcı araçlar ve yörünge-altı araçları:";;
+"null";;" - Helikopterler:";;
+"null";"8802.11.00.00.00";" - - Boş haldeki ağırlıkları 2000 kg.ı geçmeyenler";"Adet";5
+"null";"8802.12.00.00.00";" - - Boş haldeki ağırlıkları 2000 kg.ı geçenler";"Adet";5
+"null";"8802.20";" - Uçaklar ve diğer hava taşıtları (boş haldeki ağırlıkları 2000 kg.ı";;
+"null";;"   geçmeyenler):";;
+"null";"8802.20.00.10.00";" - - Zirai mücadelede ilaçlama aracı olarak kullanılmak üzere ithal olunan";;
+"null";;"        özel yapıdaki uçaklar ";"Adet";0
+"null";"8802.20.00.20.00";" - - Yolcu taşımaya mahsus olanlar";"Adet";5
+"null";"8802.20.00.90.00";" - - Diğerleri";"Adet";5
+"null";"8802.30";" - Uçaklar ve diğer hava taşıtları (boş haldeki ağırlıkları 2000 kg.ı";;
+"null";;"   geçen fakat 15000 kg.ı geçmeyenler):";;
+"null";"8802.30.00.10.00";" - - Zirai mücadelede ilaçlama aracı olarak kullanılmak üzere ithal olunan";;
+"null";;"        özel yapıdaki uçaklar ";"Adet";0
+"null";"8802.30.00.20.00";" - -Yolcu taşımaya mahsus olanlar";"Adet";5
+"null";"8802.30.00.90.00";" - - Diğerleri";"Adet";5
+"null";"8802.40";" - Uçaklar ve diğer hava taşıtları (boş haldeki ağırlıkları 15000 kg.ı";;
+"null";;"   geçenler):";;
+"null";"8802.40.00.10.00";" - - Yolcu taşımaya mahsus olanlar";"Adet";5
+"null";"8802.40.00.90.00";" - - Diğerleri";"Adet";5
+"null";"8802.60";" - Uzay araçları (uydular dahil) ve uzay araçlarını fırlatıcı araçlar";" ";
+"null";;"   ve yörünge-altı araçları:";;
+"null";;" - - Uzay araçları (uydular dahil):";;
+"null";"8802.60.11.00.00";" - - - Telekomünikasyon uyduları";"Adet";5
+"null";"8802.60.19.00.00";" - - - Diğerleri";"Adet";5
+"null";"8802.60.90.00.00";" - - Uzay araçlarını fırlatıcı araçlar ve yörünge-altı araçları";"Adet";5
+"null";;;;
+"null";"[88.03]";;;
+"null";;;;
+"null";"8804.00.00.00.00";"Paraşütler (sevkedilebilir paraşütler ve paragliderler dahil) ve roto-";" ";
+"null";;"şütler; bunların aksam, parça ve aksesuarı";"-";5
+"null";;;;
+"null";"88.05";"Hava taşıtlarını fırlatma cihaz ve tertibatı ve hava taşıtlarının iniş ";" ";
+"null";;"cihaz ve tertibatı ve benzeri cihaz ve tertibat; yerde uçuş eğitimi ";" ";
+"null";;"yapmaya mahsus cihazlar; bunların aksam ve parçaları:";" ";
+"null";"8805.10";" - Hava taşıtlarının fırlatma cihaz ve tertibatı ve bunların aksam ve";;
+"null";;"   parçaları; hava taşıtlarının iniş cihaz ve tertibatı ve bunların";;
+"null";;"   aksam ve parçaları:";;
+"null";" ";" - - Hava taşıtlarının fırlatma cihaz ve tertibatı ve bunların aksam ve";;
+"null";;"      parçaları";;
+"null";"8805.10.10.00.11";" - - - Hava taşıtlarını fırlatma cihaz ve tertibatı";"-";5
+"null";"8805.10.10.00.15";" - - - Aksam ve parçaları";"-";5
+"null";"8805.10.90.00.00";" - - Diğerleri";"-";5
+"null";;" - Yerde uçus eğitimi yapmaya mahsus cihazlar ve bunların aksam";" ";
+"null";;"    ve parçaları:";" ";
+"null";"8805.21.00.00.00";" - - Hava muharebe simulatörü ve bunların parçaları ";"-";5
+"null";"8805.29.00.00.00";" - - Diğerleri";"-";5
+"null";;;;
+"null";"88.06";"İnsansız hava taşıtları:";;
+"null";"8806.10";" - Yolcu taşımak için dizayn edilmiş olanlar: ";;
+"null";"8806.10.10.00.00";" - - Boş haldeki ağırlıkları 2000 kg.ı geçmeyenler";"Adet";5
+"null";"8806.10.90.00.00";" - - Boş haldeki ağırlıkları 2000 kg.ı geçenler";"Adet";5
+"null";;" - Diğerleri, sadece uzaktan kumanda ile uçuş yapanlar:";;
+"null";"8806.21";" - - Maksimum kalkış ağırlığı 250 g geçmeyenler:";;
+"null";"8806.21.10.00.00";" - - - Hareketli ve sabit görüntülerin yakalanması ve kaydedilmesi için 8525.89 ";;
+"null";;"      alt pozisyonunda yer alan cihazlarla kalıcı olarak entegre edilerek donatılmış";;
+"null";;"      çoklu rotorlar ";"Adet";5
+"null";"8806.21.90.00.00";" - - - Diğerleri";"Adet";5
+"null";"8806.22";" - - Maksimum kalkış ağırlığı 250 g geçen fakat 7 kg geçmeyenler:";;
+"null";"8806.22.10.00.00";" - - - Hareketli ve sabit görüntülerin yakalanması ve kaydedilmesi için 8525.89 ";;
+"null";;"      alt pozisyonunda yer alan cihazlarla kalıcı olarak entegre edilerek donatılmış";;
+"null";;"      çoklu rotorlar ";"Adet";5
+"null";"8806.22.90.00.00";" - - - Diğerleri";"Adet";5
+"null";"8806.23.00.00.00";" - - Maksimum kalkış ağırlığı 7 kg geçen fakat 25 kg geçmeyenler";"Adet";5
+"null";"8806.24.00.00.00";" - - Maksimum kalkış ağırlığı 25 kg geçen fakat 150 kg geçmeyenler";"Adet";5
+"null";"8806.29";" - - Diğerleri:";;
+"null";"8806.29.10.00.00";" - - - Boş haldeki ağırlıkları 2000 kg.ı geçmeyenler";"Adet";5
+"null";"8806.29.20.00.00";" - - - Boş haldeki ağırlıkları 2000 kg.ı geçenler";"Adet";5
+"null";;" - Diğerleri:";;
+"null";"8806.91.00.00.00";" - - Maksimum kalkış ağırlığı 250 g geçmeyenler";"Adet";5
+"null";"8806.92.00.00.00";" - - Maksimum kalkış ağırlığı 250 g geçen fakat 7 kg geçmeyenler";"Adet";5
+"null";"8806.93.00.00.00";" - - Maksimum kalkış ağırlığı 7 kg geçen fakat 25 kg geçmeyenler";"Adet";5
+"null";"8806.94.00.00.00";" - - Maksimum kalkış ağırlığı 25 kg geçen fakat 150 kg geçmeyenler";"Adet";5
+"null";"8806.99";" - - Diğerleri:";;
+"null";"8806.99.10.00.00";" - - - Boş haldeki ağırlıkları 2000 kg.ı geçmeyenler";"Adet";5
+"null";"8806.99.20.00.00";" - - - Boş haldeki ağırlıkları 2000 kg.ı geçenler";"Adet";5
+"null";;;;
+"null";"88.07";"88.01, 88.02 veya 88.06 Pozisyonlarındaki hava taşıtlarının aksam ve parçaları:";;
+"null";"8807.10.00.00.00";" - Pervaneler ve rotorlar ve bunların aksam ve parçaları";"-";5
+"null";"8807.20.00.00.00";" - İniş takımları ve bunların aksam ve parçaları";"-";5
+"null";"8807.30.00.00.00";" - Uçak, helikopter veya insansız hava taşıtlarının díğer aksam ve parçaları";"-";5
+"null";"8807.90";" - Diğerleri:";;
+"null";"8807.90.10.00.00";" - - Uçurtmalı balonlara ait olanlar";"-";5
+"null";;" - - Uzay araçlarına (uydular dahil) ait olanlar:";;
+"null";"8807.90.21.00.00";" - - - Telekomünikasyon uydularına ait olanlar";"-";5
+"null";"8807.90.29.00.00";" - - - Diğerleri";"-";5
+"null";"8807.90.30.00.00";" - - Uzay araçlarını fırlatıcı araçlar ve yörünge-altı araçlarına ait olanlar";"-";5
+"null";"8807.90.90.00.00";" - - Diğerleri";"-";5

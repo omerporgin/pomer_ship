@@ -1,0 +1,221 @@
+﻿"null";"94.01";"Oturmaya mahsus mobilyalar ( 94.02 pozisyonundakiler hariç)";;
+"null";;"(yatak haline getirilebilir türden olsun olmasın) ve bunların aksam";;
+"null";;"ve parçaları:";;
+"null";"9401.10";" - Hava taşıtlarında kullanılan türden oturmaya mahsus mobilyalar:";;
+"null";"9401.10.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar (deriyle ";;
+"null";;"      kaplanmamış) ";"-";100
+"null";"9401.10.00.90.00";" - - Diğerleri";"-";100
+"null";"9401.20.00.00.00";" - Motorlu taşıtlarda kullanılan türden oturmaya mahsus mobilyalar";"-";100
+"null";;" - Yüksekliği ayarlanabilen oturmaya mahsus döner koltuk ve ";;
+"null";;"    sandalyeler:";;
+"null";"9401.31.00.00.00";" - - Ahşap olanlar";"-";100
+"null";"9401.39";" - - Diğerleri:";;
+"null";"9401.39.00.00.12";" - - - Adi metallerden koltuk ve sandalyeler";"-";100
+"null";"9401.39.00.00.19";" - - - Diğer maddelerden koltuk ve sandalyeler";"-";100
+"null";;" - Yatak haline getirilebilen oturmaya mahsus mobilyalar (kamp ";" ";
+"null";;"   veya bahçede kullanılanlar hariç)";;
+"null";"9401.41.00.00.00";" - - Ahşap olanlar";"-";100
+"null";"9401.49.00.00.00";" - - Diğerleri";"-";100
+"null";;" -  Kamış, sepetçi söğüdü, bambu veya benzeri ";" ";
+"null";;"    maddelerden oturmaya mahsus mobilyalar:";;
+"null";"9401.52.00.00.00";" - - Bambudan";"-";100
+"null";"9401.53.00.00.00";" - - Hintkamışından";"-";100
+"null";"9401.59.00.00.00";" - - Diğerleri ";"-";100
+"null";;" - Ahşap iskeletli oturmaya mahsus diğer mobilyalar:";" ";
+"null";"9401.61";" - - İçleri doldurulmuş, kaplanmış  olanlar:";;
+"null";"9401.61.00.00.11";" - - - Çocuklar için olanlar";"-";100
+"null";"9401.61.00.00.19";" - - - Diğerleri";"-";100
+"null";"9401.69";" - - Diğerleri:";;
+"null";"9401.69.00.00.11";" - - - Çocuklar için olanlar";"-";100
+"null";"9401.69.00.00.19";" - - - Diğerleri";"-";100
+"null";;" - Metal iskeletli oturmaya mahsus diğer mobilyalar:";" ";
+"null";"9401.71";" - - İçleri doldurulmuş, kaplanmış  olanlar:";;
+"null";"9401.71.00.00.11";" - - - Çocuklar için olanlar";"-";100
+"null";"9401.71.00.00.19";" - - - Diğerleri";"-";100
+"null";"9401.79";" - - Diğerleri:";;
+"null";"9401.79.00.00.11";" - - - Çocuklar için olanlar";"-";100
+"null";"9401.79.00.00.19";" - - - Diğerleri";"-";100
+"null";"9401.80";" - Oturmaya mahsus diğer mobilyalar:";;
+"null";"9401.80.00.00.11";" - - Çocuklar için olanlar";"-";100
+"null";"9401.80.00.00.19";" - - Diğerleri";"-";100
+"null";;" - Aksam ve parçalar:";" ";
+"null";"9401.91";" - - Ahşap olanlar:";;
+"null";"9401.91.10.00.00";" - - - Hava taşıtlarında kullanılan türden oturmaya mahsus mobilyalara ";" ";
+"null";;"      ait olanlar";"-";100
+"null";"9401.91.90.00.00";" - - - Diğerleri";"-";100
+"null";"9401.99";" - - Diğerleri :";" ";
+"null";"9401.99.10.00.00";" - - - Hava taşıtlarında kullanılan türden oturmaya mahsus mobilyalara ";" ";
+"null";" ";"      ait olanlar";"-";100
+"null";"9401.99.90.00.00";" - - - Diğerleri";"-";100
+"null";;;" ";
+"null";"94.02";"Tıpta, cerrahide, diş hekimliğinde ve veterinerlikte kullanılan ";" ";
+"null";;"mobilyalar (ameliyat masaları, muayene masaları, kliniklerde ";" ";
+"null";;"kullanılmaya mahsus mekanik tertibatlı karyolalar, dişci koltukları), ";" ";
+"null";;"döndürme, yükseltme ve yatırma tertibatlı berber koltukları ve ";"  ";
+"null";;"benzeri koltuklar; bu eşyaların aksam ve parçaları:";" ";
+"null";"9402.10";" - Dişçilik veya berber koltukları veya benzeri koltuklar, bunların aksam";" ";
+"null";;"   ve parçaları";" ";
+"null";"9402.10.00.00.11";" - - Dişçilik koltukları";"-";50
+"null";"9402.10.00.00.19";" - - Diğerleri";"-";50
+"null";"9402.10.00.00.21";" - - Aksam ve parçalar";"-";50
+"null";"9402.90";" - Diğerleri";" ";
+"null";"9402.90.00.00.11";" - - Eğme, döndürme, yükseltme, alçaltma gibi fonksiyonlara haiz mekanik ";" ";
+"null";" ";"      tertibatlı ameliyat masaları";"-";50
+"null";"9402.90.00.00.12";" - - Ortopedik masalar";"-";50
+"null";"9402.90.00.00.13";" - - Mekanik tertibatlı karyolalar";"-";50
+"null";"9402.90.00.00.19";" - - Diğerleri";"-";50
+"null";"9402.90.00.00.21";" - - Aksam ve parçalar";"-";50
+"null";;;" ";
+"null";"94.03";"Diğer mobilyalar ve bunların aksam ve parçaları:";" ";
+"null";"9403.10";" - Bürolarda kullanılan türden metal mobilyalar:";" ";
+"null";;" - - Yüksekliği 80 cm.yi geçmeyenler:";" ";
+"null";"9403.10.51.00.00";" - - - Yazı masaları";"-";100
+"null";"9403.10.58.00.00";" - - - Diğerleri";"-";100
+"null";;" - - Yüksekliği 80 cm.yi 'geçenler:";" ";
+"null";"9403.10.91.00.00";" - - - Kapılı, kanatlı veya sürgülü dolaplar";"-";100
+"null";"9403.10.93.00.00";" - - - Çekmeceli dolaplar, dosya veya fiş dolapları";"-";100
+"null";"9403.10.98.00.00";" - - - Diğerleri";"-";100
+"null";"9403.20";" - Metalden diğer mobilyalar:";" ";
+"null";;" - - Karyolalar:";;
+"null";"9403.20.20.00.11";" - - - Çocuk karyolaları ve beşikler";"-";100
+"null";"9403.20.20.00.19";" - - - Diğerleri";"-";100
+"null";;" - - Diğerleri:";" ";
+"null";"9403.20.80.10.00";" - - - Çinkodan, demir veya çelikten asma yemek dolapları";"-";50
+"null";"9403.20.80.90.00";" - - - Diğerleri";"-";100
+"null";"9403.30";" - Bürolarda kullanılan türden ahşap mobilyalar:";" ";
+"null";;" - - Yüksekliği 80 cm.yi geçmeyenler:";" ";
+"null";"9403.30.11.00.00";" - - - Yazı masaları";"-";100
+"null";"9403.30.19.00.00";" - - - Diğerleri";"-";100
+"null";;" - - Yüksekliği 80 cm.yi geçenler:";;
+"null";"9403.30.91.00.00";" - - - Kapılı, kanatlı veya sürgülü dolaplar; çekmeceli dolaplar, dosya ve";;
+"null";;"        fiş dolapları";"-";100
+"null";"9403.30.99.00.00";" - - - Diğerleri";"-";100
+"null";"9403.40";" - Mutfaklarda kullanılan türden ahşap mobilyalar :";" ";
+"null";"9403.40.10.00.00";" - - Hazır mutfak üniteleri";"-";100
+"null";"9403.40.90.00.00";" - - Diğerleri";"-";100
+"null";"9403.50";" - Yatak odalarında kullanılan türden ahşap mobilyalar:";;
+"null";"9403.50.00.00.11";" - - Çocuk karyolaları ve beşikler";"-";100
+"null";"9403.50.00.00.19";" - - Diğerleri";"-";100
+"null";"9403.60";" - Diğer ahşap mobilyalar:";;
+"null";"9403.60.10.00.00";" - - Yemek odalarında ve oturma odalarında kullanılan türden ahşap ";;
+"null";;"      mobilyalar";"-";100
+"null";"9403.60.30.00.00";" - - Mağazalarda kullanılan türden ahşap mobilyalar";"-";100
+"null";;" - - Diğer ahşap mobilyalar:";;
+"null";"9403.60.90.10.00";" - - - Asma ecza dolapları ve banyolarda kullanılacak türden küçük ";;
+"null";;"       dolaplar";"-";70
+"null";"9403.60.90.90.00";" - - - Diğerleri";"-";100
+"null";"9403.70";" - Plastik maddelerden mobilyalar:";;
+"null";"9403.70.00.00.11";" - - Çocuk karyolaları ve beşikler";"-";100
+"null";"9403.70.00.00.19";" - - Diğerleri";"-";100
+"null";;" - Diğer maddelerden mobilyalar (kamış, sepetçi söğüdü, bambu veya ";;
+"null";;"   benzeri maddelerden olanlar dahil):";;
+"null";"9403.82.00.00.00";" - - Bambudan olanlar ";"-";100
+"null";"9403.83.00.00.00";" - - Hintkamışından";"-";100
+"null";"9403.89.00.00.00";" - - Diğerleri ";"-";100
+"null";;" - Aksam ve parçalar:";" ";
+"null";"9403.91.00.00.00";" - - Ahşap olanlar";"-";100
+"null";"9403.99";" - - Diğerleri:";;
+"null";"9403.99.10.00.00";" - - - Metalden olanlar";"-";100
+"null";"9403.99.90.00.00";" - - - Diğer maddelerden olanlar";"-";100
+"null";;;" ";
+"null";"94.04";"Şilte mesnetleri, yaylarla donatılmış veya gözenekli kauçuk ya da ";" ";
+"null";;"plastikten veya herhangi bir malzemeden dahili olarak donatılmış";"  ";
+"null";;"veya doldurulmuş yatak takımı eşyası ve benzeri eşya (şilteler,";"  ";
+"null";;"yorganlar, yatak kılıfları, yastıklar, puflar, baş yastıkları gibi)";" ";
+"null";;"(kaplanmış olsun olmasın):";"  ";
+"null";"9404.10.00.00.00";" - Şilte mesnetleri";"-";100
+"null";;" - Şilteler:";" ";
+"null";"9404.21";" - - Gözenekli kauçuktan veya plastik maddelerden olanlar ";" ";
+"null";;"      (kaplanmış olsun olmasın):";"  ";
+"null";"9404.21.10.00.00";" - - - Kauçuktan olanlar";"-";100
+"null";"9404.21.90.00.00";" - - - Plastik maddelerden olanlar";"-";100
+"null";"9404.29";" - - Diğer maddelerden olanlar:";" ";
+"null";"9404.29.10.00.00";" - - - Metal yaylı olanlar";"-";100
+"null";"9404.29.90.00.00";" - - - Diğerleri";"-";100
+"null";"9404.30.00.00.00";" - Uyku tulumları";"Adet";100
+"null";"9404.40";" - Yorganlar, yatak örtüleri, yatak kılıfları ve duvetler ";;
+"null";"9404.40.10.00.00";" - - Kuş tüyüyle doldurulmuş olanlar";"-";100
+"null";"9404.40.90.00.00";" - - Diğerleri";"-";100
+"null";"9404.90";" - Diğerleri:";;
+"null";"9404.90.10.00.00";" - - Kuş tüyüyle doldurulmuş olanlar";"-";100
+"null";"9404.90.90.00.00";" - - Diğerleri";"-";100
+"null";;;;
+"null";"94.05";"Tarifenin başka yerinde belirtilmeyen veya yer almayan aydınlat-";;
+"null";;"ma cihazları (projektörler ve sahne projektörleri dahil) ve bunların ";;
+"null";;"aksam ve parçaları; tarifenin başka yerinde belirtilmeyen veya yer";;
+"null";;"almayan sabit bir ışık kaynağına sahip ışıklı panolar, ışıklı isim ";;
+"null";;"tabelaları ve benzer eşya ve bu eşyanın aksam ve parçaları:";;
+"null";;" - Avizeler, tavan ve duvar için aydınlatma cihazları (kamuya açık";;
+"null";;"    alanların ve yolların aydınlatılmasında kullanılanlar hariç):";;
+"null";"9405.11";" - - LED ışık kaynağı ile kullanılmaya mahsus olanlar:";;
+"null";"9405.11.40.00.00";" - - - Plastik veya seramik maddelerden yapılmış olanlar";"-";150
+"null";;" - - - Camdan olanlar:";;
+"null";"9405.11.50.00.11";" - - - - Kristal avizeler";"-";150
+"null";"9405.11.50.00.19";" - - - - Diğerleri";"-";150
+"null";"9405.11.90.00.00";" - - - Diğer maddelerden olanlar";"-";150
+"null";"9405.19";" - - Diğerleri:";;
+"null";"9405.19.40.00.00";" - - - Plastik veya seramik maddelerden yapılmış olanlar";"-";150
+"null";;" - - - Camdan olanlar";;
+"null";"9405.19.50.00.11";" - - - - Kristal avizeler";"-";150
+"null";"9405.19.50.00.19";" - - - - Diğerleri";"-";150
+"null";"9405.19.90.00.00";" - - - Diğer maddelerden olanlar";"-";150
+"null";;" - Masa, yazı masası, yatak odası komodinleri ve benzerlerinin ";;
+"null";;"    üzerine konulan elektrikli lambalar ve ayaklı lambalar:";;
+"null";"9405.21";" - - LED ışık kaynağı ile kullanılmaya mahsus olanlar:";;
+"null";"9405.21.40.00.00";" - - - Plastik veya seramik maddelerden olanlar";"-";150
+"null";"9405.21.50.00.00";" - - - Camdan olanlar";"-";75
+"null";"9405.21.90.00.00";" - - - Diğer maddelerden olanlar";"-";150
+"null";"9405.29";" - - Diğerleri:";;
+"null";"9405.29.40.00.00";" - - - Plastik veya seramik maddelerden olanlar";"-";150
+"null";"9405.29.50.00.00";" - - - Camdan olanlar";"-";150
+"null";"9405.29.90.00.00";" - - - Diğer maddelerden olanlar";"-";150
+"null";;" - Noel ağaçlarında kullanılan türden elektrikli aydınlatıcılar:";;
+"null";"9405.31.00.00.00";" - - LED ışık kaynağı ile kullanılmaya mahsus olanlar";"-";100
+"null";"9405.39.00.00.00";" - - Diğerleri";"-";100
+"null";;" - Elektrikli diğer aydınlatma cihazları:";;
+"null";"9405.41";" - - Fotovoltaik, LED ışık kaynağı ile kullanılmaya mahsus olanlar:";;
+"null";"9405.41.10.00.00";" - - - Projektörler";"-";60
+"null";;" - - - Diğerleri:";;
+"null";"9405.41.31.00.00";" - - - - Plastik maddelerden olanlar:";"-";150
+"null";"9405.41.39.00.00";" - - - - Diğer maddelerden olanlar:";"-";150
+"null";"9405.42";" - - Diğerleri, LED ışık kaynağı ile kullanılmaya mahsus olanlar: ";;
+"null";"9405.42.10.00.00";" - - - Projektörler";"-";60
+"null";;" - - - Diğerleri:";;
+"null";"9405.42.31.00.00";" - - - - Plastik maddelerden olanlar:";"-";150
+"null";"9405.42.39.00.00";" - - - - Diğer maddelerden olanlar:";"-";150
+"null";"9405.49";" - - Diğerleri:";;
+"null";"9405.49.10.00.00";" - - - Projektörler";"-";60
+"null";;" - - - Diğerleri:";;
+"null";"9405.49.40.00.00";" - - - - Plastik maddelerden olanlar:";"-";150
+"null";"9405.49.90.00.00";" - - - - Diğer maddelerden olanlar:";"-";150
+"null";"9405.50.00.00.00";" - Elektrikli olmayan aydınlatma cihazları";"-";150
+"null";;" - Işıklı panolar, ışıklı tabelalar ve ışıklı isim tabelaları ve";;
+"null";;"   benzeri eşya:";;
+"null";"9405.61";" - - LED ışık kaynağı ile kullanılmaya mahsus olanlar";;
+"null";"9405.61.20.00.00";" - - - Plastik maddelerden olanlar";"-";150
+"null";"9405.61.80.00.00";" - - - Diğer maddelerden olanlar";"-";150
+"null";"9405.69";" - - Diğerleri:";;
+"null";"9405.69.20.00.00";" - - - Plastik maddelerden olanlar";"-";150
+"null";"9405.69.80.00.00";" - - - Diğer maddelerden olanlar";"-";150
+"null";;" - Aksam ve parçalar:";;
+"null";"9405.91";" - - Camdan olanlar:";;
+"null";"9405.91.10.00.00";" - - - Elektrikli aydınlatma cihazlarında kullanılan eşya (projektörler ";;
+"null";;"        hariç)";"-";75
+"null";;" - - - Diğerleri:";;
+"null";"9405.91.90.10.00";" - - - - Projektörlere ait olanlar";"-";60
+"null";" ";" - - - - Diğerleri";;
+"null";"9405.91.90.90.11";" - - - - - Lüks lambası camları";"-";75
+"null";"9405.91.90.90.18";" - - - - - Diğerleri";"-";75
+"null";"9405.92.00.00.00";" - - Plastik maddelerden olanlar";"-";150
+"null";"9405.99.00.00.00";" - - Diğerleri";"-";150
+"null";;;;
+"null";"94.06";"Prefabrik yapıIar:";;
+"null";"9406.10.00.00.00";" - Ahşap olanlar";"-";40
+"null";"9406.20.00.00.00";" - Çelikten modüler yapı üniteleri";"-";150
+"null";"9406.90";" - Diğerleri:";;
+"null";"9406.90.10.00.00";" - - Taşınabilir (mobil) evler";"-";150
+"null";;" - - Diğerleri";;
+"null";;" - - - Demir ve çelikten olanlar";;
+"null";"9406.90.31.00.00";" - - - - Seralar";"-";40
+"null";"9406.90.38.00.00";" - - - - Diğerleri";"-";40
+"null";"9406.90.90.00.00";" - - - Diğer maddelerden olanlar";"-";150

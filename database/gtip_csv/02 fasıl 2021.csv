@@ -1,0 +1,457 @@
+﻿"null";"02.01";"Büyükbaş hayvanların eti (taze veya soğutulmuş):";;
+"null";"0201.10.00.00.00";"-  Karkas ve yarım karkas";"-";250
+"null";"0201.20";"-  Diğer kemikli parçalar:";;
+"null";"0201.20.20.00.00";"- - Çeyrek karkas (eşit olarak bölünmüş)";"-";250
+"null";"0201.20.30.00.00";"- - Karkasın ön çeyrekleri (ayrılmamış veya ayrılmış)";"-";250
+"null";"0201.20.50.00.00";"- - Karkasın arka çeyrekleri (ayrılmamış veya ayrılmış)";"-";250
+"null";"0201.20.90.00.00";"- - Diğerleri";"-";250
+"null";"0201.30.00.00.00";"-  Kemiksiz ";"-";250
+"null";;;;
+"null";"02.02";"Büyükbaş hayvanların eti (dondurulmuş):";;
+"null";"0202.10.00.00.00";"-  Karkas ve yarım karkas ";"-";250
+"null";"0202.20";"-  Diğer kemikli parçalar:";;
+"null";"0202.20.10.00.00";"- - Çeyrek karkas (eşit olarak bölünmüş)  ";"-";250
+"null";"0202.20.30.00.00";"- - Karkasın ön çeyrekleri (ayrılmamış veya ayrılmış) ";"-";250
+"null";"0202.20.50.00.00";"- - Karkasın arka çeyrekleri (ayrılmamış veya ayrılmış) ";"-";250
+"null";"0202.20.90.00.00";"- - Diğerleri ";"-";250
+"null";"0202.30";"-  Kemiksiz:";;
+"null";"0202.30.10.00.00";"- - Karkasın ön çeyrekleri (bütün veya en fazla beş parçaya bölünmüş,";;
+"null";;"    her çeyrek karkas dondurulmuş tek bir blok halinde) ; iki blok  ";;
+"null";;"    halinde dondurulmuş, eşit olarak bölünmüş çeyrek parçalar [ bu ";;
+"null";;"    bloklardan biri tam veya en fazla beş parçaya bölünmüş ön çeyrek";;
+"null";;"    parçadan,diğeri tek parça halinde arka çeyrek parçadan (fileto ";;
+"null";;"    hariç) oluşmalıdır.]";"-";250
+"null";"0202.30.50.00.00";"- - Karkasın ön çeyreklerinin döş ve kaburga etleri";"-";250
+"null";"0202.30.90.00.00";"- - Diğerleri ";"-";250
+"null";;;;
+"null";"02.03";"Domuz eti (taze, soğutulmuş veya dondurulmuş):";;
+"null";;"- Taze veya soğutulmuş:";;
+"null";"0203.11";"- - Karkas veya yarım karkas :";;
+"null";"0203.11.10.00.00";"- - - Evcil domuz eti";"-";250
+"null";"0203.11.90.00.00";"- - - Diğerleri ";"-";250
+"null";"0203.12";"- -  But, kol ve bunların parçaları (kemikli):";;
+"null";;"- - - Evcil domuz eti:";;
+"null";"0203.12.11.00.00";"- - - - But ve but parçaları               ";"-";250
+"null";"0203.12.19.00.00";"- - - - Kol ve kol parçaları              ";"-";250
+"null";"0203.12.90.00.00";"- - - Diğerleri                          ";"-";250
+"null";"0203.19";"- -  Diğerleri:";;
+"null";;"- - - Evcil domuz eti:";;
+"null";"0203.19.11.00.00";"- - - - Ön kısım ve bunların parçaları     ";"-";250
+"null";"0203.19.13.00.00";"- - - - Bel kısmı ve bunların parçaları   ";"-";250
+"null";"0203.19.15.00.00";"- - - - Karın ve karın parçaları         ";"-";250
+"null";;"- - - - Diğerleri:";;
+"null";"0203.19.55.00.00";"- - - - - Kemiksiz                          ";"-";250
+"null";"0203.19.59.00.00";"- - - - - Diğerleri                        ";"-";250
+"null";"0203.19.90.00.00";"- - - Diğerleri";"-";250
+"null";;"-  Dondurulmuş:";;
+"null";"0203.21";"- -  Karkas ve yarım karkas:";;
+"null";"0203.21.10.00.00";"- - - Evcil domuz eti              ";"-";250
+"null";"0203.21.90.00.00";"- - - Diğerleri                           ";"-";250
+"null";"0203.22";"- - But, kol ve bunların parçaları (kemikli):";;
+"null";;"- - - Evcil domuz eti:";;
+"null";"0203.22.11.00.00";"- - - - But ve but parçaları               ";"-";250
+"null";"0203.22.19.00.00";"- - - - Kol ve kol parçaları               ";"-";250
+"null";"0203.22.90.00.00";"- - - Diğerleri                            ";"-";250
+"null";"0203.29";"- -  Diğerleri:";;
+"null";;"- - - Evcil domuz eti:";;
+"null";"0203.29.11.00.00";"- - - - Ön kısım ve bunların parçaları      ";"-";250
+"null";"0203.29.13.00.00";"- - - - Bel kısmı ve bunların parçaları    ";"-";250
+"null";"0203.29.15.00.00";"- - - - Karın ve karın parçaları         ";"-";250
+"null";;"- - - - Diğerleri:";;
+"null";"0203.29.55.00.00";"- - - - - Kemiksiz";"-";250
+"null";"0203.29.59.00.00";"- - - - - Diğerleri                          ";"-";250
+"null";"0203.29.90.00.00";"- - - Diğerleri                            ";"-";250
+"null";;;;
+"null";"02.04";"Koyun ve keçi etleri (taze, soğutulmuş veya donduruImuş):";;
+"null";"0204.10.00.00.00";"- Kuzuların karkas ve yarım karkasları (taze veya soğutulmuş) ";"-";250
+"null";;"- Diğer koyun etleri (taze veya soğutulmuş):";;
+"null";"0204.21.00.00.00";"- - Karkas ve yarım karkas";"-";250
+"null";"0204.22 ";"- - Diğer kemikli parçalar:";;
+"null";"0204.22.10.00.00";"- - - Kısa ön çeyrekler  ";"-";250
+"null";"0204.22.30.00.00";"- - - Fileto veya sağrı (tam veya yarım)";"-";250
+"null";"0204.22.50.00.00";"- - - But veya yarım but                  ";"-";250
+"null";"0204.22.90.00.00";"- - - Diğerleri";"-";250
+"null";"0204.23.00.00.00";"- - Kemiksiz";"-";250
+"null";"0204.30.00.00.00";"- Kuzu eti (karkas ve yarım karkas) (dondurulmuş )";"-";250
+"null";;"- Diğer koyun etleri (dondurulmuş):";;
+"null";"0204.41.00.00.00";"- - Karkas ve yarım karkas";"-";250
+"null";"0204.42";"- - Kemikli diğer parçalar:";;
+"null";"0204.42.10.00.00";"- - - Kısa ön çeyrekler";"-";250
+"null";"0204.42.30.00.00";"- - - Fileto veya sağrı (tam veya yarım)";"-";250
+"null";"0204.42.50.00.00";"- - - But veya yarım but";"-";250
+"null";"0204.42.90.00.00";"- - - Diğerleri";"-";250
+"null";"0204.43";"- - Kemiksiz:";;
+"null";"0204.43.10.00.00";"- - - Kuzu eti";"-";250
+"null";"0204.43.90.00.00";"- - - Diğerleri";"-";250
+"null";"0204.50";"- Keçi eti:";;
+"null";;"- - Taze veya soğutulmuş:";;
+"null";"0204.50.11.00.00";"- - - Karkas ve yarım karkas";"-";250
+"null";"0204.50.13.00.00";"- - - Kısa ön çeyrekler";"-";250
+"null";"0204.50.15.00.00";"- - - Fileto veya sağrı (tam veya yarım)";"-";250
+"null";"0204.50.19.00.00";"- - - But veya yarım but";"-";250
+"null";;"- - - Diğerleri:";;
+"null";"0204.50.31.00.00";"- - - - Kemikli parçalar";"-";250
+"null";"0204.50.39.00.00";"- - - - Kemiksiz parçalar";"-";250
+"null";;"- - Dondurulmuş:";;
+"null";"0204.50.51.00.00";"- - - Karkas ve yarım karkas";"-";250
+"null";"0204.50.53.00.00";"- - - Kısa ön çeyrekler";"-";250
+"null";"0204.50.55.00.00";"- - - Fileto veya sağrı (tam veya yarım)";"-";250
+"null";"0204.50.59.00.00";"- - - But veya yarım but";"-";250
+"null";;"- - - Diğerleri:";;
+"null";"0204.50.71.00.00";"- - - - Kemikli parçalar";"-";250
+"null";"0204.50.79.00.00";"- - - - Kemiksiz parçalar";"-";250
+"null";;;;
+"null";"0205.00";"At,eşek,katır veya bardo etleri(taze,soğutulmuş veya dondurulmuş):";;
+"null";;" - Taze veya soğutulmuş";;
+"null";"0205.00.20.00.11";" - - At eti";"-";250
+"null";"0205.00.20.00.19";" - - Eşek, katır ve bardo etleri";"-";250
+"null";;" - Dondurulmuş";;
+"null";"0205.00.80.00.11";" - - At eti";"-";250
+"null";"0205.00.80.00.19";" - - Eşek, katır ve bardo etleri";"-";250
+"null";;;;
+"null";"02.06";"Sığır, domuz, koyun, keçi, at, eşek, katır veya bardoların ";;
+"null";;"yenilen sakatatı (taze,soğutulmuş veya dondurulmuş):";;
+"null";"0206.10";"- Sığır sakatatı (taze veya soğutulmuş):";;
+"null";"0206.10.10.00.00";"- - Eczacılık ürünlerinin imaline mahsus olanlar ";"-";250
+"null";;"- - Diğerleri:";;
+"null";"0206.10.95.00.00";"- - - Kalın ve ince etek";"-";250
+"null";"0206.10.98.00.00";"- - - Diğerleri";"-";250
+"null";;"-  Sığır sakatatı (dondurulmuş):";;
+"null";"0206.21.00.00.00";"- - Diller";"-";250
+"null";"0206.22.00.00.00";"- - Karaciğerler";"-";250
+"null";"0206.29";"- - Diğerleri:";;
+"null";"0206.29.10.00.00";"- - - Eczacılık ürünlerinin imaline mahsus olanlar";"-";250
+"null";;"- - - Diğerleri:";;
+"null";"0206.29.91.00.00";"- - - - Kalın ve ince etek               ";"-";250
+"null";"0206.29.99.00.00";"- - - - Diğerleri";"-";250
+"null";"0206.30.00.00.00";"-  Domuz sakatatı (taze veya soğutulmuş)";"-";250
+"null";;"-  Domuz sakatatı (dondurulmuş):";;
+"null";"0206.41.00.00.00";"- - Karaciğerler";"-";250
+"null";"0206.49.00.00.00";"- - Diğerleri";"-";250
+"null";"0206.80";"-  Diğerleri (taze veya soğutulmuş):";;
+"null";"0206.80.10.00.00";"- - Eczacılık ürünlerinin imaline mahsus olanlar";"-";250
+"null";;"- - Diğerleri:";;
+"null";"0206.80.91.00.00";"- - - At,eşek,katır ve bardo sakatatı   ";"-";250
+"null";;"- - - Koyun ve keçi sakatatı";" ";
+"null";"0206.80.99.00.11";"- - - - Koyun ve keçilerin karaciğerleri";"-";250
+"null";"0206.80.99.00.12";"- - - - Koyun kuyruğu";"-";250
+"null";"0206.80.99.00.19";"- - - - Koyun ve keçilerin diğer sakatatı";"-";250
+"null";"0206.90";"- Diğerleri (dondurulmuş):";;
+"null";"0206.90.10.00.00";"- - Eczacılık ürünlerinin imaline mahsus olanlar";"-";250
+"null";;"- - Diğerleri:";;
+"null";"0206.90.91.00.00";"- - - At,eşek,katır ve bardo sakatatı   ";"-";250
+"null";;"- - - Koyun ve keçi sakatatı";" ";
+"null";"0206.90.99.00.11";"- - - - Koyun ve keçilerin karaciğerleri";"-";250
+"null";"0206.90.99.00.12";"- - - - Koyun kuyruğu";"-";250
+"null";"0206.90.99.00.19";"- - - - Koyun ve keçilerin diğer sakatatı";"-";250
+"null";;;;
+"null";"02.07 ";"01.05 Pozisyonuna giren kümes hayvanlarının etleri ve yenilen ";;
+"null";;"sakatatı (taze, soğutulmuş veya dondurulmuş):";;
+"null";;" - Horoz ve tavuklar ( ""Gallus domesticus"" türü):";;
+"null";"0207.11";"- - Parçalanmamış  (taze veya soğutulmuş):";;
+"null";"0207.11.10.00.00";"- - - Tüyleri yolunmuş, bağırsakları çıkarılmış,başlı ve ayaklı % 83'lük";;
+"null";;"       denilen tavuklar";"-";100
+"null";"0207.11.30.00.00";"- - - Tüyleri yolunmuş,içleri boşaltılmış,baş ve ayakları kesilmiş,fakat";;
+"null";;"       boyun,yürek,karaciğer ve taşlıkları alınmamış % 70'lik denilen";;
+"null";;"       tavuklar                                                                               ";"-";100
+"null";"0207.11.90.00.00";"- - - Tüyleri yolunmuş, içleri boşaltılmış,baş ve ayakları,boynu,yüreği ,";;
+"null";;"       karaciğeri ve taşlığı alınmış %65'lik denilen tavuklar veya diğer ";;
+"null";;"       şekilde bulunanlar";"-";100
+"null";"0207.12                      ";"- - Parçalanmamış (dondurulmuş):";;
+"null";"0207.12.10.00.00";"- - - Tüyleri yolunmuş, içleri boşaltılmış, baş ve ayakları";;
+"null";;"       kesilmiş, boynu, karaciğeri, yüreği ve taşlığı alınmamış";;
+"null";;"       % 70'lik denilen tavuklar ";"-";100
+"null";;"- - - Tüyleri yolunmuş, içleri boşaltılmış, baş ve ayakları";;
+"null";;"       kesilmiş, boynu, karaciğeri, yüreği ve taşlığı alınmış";;
+"null";;"       % 65'lik denilen tavuklar veya diğer şekilde bulunanlar: ";;
+"null";"0207.12.90.00.11";" - - - - Yumurta tavuğu";"-";100
+"null";"0207.12.90.00.12";" - - - - Et tavuğu";"-";100
+"null";"0207.12.90.00.19";" - - - - Diğerleri";"-";100
+"null";"0207.13";"- - Parça halindeki etler ve sakatat (taze veya soğutulmuş):";;
+"null";;"- - - Parçalar:";;
+"null";"0207.13.10.00.00";"- - - - Kemiksiz                                           ";"-";100
+"null";;"- - - - Kemikli:";;
+"null";"0207.13.20.00.00";"- - - - - Yarım veya çeyrekler                        ";"-";100
+"null";"0207.13.30.00.00";"- - - - - Bütün kanatlar (kanat uçları olsun olmasın)        ";"-";100
+"null";"0207.13.40.00.00";"- - - - - Sırt,boyun,boyunlu sırt,kanat ve kuyruk uçları     ";"-";100
+"null";"0207.13.50.00.00";"- - - - - Göğüs ve göğüs parçaları                           ";"-";100
+"null";"0207.13.60.00.00";"- - - - - But ve but parçaları                               ";"-";100
+"null";"0207.13.70.00.00";"- - - - - Diğerleri                                          ";"-";100
+"null";"";"- - - Sakatat:                    ";;
+"null";"0207.13.91.00.00";"- - - - Karaciğerler  ";"-";50
+"null";"0207.13.99.00.00";"- - - - Diğerleri";"-";100
+"null";"0207.14";"- - Parça halindeki etler ve sakatat (dondurulmuş) :";;
+"null";;"- - - Parçalar:";;
+"null";;"- - - - Kemiksiz:                                           ";;
+"null";"0207.14.10.00.11";"- - - - - Göğüs ve göğüs parçaları                           ";"-";100
+"null";"0207.14.10.00.19";"- - - - - Diğerleri";"-";100
+"null";;"- - - - Kemikli:";;
+"null";"0207.14.20.00.00";"- - - - - Yarım veya çeyrekler                         ";"-";100
+"null";"0207.14.30.00.00";"- - - - - Bütün kanatlar (kanat uçları olsun olmasın)        ";"-";100
+"null";"0207.14.40.00.00";"- - - - - Sırt,boyun,boyunlu sırt,kanat ve kuyruk uçları     ";"-";100
+"null";"0207.14.50.00.00";"- - - - - Göğüs ve göğüs parçaları                           ";"-";100
+"null";"0207.14.60.00.00";"- - - - - But ve but parçaları                               ";"-";100
+"null";"0207.14.70.00.00";"- - - - - Diğerleri                                          ";"-";100
+"null";"";"- - - Sakatat :                    ";;
+"null";"0207.14.91.00.00";"- - - - Karaciğerler  ";"-";50
+"null";;"- - - - Diğerleri:";;
+"null";"0207.14.99.00.11";" - - - - - Taşlık";"-";100
+"null";"0207.14.99.00.12";" - - - - - Pençe ve ayaklar";"-";100
+"null";"0207.14.99.00.19";" - - - - - Diğerleri";"-";100
+"null";;"-  Hindiler:";;
+"null";"0207.24";"- - Parçalanmamış  (taze veya soğutulmuş):";;
+"null";"0207.24.10.00.00";"- - - Tüyleri yolunmuş, içleri boşaltılmış, baş ve ayakları kesilmiş, boyun,";;
+"null";;"        yürek, karaciğer ve taşlığı alınmamış % 80'lik denilen hindiler ";"-";100
+"null";"0207.24.90.00.00";"- - - Tüyleri yolunmuş, içleri boşaltılmış, baş ve ayakları kesilmiş, boyun,";;
+"null";;"       yürek,karaciğer ve taşlığı alınmış % 73'lük denilen hindiler veya";;
+"null";;"       diğer şekilde bulunanlar ";"-";100
+"null";"0207.25";"- - Parçalanmamış  (dondurulmuş):";;
+"null";"0207.25.10.00.00";"- - - Tüyleri yolunmuş, içleri boşaltılmış, baş ve ayakları kesilmiş, boyun,";;
+"null";;"        yürek, karaciğer ve taşlığı alınmamış % 80'lik denilen hindiler ";"-";100
+"null";"0207.25.90.00.00";"- - - Tüyleri yolunmuş, içleri boşaltılmış, baş ve ayakları kesilmiş, boyun,";;
+"null";;"       yürek,karaciğer ve taşlığı alınmış % 73'lük denilen hindiler veya";;
+"null";;"       diğer şekilde bulunanlar ";"-";100
+"null";"0207.26";"- - Parça halindeki etler ve sakatat (taze veya soğutulmuş) :";;
+"null";;"- - - Parçalar:";;
+"null";"0207.26.10.00.00";"- - - - Kemiksiz                                           ";"-";100
+"null";;"- - - - Kemikli:";" ";
+"null";"0207.26.20.00.00";"- - - - - Yarım veya çeyrekler";"-";100
+"null";"0207.26.30.00.00";"- - - - - Bütün kanatlar (kanat uçları olsun olmasın)        ";"-";100
+"null";"0207.26.40.00.00";"- - - - - Sırt,boyun,boyunlu sırt,kanat ve kuyruk uçları     ";"-";100
+"null";"0207.26.50.00.00";"- - - - - Göğüs ve göğüs parçaları                           ";"-";100
+"null";" ";"- - - - - But ve but parçaları:                               ";" ";
+"null";"0207.26.60.00.00";"- - - - - - Butun alt kısmı ve parçaları";"-";100
+"null";"0207.26.70.00.00";"- - - - - - Diğerleri";"-";100
+"null";"0207.26.80.00.00";"- - - - - Diğerleri                                          ";"-";100
+"null";"";"- - - Sakatat :                    ";" ";
+"null";"0207.26.91.00.00";"- - - - Karaciğerler  ";"-";50
+"null";"0207.26.99.00.00";"- - - - Diğerleri";"-";100
+"null";"0207.27";"- - Parça halindeki etler ve sakatat (dondurulmuş) :";;
+"null";;"- - - Parçalar:";;
+"null";"0207.27.10.00.00";"- - - - Kemiksiz                                           ";"-";100
+"null";;"- - - - Kemikli:";" ";
+"null";"0207.27.20.00.00";"- - - - - Yarım veya çeyrekler                     ";"-";100
+"null";"0207.27.30.00.00";"- - - - - Bütün kanatlar (kanat uçları olsun olmasın)        ";"-";100
+"null";"0207.27.40.00.00";"- - - - - Sırt,boyun,boyunlu sırt,kanat ve kuyruk uçları     ";"-";100
+"null";"0207.27.50.00.00";"- - - - - Göğüs ve göğüs parçaları                           ";"-";100
+"null";;"- - - - - But ve but parçaları:                               ";" ";
+"null";"0207.27.60.00.00";"- - - - - - Butun alt kısmı ve parçaları";"-";100
+"null";"0207.27.70.00.00";"- - - - - -  Diğerleri";"-";100
+"null";"0207.27.80.00.00";"- - - - - Diğerleri                                          ";"-";100
+"null";"";"- - - Sakatat :                    ";" ";
+"null";"0207.27.91.00.00";"- - - - Karaciğerler  ";"-";50
+"null";"0207.27.99.00.00";"- - - - Diğerleri";"-";100
+"null";;"- Ördekler :";;
+"null";"0207.41";"- - Parçalanmamış (taze veya soğutulmuş):";;
+"null";"0207.41.20.00.00";"- - - Tüyleri yolunmuş, kanı akıtılmış, içleri boşaltılmamış, yada ";;
+"null";;"         bağırsakları çıkarılmamış, baş ve ayakları kesilmemiş % 85'lik ";;
+"null";;"         denilen ördekler";"-";100
+"null";"0207.41.30.00.00";"- - - Tüyleri yolunmuş,içleri boşaltılmış,baş ve ayakları kesilmiş,boyun";" ";
+"null";;"         yürek,karaciğer ve taşlıkları alınmamış % 70'lik denilen ördekler";"-";100
+"null";"0207.41.80.00.00";"- - - Tüyleri yolunmuş, içleri boşaltılmış, baş, ayak, boyun, yürek,";;
+"null";;"          karaciğer ve taşlıkları alınmış % 63'lük denilen ördekler ve diğer ";;
+"null";;"          şekilde bulunanlar                                                                          ";"-";100
+"null";"0207.42";"- - Parçalanmamış (dondurulmuş):";;
+"null";"0207.42.30.00.00";"- - - Tüyleri yolunmuş, içleri boşaltılmış,baş ve ayakları kesilmiş,boynu,";;
+"null";;"         karaciğeri, yüreği ve taşlığı alınmamış % 70'lik denilen ördekler";"-";100
+"null";"0207.42.80.00.00";"- - - Tüyleri yolunmuş,içleri boşaltılmış,baş ve ayakları kesilmiş,boynu,";;
+"null";;"         karaciğeri, yüreği ve taşlığı alınmış % 63'lük denilen ördekler ";;
+"null";;"         ve diğer şekilde bulunanlar                                                                          ";"-";100
+"null";"0207.43.00.00.00";"- - Yağlı karaciğerler (taze veya soğutulmuş)";"-";50
+"null";"0207.44";"- - Diğerleri ( taze veya soğutulmuş):";;
+"null";;"- - - Parçalar:";;
+"null";"0207.44.10.00.00";"- - - - Kemiksiz";"-";100
+"null";;"- - - - Kemikli:";;
+"null";"0207.44.21.00.00";"- - - - - Yarım veya çeyrekler:";"-";100
+"null";"0207.44.31.00.00";"- - - - - Bütün kanatlar (kanat uçları olsun olmasın)";"-";100
+"null";"0207.44.41.00.00";"- - - - - Sırt, boyun, boyunlu sırt, kanat ve kuyruk uçları";"-";100
+"null";"0207.44.51.00.00";"- - - - - Göğüs ve göğüs parçaları ";"-";100
+"null";"0207.44.61.00.00";"- - - - - But ve but parçaları";"-";100
+"null";"0207.44.71.00.00";"- - - - - ""palto"" denilen kısımlar";"-";100
+"null";"0207.44.81.00.00";"- - - - - Diğerleri ";"-";100
+"null";"";"- - - Sakatat:";" ";
+"null";"0207.44.91.00.00";"- - - - Karaciğerler (yağlı karaciğerler hariç) ";"-";50
+"null";"0207.44.99.00.00";"- - - - Diğerleri ";"-";100
+"null";"0207.45";"- - Diğerleri ( dondurulmuş):";;
+"null";;"- - - Parçalar:";;
+"null";;"- - - - Kemiksiz:";;
+"null";"0207.45.10.00.11";" - - - - - But ve but parçaları";"-";100
+"null";"0207.45.10.00.19";" - - - - - Diğerleri";"-";100
+"null";;"- - - - Kemikli:";;
+"null";"0207.45.21.00.00";"- - - - - Yarım veya çeyrekler";"-";100
+"null";"0207.45.31.00.00";"- - - - - Bütün kanatlar (kanat uçları olsun olmasın)";"-";100
+"null";"0207.45.41.00.00";"- - - - - Sırt, boyun, boyunlu sırt, kanat ve kuyruk uçları";"-";100
+"null";"0207.45.51.00.00";"- - - - - Göğüs ve göğüs parçaları";"-";100
+"null";"0207.45.61.00.00";"- - - - - But ve but parçaları";"-";100
+"null";"0207.45.71.00.00";"- - - - - ""palto"" denilen kısımlar ";"-";100
+"null";"0207.45.81.00.00";"- - - - - Diğerleri ";"-";100
+"null";"";"- - - Sakatat :";;
+"null";" ";"- - - - Karaciğerler:";;
+"null";"0207.45.93.00.00";"- - - - - Yağlı karaciğerler";"-";50
+"null";"0207.45.95.00.00";"- - - - - Diğerleri";"-";50
+"null";"0207.45.99.00.00";"- - - - Diğerleri ";"-";100
+"null";;"-  Kazlar :";;
+"null";"0207.51";" - - Parçalanmamış (taze veya soğutulmuş):";;
+"null";"0207.51.10.00.00";" - - - Tüyleri yolunmuş, kanı akıtılmış, içleri boşaltılmamış, baş ve ayakları ";;
+"null";;"kesilmemiş % 82'lik denilen kazlar";"-";100
+"null";"0207.51.90.00.00";" - - - Tüyleri yolunmuş, içleri boşaltılmış,baş ve ayakları kesilmiş,yüreği ve taşlığı";;
+"null";;"alınmış veya alınmamış % 75'lik denilen kazlar veya diğer şekilde bulunanlar";"-";100
+"null";"0207.52";" - -  Parçalanmamış (dondurulmuş)";;
+"null";"0207.52.10.00.00";" - - - Tüyleri yolunmuş, kanı akıtılmış, içleri boşaltılmamış, baş ve ayakları ";;
+"null";;"kesilmemiş % 82'lik denilen kazlar";"-";100
+"null";"0207.52.90.00.00";" - - - Tüyleri yolunmuş, içleri boşaltılmış,baş ve ayakları kesilmiş,yüreği ve taşlığı";;
+"null";;"alınmış veya alınmamış % 75'lik denilen kazlar veya diğer şekilde bulunanlar";"-";100
+"null";"0207.53.00.00.00";" - - Yağlı karaciğerler (taze veya soğutulmuş):";"-";50
+"null";"0207.54";" - - Diğerleri ( taze veya soğutulmuş):";;
+"null";;" - - - Parçalar:";;
+"null";"0207.54.10.00.00";" - - - - Kemiksiz";"-";100
+"null";;" - - - - Kemikli";;
+"null";"0207.54.21.00.00";" - - - - - Yarım veya çeyrekler";"-";100
+"null";"0207.54.31.00.00";" - - - - - Bütün kanatlar (kanat uçları olsun olmasın)";"-";100
+"null";"0207.54.41.00.00";" - - - - - Sırt, boyun, boyunlu sırt, kanat ve kuyruk uçları";"-";100
+"null";"0207.54.51.00.00";" - - - - - Göğüs ve göğüs parçaları";"-";100
+"null";"0207.54.61.00.00";" - - - - - But ve but parçaları";"-";100
+"null";"0207.54.71.00.00";" - - - - - Palto denilen kısımlar";"-";100
+"null";"0207.54.81.00.00";" - - - - - Diğerleri";"-";100
+"null";;"- - - Sakatat :";;
+"null";"0207.54.91.00.00";"- - - - Karaciğerler (yağlı karaciğerler hariç) ";"-";50
+"null";"0207.54.99.00.00";"- - - - Diğerleri";"-";100
+"null";"0207.55";"- - Diğerleri ( dondurulmuş):";;
+"null";;"- - - Parçalar:";;
+"null";"0207.55.10.00.00";" - - - - Kemiksiz";"-";100
+"null";;" - - - - Kemikli";;
+"null";"0207.55.21.00.00";" - - - - - Yarım veya çeyrekler";"-";100
+"null";"0207.55.31.00.00";" - - - - - Bütün kanatlar (kanat uçları olsun olmasın)";"-";100
+"null";"0207.55.41.00.00";" - - - - - Sırt, boyun, boyunlu sırt, kanat ve kuyruk uçları";"-";100
+"null";"0207.55.51.00.00";" - - - - - Göğüs ve göğüs parçaları";"-";100
+"null";"0207.55.61.00.00";" - - - - - But ve but parçaları";"-";100
+"null";"0207.55.71.00.00";" - - - - - Palto denilen kısımlar";"-";100
+"null";"0207.55.81.00.00";" - - - - - Diğerleri";"-";100
+"null";;"- - - Sakatat :";;
+"null";;"- - - - Karaciğerler:";;
+"null";"0207.55.93.00.00";"- - - - - Yağlı karaciğerler";"-";50
+"null";"0207.55.95.00.00";"- - - - - Diğerleri";"-";50
+"null";"0207.55.99.00.00";"- - - - Diğerleri";"-";100
+"null";"0207.60";"- Beç tavuklarına ait olanlar:";;
+"null";"0207.60.05.00.00";"- - Parçalanmamış (taze, soğutulmuş veya dondurulmuş):";"-";100
+"null";;"- - Diğerleri (taze, soğutulmuş veya dondurulmuş):";;
+"null";;"- - - Parçalar:";;
+"null";"0207.60.10.00.00";"- - - - Kemiksiz";"-";100
+"null";;" - - - - Kemikli :";;
+"null";"0207.60.21.00.00";" - - - - - Yarım veya çeyrekler";"-";100
+"null";"0207.60.31.00.00";" - - - - - Bütün kanatlar (kanat uçları olsun olmasın)";"-";100
+"null";"0207.60.41.00.00";" - - - - - Sırt, boyun, boyunlu sırt, kanat ve kuyruk uçları";"-";100
+"null";"0207.60.51.00.00";" - - - - - Göğüs ve göğüs parçaları";"-";100
+"null";"0207.60.61.00.00";" - - - - - But ve but parçaları";"-";100
+"null";"0207.60.81.00.00";" - - - - - Diğerleri";"-";100
+"null";;"- - - Sakatat :";;
+"null";"0207.60.91.00.00";"- - - - Karaciğerler";"-";100
+"null";"0207.60.99.00.00";"- - - - Diğerleri";"-";100
+"null";;;;
+"null";"02.08";"Diğer etler ve yenilen sakatat (taze, soğutulmuş veya ";;
+"null";;"dondurulmuş):";;
+"null";"0208.10";" - Tavşanlar veya yabani tavşanlara ait olanlar:";;
+"null";"0208.10.10.00.00";" - - Evcil tavşanların etleri ve yenilen sakatatı";"-";200
+"null";"0208.10.90.00.00";" - - Diğerleri";"-";200
+"null";"0208.30.00.00.00";" - Maymunlara (primatlara) ait olanlar";"-";200
+"null";"0208.40";" - Balinalar, yunus balıkları ve domuzbalıkları (Cetacea ";;
+"null";;"    takımından memeliler); manati-deniz güzeli ve deniz ineklerine";;
+"null";;"   (dugonlara)  (Sirenia takımından memeliler) ait olanlar; fok, ";;
+"null";;"deniz aslanı, deniz aygırları (Pinnipedia alt takımından memeliler) na ";;
+"null";;"ait olanlar :";;
+"null";"0208.40.10.00.00";" - - Balina eti ";"-";200
+"null";"0208.40.20.00.00";" - - Fok  eti";"-";200
+"null";"0208.40.80.00.00";" - - Diğerleri";"-";200
+"null";"0208.50.00.00.00";" - Sürüngenlere ait olanlar (yılanlar ve kaplumbağalar dahil)";"-";200
+"null";"0208.60.00.00.00";"- Develer ve diğer devegillerden olanlar (Camelidae) a ait olanlar";"-";200
+"null";"0208.90";" - Diğerleri:";;
+"null";"0208.90.10.00.00";" - - Evcil güvercinlerin etleri ve yenilen sakatatı";"-";200
+"null";"0208.90.30.00.00";" - - Av hayvanlarına ait olanlar (tavşanlar veya yabani tavşanlar hariç)";"-";200
+"null";"0208.90.60.00.00";" - - Ren geyiği eti";"-";200
+"null";"0208.90.70.00.00";" - - Kurbağa bacağı";"-";200
+"null";"0208.90.98.00.00";" - - Diğerleri";"-";200
+"null";;;;
+"null";"0209.00";"Domuz yağı (etli kısımları içerenler hariç) ve kümes hayvanlarının";;
+"null";;"yağları (eritilmemiş veya başka suretle çıkarılmamış ) (taze, ";;
+"null";;"soğutulmuş, dondurulmuş, tuzlanmış, salamura edilmiş, ";;
+"null";;"kurutulmuş veya tütsülenmiş):";;
+"null";"0209.10";"- Domuzlara ait olanlar";;
+"null";;" - - Domuzun deri altı yağı (lard):";;
+"null";"0209.10.11.00.00";"- - - Taze, soğutulmuş, dondurulmuş, tuzlanmış veya salamura edilmiş ";"-";50
+"null";"0209.10.19.00.00";"- - - Kurutulmuş veya tütsülenmiş ";"-";50
+"null";"0209.10.90.00.00";"- - Domuz yağı (0209.10.11.00 veya 0209.10.19.00 alt pozisyonundakiler hariç)";"-";50
+"null";"0209.90.00.00.00";"- Diğerleri ";"-";50
+"null";;;;
+"null";"02.10";"Et ve yenilen sakatat (tuzlanmış, salamura edilmiş, kurutulmuş ";;
+"null";;"veya tütsülenmiş); et veya sakatatın yenilen un ve kaba unları:";;
+"null";;"- Domuz etleri:";;
+"null";"0210.11";"- - But, kol ve bunların parçaları (kemikli):";;
+"null";;"- - - Evcil domuz etleri:";;
+"null";;"- - - - Tuzlanmış veya salamura edilmiş:";;
+"null";"0210.11.11.00.00";"- - - - - But ve but parçaları";"-";127
+"null";"0210.11.19.00.00";"- - - - - Kol ve kol parçaları";"-";127
+"null";;"- - - - Kurutulmuş veya tütsülenmiş:";" ";
+"null";"0210.11.31.00.00";"- - - - - But ve but parçaları ";"-";127
+"null";"0210.11.39.00.00";"- - - - - Kol ve kol parçaları";"-";127
+"null";"0210.11.90.00.00";"- - - Diğerleri ";"-";127
+"null";"0210.12";"- - Karın ve karın parçaları:";;
+"null";;"- - - Evcil domuzlara ait olanlar:";;
+"null";"0210.12.11.00.00";"- - - - Tuzlanmış veya salamura edilmiş";"-";127
+"null";"0210.12.19.00.00";"- - - - Kurutulmuş veya tütsülenmiş ";"-";127
+"null";"0210.12.90.00.00";"- - - Diğerleri";"-";127
+"null";"0210.19";"- - Diğerleri:";;
+"null";;"- - - Evcil domuzlara ait olanlar:";;
+"null";;"- - - - Tuzlanmış veya salamura edilmiş:";;
+"null";"0210.19.10.00.00";"- - - - - Yarım karkas veya dörtte üç ön parça    ";"-";127
+"null";"0210.19.20.00.00";"- - - - - Dörtte üç arka parça veya orta kısımlar  ";"-";127
+"null";"0210.19.30.00.00";"- - - - - Ön parçalar ve ön parçaların kısımları";"-";127
+"null";"0210.19.40.00.00";"- - - - - Bel kısmı ve parçaları            ";"-";127
+"null";"0210.19.50.00.00";"- - - - - Diğerleri";"-";127
+"null";;"- - - - Kurutulmuş veya tütsülenmiş:";;
+"null";"0210.19.60.00.00";"- - - - - Ön kısmı ve parçaları                ";"-";127
+"null";"0210.19.70.00.00";"- - - - - Bel kısmı ve parçaları         ";"-";127
+"null";;"- - - - - Diğerleri:";" ";
+"null";"0210.19.81.00.00";"- - - - - - Kemiksiz";"-";127
+"null";"0210.19.89.00.00";"- - - - - - Diğerleri                                ";"-";127
+"null";"0210.19.90.00.00";"- - - Diğerleri                                    ";"-";127
+"null";"0210.20";"- Sığır etleri:";" ";
+"null";"0210.20.10.00.00";"- - Kemikli";"-";127
+"null";"0210.20.90.00.00";"- - Kemiksiz";"-";127
+"null";;"- Diğerleri (et veya sakatatın yenilen un ve kaba unları dahil):";;
+"null";"0210.91.00.00.00";" - - Maymunlara (primatlara) ait olanlar";"-";127
+"null";"0210.92";" - - Balinalar, yunus balıkları ve domuzbalıkları (Cetacea ";;
+"null";;"    takımından memeliler); manati-deniz güzeli ve deniz inekleri  ";;
+"null";;"    (Sirenia takımından memeliler) ; fok, deniz aslanı ve deniz aygırları ";;
+"null";;"(Pinnipedia alt takımından memeliler) na ait olanlar:";;
+"null";"0210.92.10.00.00";" - - - Balinalar, yunus balıkları ve domuzbalıkları (Cetacea ";;
+"null";;"    takımından memeliler); manati-deniz güzeli ve deniz inekleri  ";;
+"null";;"    (Sirenia takımından memeliler) ne ait olanlar";"-";127
+"null";;" - - -  Diğerleri";;
+"null";"0210.92.91.00.00";" - - - - Etler";"-";127
+"null";"0210.92.92.00.00";" - - - - Sakatat";"-";127
+"null";"0210.92.99.00.00";"- - - -  Et ve sakatatatın yenilen un ve ezmeleri";"-";127
+"null";"0210.93.00.00.00";"  - - Sürüngenlere (yılanlar ve kaplumbağalar dahil)";;
+"null";;"      ait olanlar ";"-";127
+"null";"0210.99";" - - Diğerleri";;
+"null";;"- - - Etler:";;
+"null";"0210.99.10.00.00";"- - - - At eti (tuzlanmış, salamura edilmiş veya kurutulmuş)   ";"-";127
+"null";;"- - - - Koyun ve keçi etleri:";;
+"null";"0210.99.21.00.00";"- - - - - Kemikli                                               ";"-";127
+"null";"0210.99.29.00.00";"- - - - - Kemiksiz                                           ";"-";127
+"null";"0210.99.31.00.00";"- - - - Ren geyiği eti";"-";127
+"null";"0210.99.39.00.00";"- - - - Diğerleri                                       ";"-";127
+"null";;"- - - Sakatat:";;
+"null";;"- - - - Evcil domuzlara ait olanlar:";;
+"null";"0210.99.41.00.00";"- - - - - Karaciğerler ";"-";127
+"null";"0210.99.49.00.00";"- - - - - Diğerleri";"-";127
+"null";;"- - - - Sığırlara ait olanlar:";;
+"null";"0210.99.51.00.00";"- - - - - Kalın ve ince etek";"-";127
+"null";"0210.99.59.00.00";"- - - - - Diğerleri";"-";127
+"null";;"- - - - Diğerleri:";;
+"null";;"- - - - - Kümes hayvanlarının karaciğerleri:";;
+"null";;"- - - - - - Kaz ve ördeklerin yağlı karaciğerleri (tuzlanmış veya  salamura edilmiş):";;
+"null";"0210.99.71.10.00";"- - - - - - - Kaz karaciğeri ";"-";50
+"null";"0210.99.71.20.00";"- - - - - - - Ördek karaciğeri ";"-";127
+"null";"0210.99.79.00.00";"- - - - - - Diğerleri ";"-";127
+"null";"0210.99.85.00.00";"- - - - - Diğerleri ";"-";127
+"null";"0210.99.90.00.00";"- - - Et veya sakatatın yenilen un ve kaba unları";"-";127

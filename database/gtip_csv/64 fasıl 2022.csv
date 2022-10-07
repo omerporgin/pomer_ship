@@ -1,0 +1,207 @@
+﻿"null";"64.01";"Dış tabanı ve yüzü kauçuk veya plastik maddeden olan su geçirmez";;
+"null";;"ayakkabılar (ayakkabının yüzü, tabana dikmek, perçinlemek, ";;
+"null";;"çivilemek, vidalamak ve benzeri işlemlerle tutturulmamış veya ";;
+"null";;"birleştirilmemiş):";;
+"null";"6401.10.00.00.00";" - Metalden koruyucu burunlu ayakkabılar";"Çift";100
+"null";;" - Diğer ayakkabılar:";;
+"null";"6401.92";" - - Bileği örtüp dizi örtmeyenler:";;
+"null";"6401.92.10.00.00";" - - - Yüzü kauçuktan olanlar";"Çift";100
+"null";"6401.92.90.00.00";" - - - Yüzü plastik maddeden olanlar";"Çift";100
+"null";"6401.99.00.00.00";" - - Diğerleri";"Çift";100
+"null";;;;
+"null";"64.02";"Dış tabanı ve yüzü kauçuk veya plastik maddeden olan diğer ";;
+"null";;"ayakkabılar:";;
+"null";;"- Spor ayakkabıları:";;
+"null";"6402.12";"- - Kayak ayakkabıları, kuzey disiplini kayak ayakkabıları ve kar ";;
+"null";;"    sörfü için ayakkabılar";;
+"null";"6402.12.10.00.00";"- - - Kayak ayakkabıları, kuzey disiplini kayak ayakkabıları  ";"Çift";100
+"null";"6402.12.90.00.00";"- - - Kar sörfü için ayakkabılar ";"Çift";100
+"null";"6402.19.00.00.00";"- - Diğerleri";"Çift";100
+"null";"6402.20.00.00.00";" - Ayakkabıların yüzündeki kayışların veya ince şeritlerin";;
+"null";;"   tabandaki deliklerden geçirilmek suretiyle ayakkabı yüzünün";;
+"null";;"   tabana tutturulduğu diğer ayakkabılar";"Çift";100
+"null";;" - Diğer ayakkabılar:";;
+"null";"6402.91";" - - Bileği örtenler";;
+"null";"6402.91.10.00.00";" - - - Koruyucu metal burun ile mücehhez olanlar";"Çift";100
+"null";"6402.91.90.00.00";" - - - Diğerleri";"Çift";100
+"null";"6402.99";" - - Diğerleri:";;
+"null";"6402.99.05.00.00";" - - - Koruyucu metal burun ile mücehhez olanlar";"Çift";100
+"null";;" - - - Diğerleri:";;
+"null";"6402.99.10.00.00";" - - - - Yüzü kauçuktan olanlar";"Çift";100
+"null";;" - - - - Yüzü plastik maddeden olanlar:";;
+"null";;" - - - - - Yüzü şeritlerden yapılmış veya bir veya daha fazla parçası";;
+"null";;"          kesilip çıkarılmış olanlar:";;
+"null";"6402.99.31.00.00";" - - - - - - Taban ile birlikte topuk yüksekliği 3 cm. den fazla olanlar";"Çift";100
+"null";"6402.99.39.00.00";" - - - - - - Diğerleri";"Çift";100
+"null";"6402.99.50.00.00";" - - - - - Terlik ve ev içinde giyilen diğer ayakkabılar";"Çift";100
+"null";;" - - - - - Diğerleri:";;
+"null";"6402.99.91.00.00";" - - - - - - İç tabanının uzunluğu 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - - İç tabanının uzunluğu 24 cm. veya daha fazla olanlar:";;
+"null";"6402.99.93.00.00";" - - - - - - - Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar";"Çift";100
+"null";;" - - - - - - - Diğerleri:";;
+"null";"6402.99.96.00.00";" - - - - - - - - Erkekler için";"Çift";100
+"null";"6402.99.98.00.00";" - - - - - - - - Kadınlar için";"Çift";100
+"null";;;;
+"null";"64.03";"Dış tabanı kauçuktan, plastik maddeden, tabii veya terkip yoluyla ";;
+"null";;"elde edilen köseleden ve yüzü deriden olan ayakkabılar:";;
+"null";" ";" - Spor ayakkabıları:";;
+"null";"6403.12.00.00.00";" - - Kayak ayakkabıları , kuzey disiplini kayak ayakkabıları ve kar";;
+"null";;"      sörfü için ayakkabılar";"Çift";100
+"null";"6403.19.00.00.00";" - - Diğerleri";"Çift";100
+"null";"6403.20.00.00.00";" - Dış tabanı tabii köseleden ve yüzü ayağın üstünden geçip baş";;
+"null";;"   parmağa dolanan deri bir şeritten olan ayakkabılar";"Çift";100
+"null";"6403.40";" - Diğer ayakkabılar (metalden koruyucu burnu olanlar)";;
+"null";"6403.40.00.00.11";" - - Dış tabanı tabi köseleden ayakkabılar";"Çift";100
+"null";"6403.40.00.00.12";" - - Dış tabanı terkip yolu ile elde edilen köseleden ayakkabılar";"Çift";100
+"null";"6403.40.00.00.13";" - - Dış tabanı kauçuk veya suni plastik maddelerden ayakkabılar ";"Çift";100
+"null";;" - Diğer ayakkabılar (dış tabanı tabii köseleden olanlar):";;
+"null";"6403.51";" - - Bileği örtenler:";;
+"null";"6403.51.05.00.00";" - - - İç tabanı olmayan, ahşap mesnet veya platform üzerine yapılmış olanlar";"Çift";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Bileği örten fakat baldırı örtmeyenler, iç taban uzunluğu:";;
+"null";"6403.51.11.00.00";" - - - - - 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - 24 cm. veya daha fazla olanlar:";;
+"null";"6403.51.15.00.00";" - - - - - - Erkekler için";"Çift";100
+"null";"6403.51.19.00.00";" - - - - - - Kadınlar için";"Çift";100
+"null";;" - - - - Diğerleri, iç taban uzunluğu:";;
+"null";"6403.51.91.00.00";" - - - - - 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - 24 cm. veya daha fazla olanlar:";;
+"null";"6403.51.95.00.00";" - - - - - - Erkekler için";"Çift";100
+"null";"6403.51.99.00.00";" - - - - - - Kadınlar için";"Çift";100
+"null";"6403.59";" - - Diğerleri:";;
+"null";"6403.59.05.00.00";" - - - İç tabanı olmayan, ahşap mesnet veya platform üzerine yapılmış olanlar";"Çift";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Yüzü şeritlerden yapılmış veya bir veya daha fazla parçası";;
+"null";;"           kesilip çıkarılmış olanlar:";;
+"null";"6403.59.11.00.00";" - - - - - Tabanı ile birlikte topuk yüksekliği 3 cm. den fazla olanlar";"Çift";100
+"null";;" - - - - - Diğerleri, iç taban uzunluğu:";;
+"null";"6403.59.31.00.00";" - - - - - - 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - - 24 cm. veya daha fazla olanlar:";;
+"null";"6403.59.35.00.00";" - - - - - - - Erkekler için";"Çift";100
+"null";"6403.59.39.00.00";" - - - - - - - Kadınlar için";"Çift";100
+"null";;" - - - - Terlikler ve ev içinde giyilen diğer ayakkabılar";;
+"null";"6403.59.50.00.11";" - - - - - Erkekler için";"Çift";100
+"null";"6403.59.50.00.12";" - - - - - Kadınlar için";"Çift";100
+"null";"6403.59.50.00.13";" - - - - - Çocuklar ve bebekler için";"Çift";100
+"null";;" - - - - Diğerleri, iç taban uzunluğu:";;
+"null";"6403.59.91.00.00";" - - - - - 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - 24 cm. veya daha fazla olanlar:";;
+"null";"6403.59.95.00.00";" - - - - - - Erkekler için";"Çift";100
+"null";"6403.59.99.00.00";" - - - - - - Kadınlar için";"Çift";100
+"null";;" - Diğer ayakkabılar:";;
+"null";"6403.91";" - - Bileği örtenler:";;
+"null";"6403.91.05.00.00";" - - - İç tabanı olmayan, ahşap mesnet veya platform üzerine yapılmış olanlar";"Çift";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Bileği örten fakat baldırı örtmeyenler, iç taban uzunluğu:";;
+"null";"6403.91.11.00.00";" - - - - - 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - 24 cm. veya daha fazla olanlar:";;
+"null";"6403.91.13.00.00";" - - - - - - Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar";"Çift";100
+"null";;" - - - - - - Diğerleri:";;
+"null";"6403.91.16.00.00";" - - - - - - - Erkekler için";"Çift";100
+"null";"6403.91.18.00.00";" - - - - - - - Kadınlar için";"Çift";100
+"null";;" - - - - Diğerleri, iç taban uzunluğu:";;
+"null";"6403.91.91.00.00";" - - - - - 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - 24 cm. veya daha fazla olanlar:";;
+"null";"6403.91.93.00.00";" - - - - - - Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar";"Çift";100
+"null";;" - - - - - - Diğerleri:";;
+"null";"6403.91.96.00.00";" - - - - - - - Erkekler için";"Çift";100
+"null";"6403.91.98.00.00";" - - - - - - - Kadınlar için";"Çift";100
+"null";"6403.99";" - - Diğerleri:";;
+"null";"6403.99.05.00.00";" - - - İç tabanı olmayan, ahşap mesnet veya platform üzerine yapılmış olanlar";"Çift";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Yüzü şeritlerden yapılmış veya bir veya daha fazla parçası kesilip";;
+"null";;"           çıkarılmış olanlar:";;
+"null";"6403.99.11.00.00";" - - - - - Dış tabanı ile birlikte topuk yüksekliği 3 cm. den fazla olanlar";"Çift";100
+"null";;" - - - - - Diğerleri, iç taban uzunluğu:";;
+"null";"6403.99.31.00.00";" - - - - - - 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - - Diğerleri:";;
+"null";"6403.99.33.00.00";" - - - - - - - Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar";"Çift";100
+"null";;" - - - - - - - Diğerleri:";;
+"null";"6403.99.36.00.00";" - - - - - - - - Erkekler için";"Çift";100
+"null";"6403.99.38.00.00";" - - - - - - - - Kadınlar için";"Çift";100
+"null";"6403.99.50.00.00";" - - - - Terlikler ve ev içinde giyilen diğer ayakkabılar";"Çift";100
+"null";;" - - - - Diğerleri, iç taban uzunluğu:";;
+"null";"6403.99.91.00.00";" - - - - - 24 cm. den az olanlar";"Çift";100
+"null";;" - - - - - 24 cm. veya daha fazla olanlar:";;
+"null";"6403.99.93.00.00";" - - - - - - Erkek veya kadınlara ait olduğu belirlenemeyen ayakkabılar";"Çift";100
+"null";"";" - - - - - - Diğerleri:";;
+"null";"6403.99.96.00.00";" - - - - - - - Erkekler için";"Çift";100
+"null";"6403.99.98.00.00";" - - - - - - - Kadınlar için";"Çift";100
+"null";;;;
+"null";"64.04";"Dış tabanı kauçuktan, plastik maddeden, tabii veya terkip yoluyla";;
+"null";;"elde edilen köseleden ve yüzü dokumaya elverişli maddelerden";;
+"null";;"olan ayakkabılar:";;
+"null";;" - Dış tabanı kauçuktan veya plastik maddeden olan ayakkabılar:";;
+"null";"6404.11.00.00.00";" - - Spor ayakkabıları, tenis ayakkabıları, basketbol ayakkabıları,";;
+"null";;"      jimnastik ayakkabıları, antrenman ayakkabıları ve benzerleri";"Çift";100
+"null";"6404.19";" - - Diğerleri:";;
+"null";;" - - - Terlikler ve ev içinde giyilen diğer ayakkabılar";;
+"null";"6404.19.10.00.11";" - - - - Erkekler için";"Çift";100
+"null";"6404.19.10.00.12";" - - - - Kadınlar için";"Çift";100
+"null";"6404.19.10.00.13";" - - - - Çocuklar ve bebekler için";"Çift";100
+"null";;" - - - Diğerleri";;
+"null";"6404.19.90.00.11";" - - - - Erkekler için";"Çift";100
+"null";"6404.19.90.00.12";" - - - - Kadınlar için";"Çift";100
+"null";"6404.19.90.00.13";" - - - - Çocuklar ve bebekler için";"Çift";100
+"null";"6404.20";" - Dış tabanı tabii veya terkip yoluyla elde edilen köseleden ";;
+"null";;"   ayakkabılar:";;
+"null";"6404.20.10.00.00";" - - Terlikler ve ev içinde giyilen diğer ayakkabılar";"Çift";100
+"null";"6404.20.90.00.00";" - - Diğerleri";"Çift";100
+"null";"64.05";"Diğer ayakkabılar:";;
+"null";"6405.10.00.00.00";" - Yüzü tabii veya terkip yoluyla elde edilen deriden olanlar";"Çift";100
+"null";"6405.20";" - Yüzü dokumaya elverişli maddelerden:";;
+"null";"6405.20.10.00.00";" - - Dış tabanı ahşap veya mantardan";"Çift";100
+"null";;" - - Dış tabanı diğer maddelerden:";;
+"null";;" - - - Terlikler ve ev içinde giyilen diğer ayakkabılar";;
+"null";"6405.20.91.00.11";" - - - - Erkekler için";"Çift";100
+"null";"6405.20.91.00.12";" - - - - Kadınlar için";"Çift";100
+"null";"6405.20.91.00.13";" - - - - Çocuklar ve bebekler için";"Çift";100
+"null";;" - - - Diğerleri";;
+"null";"6405.20.99.00.11";" - - - - Erkekler için";"Çift";100
+"null";"6405.20.99.00.12";" - - - - Kadınlar için";"Çift";100
+"null";"6405.20.99.00.13";" - - - - Çocuklar ve bebekler için";"Çift";100
+"null";"6405.90";" - Diğerleri:";;
+"null";;" - - Dış tabanı kauçuk, plastik madde, tabii veya terkip yolu ile elde";;
+"null";;"      edilen köseleden olanlar";;
+"null";"6405.90.10.00.11";" - - - Erkekler için";"Çift";100
+"null";"6405.90.10.00.12";" - - - Kadınlar için";"Çift";100
+"null";"6405.90.10.00.13";" - - - Çocuklar ve bebekler için";"Çift";100
+"null";;" - - Dış tabanı diğer maddelerden olanlar";;
+"null";"6405.90.90.00.11";" - - - Erkekler için";"Çift";100
+"null";"6405.90.90.00.12";" - - - Kadınlar için";"Çift";100
+"null";"6405.90.90.00.13";" - - - Çocuklar ve bebekler için";"Çift";100
+"null";;;;
+"null";"64.06";"Ayakkabı aksamı (dış tabanlar dışındaki tabanlara tutturulmuş veya tut-";;
+"null";;"turulmamış ayakkabı yüzleri dahil); çıkarılabilir iç tabanlar, topuk rampa-";;
+"null";;"sı ve benzeri eşya; getrler ve tozluklar, dizlikler ve benzeri eşya; ve bun-";;
+"null";;"ların aksamı:";;
+"null";"6406.10";" - Ayakkabı yüzleri ve bunların aksamı (takviye parçaları hariç):";;
+"null";"6406.10.10.00.00";" - - Deriden";"-";100
+"null";;" - - Diğer maddelerden:";" ";
+"null";"6406.10.90.10.00";" - - - Çelikten olanlar";"-";50
+"null";"6406.10.90.90.00";" - - - Diğerleri";"-";100
+"null";"6406.20";" - Dış tabanlar ve topuklar (kauçuktan veya plastik maddelerden):";" ";
+"null";;" - - Kauçuktan";" ";
+"null";"6406.20.10.00.11";" - - - Dış taban";"-";100
+"null";"6406.20.10.00.12";" - - - Topuklar";"-";100
+"null";;" - - Plastik maddelerden";" ";
+"null";"6406.20.90.00.11";" - - - Dış taban";"-";100
+"null";"6406.20.90.00.12";" - - - Topuklar";"-";100
+"null";;" - Diğerleri:";" ";
+"null";"6406.90.30.00.00";" - - Dış tabanı olmayan fakat iç taban veya diğer iç kısımlara tutturul-";" ";
+"null";;"        muş ayakkabı yüzlerinden meydana gelenler";"Çift";100
+"null";;" - - Çıkarılabilen iç tabanlar ve diğer çıkarılabilen aksesuar:";" ";
+"null";;" - - - Demir döküm, demir veya çelikten veya aluminyumdan olanlar";" ";
+"null";"6406.90.50.10.11";" - - - - Çıkarılabilen iç tabanlar";"-";50
+"null";"6406.90.50.10.19";" - - - - Diğerleri";"-";50
+"null";;" - - - Bakırdan olanlar";" ";
+"null";"6406.90.50.30.11";" - - - - Çıkarılabilen iç tabanlar";"-";40
+"null";"6406.90.50.30.19";" - - - - Diğerleri";"-";40
+"null";;" - - - Diğerleri";" ";
+"null";"6406.90.50.90.11";" - - - - Çıkarılabilen iç tabanlar";"-";100
+"null";"6406.90.50.90.19";" - - - - Diğerleri";"-";100
+"null";"6406.90.60.00.00";" - - Tabii veya terkip yoluyla elde edilen deriden ayakkabı dış tabanları";"-";100
+"null";;" - - Diğerleri:";" ";
+"null";"6406.90.90.10.00";" - - - Demir döküm, demir veya çelikten veya aluminyumdan olanlar";"-";50
+"null";"6406.90.90.30.00";" - - - Bakırdan olanlar";"-";40
+"null";"6406.90.90.90.00";" - - - Diğerleri";"-";100

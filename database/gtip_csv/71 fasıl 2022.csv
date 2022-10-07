@@ -1,0 +1,232 @@
+﻿"null";;"I.TABİİ İNCİ VEYA KÜLTÜR İNCİLERİ VE KIYMETLİ VEYA ";;
+"null";;"YARI KIYMETLİ TAŞLAR";;
+"null";;;;
+"null";"71.01";"Tabii inci veya kültür incileri (işlenmiş veya tasnife tabi tutulmuş";;
+"null";;"olsun olmasın) (fakat ipliğe dizilmemiş, mıhlanmamış veya";;
+"null";;"takılmamış); tabii inci veya kültür incileri (taşınmasında kolaylık ";;
+"null";;"sağlamak amacıyla geçici olarak ipliğe dizilmiş):";;
+"null";"7101.10";" - Tabii inciler";;
+"null";"7101.10.00.00.11";" - - İşlenmemiş olanlar";"Gram";10
+"null";"7101.10.00.00.12";" - - İşlenmiş olanlar";"Gram";10
+"null";;" - Kültür incileri:";;
+"null";"7101.21.00.00.00";" - - İşlenmemiş olanlar";"Gram";10
+"null";"7101.22.00.00.00";" - - İşlenmiş olanlar";"Gram";10
+"null";;;;
+"null";"71.02";"Elmaslar (işlenmiş olsun olmasın, fakat mıhlanmamış veya ";;
+"null";;"takılmamış):";;
+"null";"7102.10.00.00.00";" - Tasnif edilmemiş olanlar";"Karat";10
+"null";;" - Sanayide kullanılanlar:";;
+"null";"7102.21.00.00.00";" - - İşlenmemiş veya basit bir şekilde kesilmiş,yarılmış veya yontulmuş";;
+"null";;"     olanlar";"Karat";10
+"null";"7102.29.00.00.00";" - - Diğerleri";"Karat";10
+"null";;" - Sanayide kullanılmayanlar:";;
+"null";"7102.31.00.00.00";" - - İşlenmemiş veya basit bir şekilde kesilmiş,yarılmış veya yontulmuş";;
+"null";;"     olanlar";"Karat";10
+"null";"7102.39.00.00.00";" - - Diğerleri";"Karat";10
+"null";;;;
+"null";"71.03";"Kıymetli taşlar (elmaslar hariç) veya yarı kıymetli taşlar (işlenmiş ";;
+"null";;"veya tasnife tabi tutulmuş olsun olmasın) (fakat ipliğe dizilmemiş,";;
+"null";;"mıhlanmamış veya takılmamış); kıymetli taşlar (elmaslar hariç) veya";;
+"null";;"yarı kıymetli taşlar (tasnife tabi tutulmamış) (taşınmasında kolaylık";;
+"null";;"sağlamak  amacıyla geçici olarak ipliğe dizilmiş):";;
+"null";"7103.10";" - İşlenmemiş veya basit bir şekilde kesilmiş veya kabaca yontulmuş";;
+"null";"7103.10.00.00.11";" - - Safir";"-";10
+"null";"7103.10.00.00.12";" - - Zümrüt";"-";10
+"null";"7103.10.00.00.13";" - - Yakut (rubi)";"-";10
+"null";"7103.10.00.00.19";" - - Diğerleri";"-";10
+"null";;" - Başka şekilde işlenmiş:";;" "
+"null";"7103.91";" - - Yakut (rubi), safir ve zümrüt";;" "
+"null";"7103.91.00.00.11";" - - - Yakut (rubi)";"Gram";10
+"null";"7103.91.00.00.12";" - - - Safir";"Gram";10
+"null";"7103.91.00.00.13";" - - - Zümrüt";"Gram";10
+"null";"7103.99";" - - Diğerleri";;" "
+"null";"7103.99.00.00.11";" - - - Akik taşları";"Gram";10
+"null";"7103.99.00.00.19";" - - - Diğerleri";"Gram";10
+"null";;;;
+"null";"71.04";"Sentetik veya terkip yoluyla elde edilen kıymetli veya yarı kıymetli ";;
+"null";;"taşlar (işlenmiş veya tasnife tabi tutulmuş olsun olmasın, fakat ipliğe";;
+"null";;"dizilmemiş, mıhlanmamış veya takılmamış); tasnife tabi tutulmamış";;
+"null";;"sentetik veya terkip yoluyla elde edilen kıymetli veya yarı kıymetli";;
+"null";;"taşlar (taşınmasında kolaylık sağlamak amacıyla geçici olarak ipliğe";;
+"null";;"dizilmiş):";;
+"null";"7104.10.00.00.00";" - Piezo -elektrik kuvartzları";"Gram";25
+"null";;" - Diğerleri (işlenmemiş veya basit bir şekilde kesilmiş veya kabaca  yontulmuş)";;
+"null";"7104.21";" - - Elmaslar:";;
+"null";"7104.21.00.00.11";" - - - Sentetik olanlar";"Gram";25
+"null";"7104.21.00.00.19";" - - - Diğerleri";"Gram";25
+"null";"7104.29.00.00.00";" - - Diğerleri";"Gram";25
+"null";;" - Diğerleri";;
+"null";"7104.91";" - - Elmaslar";;
+"null";"7104.91.00.00.11";" - - - Sanayide kullanılanlar";"Gram";25
+"null";"7104.91.00.00.19";" - - - Diğerleri";"Gram";25
+"null";"7104.99";" - - Diğerleri:";;
+"null";"7104.99.00.00.11";" - - - Sanayide kullanılanlar";"Gram";25
+"null";"7104.99.00.00.19";" - - - Diğerleri";"Gram";25
+"null";;;;
+"null";"71.05";"Tabii veya sentetik, kıymetli veya yarı kıymetli taşların toz ve";;
+"null";;"pudraları:";;
+"null";"7105.10";" - Elmastan olanlar";;
+"null";"7105.10.00.00.11";" - - Sanayide kullanılanlar";"Gram";10
+"null";"7105.10.00.00.19";" - - Diğerleri";"Gram";10
+"null";"7105.90";" - Diğerleri";;" "
+"null";"7105.90.00.00.11";" - - Sanayide kullanılanlar";"Gram";10
+"null";"7105.90.00.00.19";" - - Diğerleri";"Gram";10
+"null";;;;
+"null";;;;
+"null";;"II.KIYMETLİ METALLER VE KIYMETLİ METALLERLE KAPLAMA";;
+"null";;"METALLER";;
+"null";;;;
+"null";"71.06";"Gümüş (altın veya platin yaldızlı gümüş dahil) (işlenmemiş veya yarı";;
+"null";;"işlenmiş ya da pudra halinde):";;
+"null";"7106.10.00.00.00";" - Pudra halinde olanlar";"Gram";5
+"null";;" - Diğerleri:";;
+"null";"7106.91.00.00.00";" - - İşlenmemiş olanlar";"Gram";5
+"null";"7106.92.00.00.00";" - - Yarı işlenmiş olanlar";"Gram";5
+"null";;;;
+"null";"7107.00";"Gümüş kaplamalı adi metaller (işlenmemiş veya yarı işlenmiş)";;
+"null";"7107.00.00.00.11";"- İşlenmemiş gümüş kaplamalı metaller";"-";20
+"null";"7107.00.00.00.12";"- Yarı işlenmiş gümüş kaplamalı adi metaller";"-";20
+"null";;;" ";
+"null";"71.08";"Altın (platin kaplamalı altın dahil) (işlenmemiş veya yarı işlenmiş ya ";;
+"null";;"da pudra halinde) :";;
+"null";;" - Para yerine kullanılmayanlar:";;
+"null";"7108.11.00.00.00";" - - Pudra halinde olanlar";"Gram";0
+"null";"7108.12";" - - Diğer işlenmemiş şekillerde olanlar";;
+"null";"7108.12.00.00.12";" - - - Standart dışı işlenmemiş altın ";"Gram";0
+"null";"7108.12.00.00.13";" - - - Standart işlenmemiş altın";"Gram";0
+"null";"7108.13";" - - Diğer yarı işlenmiş şekillerde olanlar:";;
+"null";"7108.13.10.00.00";" - - - Çubuklar, teller ve profiller, levhalar, yapraklar ve şeritler";;
+"null";;"        (mesnedi hariç, kalınlığı 0,15 mm. yi geçenler)";"Gram";0
+"null";"7108.13.80.00.00";" - - - Diğerleri";"Gram";0
+"null";"7108.20.00.00.00";" - Para yerine kullanılanlar";"Gram";0
+"null";;;;
+"null";"7109.00";"Altın kaplamalı gümüşler veya adi metaller (işlenmemiş veya yarı";;
+"null";;"işlenmiş)";;
+"null";"7109.00.00.00.11";"- Altın kaplamalı gümüşler";"-";5
+"null";"7109.00.00.00.12";"- Altın kaplamalı adi metaller";"-";5
+"null";;;;
+"null";"71.10";"Platin (işlenmemiş veya yarı işlenmiş ya da pudra halinde) :";;
+"null";;" - Platin:";;
+"null";"7110.11.00.00.00";" - - İşlenmemiş veya pudra halinde";"Gram";0
+"null";"7110.19";" - - Diğerleri:";;
+"null";;" - - - Çubuklar, teller ve profiller, levhalar, yapraklar ve şeritler (mesnedi ";;
+"null";;"        hariç, kalınlığı 0,15 mm. yi geçenler)";;
+"null";"7110.19.10.00.11";" - - - - Platin ve platin alaşımlarından teller";"Gram";0
+"null";"7110.19.10.00.12";" - - - - Çubuk, profil, levha, yaprak ve şerit halinde olan platin ve platin ";;
+"null";;"          alaşımları";"Gram";0
+"null";"7110.19.80.00.00";" - - - Diğerleri";"Gram";0
+"null";;" - Paladyum:";;
+"null";"7110.21.00.00.00";" - - İşlenmemiş veya pudra halinde olanlar";"Gram";0
+"null";"7110.29.00.00.00";" - - Diğerleri";"Gram";0
+"null";;" - Rodyum:";;
+"null";"7110.31.00.00.00";" - - İşlenmemiş veya pudra halinde olanlar";"Gram";0
+"null";"7110.39.00.00.00";" - - Diğerleri";"Gram";0
+"null";;" - İridyum, osmiyum ve rutenyum:";;
+"null";"7110.41.00.00.00";" - - İşlenmemiş veya pudra halinde olanlar";"Gram";0
+"null";"7110.49.00.00.00";" - - Diğerleri";"Gram";0
+"null";;;;
+"null";"7111.00";"Platin kaplamalı altın, gümüş ve adi metaller (işlenmemiş veya yarı";;
+"null";;"işlenmiş)";;
+"null";"7111.00.00.00.11";"- Platin kaplı adi metaller";"-";5
+"null";"7111.00.00.00.12";"- Platin kaplı gümüş";"-";5
+"null";"7111.00.00.00.13";"- Platin kaplı altın";"-";5
+"null";;;;
+"null";"71.12";"Kıymetli metallerin veya kıymetli metallerle kaplama metallerin";;
+"null";;"döküntüleri, artıkları; 85.49 pozisyonundaki eşya hariç olmak üzere ";;
+"null";;"kıymetli metal veya kıymetli metal bileşikleri içeren  ve esas olarak";;
+"null";;"kıymetli metallerin geri kazanılmasında kullanılan türden olan diğer ";;
+"null";;"döküntü ve artıklar:";;
+"null";"7112.30.00.00.00";" - Kıymetli metal veya kıymetli metal bileşiklerini içeren küller";"-";0
+"null";;" - Diğerleri:";;
+"null";"7112.91.00.00.00";" - - Altından olanlar (altın kaplamalı metaller dahil, fakat diğer kıymetli";;
+"null";;"     metalleri içeren kuyumcu külleri hariç)";"-";0
+"null";"7112.92.00.00.00";" - - Platinden olanlar (platin kaplamalı metaller dahil, fakat diğer ";" ";
+"null";;"     kıymetli metalleri içeren kuyumcu külleri hariç)";"-";0
+"null";"7112.99";" - - Diğerleri:";;
+"null";"7112.99.00.10.00";" - - - Gümüş külleri, döküntüleri ve artıkları";"-";5
+"null";"7112.99.00.90.00";" - - - Diğerleri";"-";0
+"null";;;;
+"null";;"III. MÜCEVHERCİ EŞYASI, KUYUMCU EŞYASI VE DİĞER EŞYA";;
+"null";;;;
+"null";"71.13";"Mücevherci eşyası ve aksamı (kıymetli metallerden veya kıymetli";;
+"null";;"metallerle kaplama metallerden):";;
+"null";;" - Kıymetli metallerden olanlar (kıymetli metallerle kaplanmış veya";;
+"null";;"   yaldızlanmış olsun olmasın):";;
+"null";"7113.11";" - - Gümüşten olanlar (diğer kıymetli metallerle kaplanmış veya";;
+"null";;"      yaldızlanmış olsun olmasın):";;
+"null";"7113.11.00.00.11";" - - - Pırlantalı gümüşten olanlar";"Gram";20
+"null";"7113.11.00.00.19";" - - - Diğerleri";"Gram";20
+"null";"7113.19";" - - Diğer kıymetli metallerden olanlar (kıymetli metallerle kaplanmış ";;
+"null";;"     veya yaldızlanmış olsun olmasın)";;
+"null";"7113.19.00.00.11";" - - - Altından olanlar";"Gram";20
+"null";"7113.19.00.00.12";" - - - Pırlantalı altından olanlar ";"Gram";20
+"null";"7113.19.00.00.19";" - - - Diğerleri";"Gram";20
+"null";"7113.20.00.00.00";" - Kıymetli metallerle kaplama adi metallerden olanlar";"-";20
+"null";;;;
+"null";"71.14";"Kuyumcu eşyası ve aksamı (kıymetli metallerden veya kıymetli ";;
+"null";;"metallerle kaplama metallerden) :";;
+"null";;" - Kıymetli metallerden olanlar (kıymetli metallerle kaplanmış veya";;
+"null";;"    yaldızlanmış olsun olmasın):";;
+"null";"7114.11.00.00.00";" - - Gümüşten olanlar (diğer kıymetli metallerle kaplanmış veya";;
+"null";;"     yaldızlanmış olsun olmasın)";"Gram";20
+"null";"7114.19";" - - Diğer kıymetli metallerden olanlar (kıymetli metallerle kaplanmış ";;
+"null";;"     veya yaldızlanmış olsun olmasın)";;
+"null";"7114.19.00.00.11";" - - - Altından olanlar";"Gram";20
+"null";"7114.19.00.00.19";" - - - Diğerleri";"Gram";20
+"null";"7114.20.00.00.00";" - Kıymetli metallerle kaplama adi metallerden olanlar";"-";20
+"null";;;;
+"null";"71.15";"Kıymetli metallerden veya kıymetli metallerle kaplama metallerden ";;
+"null";;"diğer eşya:";;
+"null";"7115.10.00.00.00";" - Platinden gözenekli dokuma veya ızgara şeklinde katalizörler";"-";20
+"null";"7115.90";" - Diğerleri:";;
+"null";"7115.90.00.00.21";" - - Altından olanlar";"-";20
+"null";"7115.90.00.00.22";" - - Gümüşten olanlar";"-";20
+"null";"7115.90.00.00.29";" - - Diğerleri";"-";20
+"null";;;;
+"null";"71.16";"Tabii inci veya kültür incilerinden, kıymetli ya da yarı kıymetli ";;
+"null";;"taşlardan eşya (tabii, sentetik veya terkip yoluyla elde edilmiş):";;
+"null";"7116.10";" - Tabii inci veya kültür incilerinden olanlar";;
+"null";"7116.10.00.00.11";" - - Tabii inciden kolyeler, bilezikler";"Gram";20
+"null";"7116.10.00.00.19";" - - Tabii inciden diğer eşya";"Gram";20
+"null";"7116.10.00.00.21";" - - Kültür incisinden kolyeler, bilezikler";"Gram";20
+"null";"7116.10.00.00.29";" - - Kültür incisinden diğer eşya";"Gram";20
+"null";"7116.20";" - Kıymetli veya yarı kıymetli taşlardan olanlar (tabii, sentetik veya ";;
+"null";;"   terkip yoluyla elde edilmiş):";;
+"null";"7116.20.11.00.00";" - - Sadece tabii kıymetli veya yarı kıymetli taşlardan kolyeler, bilezikler ve";;
+"null";;"        diğer eşya (basit bir şekilde dizilmiş) (klipssiz veya aksesuarsız)";"Gram";20
+"null";"7116.20.80.00.00";" - - Diğerleri";"Gram";20
+"null";;;;
+"null";"71.17";"Taklit mücevherci eşyası :";;
+"null";;" - Adi metallerden olanlar (kıymetli metallerle kaplanmış olsun olmasın):";;
+"null";"7117.11.00.00.00";" - - Kol düğmeleri ve benzeri düğmeler";"-";75
+"null";"7117.19";" - - Diğerleri:";;
+"null";"7117.19.00.10.00";" - - - Bakırdan saat ve gözlük zinciri";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"7117.19.00.90.11";" - - - - Camdan aksamı olanlar";"-";50
+"null";;" - - - - Diğerleri:";;
+"null";"7117.19.00.90.21";" - - - - - Altın, gümüş veya platinle kaplama olanlar";"-";50
+"null";"7117.19.00.90.29";" - - - - - Diğerleri";"-";50
+"null";;;;
+"null";"7117.90";" - Diğerleri:";" ";
+"null";"7117.90.00.10.00";" - - Plastik maddelerden ve camdan olanlar";"-";150
+"null";"7117.90.00.20.00";" - - Ahşap olanlar";"-";70
+"null";"7117.90.00.30.00";" - - Yontulmaya elverişli taşlardan olanlar";"-";100
+"null";" ";" - - Alçıdan veya esası alçı olan bileşiklerden olanlar; seramikten";;
+"null";" ";"      olanlar; işlenmiş bağa, sedef, fildişi, kemik, boynuz, mercan ve yontul- ";;
+"null";;"      maya elverişli diğer hayvansal, bitkisel veya mineral maddelerden olanlar";;
+"null";"7117.90.00.40.11";" - - - Her nevi boynuzdan olanlar";"-";100
+"null";"7117.90.00.40.12";" - - - Mercandan olanlar";"-";100
+"null";"7117.90.00.40.13";" - - - İşlenmiş bağadan olanlar";"-";100
+"null";"7117.90.00.40.14";" - - - İşlenmiş fildişinden olanlar";"-";100
+"null";"7117.90.00.40.15";" - - - İşlenmiş sedeften olanlar";"-";100
+"null";"7117.90.00.40.16";" - - - İşlenmiş kemikten olanlar";"-";100
+"null";"7117.90.00.40.19";" - - - Diğerleri";"-";100
+"null";"7117.90.00.50.00";" - - Her türlü maddeden yapılmış kol düğmeleri ve diğer düğmeler (adi";" ";
+"null";;"      metaller hariç)";"-";75
+"null";"7117.90.00.90.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"71.18";"Metal paralar:";;
+"null";"7118.10";" - Tedavülde olmayan paralar (altın paralar hariç):";;
+"null";"7118.10.00.10.00";" - - Türk meskukatı";"Gram";0
+"null";"7118.10.00.90.00";" - - Diğerleri";"Gram";200
+"null";"7118.90.00.00.00";" - Diğerleri";"Gram";0

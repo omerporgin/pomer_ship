@@ -1,0 +1,327 @@
+﻿"null";"82.01";"Beller, kürekler, kazmalar, külünkler, çapalar, yabalar, dirgenler,";;
+"null";;"tırmıklar ve kazayağı; baltalar, bağcı bıçakları ve benzeri diğer";;
+"null";;"kesici ve yontucu el aletleri; her tür budama makasları ve budayı-";;
+"null";;"cılar, tırpanlar, oraklar, kuru ot veya saman bıçakları, çit makası,";;
+"null";;"oduncu kamaları ve ziraatte, bahçıvanlıkta veya ormancılıkta kulla-";;
+"null";;"nılan diğer el aletleri:";;
+"null";"8201.10";" - Beller ve kürekler :";;
+"null";"8201.10.00.00.11";" - - Beller";"Adet";40
+"null";"8201.10.00.00.12";" - - Kürekler";"Adet";40
+"null";"8201.30";" - Kazmalar, külünkler, çapalar, tırmıklar ve kazayağı :";" ";
+"null";"8201.30.00.00.11";" - - Kazmalar";"-";40
+"null";"8201.30.00.00.12";" - - Tırmıklar";"-";40
+"null";"8201.30.00.00.19";" - - Diğerleri";"-";40
+"null";"8201.40";" - Baltalar, bağcı bıçakları veya benzeri kesici veya yontucu el aletleri :";;
+"null";"8201.40.00.00.11";" - - Baltalar";"-";40
+"null";"8201.40.00.00.19";" - - Diğerleri";"-";40
+"null";"8201.50";" - Budama makası ve tek elle kullanılan benzeri budayıcılar ve ma-";;
+"null";;"   kaslar (kümes hayvanları makasları dahil) :";;
+"null";"8201.50.00.00.11";" - - Bağ ve bahçıvan makasları";"Adet";50
+"null";"8201.50.00.00.19";" - - Diğerleri";"Adet";50
+"null";"8201.60.00.00.00";" - Çit makasları, iki elle kullanılan budama makasları ve iki elle kulllanılan";;
+"null";;"   benzeri makaslar";"-";40
+"null";"8201.90";" - Ziraatte, bahçıvanlıkta veya ormancılıkta kullanılmaya mahsus ";;
+"null";;"   diğer el aletleri:";;
+"null";"8201.90.00.10.00";" - - Orak";"-";50
+"null";"8201.90.00.20.00";" - - Tırpan";"-";50
+"null";" ";" - - Diğerleri :";;
+"null";"8201.90.00.90.11";" - - - Hayvan kırkmaya mahsus makaslar";"-";40
+"null";"8201.90.00.90.12";" - - - Yabalar";"-";40
+"null";"8201.90.00.90.18";" - - - Diğerleri";"-";40
+"null";;;;
+"null";;;;
+"null";"82.02";"EI testereleri; her tür testere ağızları (freze testereler ve dişsiz";;
+"null";;"testere ağızları dahil) :";;
+"null";"8202.10";" - El testereleri :";;
+"null";"8202.10.00.00.11";" - - Sırtlı testereler";"-";50
+"null";"8202.10.00.00.19";" - - Diğerleri";"-";50
+"null";"8202.20.00.00.00";" - Şerit halinde testere ağızları";"-";50
+"null";;" - Dairevi testere ağızları (freze makinalarında kullanılanlar dahil):";;
+"null";"8202.31.00.00.00";" - - İş gören kısmı çelikten olanlar:";"-";50
+"null";"8202.39.00.00.00";" - - Diğerleri (aksam ve parçalar dahil): ";"-";50
+"null";"8202.40.00.00.00";" - Zincir halinde olan testere ağızları";"-";50
+"null";;" - Diğer testere ağızları:";;
+"null";"8202.91.00.00.00";" - - Düz testere ağızları (metal işlemeye mahsus olanlar)";"-";50
+"null";"8202.99";" - - Diğerleri:";;
+"null";"8202.99.20.00.00";" - - - Metal işlemeye mahsus olanlar :";"-";50
+"null";"8202.99.80.00.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"82.03";"Eğeler, törpüler, pensler (kesici ağızları dahil), kerpetenler, cımbız-";;
+"null";;"lar, tenekeci makasları, boru kesicileri, civata kesicileri, zımbalar";;
+"null";;"ve benzeri el aletleri:";;
+"null";"8203.10";" - Eğeler, törpüler ve benzeri aletler:";;
+"null";"8203.10.00.10.00";" - - Metal işlerinde kullanılan eğeler";"-";50
+"null";" ";" - - Diğerleri :";;
+"null";"8203.10.00.90.11";" - - - Törpüler";"-";50
+"null";"8203.10.00.90.12";" - - - Eğeli törpüler";"-";50
+"null";"8203.10.00.90.19";" - - - Diğerleri";"-";50
+"null";"8203.20";" - Pensler (kesici ağızlıları dahil), kerpetenler, cımbızlar ve benzeri";;
+"null";;"   aletler:";;
+"null";"8203.20.00.00.11";" - - Pensler";"-";50
+"null";"8203.20.00.00.12";" - - Kerpetenler";"-";50
+"null";"8203.20.00.00.19";" - - Diğerleri";"-";50
+"null";"8203.30.00.00.00";" - Tenekeci makasları ve benzeri aletler";"-";50
+"null";"8203.40";" - Boru kesiciler, civata kesiciler, zımbalar ve benzeri aletler :";;
+"null";"8203.40.00.00.11";" - - Zımbalar";"-";50
+"null";"8203.40.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"82.04";"Elle kullanılan sıkıştırma anahtarları (dinamometrik anahtarlar dahil;";;
+"null";;"fakat kılavuz anahtarlar hariç), değişebilir sıkıştırma soketleri ";;
+"null";;"(saplı olsun olmasın):";;
+"null";;" - Elle kullanılan sıkıştırma anahtarları:";;
+"null";"8204.11.00.00.00";" - - Ağzı sabit olanlar";"-";50
+"null";"8204.12.00.00.00";" - - Ağzı ayarlanabilir olanlar";"-";50
+"null";"8204.20.00.00.00";" - Değiştirilebilir sıkıştırma soketleri (saplı olsun olmasın)";"-";50
+"null";;;;
+"null";"82.05";"Tarifenin başka pozisyonlarında yer almayan el aletleri (camcı el-";;
+"null";;"masları dahil); kaynak lambaları; mengeneler, vida mengeneleri ve ";;
+"null";;"benzerleri (makinalı aletlerin veya su jeti kesme makinalarının";;
+"null";;"aksam, parça veya teferruatlarını teşkil edenler hariç), örsler, portatif ";;
+"null";;"demirci ocakları; el ile veya pedalla işleyen çatkılarıyla birlikte bileğiler:";;
+"null";"8205.10";" - Delme, diş veya yiv açma aletleri :";;
+"null";"8205.10.00.00.11";" - - Matkaplar";"-";50
+"null";"8205.10.00.00.12";" - - Diş veya yiv açma aletleri";"-";50
+"null";"8205.10.00.00.19";" - - Diğerleri";"-";50
+"null";"8205.20";" - Çekiçler ve balyozlar :";;
+"null";"8205.20.00.00.11";" - - Çekiçler";"-";50
+"null";"8205.20.00.00.12";" - - Balyozlar";"-";50
+"null";"8205.30.00.00.00";" - Rendeler, keskiler, oluklu keskiler ve ağaç işlemeye mahsus benzeri";;
+"null";;"   kesici aletler";"-";50
+"null";"8205.40.00.00.00";" - Tornavidalar";"-";50
+"null";;" - Elle kullanılan diğer aletler (camcı elmasları dahil):";;
+"null";"8205.51.00.00.00";" - - Ev işlerinde kullanılanlar ";"-";50
+"null";"8205.59";" - - Diğerleri:";;
+"null";"8205.59.10.00.00";" - - - Duvarcı, dökümcü, çimentocu, alçı işçisi ve ressamlar için aletler";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8205.59.80.00.11";" - - - - Gres tabancaları";"-";50
+"null";"8205.59.80.00.12";" - - - - Patlama kartuşu yardımıyla çalışan takoz, kama vs. yi tesbit etmeye veya ";;
+"null";;"         perçinlemeye mahsus aletler (tabancalar)";"-";50
+"null";"8205.59.80.00.19";" - - - - Diğerleri";"-";50
+"null";"8205.60.00.00.00";" - Kaynak lambaları";"-";50
+"null";"8205.70.00.00.00";" - Mengeneler, vida mengeneleri ve benzerleri";"-";50
+"null";;" - Diğerleri (Bu pozisyonun iki veya daha fazla alt pozisyonunda yer alan ";;
+"null";;"   ürünlerden meydana gelen takım halinde eşya dahil)";;
+"null";"8205.90.10.00.00";" - - Örsler; portatif demirci ocakları; el ile veya pedalla işleyen";;
+"null";;"     çatkıları ile birlikte bileğiler";"-";50
+"null";"8205.90.90.00.00";" - -  Bu pozisyonun iki veya daha fazla alt pozisyonunda yer alan";;
+"null";;"      ürünlerden meydana gelen takım halinde eşya";"-";50
+"null";;;;
+"null";"8206.00.00.00.00";"82.02 ila 82.05 Pozisyonlarındaki aletlerin iki veya daha fazlasından";;
+"null";;"meydana gelen aletler (perakende satış için hazırlanmış takım ha-";;
+"null";;"linde)";"-";50
+"null";;;;
+"null";"82.07";"El aletlerinin (mekanik olsun olmasın) veya makinalı aletlerin deği-";;
+"null";;"şebilen aletleri (basınçla çukurlaştırma, ıstampalama, zımbayla ";;
+"null";;"delme, set ve yiv açma, raybalama, frezeleme, tornalama, vidala-";;
+"null";;"ma gibi) (metallerin çekilmesine veya ekstrüzyonla işlem görmesi-";;
+"null";;"ne mahsus haddeler ile kaya delmeye veya sondaj yapmaya mah-";;
+"null";;"sus aletler dahil):";;
+"null";;" - Kaya delmeye veya sondaj yapmaya mahsus aletler:";;
+"null";"8207.13.00.00.00";" - - İş gören kısımları sermetlerden olanlar";"-";50
+"null";"8207.19";" - - Diğerleri (aksam ve parçalar dahil) :";;
+"null";"8207.19.10.00.00";" - - - İş gören kısımları elmas veya aglomere edilmiş elmastan olanlar";"-";50
+"null";" ";" - - - Diğerleri :";;
+"null";"8207.19.90.00.11";" - - - - Adi metallerden";"-";50
+"null";"8207.19.90.00.19";" - - - - Diğerleri ";"-";50
+"null";"8207.20";" - Metallerin çekilmesine veya ekstrüzyonla işlem görmesine mahsus";;
+"null";;"   haddeler:";;
+"null";"8207.20.10.00.00";" - - İş gören kısımları elmastan veya aglomere edilmiş elmastan olanlar";"-";50
+"null";;" - - İş gören kısımları diğer maddelerden olanlar:";;
+"null";"8207.20.90.00.11";" - - - Adi metallerden";"-";50
+"null";"8207.20.90.00.19";" - - - Diğerleri ";"-";50
+"null";"8207.30";" - Basınçla çukurlaştırma, ıstampalama, zımbayla delme aletleri:";;
+"null";"8207.30.10.00.00";" - - Metal işlemeye mahsus olanlar";"-";50
+"null";"8207.30.90.00.00";" - - Diğerleri";"-";50
+"null";"8207.40";" - Set ve yiv açmaya mahsus aletler:";;
+"null";;" - - Metal işlemeye mahsus olanlar:";;
+"null";" ";" - - - Set açma aletleri :";;
+"null";"8207.40.10.10.00";" - - - - Demirden olanlar";"-";50
+"null";"8207.40.10.90.00";" - - - - Diğerleri";"-";50
+"null";" ";" - - - Yiv açma aletleri:";;
+"null";"8207.40.30.10.00";" - - - - Demirden olanlar";"-";50
+"null";"8207.40.30.90.00";" - - - - Diğerleri";"-";50
+"null";"8207.40.90.00.00";" - - Diğerleri";"-";50
+"null";"8207.50";" - Delmeye mahsus aletler (kaya delmeye mahsus aletler hariç):";;
+"null";"8207.50.10.00.00";" - - İşgören kısımları elmastan veya aglomere edilmiş elmastan olanlar";"-";50
+"null";;" - - İş gören kısımları diğer maddelerden olanlar:";;
+"null";"8207.50.30.00.00";" - - - Duvarcılığa mahsus matkaplar";"-";50
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Metal işlemeye mahsus olanlar:";;
+"null";"8207.50.50.00.00";" - - - - - İş gören kısımları sermetlerden";"-";50
+"null";"8207.50.60.00.00";" - - - - - İş gören kısımları yüksek hız çeliğinden";"-";50
+"null";"8207.50.70.00.00";" - - - - - İş gören kısımları diğer maddelerden";"-";50
+"null";"8207.50.90.00.00";" - - - - Diğerleri";"-";50
+"null";"8207.60";" - Raybalamaya veya delik genişletmeye mahsus aletler:";;
+"null";"8207.60.10.00.00";" - - İş gören kısımları elmastan veya aglomere edilmiş elmastan olanlar";"-";50
+"null";;" - - İş gören kısımları diğer maddelerden olanlar:";;
+"null";;" - - - Raybalamaya mahsus aletler:";;
+"null";;" - - - - Metal işlemeye mahsus olanlar:";;
+"null";"8207.60.30.00.11";" - - - - - Adi metallerden";"-";50
+"null";"8207.60.30.00.19";" - - - - - Diğerleri";"-";50
+"null";"8207.60.50.00.00";" - - - - Diğerleri";"-";50
+"null";;" - - - Delik genişletmeye mahsus olanlar:";;
+"null";;" - - - - Metal işlemeye mahsus olanlar:";;
+"null";"8207.60.70.00.11";" - - - - - Adi metallerden";"-";50
+"null";"8207.60.70.00.19";" - - - - - Diğerleri";"-";50
+"null";"8207.60.90.00.00";" - - - - Diğerleri";"-";50
+"null";"8207.70";" - Frezelemeye mahsus aletler:";;
+"null";;" - - Metal işlemeye mahsus olanlar:";;
+"null";"8207.70.10.00.00";" - - - İş gören kısımları sermetlerden ";"-";50
+"null";;" - - - İş gören kısımları diğer maddelerden:";;
+"null";;" - - - - Parmak frezeler :";;
+"null";"8207.70.31.00.11";" - - - - - Adi metallerden olanlar";"-";50
+"null";"8207.70.31.00.12";" - - - - - Elmastan veya aglomere edilmiş elmastan olanlar";"-";50
+"null";"8207.70.31.00.19";"  - - - - - Diğerleri";"-";50
+"null";" ";" - - - - Diğerleri :";;
+"null";"8207.70.37.00.11";" - - - - - Adi metallerden olanlar";"-";50
+"null";"8207.70.37.00.12";" - - - - - Elmastan veya aglomere edilmiş elmastan olanlar";"-";50
+"null";"8207.70.37.00.19";" - - - - - Diğerleri";"-";50
+"null";" ";" - - Diğerleri :";;
+"null";"8207.70.90.00.11";" - - - İş gören kısımları adi metallerden olanlar";"-";50
+"null";"8207.70.90.00.12";" - - - İş gören kısımları elmastan veya aglomere edilmiş elmastan olanlar";"-";50
+"null";"8207.70.90.00.13";" - - - İş gören kısımları sermetlerden olanlar";"-";50
+"null";"8207.70.90.00.19";" - - - Diğerleri";"-";50
+"null";"8207.80";" - Tornalamaya mahsus aletler:";;
+"null";;" - - Metal işlemeye mahsus olanlar:";;
+"null";"8207.80.11.00.00";" - - - İş gören kısımları sermetlerden";"-";50
+"null";;" - - - İş gören kısımları diğer maddelerden :";;
+"null";"8207.80.19.00.11";" - - - - Adi metallerden olanlar";"-";50
+"null";"8207.80.19.00.19";" - - - - Diğerleri";"-";50
+"null";" ";" - - Diğerleri";;
+"null";"8207.80.90.00.11";" - - - İş gören kısımları adi metallerden olanlar";"-";50
+"null";"8207.80.90.00.12";" - - - İş gören kısımları elmastan veya aglomere edilmiş elmastan olanlar";"-";50
+"null";"8207.80.90.00.13";" - - - İş gören kısımları sermetlerden olanlar";"-";50
+"null";"8207.80.90.00.19";" - - - Diğerleri";"-";50
+"null";"8207.90";" - Değişebilir diğer aletler:";;
+"null";"8207.90.10.00.00";" - - İş gören kısımları elmastan veya aglomere edilmiş elmastan olanlar";"-";50
+"null";;" - - İş gören kısımları diğer maddelerden olanlar:";;
+"null";"8207.90.30.00.00";" - - - Tornavida uçları";"-";50
+"null";"8207.90.50.00.00";" - - - Diş açma aletleri";"-";50
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - İş gören kısımları sermetlerden:";;
+"null";"8207.90.71.00.00";" - - - - - Metal işlemeye mahsus olanlar";"-";50
+"null";"8207.90.78.00.00";" - - - - - Diğerleri";"-";50
+"null";;" - - - - İş gören kısımları diğer maddelerden:";;
+"null";"8207.90.91.00.00";" - - - - - Metal işlemeye mahsus olanlar";"-";50
+"null";"8207.90.99.00.00";" - - - - - Diğerleri";"-";50
+"null";;;;
+"null";"82.08";"Makina veya mekanik cihazlara mahsus bıçaklar ve kesici ağızlar:";;
+"null";"8208.10.00.00.00";" - Metal işlemeye mahsus olanlar";"-";40
+"null";"8208.20.00.00.00";" - Ağaç işlemeye mahsus olanlar";"-";40
+"null";"8208.30.00.00.00";" - Gıda sanayiinde kullanılan makinalara veya mutfak cihazlarına ";;
+"null";;"    mahsus olanlar";"-";40
+"null";"8208.40.00.00.00";" - Ziraatte, bahçıvanlıkta veya ormancılıkta kullanılan makinalara";;
+"null";;"   mahsus olanlar";"-";40
+"null";"8208.90";" - Diğerleri :";;
+"null";"8208.90.00.00.11";" - - Kağıt kesmeye mahsus olanlar";"-";40
+"null";"8208.90.00.00.19";" - - Diğerleri";"-";40
+"null";;;;
+"null";"8209.00";"Aletler için monte edilmemiş levhalar, çubuklar; uçlar ve benzeri ";;
+"null";;"uçlar (sermetlerden):";;
+"null";"8209.00.20.00.00";" - Levhalar";"-";30
+"null";"8209.00.80.00.00";" - Diğerleri";"-";30
+"null";;;;
+"null";"8210.00";"Yiyecek ve içeceklerin hazırlanmasında veya servisinde kullanılan, ";;
+"null";;"ağırlığı 10 kg. veya daha az olan elle işleyen mekanik aletler :";;
+"null";"8210.00.00.00.11";"- Et kıyma makinası";"-";60
+"null";"8210.00.00.00.12";"- Sebze ve meyvaları dilme ve doğrama ve sularını çıkarmaya mahsus aletler";"-";60
+"null";"8210.00.00.00.13";"- Sebzeleri püre haline getirme aletleri";"-";60
+"null";"8210.00.00.00.14";"- Kahve ve baharat değirmenleri";"-";60
+"null";"8210.00.00.00.15";"- Ekmek dilme aletleri";"-";60
+"null";"8210.00.00.00.16";"- Mikser";"-";60
+"null";"8210.00.00.00.17";"- Dondurma yapmaya mahsus aletler";"-";60
+"null";"8210.00.00.00.19";"- Diğerleri";"-";60
+"null";;;;
+"null";"82.11";"Kesici ağızlı bıçaklar (ağızları tırtıklı olsun olmasın) (82.08 pozisyo-";;
+"null";;"nundakiler hariç) (kapanan budama çakıları ve ağızları dahil):";;
+"null";"8211.10";" - Takım halinde olanlar :";;
+"null";"8211.10.00.00.11";" - - Sofra ve mutfak bıçakları";"-";60
+"null";"8211.10.00.00.12";" - - Maket bıçakları";"-";60
+"null";"8211.10.00.00.19";" - - Diğerleri";"-";60
+"null";;" - Diğerleri:";;
+"null";"8211.91.00.00.00";" - - Sabit ağızlı sofra bıçakları";"-";60
+"null";"8211.92";" - - Sabit ağızlı diğer bıçaklar:";;
+"null";"8211.92.00.00.11";" - - - Mutfak bıçakları";"-";60
+"null";"8211.92.00.00.19";" - - - Diğerleri";"-";60
+"null";"8211.93";" - - Sabit ağızlı bıçakların haricindeki bıçaklar: ";;
+"null";"8211.93.00.00.10";" - - - Maket bıçakları";"-";60
+"null";"8211.93.00.00.90";" - - - Diğerleri";"-";60
+"null";"8211.94.00.00.00";" - - Bıçak ağızları";"-";40
+"null";"8211.95.00.00.00";" - - Adi metallerden saplar";"-";50
+"null";;;;
+"null";"82.12";"Usturalar, traş makinaları ve traş bıçakları (şerit halindeki taslaklar";;
+"null";;"dahil) :";;
+"null";"8212.10";" - Usturalar, traş makinaları:";;
+"null";"8212.10.10.00.00";" - - Traş makinaları (bıçakları değiştirilemeyen)";"Adet";60
+"null";;" - - Diğerleri:";;
+"null";" ";" - - - Diğer traş makinaları";;
+"null";"8212.10.90.10.11";" - - - - Emniyetli olanlar";"Adet";60
+"null";"8212.10.90.10.19";" - - - - Diğerleri";"Adet";60
+"null";" ";" - - - Usturalar :";" ";
+"null";"8212.10.90.20.11";" - - - - Düz usturalar";"Adet";60
+"null";"8212.10.90.20.19";" - - - - Diğerleri";"Adet";60
+"null";"8212.20";" - Traş makinalarının bıçakları (şerit halindeki taslaklar dahil):";;
+"null";" ";" - - Traş bıçakları :";;
+"null";"8212.20.00.10.11";" - - - Emniyetli olanlar";"1000 Ad.";75
+"null";"8212.20.00.10.19";" - - - Diğerleri";"1000 Ad.";75
+"null";"8212.20.00.20.00";" - - Traş bıçağı taslakları";"1000 Ad.";40
+"null";"8212.90.00.00.00";" - Diğer aksam ve parçalar";"-";60
+"null";;;;
+"null";"8213.00";"Makaslar, terzi makasları ve benzeri makaslar ve bunların ağızları:";;
+"null";" ";" - Makaslar :";;
+"null";"8213.00.00.10.11";" - - Terzi makasları";"-";50
+"null";"8213.00.00.10.12";" - - Kuaför makasları";"-";50
+"null";"8213.00.00.10.13";" - - Tırnak makasları (Çıt çıt tipi tırnak makasları hariç)";"-";50
+"null";"8213.00.00.10.19";" - - Diğerleri";"-";50
+"null";"8213.00.00.20.00";" - Makas ağızları";"-";25
+"null";;;;
+"null";"82.14";"Diğer bıçakçı eşyası (saç kesmeye ve hayvan kırkmaya mahsus ma-";;
+"null";;"kinalar, kasap veya mutfak satırları, et baltaları, et kıyma bıçakları ";;
+"null";;"ve kağıt bıçakları gibi); manikür veya pedikür takımları ve aletleri";;
+"null";;"(tırnak törpüleri dahil):";;
+"null";"8214.10";" - Kağıt bıçakları, zarf açacakları, yazı kazıma bıçakları, kalemtraşlar";;
+"null";;"   ve bunların bıçakları";;
+"null";"8214.10.00.00.11";" - - Kalemtraş bıçakları";"-";50
+"null";"8214.10.00.00.12";" - - Kalemtraşlar";"-";50
+"null";"8214.10.00.00.19";" - - Diğerleri";"-";50
+"null";"8214.20";" - Manikür ve pedikür takım ve aletleri (tırnak törpüleri dahil):";;
+"null";"8214.20.00.00.11";" - - Çıt çıt tipi tırnak makasları";"-";100
+"null";"8214.20.00.00.19";" - - Diğerleri";"-";100
+"null";"8214.90";" - Diğerleri:";" ";
+"null";;" - - Saç kesmeye ve hayvan kırkmaya mahsus makinalar ve bunların";" ";
+"null";;"     kesici ağızları:";" ";
+"null";" ";" - - - Makinalar:";" ";
+"null";"8214.90.00.11.11";" - - - - Saç kesme makinaları";"-";50
+"null";"8214.90.00.11.12";" - - - - Hayvan kırkma makinaları";"-";50
+"null";"8214.90.00.12.00";" - - - Kesici ağızlar";"-";35
+"null";"8214.90.00.15.00";" - - - Bunların adi metallerden sapları";"-";50
+"null";" ";" - - Diğerleri :";" ";
+"null";"8214.90.00.90.11";" - - - Adi metallerden saplar";"-";50
+"null";"8214.90.00.90.19";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"82.15";"Kaşıklar, çatallar, kepçeler, delikli kepçeler, spatulalar, balık";;
+"null";;"bıçakları,yağ bıçakları, şeker maşaları ve benzeri mutfak ve sofra";;
+"null";;"eşyası:";;
+"null";"8215.10";" - En az bir eşyası kıymetli metallerle kaplanmış takım halindeki  eşya";;
+"null";" ";" - - Sadece kıymetli metallerle kaplanmış eşyayı içerenler :";;
+"null";"8215.10.20.00.11";" - - - Altın ve gümüşle kaplamalı olanlar";"-";70
+"null";"8215.10.20.00.19";" - - - Diğerleri";"-";70
+"null";;" - - Diğerleri:";" ";
+"null";"8215.10.30.00.00";" - - - Paslanmaz çelikten olanlar";"-";70
+"null";"8215.10.80.00.00";" - - - Diğerleri";"-";70
+"null";"8215.20";" - Diğer takımlar:";" ";
+"null";"8215.20.10.00.00";" - - Paslanmaz çelikten olanlar";"-";70
+"null";"8215.20.90.00.00";" - - Diğerleri";"-";70
+"null";;" - Diğerleri:";" ";
+"null";"8215.91";" - - Kıymetli metallerle kaplanmış olanlar:";" ";
+"null";"8215.91.00.10.00";" - - - Adi metallerden saplar";"-";50
+"null";" ";" - - - Diğerleri :";" ";
+"null";"8215.91.00.90.11";" - - - - Altın ve gümüşle kaplamalı olanlar";"-";70
+"null";"8215.91.00.90.19";" - - - - Diğerleri";"-";70
+"null";"8215.99";" - - Diğerleri:";" ";
+"null";;" - - - Paslanmaz çelikten olanlar:";" ";
+"null";"8215.99.10.10.00";" - - - - Adi metallerden saplar";"-";50
+"null";"8215.99.10.90.00";" - - - - Diğerleri";"-";70
+"null";;" - - - Diğerleri:";" ";
+"null";"8215.99.90.10.00";" - - - - Adi metallerden saplar";"-";50
+"null";"8215.99.90.90.00";" - - - - Diğerleri";"-";70

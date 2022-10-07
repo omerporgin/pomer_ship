@@ -1,0 +1,67 @@
+﻿"null";"24.01";"Yaprak tütün ve tütün döküntüleri:";;
+"null";"2401.10";" - Tütün (sapları koparılmamış, damarı çıkarılmamış) :";;
+"null";"2401.10.35.00.00";" - - Gölgede kurutulmuş açık renkli tütün";"-";50
+"null";"2401.10.60.00.00";" - - Güneşte kurutulmuş şark tipi tütün";"-";50
+"null";"2401.10.70.00.00";" - - Gölgede kurutulmuş koyu renkli tütün";"-";50
+"null";"2401.10.85.00.00";" - - Fırında kurutulmuş tütün";"-";50
+"null";"2401.10.95.00.00";" - - Diğerleri";"-";50
+"null";"2401.20";" - Tütün (tamamen veya kısmen sapları koparılmış, damarı ";;
+"null";;"    çıkarılmış):";;
+"null";"2401.20.35.00.00";" - - Gölgede kurutulmuş açık renkli tütün";"-";50
+"null";"2401.20.60.00.00";" - - Güneşte kurutulmuş şark tipi tütün";"-";50
+"null";"2401.20.70.00.00";" - - Gölgede kurutulmuş koyu renkli tütün";"-";50
+"null";"2401.20.85.00.00";" - - Fırında kurutulmuş tütün";"-";50
+"null";"2401.20.95.00.00";" - - Diğerleri";"-";50
+"null";"2401.30";" - Tütün döküntüleri :";;
+"null";"2401.30.00.00.11";" - - Kırık (Göz büyüklüğü 8-3 mm. arasındaki elekte kalanlar)";"-";50
+"null";"2401.30.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"24.02";"Tütün veya tütün yerine geçen maddelerden yapılmış purolar, ";;
+"null";;"uçları açık purolar, sigarillolar ve sigaralar:";;
+"null";"2402.10";" - Tütün içeren purolar, uçları açık purolar ve sigarillolar";;
+"null";"2402.10.00.00.11";" - - Tütün içeren purolar";"1000 Ad.";200
+"null";"2402.10.00.00.12";" - - Uçları açık purolar";"1000 Ad.";200
+"null";"2402.10.00.00.19";" - - Sigarillolar";"1000 Ad.";200
+"null";"2402.20";" - Tütün içeren sigaralar :";;
+"null";"2402.20.10.00.00";" - - Karanfil içerenler";"1000 Ad.";200
+"null";" ";" - - Diğerleri";" ";" "
+"null";"2402.20.90.00.12";" - - - Ağırlıklı olarak şark tipi tütünden mamul sigaralar ";"1000 Ad.";200
+"null";"2402.20.90.00.18";" - - - Diğer tütünlerden mamul sigaralar ";"1000 Ad.";200
+"null";"2402.90.00.00.00";" - Diğerleri";"-";200
+"null";;;;
+"null";"24.03";"Diğer mamul tütün ve mamul tütün yerine geçen maddeler;";;
+"null";;"""homojenize"" veya yeniden tertip edilmiş tütün; tütün hülasa ";;
+"null";;"ve esansları:";;
+"null";;" - İçilen tütün (herhangi bir oranda tütün yerine geçen maddeleri";;
+"null";;"   içersin içermesin) :";;
+"null";"2403.11.00.00.00";" - - Bu faslın 1 nolu alt pozisyon notunda belirtilen nargile tütünleri ";"-";200
+"null";"2403.19";" - - Diğerleri:";;
+"null";;" - - - Net muhtevası 500 gramı geçmeyen ambalajlarda: ";" ";" "
+"null";"2403.19.10.00.11";" - - - - Pipo tütünleri";"-";200
+"null";"2403.19.10.00.12";" - - - - Sigaralık tütünler";"-";200
+"null";"2403.19.10.00.19";" - - - - Diğerleri";"-";200
+"null";;" - - - Diğerleri:";;" "
+"null";"2403.19.90.00.11";" - - - - Pipo tütünleri";"-";200
+"null";"2403.19.90.00.12";" - - - - Sigaralık tütünler";"-";200
+"null";"2403.19.90.00.19";" - - - - Diğerleri";"-";200
+"null";;" - Diğerleri :";;
+"null";"2403.91.00.00.00";" - - ""Homojenize"" veya yeniden tertip edilmiş tütün";"-";200
+"null";"2403.99";" - - Diğerleri:";;
+"null";"2403.99.10.00.00";" - - - Enfiye ve çiğnemeye mahsus tütün";"-";200
+"null";"2403.99.90.00.00";" - - - Diğerleri";"-";200
+"null";;;" ";
+"null";"24.04";"Yanma olmadan solunan ve tütün, yeniden tertip edilmiş tütün, nikotin,";;
+"null";;"veya tütün veya nikotin yerine geçen maddeler içeren ürünler; insan";;
+"null";;"vücuduna nikotin almak için kullanılan ve nikotin içeren diğer ürünler:";;
+"null";;" - Yanma olmadan solunan ürünler:";;
+"null";"2404.11.00.00.00";" - - Tütün veya yeniden tertip edilmiş tütün içerenler";"-";200
+"null";"2404.12.00.00.00";" - - Diğerleri, nikotin içerenler";"-";200
+"null";"2404.19";" - - Diğerleri:";;
+"null";"2404.19.10.00.00";" - - - Tütün yerine geçen maddeler içerenler";"-";200
+"null";"2404.19.90.00.00";" - - - Diğerleri";"-";200
+"null";;" - Diğerleri :";;
+"null";"2404.91";" - - Ağız yoluyla kullanılanlar:";;
+"null";"2404.91.10.00.00";" - - - Tütün kullanımını bıraktırmaya yardımcı nikotin içeren ürünler";"-";200
+"null";"2404.91.90.00.00";" - - - Diğerleri";"-";200
+"null";"2404.92.00.00.00";" - - Transdermal kullanım için olanlar ";"-";200
+"null";"2404.99.00.00.00";" - - Diğerleri";"-";200

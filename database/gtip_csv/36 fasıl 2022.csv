@@ -1,0 +1,41 @@
+﻿"null";"3601.00";"Silah barutu";;
+"null";"3601.00.00.00.11";"- Kara barut";"-";100
+"null";"3601.00.00.00.12";"- Dumansız barut";"-";100
+"null";"3601.00.00.00.19";"- Diğer silah barutları";"-";100
+"null";;;" ";
+"null";"3602.00";"Müstahzar patlayıcı maddeler (silah barutu hariç)";" ";
+"null";"3602.00.00.00.11";"- Dinamitler";"-";100
+"null";"3602.00.00.00.19";"- Diğerleri";"-";100
+"null";;;;
+"null";"36.03";"Fitiller, infilak fitilleri, ağız otları veya infilak kapsülleri;";;
+"null";;"ateşleyici maddeler; elektrikli infilak ettirici maddeler:";;
+"null";"3603.10.00.00.00";" - Fitiller";"-";100
+"null";"3603.20.00.00.00";" - İnfilak fitilleri";"-";100
+"null";"3603.30.00.00.00";" - Ağız otları";"-";100
+"null";"3603.40.00.00.00";" - İnfilak kapsülleri";"-";100
+"null";"3603.50.00.00.00";" - Ateşleyici maddeler ";"-";100
+"null";"3603.60.00.00.00";" - Elektrikli infilak ettirici maddeler";"-";100
+"null";;;" ";
+"null";"36.04";"Şenlik fişekleri, işaret fişekleri, yağmur fişekleri, sis işaretleri ve";" ";
+"null";;"diğer pirotekni eşyası :";" ";
+"null";"3604.10.00.00.00";" - Şenlik fişekleri";"-";100
+"null";"3604.90";" - Diğerleri";" ";
+"null";"3604.90.00.00.11";" - - İşaret fişekleri";"-";100
+"null";"3604.90.00.00.12";" - - Yağmur fişekleri";"-";100
+"null";"3604.90.00.00.13";" - - Sis işaretleri";"-";100
+"null";"3604.90.00.00.19";" - - Diğer pirotekni eşyası";"-";100
+"null";;;" ";
+"null";"3605.00.00.00.00";"Kibritler (36.04 pozisyonundaki pirotekni eşyası hariç)";"-";25
+"null";;;" ";
+"null";"36.06";"Ferro-seryum ve diğer piroforik alaşımlar (her şekilde); bu fasılın";" ";
+"null";;"2 numaralı notunda belirtilen ateş alıcı maddelerden eşya:";" ";
+"null";"3606.10.00.00.00";" - Çakmaklarda veya ateşlemeye yarayan benzeri aletlerde kulla-";" ";
+"null";;"   nılan neviden olup, 300 cm.3 veya daha az hacimdeki kaplara ";" ";
+"null";;"   konulmuş akaryakıtlar";"-";100
+"null";"3606.90";" - Diğerleri:";" ";
+"null";" ";" - - Ferro-seryum ve diğer piroforik alaşımlar (her şekilde)";" ";
+"null";"3606.90.10.10.00";" - - - Suni çakmak taşları";"-";110
+"null";"3606.90.10.90.00";" - - - Diğerleri";"-";100
+"null";;" - - Diğerleri";" ";
+"null";"3606.90.90.00.11";" - - - Katı yakıtlar";"-";100
+"null";"3606.90.90.00.19";" - - - Diğerleri";"-";100

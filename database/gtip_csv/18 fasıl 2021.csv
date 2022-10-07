@@ -1,0 +1,61 @@
+﻿"null";"1801.00";"Kakao dane ve kırıkları (ham veya kavrulmuş, bütün veya kırık)";" ";" "
+"null";"1801.00.00.00.11";"- Dane kakao (ham)";"-";50
+"null";"1801.00.00.00.19";"- Diğerleri";"-";50
+"null";;;;
+"null";"1802.00.00.00.00";"Kakao kabukları, iç kabukları, zarları ve diğer kakao döküntüleri";"-";50
+"null";;;;
+"null";"18.03";"Kakao hamuru (yağı alınmış olsun olmasın) :";;
+"null";"1803.10.00.00.00";" - Yağı alınmamış";"-";100
+"null";"1803.20.00.00.00";" - Tamamen veya kısmen yağı alınmış";"-";100
+"null";;;;
+"null";"1804.00.00.00.00";"Kakao yağı (katı ve sıvı)";"-";50
+"null";;;;
+"null";"1805.00.00.00.00";"Kakao tozu (ilave şeker veya diğer tatlandırıcı maddeler içermeyenler)";"-";100
+"null";;;;
+"null";"18.06";"Çikolata ve kakao içeren diğer gıda müstahzarları:";;
+"null";"1806.10";" - Kakao tozu (ilave şeker veya diğer tatlandırıcı maddeler";;
+"null";;"   içerenler):";;
+"null";"1806.10.15.00.00";" - - Sakkaroz içermeyenler veya ağırlık itibariyle % 5'den az sakkaroz";;
+"null";;"      (sakkaroz olarak ifade edilen invert şeker dahil) veya sakkaroz olarak";;
+"null";;"      ifade edilen izoglikoz içerenler";"-";100
+"null";"1806.10.20.00.00";" - - Ağırlık itibariyle % 5 veya daha fazla fakat % 65'den az sakkaroz";;
+"null";;"      (sakkaroz olarak ifade edilen invert şeker dahil) veya sakkaroz oIarak";;
+"null";;"      ifade edilen izoglikoz içerenler";"-";100
+"null";"1806.10.30.00.00";" - - Ağırlık itibariyle % 65 veya daha fazla fakat % 80'den az sakkaroz ";;
+"null";;"      (sakkaroz olarak ifade edilen invert şeker dahil)veya sakkaroz olarak";;
+"null";;"      ifade edilen izoglikoz içerenler";"-";100
+"null";"1806.10.90.00.00";" - - Ağırlık itibariyle % 80 veya daha fazla sakkaroz (sakkaroz olarak ifade";;
+"null";;"     edilen invert şeker dahil) veya sakkaroz olarak ifade edilen izoglikoz";;
+"null";;"     içerenler";"-";100
+"null";"1806.20";" - Ağırlığı 2 kg'dan fazla olan kalıp,dilim veya çubuklar halinde ";;
+"null";;"   veya  sıvı, hamur, toz, granül veya benzeri şekillerde olup, ";;
+"null";;"  muhteviyatı 2 kg'ı geçen kaplarda veya ambalajlarda sunulmuş olan";;
+"null";;"   diğer müstahzarlar:";;
+"null";"1806.20.10.00.00";" - - Ağırlık itibariyle % 31 veya daha fazla kakao yağı içerenler veya kakao";;
+"null";;"     yağı ile katı süt yağının birlikte oranı ağırlık itibariyle % 31 veya daha ";;
+"null";;"     fazla olanlar";"-";100
+"null";"1806.20.30.00.00";" - - Ağırlık itibariyle kakao yağı ile katı süt yağının birlikte oranı % 25 veya  ";;
+"null";;"     daha fazla fakat % 31'den az olanlar";"-";100
+"null";;" - - Diğerleri:";;
+"null";"1806.20.50.00.00";" - - - Ağırlık itibariyle % 18 veya daha fazla kakao yağı içerenler";"-";100
+"null";"1806.20.70.00.00";" - - - Sütlü çikolata kırıntıları";"-";100
+"null";"1806.20.80.00.00";" - - - Kakao ile kaplanmış olanlar";"-";100
+"null";"1806.20.95.00.00";" - - - Diğerleri";"-";100
+"null";;" - Diğerleri (kalıp, dilim veya çubuk halinde):";;
+"null";"1806.31.00.00.00";" - - Doldurulmuş ";"-";100
+"null";"1806.32";" - - Doldurulmamış:";;
+"null";"1806.32.10.00.00";" - - - İlave hububat, meyva veya sert kabuklu meyva içerenler";"-";100
+"null";"1806.32.90.00.00";" - - - Diğerleri";"-";100
+"null";"1806.90";" - Diğerleri:";;
+"null";;" - - Çikolata ve çikolata mamulleri:";;
+"null";;" - - - Çikolatalar (pralinler dahil) (doldurulmuş olsun olmasın) :";;
+"null";"1806.90.11.00.00";" - - - - Alkol içerenler";"-";100
+"null";"1806.90.19.00.00";" - - - - Diğerleri";"-";100
+"null";;" - - - Diğerleri:";;
+"null";"1806.90.31.00.00";" - - - - Doldurulmuş";"-";100
+"null";"1806.90.39.00.00";" - - - - Doldurulmamış";"-";100
+"null";"1806.90.50.00.00";" - - Kakaolu şekerci mamulleri ve şeker yerine kullanılan maddelerden";;
+"null";;"      imal edilmiş kakaolu şekerci mamulleri";"-";100
+"null";"1806.90.60.00.00";" - - Ekmeğe sürülerek yenilen kakaolu ürünler";"-";100
+"null";"1806.90.70.00.00";" - - Meşrubat yapımında kullanılan kakaolu müstahzarlar";"-";100
+"null";"1806.90.90.00.00";" - - Diğerleri";"-";100

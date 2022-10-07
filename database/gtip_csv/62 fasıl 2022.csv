@@ -1,0 +1,502 @@
+﻿"null";"62.01";"Erkekler veya erkek çocuklar için paltolar, kabanlar, kolsuz ";;
+"null";;"ceketler, pelerinler, anoraklar (kayak ceketleri dahil), rüzgarlıklar ";;
+"null";;"ve benzeri eşya (62.03 pozisyonundakiler hariç):";;
+"null";"6201.20.00.00.00";" - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6201.30";" - Pamuktan:";;
+"null";" ";" - - Herbirinin ağırlığı 1 kg. ı geçmeyen giyim eşyası";;
+"null";"6201.30.10.00.11";" - - - Paltolar ";"Adet";"100"
+"null";"6201.30.10.00.12";" - - - Yağmurluklar ";"Adet";"100"
+"null";"6201.30.10.00.13";" - - - Kabanlar";"Adet";"100"
+"null";"6201.30.10.00.14";" - - - Kolsuz ceketler ";"Adet";"100"
+"null";"6201.30.10.00.15";" - - - Pelerinler ";"Adet";"100"
+"null";"6201.30.10.00.16";" - - - Parkalar";"Adet";"100"
+"null";"6201.30.10.00.19";" - - - Diğerleri ";"Adet";"100"
+"null";" ";" - - Herbirinin ağırlığı 1 kg. ı geçen giyim eşyası";;
+"null";"6201.30.90.00.11";" - - - Paltolar";"Adet";"100"
+"null";"6201.30.90.00.12";" - - - Yağmurluklar ";"Adet";"100"
+"null";"6201.30.90.00.13";" - - - Kabanlar ";"Adet";"100"
+"null";"6201.30.90.00.14";" - - - Kolsuz ceketler ";"Adet";"100"
+"null";"6201.30.90.00.15";" - - - Pelerinler ";"Adet";"100"
+"null";"6201.30.90.00.16";" - - - Parkalar ";"Adet";"100"
+"null";"6201.30.90.00.19";" - - - Diğerleri";"Adet";"100"
+"null";"6201.40";" - Sentetik veya suni liflerden:";;
+"null";" ";" - - Herbirinin ağırlığı 1 kg. ı geçmeyen giyim eşyası";;
+"null";"6201.40.10.00.11";" - - - Paltolar ";"Adet";"100"
+"null";"6201.40.10.00.12";" - - - Yağmurluklar ";"Adet";"100"
+"null";"6201.40.10.00.13";" - - - Kabanlar ";"Adet";"100"
+"null";"6201.40.10.00.14";" - - - Kolsuz ceketler ";"Adet";"100"
+"null";"6201.40.10.00.15";" - - - Pelerinler ";"Adet";"100"
+"null";"6201.40.10.00.16";" - - - Parkalar ";"Adet";"100"
+"null";"6201.40.10.00.19";" - - - Diğerleri ";"Adet";"100"
+"null";"  ";" - - Herbirinin ağırlığı 1 kg. ı geçen giyim eşyası";;
+"null";"6201.40.90.00.11";" - - - Paltolar ";"Adet";"100"
+"null";"6201.40.90.00.12";" - - - Yağmurluklar ";"Adet";"100"
+"null";"6201.40.90.00.13";" - - - Kabanlar ";"Adet";"100"
+"null";"6201.40.90.00.14";" - - - Kolsuz ceketler ";"Adet";"100"
+"null";"6201.40.90.00.15";" - - - Pelerinler";"Adet";"100"
+"null";"6201.40.90.00.16";" - - - Parkalar";"Adet";"100"
+"null";"6201.40.90.00.19";" - - - Diğerleri ";"Adet";"100"
+"null";"6201.90.00.00.00";" - Dokumaya elverişli diğer maddelerden ";"Adet";"100"
+"null";;;;
+"null";"62.02";"Kadın ve kız çocuklar için mantolar, kabanlar, kolsuz ceketler,";;
+"null";;"pelerinler, anoraklar (kayak ceketleri dahil), rüzgarlıklar ve";;
+"null";;"benzeri eşya (62.04 pozisyonundakiler hariç) :";;
+"null";"6202.20.00.00.00";" - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6202.30";" - Pamuktan:";;
+"null";" ";" - - Herbirinin ağırlığı 1 kg. ı geçmeyen giyim eşyası";;
+"null";"6202.30.10.00.11";" - - - Mantolar";"Adet";"100"
+"null";"6202.30.10.00.12";" - - - Yağmurluklar";"Adet";"100"
+"null";"6202.30.10.00.13";" - - - Kabanlar";"Adet";"100"
+"null";"6202.30.10.00.14";" - - - Kolsuz ceketler";"Adet";"100"
+"null";"6202.30.10.00.15";" - - - Pelerinler ";"Adet";"100"
+"null";"6202.30.10.00.16";" - - - Parkalar ";"Adet";"100"
+"null";"6202.30.10.00.19";" - - - Diğerleri ";"Adet";"100"
+"null";" ";" - - Herbirinin ağırlığı 1 kg. ı geçen giyim eşyası";;
+"null";"6202.30.90.00.11";" - - - Mantolar ";"Adet";"100"
+"null";"6202.30.90.00.12";" - - - Yağmurluklar ";"Adet";"100"
+"null";"6202.30.90.00.13";" - - - Kabanlar ";"Adet";"100"
+"null";"6202.30.90.00.14";" - - - Kolsuz ceketler ";"Adet";"100"
+"null";"6202.30.90.00.15";" - - - Pelerinler ";"Adet";"100"
+"null";"6202.30.90.00.16";" - - - Parkalar";"Adet";"100"
+"null";"6202.30.90.00.19";" - - - Diğerleri";"Adet";"100"
+"null";"6202.40";" - Sentetik veya suni liflerden:";;
+"null";" ";" - - Herbirinin ağırlığı 1 kg.ı geçmeyen giyim eşyası";;
+"null";"6202.40.10.00.11";" - - - Mantolar";"Adet";"100"
+"null";"6202.40.10.00.12";" - - - Yağmurluklar ";"Adet";"100"
+"null";"6202.40.10.00.13";" - - - Kabanlar ";"Adet";"100"
+"null";"6202.40.10.00.14";" - - - Kolsuz ceketler ";"Adet";"100"
+"null";"6202.40.10.00.15";" - - - Pelerinler ";"Adet";"100"
+"null";"6202.40.10.00.16";" - - - Parkalar ";"Adet";"100"
+"null";"6202.40.10.00.19";" - - - Diğerleri ";"Adet";"100"
+"null";" ";" - - Herbirinin ağırlığı 1 kg. ı geçen giyim eşyası";;
+"null";"6202.40.90.00.11";" - - - Mantolar";"Adet";"100"
+"null";"6202.40.90.00.12";" - - - Yağmurluklar";"Adet";"100"
+"null";"6202.40.90.00.13";" - - - Kabanlar ";"Adet";"100"
+"null";"6202.40.90.00.14";" - - - Kolsuz ceketler ";"Adet";"100"
+"null";"6202.40.90.00.15";" - - - Pelerinler";"Adet";"100"
+"null";"6202.40.90.00.16";" - - - Parkalar ";"Adet";"100"
+"null";"6202.40.90.00.19";" - - - Diğerleri ";"Adet";"100"
+"null";"6202.90";" - Dokumaya elverişli diğer maddelerden ";;
+"null";"6202.90.00.00.11";" - - Mantolar ";"Adet";"100"
+"null";"6202.90.00.00.12";" - - Yağmurluklar ";"Adet";"100"
+"null";"6202.90.00.00.13";" - - Kabanlar ";"Adet";"100"
+"null";"6202.90.00.00.14";" - - Kolsuz ceketler ";"Adet";"100"
+"null";"6202.90.00.00.15";" - - Pelerinler ";"Adet";"100"
+"null";"6202.90.00.00.19";" - - Diğerleri ";"Adet";"100"
+"null";;;;
+"null";"62.03";"Erkekler ve erkek çocuklar için takım elbiseler, takımlar, ceketler,";;
+"null";;"blazerler, pantolonlar, askılı ve üst ön parçalı tulumlar, kısa ";;
+"null";;"pantolonlar ve şortlar (yüzme kıyafeti hariç) :";;
+"null";;" - Takım elbiseler:";;
+"null";"6203.11.00.00.00";" - - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6203.12.00.00.00";" - - Sentetik liflerden ";"Adet";"100"
+"null";"6203.19";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";"6203.19.10.00.00";" - - - Pamuktan";"Adet";"100"
+"null";"6203.19.30.00.00";" - - - Suni liflerden";"Adet";"100"
+"null";"6203.19.90.00.00";" - - - Diğerleri";"Adet";"100"
+"null";;" - Takımlar:";;
+"null";"6203.22";" - - Pamuktan:";;
+"null";"6203.22.10.00.00";" - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6203.22.80.00.00";" - - - Diğerleri";"Adet";"100"
+"null";"6203.23";" - - Sentetik liflerden:";;
+"null";"6203.23.10.00.00";" - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6203.23.80.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";"6203.29";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";;" - - - Suni liflerden:";;
+"null";"6203.29.11.00.00";" - - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6203.29.18.00.00";" - - - - Diğerleri";"Adet";"100"
+"null";"6203.29.30.00.00";" - - - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";" ";" - - - Diğerleri ";;
+"null";"6203.29.90.00.11";" - - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6203.29.90.00.19";" - - - - Diğerleri";"Adet";"100"
+"null";;" - Ceketler ve blazerler:";;
+"null";"6203.31.00.00.00";" - - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6203.32";" - - Pamuktan:";;
+"null";"6203.32.10.00.00";" - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6203.32.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";"6203.33";" - - Sentetik liflerden:";;
+"null";"6203.33.10.00.00";" - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6203.33.90.00.00";" - - - Diğerleri";"Adet";"100"
+"null";"6203.39";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";;" - - - Suni liflerden:";;
+"null";"6203.39.11.00.00";" - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6203.39.19.00.00";" - - - - Diğerleri ";"Adet";"100"
+"null";"6203.39.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";;" - Pantolonlar, askılı ve üst ön parçalı tulumlar, kısa pantolonlar";;
+"null";;"   ve şortlar :";;
+"null";"6203.41";" - - Yünden veya ince hayvan kıllarından:";;
+"null";"6203.41.10.00.00";" - - - Pantolonlar ve kısa pantolonlar ";"Adet";"100"
+"null";"6203.41.30.00.00";" - - - Askılı ve üst ön parçalı tulumlar";"Adet";"100"
+"null";"6203.41.90.00.00";" - - - Diğerleri";"Adet";"100"
+"null";"6203.42";" - - Pamuktan:";;
+"null";;" - - - Pantolonlar ve kısa pantolonlar:";;
+"null";"6203.42.11.00.00";" - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";;" - - - - Diğerleri:";;
+"null";"6203.42.31.00.00";" - - - - - Denimden olanlar ";"Adet";"100"
+"null";"6203.42.33.00.00";" - - - - - Atkı iplikli kadife ve pelüşten ";"Adet";"100"
+"null";"6203.42.35.00.00";" - - - - - Diğerleri ";"Adet";"100"
+"null";;" - - - Askılı ve üst ön parçalı tulumlar:";;
+"null";"6203.42.51.00.00";" - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6203.42.59.00.00";" - - - - Diğerleri ";"Adet";"100"
+"null";"6203.42.90.00.00";" - - - Diğerleri";"Adet";"100"
+"null";"6203.43";" - - Sentetik liflerden:";;
+"null";;" - - - Pantolonlar ve kısa pantolonlar:";;
+"null";"6203.43.11.00.00";" - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6203.43.19.00.00";" - - - - Diğerleri ";"Adet";"100"
+"null";;" - - - Askılı ve üst ön parçalı tulumlar:";;
+"null";"6203.43.31.00.00";" - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6203.43.39.00.00";" - - - - Diğerleri ";"Adet";"100"
+"null";"6203.43.90.00.00";" - - - Diğerleri";"Adet";"100"
+"null";"6203.49";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";;" - - - Suni liflerden:";;
+"null";;" - - - - Pantolonlar ve kısa pantolonlar:";;
+"null";"6203.49.11.00.00";" - - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6203.49.19.00.00";" - - - - - Diğerleri ";"Adet";"100"
+"null";;" - - - - Askılı ve üst ön parçalı tulumlar:";;
+"null";"6203.49.31.00.00";" - - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6203.49.39.00.00";" - - - - - Diğerleri";"Adet";"100"
+"null";"6203.49.50.00.00";" - - - - Diğerleri ";"Adet";"100"
+"null";"6203.49.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";;;;
+"null";"62.04";"Kadınlar ve kız çocuklar için takım elbiseler, takımlar, ceketler,";;
+"null";;"blazerler, elbiseler, etekler, pantolon etekler, pantolonlar, askılı";;
+"null";;"ve üst ön parçalı tulumlar, kısa pantolonlar ve şortlar (yüzme";;
+"null";;"kıyafetleri hariç):";;
+"null";;" - Takım elbiseler:";;
+"null";"6204.11.00.00.00";" - - Yünden veya ince hayvan kıllarından";"Adet";"100"
+"null";"6204.12.00.00.00";" - - Pamuktan ";"Adet";"100"
+"null";"6204.13.00.00.00";" - - Sentetik liflerden";"Adet";"100"
+"null";"6204.19";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";"6204.19.10.00.00";" - - - Suni liflerden ";"Adet";"100"
+"null";"6204.19.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";;" - Takımlar:";;
+"null";"6204.21.00.00.00";" - - Yünden veya ince hayvan kıllarından";"Adet";"100"
+"null";"6204.22";" - - Pamuktan:";;
+"null";"6204.22.10.00.00";" - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6204.22.80.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";"6204.23";" - - Sentetik liflerden:";;
+"null";"6204.23.10.00.00";" - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6204.23.80.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";"6204.29";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";;" - - - Suni liflerden:";;
+"null";"6204.29.11.00.00";" - - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6204.29.18.00.00";" - - - - Diğerleri";"Adet";"100"
+"null";"6204.29.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";;" - Ceketler ve blazerler :";;
+"null";"6204.31.00.00.00";" - - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6204.32";" - - Pamuktan:";;
+"null";"6204.32.10.00.00";" - - - Mesleki kıyafetler ";"Adet";"100"
+"null";" ";" - - - Diğerleri ";;
+"null";"6204.32.90.00.12";" - - - - Denimden olanlar";"Adet";"100"
+"null";"6204.32.90.00.13";" - - - - Kadifeden olanlar";"Adet";"100"
+"null";"6204.32.90.00.18";" - - - - Diğerleri";"Adet";"100"
+"null";"6204.33";" - - Sentetik liflerden:";;
+"null";"6204.33.10.00.00";" - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6204.33.90.00.00";" - - - Diğerleri";"Adet";"100"
+"null";"6204.39";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";;" - - - Suni liflerden:";;
+"null";"6204.39.11.00.00";" - - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6204.39.19.00.00";" - - - - Diğerleri";"Adet";"100"
+"null";"6204.39.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";;" - Elbiseler:";;
+"null";"6204.41.00.00.00";" - - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6204.42";" - - Pamuktan ";;
+"null";"6204.42.00.00.12";" - - - Denimden olanlar";"Adet";"100"
+"null";"6204.42.00.00.13";" - - - Kadifeden olanlar";"Adet";"100"
+"null";"6204.42.00.00.18";" - - - Diğerleri";"Adet";"100"
+"null";"6204.43";" - - Sentetik liflerden: ";;
+"null";"6204.43.00.00.11";" - - - Gelinlikler";"Adet";100
+"null";"6204.43.00.00.19";" - - - Diğerleri";"Adet";100
+"null";"6204.44";" - - Suni liflerden: ";;
+"null";"6204.44.00.00.11";" - - - Gelinlikler";"Adet";100
+"null";"6204.44.00.00.19";" - - - Diğerleri";"Adet";100
+"null";"6204.49";" - - Dokumaya elverişli diğer maddelerden :";;
+"null";;" - - - İpek veya ipek döküntülerinden:";;
+"null";"6204.49.10.00.11";" - - - - Gelinlikler";"Adet";100
+"null";"6204.49.10.00.19";" - - - - Diğerleri";"Adet";100
+"null";"6204.49.90.00.00";" - - - Diğerleri";"Adet";"100"
+"null";;" - Etekler ve pantolon etekler:";;
+"null";"6204.51";" - - Yünden veya ince hayvan kıllarından ";;
+"null";" ";" - - - Etekler :";;
+"null";"6204.51.00.00.11";" - - - - Yünden el yapımı olanlar ";"Adet";"100"
+"null";"6204.51.00.00.19";" - - - - Diğerleri";"Adet";"100"
+"null";" ";" - - - Pantolon etekler :";;
+"null";"6204.51.00.00.21";" - - - - Yünden el yapımı olanlar ";"Adet";"100"
+"null";"6204.51.00.00.29";" - - - - Diğerleri";"Adet";"100"
+"null";"6204.52";" - - Pamuktan ";;
+"null";" ";" - - - Etekler :";;
+"null";"6204.52.00.00.12";" - - - - Denimden olanlar";"Adet";"100"
+"null";"6204.52.00.00.13";" - - - - Kadifeden olanlar";"Adet";"100"
+"null";"6204.52.00.00.18";" - - - - Diğerleri";"Adet";"100"
+"null";"6204.52.00.00.22";" - - - Pantolon etekler ";"Adet";"100"
+"null";"6204.53.00.00.00";" - - Sentetik liflerden ";"Adet";"100"
+"null";"6204.59";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";"6204.59.10.00.00";" - - - Suni liflerden ";"Adet";"100"
+"null";"6204.59.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";;" - Pantolonlar, askılı ve üst ön parçalı tulumlar, kısa pantolonlar";;
+"null";;"    ve şortlar:";;
+"null";"6204.61";" - - Yünden veya ince hayvan kıllarından:";;
+"null";"6204.61.10.00.00";" - - - Pantolonlar ve kısa pantolonlar ";"Adet";"100"
+"null";"6204.61.85.00.00";" - - - Diğerleri";"Adet";"100"
+"null";"6204.62";" - - Pamuktan:";;
+"null";;" - - - Pantolonlar ve kısa pantolonlar:";;
+"null";"6204.62.11.00.00";" - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";;" - - - - Diğerleri:";;
+"null";"6204.62.31.00.00";" - - - - - Denimden olanlar ";"Adet";"100"
+"null";"6204.62.33.00.00";" - - - - - Atkı iplikli kadifeden olanlar ";"Adet";"100"
+"null";"6204.62.39.00.00";" - - - - - Diğerleri ";"Adet";"100"
+"null";;" - - - Askılı ve üst ön parçalı tulumlar:";;
+"null";"6204.62.51.00.00";" - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6204.62.59.00.00";" - - - - Diğerleri ";"Adet";"100"
+"null";"6204.62.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";"6204.63";" - - Sentetik liflerden:";;
+"null";;" - - - Pantolonlar ve kısa pantolonlar:";;
+"null";"6204.63.11.00.00";" - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6204.63.18.00.00";" - - - - Diğerleri ";"Adet";"100"
+"null";;" - - - Askılı ve üst ön parçalı tulumlar:";;
+"null";"6204.63.31.00.00";" - - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6204.63.39.00.00";" - - - - Diğerleri";"Adet";"100"
+"null";"6204.63.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";"6204.69";" - - Dokumaya elverişli diğer maddelerden:";;
+"null";;" - - - Suni liflerden:";;
+"null";;" - - - - Pantolonlar ve kısa pantolonlar:";;
+"null";"6204.69.11.00.00";" - - - - - Mesleki kıyafetler ";"Adet";"100"
+"null";"6204.69.18.00.00";" - - - - - Diğerleri ";"Adet";"100"
+"null";;" - - - - Askılı ve üst ön parçalı tulumlar:";;
+"null";"6204.69.31.00.00";" - - - - - Mesleki kıyafetler";"Adet";"100"
+"null";"6204.69.39.00.00";" - - - - - Diğerleri ";"Adet";"100"
+"null";"6204.69.50.00.00";" - - - - Diğerleri ";"Adet";"100"
+"null";"6204.69.90.00.00";" - - - Diğerleri ";"Adet";"100"
+"null";;;;
+"null";"62.05";"Erkekler ve erkek çocuklar için gömlekler:";;
+"null";"6205.20";" - Pamuktan ";;
+"null";"6205.20.00.00.12";" - - Denimden olanlar";"Adet";"100"
+"null";"6205.20.00.00.13";" - - Kadifeden olanlar";"Adet";"100"
+"null";"6205.20.00.00.18";" - - Diğerleri";"Adet";"100"
+"null";"6205.30.00.00.00";" - Sentetik veya suni liflerden";"Adet";"100"
+"null";"6205.90";" - Dokumaya elverişli diğer maddelerden:";;
+"null";"6205.90.10.00.00";" - - Keten veya ramiden ";"Adet";"100"
+"null";" ";" - - Diğerleri ";;
+"null";"6205.90.80.00.11";" - - - İpek ve ipek döküntülerinden";"Adet";"100"
+"null";"6205.90.80.00.12";" - - - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6205.90.80.00.18";" - - - Diğerleri";"Adet";"100"
+"null";;;;
+"null";"62.06";"Kadınlar ve kız çocuklar için bluzlar, gömlekler ve gömlek-bluzlar:";;
+"null";"6206.10.00.00.00";" - İpekten veya ipek döküntülerinden ";"Adet";"100"
+"null";"6206.20.00.00.00";" - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6206.30";" - Pamuktan ";;
+"null";" ";" - - Bluzlar";;
+"null";"6206.30.00.00.12";" - - - Denimden olanlar";"Adet";"100"
+"null";"6206.30.00.00.13";" - - - Kadifeden olanlar";"Adet";"100"
+"null";"6206.30.00.00.18";" - - - Diğerleri";"Adet";"100"
+"null";" ";" - - Gömlekler";;
+"null";"6206.30.00.00.22";" - - - Denimden olanlar";"Adet";"100"
+"null";"6206.30.00.00.23";" - - - Kadifeden olanlar";"Adet";"100"
+"null";"6206.30.00.00.28";" - - - Diğerleri";"Adet";"100"
+"null";"6206.40.00.00.00";" - Sentetik veya suni liflerden ";"Adet";"100"
+"null";"6206.90";" - Dokumaya elverişli diğer maddelerden:";;
+"null";"6206.90.10.00.00";" - - Keten veya ramiden";"Adet";"100"
+"null";" ";" - - Diğerleri ";;
+"null";"6206.90.90.00.11";" - - - Bluzlar";"Adet";"100"
+"null";"6206.90.90.00.12";" - - - Gömlekler";"Adet";"100"
+"null";"6206.90.90.00.13";" - - - Gömlek-bluzlar";"Adet";"100"
+"null";;;;
+"null";"62.07";"Erkekler ve erkek çocuklar için fanilalar, atletler, külotlar,";;
+"null";;"slipler, gece gömlekleri, pijamalar, bornozlar, robdöşambrlar";;
+"null";;"ve benzeri eşya:";;
+"null";;" - Külotlar ve slipler:";;
+"null";"6207.11";" - - Pamuktan ";;
+"null";"6207.11.00.00.11";" - - - Uzun ve kısa külotlar ";"Adet";"100"
+"null";"6207.11.00.00.12";" - - - Slipler ";"Adet";"100"
+"null";"6207.19";" - - Dokumaya elverişli diğer maddelerden ";;
+"null";"6207.19.00.00.11";" - - - Sentetik liflerden uzun ve kısa külotlar ";"Adet";"100"
+"null";"6207.19.00.00.12";" - - - Sentetik liflerden slipler ";"Adet";"100"
+"null";"6207.19.00.00.19";" - - - Dokumaya elverişli diğer maddelerden uzun ve kısa külotlar ";"Adet";"100"
+"null";"6207.19.00.00.29";" - - - Dokumaya elverişli diğer maddelerden slipler ";"Adet";"100"
+"null";;" - Gece gömlekleri ve pijamalar:";;
+"null";"6207.21.00.00.00";" - - Pamuktan ";"Adet";"100"
+"null";"6207.22.00.00.00";" - - Sentetik veya suni liflerden ";"Adet";"100"
+"null";"6207.29.00.00.00";" - - Dokumaya elverişli diğer maddelerden ";"Adet";"100"
+"null";;" - Diğerleri:";;
+"null";"6207.91.00.00.00";" - - Pamuktan";"-";"100"
+"null";"6207.99";" - - Dokumaya elverişli diğer maddelerden ";;
+"null";"6207.99.10.00.00";" - - - Sentetik veya suni liflerden";"-";"100"
+"null";"6207.99.90.00.00";" - - - Diğerleri";"-";"100"
+"null";;;;
+"null";"62.08";"Kadınlar ve kız çocuklar için fanilalar, kaşkorseler, kombinezonlar,";;
+"null";;"jüp veya jüponlar, slipler ve külotlar, gecelikler, pijamalar, ";;
+"null";;"lizözler, bornozlar, sabahlıklar ve benzeri eşya:";;
+"null";;" - Kombinezonlar, jüp veya jüponlar:";;
+"null";"6208.11.00.00.00";" - - Sentetik veya suni liflerden ";"Adet";"100"
+"null";"6208.19.00.00.00";" - - Dokumaya elverişli diğer maddelerden";"Adet";"100"
+"null";;" - Gecelikler ve pijamalar:";;
+"null";"6208.21";" - - Pamuktan ";;
+"null";"6208.21.00.00.11";" - - - Gecelikler ";"Adet";"100"
+"null";"6208.21.00.00.12";" - - - Pijamalar ";"Adet";"100"
+"null";"6208.22";" - - Sentetik veya suni liflerden ";;
+"null";"6208.22.00.00.11";" - - - Gecelikler ";"Adet";"100"
+"null";"6208.22.00.00.12";" - - - Pijamalar ";"Adet";"100"
+"null";"6208.29";" - - Dokumaya elverişli diğer maddelerden ";;
+"null";"6208.29.00.00.11";" - - - Gecelikler";"Adet";"100"
+"null";"6208.29.00.00.12";" - - - Pijamalar";"Adet";"100"
+"null";;" - Diğerleri:";;
+"null";"6208.91.00.00.00";" - - Pamuktan";"-";"100"
+"null";"6208.92.00.00.00";" - - Sentetik veya suni liflerden";"-";"100"
+"null";"6208.99.00.00.00";" - - Dokumaya elverişli diğer maddelerden ";"-";"100"
+"null";;" ";" ";
+"null";"62.09";" Bebekler için giyim eşyası ve aksesuarı:";;
+"null";"6209.20";" - Pamuktan";" ";
+"null";"6209.20.00.00.11";" - - Eldivenler";"-";"100"
+"null";"6209.20.00.00.12";" - - Çoraplar";"-";"100"
+"null";"6209.20.00.00.19";" - - Diğerleri";"-";"100"
+"null";"6209.30";" - Sentetik liflerden";" ";
+"null";"6209.30.00.00.11";" - - Eldivenler";"-";"100"
+"null";"6209.30.00.00.12";" - - Çoraplar";"-";"100"
+"null";"6209.30.00.00.19";" - - Diğerleri";"-";"100"
+"null";"6209.90";" - Dokumaya elverişli diğer maddelerden";" ";
+"null";;" - - Yünden veya ince hayvan kıllarından";;
+"null";"6209.90.10.00.11";" - - - Eldivenler";"-";"100"
+"null";"6209.90.10.00.12";" - - - Çoraplar";"-";"100"
+"null";"6209.90.10.00.19";" - - - Diğerleri";"-";"100"
+"null";;" - - Diğerleri ";" ";
+"null";"6209.90.90.00.11";" - - - Eldivenler";"-";"100"
+"null";"6209.90.90.00.12";" - - - Çoraplar";"-";"100"
+"null";"6209.90.90.00.19";" - - - Diğerleri";"-";"100"
+"null";;;;
+"null";"62.10";"56.02, 56.03, 59.03, 59.06 veya 59.07 Pozisyonlarındaki";;
+"null";;"mensucattan hazır giyim eşyası:";;
+"null";"6210.10";" - 56.02 veya 56.03 Pozisyonlarındaki mensucattan:";;
+"null";" ";" - - 56.02 Pozisyonundaki mensucattan ";;
+"null";"6210.10.10.00.11";" - - - Paltolar (manto)";"-";"100"
+"null";"6210.10.10.00.19";" - - - Diğerleri";"-";"100"
+"null";;" - - 56.03 Pozisyonundaki mensucattan: ";;
+"null";"6210.10.92.00.00";" - - - Hastalar veya cerrahlar tarafından cerrahi operasyonlarda giyilen tek kullanımlık";;
+"null";;"       uzun elbiseler";"-";"100"
+"null";"6210.10.98.00.00";" - - - Diğerleri";"-";"100"
+"null";"6210.20.00.00.00";" - 62.01 pozisyonundaki tanımlanan cinsteki diğer giyim eşyası";"Adet";"100"
+"null";"6210.30.00.00.00";" - 62.02 pozisyonundaki tanımlanan cinsteki diğer giyim eşyası";"Adet";"100"
+"null";"6210.40";" - Erkekler ve erkek çocuklar için diğer giyim eşyası";;
+"null";"6210.40.00.00.11";" - - Dalgıç elbisesi";"-";"100"
+"null";"6210.40.00.00.12";" - - Radyasyona karşı koruyucu elbiseler";"-";"100"
+"null";"6210.40.00.00.19";" - - Diğerleri";"-";"100"
+"null";"6210.50";" - Kadınlar ve kız çocuklar için diğer giyim eşyası";" ";
+"null";"6210.50.00.00.11";" - - Dalgıç elbisesi ";"-";"100"
+"null";"6210.50.00.00.12";" - - Radyasyona karşı koruyucu elbiseler ";"-";"100"
+"null";"6210.50.00.00.19";" - - Diğerleri";"-";"100"
+"null";;;;
+"null";"62.11";"Spor, kayak ve yüzme kıyafetIeri; diğer giyim eşyası:";;
+"null";;" - Yüzme kıyafetleri:";;
+"null";"6211.11";" - - Erkekler ve erkek çocuklar için ";;
+"null";"6211.11.00.00.11";" - - - Suni veya sentetik liflerden";"Adet";"100"
+"null";"6211.11.00.00.19";" - - - Dokumaya elverişli diğer maddelerden";"Adet";"100"
+"null";"6211.12";" - - Kadınlar ve kız çocuklar için";;
+"null";"6211.12.00.00.11";" - - - Suni veya sentetik liflerden";"Adet";"100"
+"null";"6211.12.00.00.19";" - - - Dokumaya elverişli diğer maddelerden";"Adet";"100"
+"null";"6211.20.00.00.00";" - Kayak kıyafetleri";"Adet";"100"
+"null";;" - Erkekler ve erkek çocuklar için diğer giyim eşyası:";;
+"null";"6211.32";" - - Pamuktan:";" ";
+"null";" ";" - - - Mesleki kıyafetler ";" ";
+"null";"6211.32.10.00.11";" - - - - Önlükler";"-";"100"
+"null";"6211.32.10.00.12";" - - - - Koruyucu elbiseler";"-";"100"
+"null";"6211.32.10.00.13";" - - - - Yaka ve askılar";"-";"100"
+"null";"6211.32.10.00.19";" - - - - Diğerleri";"-";"100"
+"null";;" - - - Astarlı spor kıyafetleri :";;
+"null";"6211.32.31.00.00";" - - - - Dış yüzü tek ve aynı mensucattan ";"Adet";"100"
+"null";;" - - - - Diğerleri :";;
+"null";"6211.32.41.00.00";" - - - - - Üst kısımlar";"Adet";"100"
+"null";"6211.32.42.00.00";" - - - - - Alt kısımlar";"Adet";"100"
+"null";"6211.32.90.00.00";" - - - Diğerleri ";"-";"100"
+"null";"6211.33";" - - Sentetik veya suni liflerden: ";;
+"null";" ";" - - - Mesleki kıyafetler ";;
+"null";"6211.33.10.00.11";" - - - - Önlükler ";"-";"100"
+"null";"6211.33.10.00.12";" - - - - Koruyucu elbiseler ";"-";"100"
+"null";"6211.33.10.00.13";" - - - - Yaka ve askılar ";"-";"100"
+"null";"6211.33.10.00.19";" - - - - Diğerleri ";"-";"100"
+"null";;" - - - Astarlı spor kıyafetleri :";;
+"null";"6211.33.31.00.00";" - - - - Dış yüzü tek ve aynı mensucattan ";"Adet";"100"
+"null";;" - - - - Diğerleri :";;
+"null";"6211.33.41.00.00";" - - - - - Üst kısımlar";"Adet";"100"
+"null";"6211.33.42.00.00";" - - - - - Alt kısımlar";"Adet";"100"
+"null";"6211.33.90.00.00";" - - - Diğerleri";"-";"100"
+"null";"6211.39";" - - Dokumaya elverişli diğer maddelerden ";;
+"null";;" - - - Yünden veya ince hayvan kıllarından";;
+"null";"6211.39.00.00.21";" - - - - Mesleki kıyafetler";"-";"100"
+"null";"6211.39.00.00.29";" - - - - Diğerleri ";"-";"100"
+"null";;" - - - Diğerleri";;
+"null";"6211.39.00.00.31";" - - - - Mesleki kıyafetler";"-";"100"
+"null";"6211.39.00.00.39";" - - - - Diğerleri";"-";"100"
+"null";;" - Kadınlar ve kız çocukIar için diğer giyim eşyası:";;
+"null";"6211.42";" - - Pamuktan:";;
+"null";"6211.42.10.00.00";" - - - Önlükler, gömlekler ve diğer mesleki kıyafetIer (aynı zamanda ev içinde";;
+"null";;"        kullanılmaya mahsus olsun olmasın)";"-";"100"
+"null";;" - - - Astarlı spor kıyafetleri :";;
+"null";"6211.42.31.00.00";" - - - - Dış yüzü tek ve aynı mensucattan";"Adet";"100"
+"null";;" - - - - Diğerleri :";;
+"null";"6211.42.41.00.00";" - - - - - Üst kısımlar";"Adet";"100"
+"null";"6211.42.42.00.00";" - - - - - Alt kısımlar";"Adet";"100"
+"null";"6211.42.90.00.00";" - - - Diğerleri";"-";"100"
+"null";"6211.43";" - - Sentetik veya suni liflerden:";;
+"null";"6211.43.10.00.00";" - - - Önlükler, gömlekler ve diğer mesleki kıyafetler (aynı zamanda ev içinde ";;
+"null";;"        kullanılmaya mahsus olsun olmasın)";"-";"100"
+"null";;" - - - Astarlı spor kıyafetleri :";;
+"null";"6211.43.31.00.00";" - - - - Dış yüzü tek ve aynı mensucattan";"Adet";"100"
+"null";;" - - - - Diğerleri :";;
+"null";"6211.43.41.00.00";" - - - - - Üst kısımlar ";"Adet";"100"
+"null";"6211.43.42.00.00";" - - - - - Alt kısımlar";"Adet";"100"
+"null";"6211.43.90.00.00";" - - - Diğerleri ";"-";"100"
+"null";"6211.49";" - - Dokumaya elverişli diğer maddelerden ";;
+"null";"6211.49.00.00.11";" - - - Önlükler, gömlekler ve diğer mesleki kıyafetler (aynı zamanda ev içinde ";;
+"null";" ";"        kullanılmaya mahsus olsun olmasın)";"-";"100"
+"null";"6211.49.00.00.19";" - - - Diğerleri";"-";"100"
+"null";;;;
+"null";"62.12";"Sütyenler, korseler, korse kemerler, pantolon askıları, çorap";;
+"null";;"bağları, jartiyerler ve benzeri eşya ve bunlar için parçalar";;
+"null";;"(örülmüş veya kroşe olsun olmasın):";;
+"null";"6212.10";" - Sütyenler:";;
+"null";"6212.10.10.00.00";" - - Bir sütyen ve bir külot ihtiva eden setler";"Adet";"100"
+"null";"6212.10.90.00.00";" - - Diğerleri ";"Adet";"100"
+"null";"6212.20.00.00.00";" - Korseler ve korse pantolonlar";"Adet";"100"
+"null";"6212.30.00.00.00";" - Sütyenli korseler";"Adet";"100"
+"null";"6212.90";" - Diğerleri ";;
+"null";"6212.90.00.00.11";" - - Kuşaklar";"-";"100"
+"null";"6212.90.00.00.19";" - - Diğerleri";"-";"100"
+"null";;;;
+"null";"62.13";"Mendiller:";;
+"null";"6213.20";" - Pamuktan ";;
+"null";"6213.20.00.00.11";" - - El yapımı olanlar ";"Adet";"100"
+"null";"6213.20.00.00.19";" - - Diğerleri";"Adet";"100"
+"null";"6213.90";" - Dokumaya elverişli diğer maddelerden: ";;
+"null";"6213.90.00.10.00";" - - Ketenden";"Adet";"100"
+"null";"6213.90.00.90.00";" - - Diğerleri";"Adet";"100"
+"null";;;;
+"null";"62.14";"Şallar, eşarplar, fularlar, kaşkollar, peçeler, duvaklar ve";;
+"null";;"benzeri eşya:";;
+"null";"6214.10.00.00.00";" - İpekten veya ipek döküntülerinden ";"Adet";"100"
+"null";"6214.20.00.00.00";" - Yünden veya ince hayvan kıllarından ";"Adet";"100"
+"null";"6214.30.00.00.00";" - Sentetik liflerden ";"Adet";"100"
+"null";"6214.40.00.00.00";" - Suni liflerden ";"Adet";"100"
+"null";"6214.90.00.00.00";" - Dokumaya elverişli diğer maddelerden";"Adet";"100"
+"null";;;;
+"null";"62.15";"Boyun bağları, papyonlar ve kravatlar:";;
+"null";"6215.10";" - İpekten veya ipek döküntülerinden ";;
+"null";"6215.10.00.10.00";" - - Kravat imali için şekil verilerek kesilmiş parçalar";"Adet";"100"
+"null";"6215.10.00.90.00";" - - Diğerleri";"Adet";"100"
+"null";"6215.20";" - Sentetik ve suni liflerden ";;
+"null";"6215.20.00.10.00";" - - Kravat imali için şekil verilerek kesilmiş parçalar";"Adet";"100"
+"null";"6215.20.00.90.00";" - - Diğerleri";"Adet";"100"
+"null";"6215.90";" - Dokumaya elverişli diğer maddelerden ";;
+"null";"6215.90.00.10.00";" - - Kravat imali için şekil verilerek kesilmiş parçalar";"Adet";"100"
+"null";"6215.90.00.90.00";" - - Diğerleri";"Adet";"100"
+"null";;;;
+"null";"6216.00.00.00.00";"Eldivenler, tek parmaklı eldivenler ve parmaksız eldivenler";"Çift";"100"
+"null";;;;
+"null";"62.17";"Giyim eşyasının diğer hazır aksesuarı; giyim eşyasının veya";;
+"null";;"giyim eşyası aksesuarının parçaları (62.12 pozisyonundakiler hariç)";;
+"null";"6217.10";" - Aksesuarlar ";;
+"null";"6217.10.00.00.11";" - - El yapımı olanlar  ";"-";"100"
+"null";"6217.10.00.00.19";" - - Diğerleri ";"-";"100"
+"null";"6217.90";" - Parçalar ";;
+"null";;" - - Mendiller için olanlar:";;
+"null";"6217.90.00.11.00";" - - - Keten ve pamuktan ";"-";"100"
+"null";"6217.90.00.19.00";" - - - Diğerleri ";"-";"100"
+"null";"6217.90.00.90.00";" - - Diğerleri ";"-";"100"

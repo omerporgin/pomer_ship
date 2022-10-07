@@ -1,0 +1,319 @@
+﻿"null";"2501.00";" Tuz (sofra tuzu ve denature tuz dahil) ve saf sodyum klorür";;
+"null";;" (sulu çözelti halinde veya kalıplaşmaya karşı maddeler veya ";;
+"null";;" serbestçe akmayı sağlayan maddeler içersin içermesin); ";;
+"null";;" deniz suyu:";;
+"null";"2501.00.10.00.00";" - Denizsuyu ve tuzla ana suları";"-";100
+"null";;" - Tuz (sofra tuzu ve denature tuz dahil), saf sodyum klorür (sulu çözelti";;
+"null";;"    halinde veya kalıplaşmaya karşı maddeler veya serbestçe akmayı ";;
+"null";;"    sağlayan maddeler içersin içermesin):";;
+"null";"2501.00.31.00.00";" - - Diğer maddelerin imali için kimyasal değişimlere mahsus olanlar";;
+"null";;"      (CI 'den Na 'yı ayırmak gibi)                           ";"-";100
+"null";;" - - Diğerleri:";;" "
+"null";"2501.00.51.00.00";" - - - Denature veya sınai amaçlara mahsus olanlar (rafine edilecekler dahil)";;
+"null";;"        (insanlar veya hayvanlar tarafından tüketilen gıdaların hazırlanmasında";;
+"null";;"        veya korunmasında kullanılanlar hariç)          ";"-";100
+"null";;" - - - Diğerleri:";;
+"null";"2501.00.91.00.00";" - - - - İnsanların tüketimine mahsus tuz             ";"-";100
+"null";;" - - - - Diğerleri :                                                  ";;
+"null";"2501.00.99.10.00";" - - - - - Saf sodyum klorür";"-";15
+"null";"2501.00.99.90.00";" - - - - - Diğerleri";"-";100
+"null";;;;
+"null";"2502.00";" Kavrulmamış demir piritleri";;" "
+"null";"2502.00.00.00.11";" - Bakırlı demir piritleri";"-";5
+"null";"2502.00.00.00.19";" - Diğerleri";"-";5
+"null";;;;
+"null";"2503.00";"Her nevi kükürt (süblime kükürt, presipite kükürt ve kolloidal ";;
+"null";;"kükürt hariç) :";;
+"null";"2503.00.10.00.00";" - Ham veya rafine edilmemiş kükürt";"-";75
+"null";" ";" - Diğerleri";;" "
+"null";"2503.00.90.00.13";" - - Rafine edilmiş kükürt";"-";75
+"null";"2503.00.90.00.18";" - - Diğerleri";"-";75
+"null";;;;
+"null";"25.04";"Tabii grafit:";;
+"null";"2504.10.00.00.00";" - Toz veya flokon halinde";"-";15
+"null";"2504.90.00.00.00";" - Diğerleri";"-";15
+"null";;;;
+"null";"25.05";"Her nevi tabii kum (boyanmış olsun olmasın, 26. fasıldaki";;
+"null";;"metal içeren kumlar hariç) :";;
+"null";"2505.10.00.00.00";" - Silisli kumlar ve kuvarslı kumlar";"-";15
+"null";"2505.90";" - Diğerleri";;" "
+"null";"2505.90.00.00.11";" - - Killi ve beyaz killi (kaolinli) kumlar";"-";15
+"null";"2505.90.00.00.12";" - - Feldispatlı kumlar";"-";15
+"null";"2505.90.00.00.19";" - - Diğerleri";"-";15
+"null";;;;
+"null";"25.06";"Kuvars (tabii kumlar hariç); kuvarzit, kabaca yontulmuş veya";;
+"null";;"testere ile yahut başka surette [dikdörtgen şeklindeki (kare dahil),";;
+"null";;"bloklar veya kalın dilimler halinde] sadece kesilmiş olsun olmasın:";;
+"null";"2506.10";" - Kuvars";;" "
+"null";"2506.10.00.00.11";" - - Ham kuvars";"-";15
+"null";"2506.10.00.00.14";" - - Mikromize kuvars (10-20- mikron çaplı)";"-";15
+"null";"2506.10.00.00.18";" - - Diğerleri";"-";15
+"null";;" - Kuvarzit";;
+"null";"2506.20.00.00.11";" - -  Ham veya kabaca yontulmuş";"-";15
+"null";"2506.20.00.00.19";" - -  Diğerleri";"-";15
+"null";;;;
+"null";"2507.00";"Kaolin ve diğer kaolinli killer (kalsine edilmiş olsun olmasın):";;
+"null";;" - Kaolin";;" "
+"null";"2507.00.20.00.11";" - - Ham kaolin";"-";20
+"null";"2507.00.20.00.18";" - - Diğerleri";"-";20
+"null";;" - Diğer kaolinli killer";;"  "
+"null";"2507.00.80.00.11";" - - Ham kaolinli killer";"-";20
+"null";"2507.00.80.00.12";" - - Öğütülmüş kaolinli killer";"-";20
+"null";;;;
+"null";"25.08";"Diğer killer (68.06 Pozisyonundaki genleştirilmiş killer hariç), ";;
+"null";;"andaluzit, siyanit ve silimanit (kalsine edilmiş olsun olmasın); ";;
+"null";;"mülit; şamot veya dinas toprakları:";;
+"null";"2508.10";" - Bentonit";;"  "
+"null";"2508.10.00.00.11";" - - Öğütülmüş bentonit";"-";20
+"null";"2508.10.00.00.12";" - - Öğütülmemiş bentonit";"-";20
+"null";"2508.30.00.00.00";" - Ateş kili";"-";20
+"null";"2508.40.00.00.00";" - Diğer killer";"-";20
+"null";"2508.50";" - Andaluzit, siyanit ve silimanit";;
+"null";"2508.50.00.00.11";" - - Andaluzit";"-";20
+"null";"2508.50.00.00.12";" - - Siyanit (disten)";"-";20
+"null";"2508.50.00.00.13";" - - Silimanit";"-";20
+"null";"2508.60";" - Mülit :";;
+"null";"2508.60.00.10.00";" - - Siliko-alumin ve silisli ateş toprağı";"-";20
+"null";"2508.60.00.90.00";" - - Diğerleri";"-";20
+"null";"2508.70.00.00.00";" - Şamot ve dinas toprakları";"-";20
+"null";;;;
+"null";"2509.00";"Tebeşir";;
+"null";"2509.00.00.00.11";"- Saf tebeşir";"-";25
+"null";"2509.00.00.00.19";"- Diğerleri";"-";25
+"null";;;;
+"null";"25.10";"Tabii kalsiyum fosfatlar; tabii aluminyum -kalsiyum fosfatlar ve ";;
+"null";;"fosfatlı tebeşirler:";;
+"null";"2510.10";" - Öğütülmemiş :";;
+"null";"2510.10.00.10.00";" - - Tabii aluminyum-kalsiyum fosfatlar";"-";10
+"null";;" - - Diğerleri";;"  "
+"null";"2510.10.00.90.11";" - - - Tabii kalsiyum fosfatlar ";"-";0
+"null";"2510.10.00.90.12";" - - - Apatit ve fosfatlı tebeşirler";"-";0
+"null";"2510.20";" - Öğütülmüş :";;
+"null";;" - - Tabii kalsiyum fosfatlar; tabii aluminyum -kalsiyum fosfatlar ";;" "
+"null";"2510.20.00.10.11";" - - - Tabii kalsiyum fosfatlar ";"-";10
+"null";"2510.20.00.10.12";" - - - Tabii aluminyum -kalsiyum fosfatlar ";"-";10
+"null";"2510.20.00.90.00";" - - Diğerleri";"-";0
+"null";;;;
+"null";"25.11";" Tabii baryum sülfat (barit) ; tabii baryum karbonat (witherithe)";;
+"null";;" (kalsine edilmiş olsun olmasın) (28.16 pozisyonundaki baryum ";;
+"null";;" oksit hariç):";;
+"null";"2511.10";" - Tabii baryum sülfat (barit)";;" "
+"null";"2511.10.00.00.11";" - - Ham baryum sülfat";"-";40
+"null";"2511.10.00.00.12";" - - Öğütülmüş baryum sülfat";"-";40
+"null";"2511.10.00.00.13";" - - Mikronize edilmiş baryum sülfat";"-";40
+"null";"2511.20.00.00.00";" - Tabii baryum karbonat (witherithe)";"-";40
+"null";;;;
+"null";"2512.00";" Belirgin yoğunluğu bir veya daha az olan silisli fosil unları";;
+"null";;" (kiselgur, tripolit, diatomit gibi) ve benzeri silisli topraklar";;
+"null";;" (kalsine edilmiş olsun olmasın)";;" "
+"null";"2512.00.00.00.11";" - Tripolit";"-";25
+"null";"2512.00.00.00.12";" - Diatomit";"-";25
+"null";"2512.00.00.00.13";" - Kiselgur";"-";25
+"null";"2512.00.00.00.19";" - Diğerleri";"-";25
+"null";;;;
+"null";"25.13";"Sünger taşı; zımpara taşı; tabii korindon, tabii Süleyman taşı (garnet) ve ";;
+"null";;"diğer tabii aşındırıcılar (termik işlem görmüş olsun olmasın):";;
+"null";"2513.10.00.00.00";" - Sünger taşı";"-";25
+"null";"2513.20";" - Zımpara taşı, tabii korindon, tabii Süleyman taşı ve diğer aşındırı-";;
+"null";;"   cılar :";;
+"null";"2513.20.00.00.11";" - - Zımpara taşı (toz veya çaplı taneler halinde)";"-";25
+"null";"2513.20.00.00.12";" - - Tabii korindon";"-";25
+"null";"2513.20.00.00.13";" - - Süleyman taşı";"-";25
+"null";"2513.20.00.00.19";" - - Diğerleri";"-";25
+"null";;;;
+"null";"2514.00.00.00.00";"Kayagan taşı (arduvaz), [kabaca yontulmuş veya testere ile";;
+"null";;"yahut başka surette dikdörtgen şeklinde (kare dahil) bloklar ";;
+"null";;"veya kalın dilimler halinde sadece kesilmiş olsun olmasın]";"-";25
+"null";;;;
+"null";"25.15";"Mermer, traverten, ekosin ve belirgin yoğunluğu 2,5 veya daha";;
+"null";;"fazla olan yontulmaya veya inşaata elverişli kireçli taşlar, su";;
+"null";;"mermeri [kabaca yontulmuş veya testere ile yahut başka surette";;
+"null";;"dikdörtgen şeklinde (kare dahil) bloklar veya kalın dilimler halinde";;
+"null";;"sadece kesilmiş olsun olmasın]:";;
+"null";;" - Mermer ve traverten:";;
+"null";"2515.11.00.00.00";" - - Ham veya kabaca yontulmuş";"-";25
+"null";"2515.12.00.00.00";" - - Testere ile yahut başka surette dikdörtgen şeklinde (kare dahil) ";;
+"null";;"      bloklar veya kalın dilimler halinde sadece kesilmiş ";"-";25
+"null";"2515.20";" - Ekosin ve yontulmaya veya inşaata elverişli diğer kireçli taşlar;  ";;
+"null";;"   su mermeri";;" "
+"null";"2515.20.00.00.11";" - - Ekosin";"-";25
+"null";"2515.20.00.00.12";" - - Su mermeri";"-";25
+"null";"2515.20.00.00.19";" - - Diğerleri";"-";25
+"null";;;;
+"null";"25.16";"Granit, porfir, bazalt, gre ve yontulmaya veya inşaata elverişli diğer";;
+"null";;"taşlar [kabaca yontulmuş veya testere ile yahut başka surette ";;
+"null";;"dikdörtgen şeklinde (kare dahil) bloklar veya kalın dilimler";;
+"null";;"halinde sadece kesilmiş olsun olmasın] :";;
+"null";;" - Granit:";;
+"null";"2516.11.00.00.00";" - - Ham veya kabaca yontulmuş";"-";25
+"null";"2516.12.00.00.00";" - - Testere ile yahut başka surette dikdörtgen şeklinde (kare dahil)";;
+"null";;"      bloklar veya kalın dilimler halinde sadece kesilmiş";"-";25
+"null";"2516.20.00.00.00";" - Gre";"-";25
+"null";"2516.90.00.00.00";" - Yontulmaya veya inşaata elverişli diğer taşlar";"-";25
+"null";;;;
+"null";"25.17";"Çakıl taşı, kırılmış veya ezilmiş taşlar (genellikle yolların veya";;
+"null";;"demir yollarının betonaj ve döşemesinde veya diğer balastlama";;
+"null";;"işlerinde kullanılan türden), çakmak taşı ve yassı iri çakıl taşı";;
+"null";;"(termik işlem görmüş olsun olmasın); cüruf, moloz veya benzeri";;
+"null";;"sanayi artıkları makadamı (bu pozisyonun ilk kısmında belirtilen ";;
+"null";;"maddelerle birlikte olsun olmasın); katranlı makadam; 25.15 ve ";;
+"null";;"25.16 pozisyonlarındaki taşların granül, parçacık ve tozları";;
+"null";;" (termik işlem görmüş olsun olmasın):";;
+"null";"2517.10";" - Çakıl taşı, kırılmış veya ezilmiş taşlar (genellikle yolların veya";;
+"null";;"    veya demiryollarının betonaj ve döşemesinde veya diğer balast-";;
+"null";;"    lama işlerinde kullanılan türden),çakmak taşı ve yassı iri çakıl ";;
+"null";;"    taşı (termik işlem görmüş olsun olmasın):";;
+"null";;" - - Çakıl taşı, çakmak taşı ve yassı iri çakıl taşı :";;
+"null";"2517.10.10.10.00";" - - - Çakmak taşı";"-";25
+"null";;" - - - Diğerleri";;" "
+"null";"2517.10.10.90.11";" - - - - Çakıl taşı";"-";25
+"null";"2517.10.10.90.12";" - - - - Yassı iri çakıl taşı ";"-";25
+"null";"2517.10.20.00.00";" - - Kireç taşı , dolomit ve diğer kalkerli taşlar (kırılmış veya ezilmiş)";"-";25
+"null";;" - - Diğerleri";;" "
+"null";"2517.10.80.00.11";" - - - Mıcır";"-";25
+"null";"2517.10.80.00.19";" - - - Diğerleri";"-";25
+"null";"2517.20";" - Cüruf, moloz veya diğer sanayi artıkları makadamı (2517.10 alt";;
+"null";;"   pozisyonunda belirtilen maddelerle birlikte olsun olmasın)";;
+"null";"2517.20.00.00.11";" - - Moloz";"-";25
+"null";"2517.20.00.00.19";" - - Diğerleri";"-";25
+"null";"2517.30.00.00.00";" - Katranlı makadam";"-";25
+"null";;" - 25. 15 veya 25.16 Pozisyonlarındaki taşların granül, parçacık ve";;
+"null";;"   tozları (termik işlem görmüş olsun olmasın):";;
+"null";"2517.41.00.00.00";" - - Mermerin granül, parçacık ve tozları";"-";25
+"null";"2517.49.00.00.00";" - - Diğerleri";"-";25
+"null";;;;
+"null";"25.18";"Dolomit (kalsine edilmiş veya sinterlenmiş olsun olmasın); ";;
+"null";;"[kabaca yontulmuş veya testere ile yahut başka surette ";;
+"null";;"dikdörtgen şeklindeki (kare dahil) bloklar veya kalın dilimler ";;
+"null";;"halinde sadece kesilmiş dolomit dahil]";;
+"null";"2518.10";" - Kalsine edilmemiş veya sinterlenmemiş dolomit";;" "
+"null";"2518.10.00.00.11";" - - Öğütülmüş ham dolomit";"-";25
+"null";"2518.10.00.00.19";" - - Diğer ham dolomitler";"-";25
+"null";"2518.20";" - Kalsine edilmiş veya sinterlenmiş dolomit";;" "
+"null";"2518.20.00.00.11";" - - Öğütülmüş kalsine dolomit";"-";25
+"null";"2518.20.00.00.19";" - - Diğer kalsine dolomitler";"-";25
+"null";;;;
+"null";"25.19";"Tabii magnezyum karbonat (magnezit) ;erimiş manyezi; tamamen ";;
+"null";;"yanmış (sinterlenmiş) manyezi (sinterleme işleminden evvel ilave ";;
+"null";;"edilmiş az miktarda diğer oksitleri içersin içermesin); diğer ";;
+"null";;"magnezyum oksit (saf olsun olmasın):";;
+"null";"2519.10.00.00.00";" - Tabii magnezyum karbonat (magnezit)";"-";25
+"null";"2519.90";" - Diğerleri:";;
+"null";;" - - Magnezyum oksit (kalsine edilmiş tabii magnezyum karbonat hariç)";;" "
+"null";"2519.90.10.00.11";" - - - Saf magnezyum oksit";"-";25
+"null";"2519.90.10.00.12";" - - - Saf olmayan magnezyum oksit";"-";25
+"null";;" - -Tamamen yanmış (sinterlenmiş) manyezi";;" "
+"null";"2519.90.30.00.11";" - - - Deniz suyu sinter manyezi";"-";25
+"null";"2519.90.30.00.19";" - - - Diğerleri";"-";25
+"null";;" - - Diğerleri";;
+"null";"2519.90.90.00.11";" - - - Kalsine edilmiş manyezi";"-";25
+"null";"2519.90.90.00.12";" - - - Elektro fused (elektro erğitilmiş ) manyezi";"-";25
+"null";"2519.90.90.00.13";" - - - Magnezit krom speneli";"-";25
+"null";"2519.90.90.00.19";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"25.20";"Alçı taşı; anhidrit; alçılar (kalsine alçı taşı veya kalsiyum sülfattan";;
+"null";;"ibaret olanlar) (boyanmış veya az miktarda donmayı hızlandırıcı";;
+"null";;"veya yavaşlatıcılar ilave edilmiş olsun olmasın) :";;
+"null";"2520.10.00.00.00";" - Alçı taşı; anhidrit";"-";25
+"null";"2520.20";" - Alçılar:";;
+"null";"2520.20.00.10.00";" - - Dişçilikte kullanılan alçılar";"-";30
+"null";;" - - Diğerleri:";;
+"null";"2520.20.00.90.11";" - - - Tıpta kullanılan alçılar";"-";25
+"null";"2520.20.00.90.19";" - - - Diğerleri";"-";25
+"null";"2521.00.00.00.00";"Kastin; kireç taşı ve diğer kireçli taşlar (kireç ve çimento";;
+"null";;"imalinde kullanılan türde olanlar)";"-";25
+"null";;;;
+"null";"25.22";"Sönmemiş kireç, sönmüş kireç ve su aItında sertleşen kireç";;
+"null";;"(28.25 pozisyonundaki kalsiyum oksit ve hidroksit hariç):";;
+"null";"2522.10.00.00.00";" - Sönmemiş kireç";"-";25
+"null";"2522.20.00.00.00";" - Sönmüş kireç";"-";25
+"null";"2522.30.00.00.00";" - Su altında sertleşen kireç";"-";25
+"null";;;;
+"null";"25.23";"Portland çimentosu, şaplı çimento (""ciment fondu""), cüruf";;
+"null";;"çimentosu, süper sülfat çimentosu ve benzeri su altında sertleşen";;
+"null";;"çimentolar (boyanmış veya klinker şeklinde olsun olmasın):";;
+"null";"2523.10.00.00.00";" - Klinker";"-";25
+"null";;" - Portland çimentosu:";;
+"null";"2523.21";" - - Beyaz çimento (suni olarak renklendirilmiş olsun olmasın)";;" "
+"null";"2523.21.00.00.11";" - - - Ambalajlanmış olanlar";"-";40
+"null";"2523.21.00.00.19";" - - - Diğerleri";"-";40
+"null";"2523.29";" - - Diğerleri";;" "
+"null";"2523.29.00.00.11";" - - - Ambalajlanmış olanlar";"-";25
+"null";"2523.29.00.00.19";" - - - Diğerleri";"-";25
+"null";"2523.30";" - Şaplı çimento";;" "
+"null";"2523.30.00.00.11";" - - Ambalajlanmış olanlar";"-";25
+"null";"2523.30.00.00.19";" - - Diğerleri";"-";25
+"null";"2523.90";" - Su altında sertleşen diğer çimentolar:";;
+"null";"2523.90.00.00.11";" - - Ambalajlanmış olanlar";"-";25
+"null";"2523.90.00.00.19";" - - Diğerleri";"-";25
+"null";;;;
+"null";"25.24";"Amyant (asbest) :";;
+"null";"2524.10.00.00.00";" - Krosidolit";"-";15
+"null";"2524.90";" - Diğerleri :";;
+"null";"2524.90.00.00.11";" - - Amosite";"-";15
+"null";"2524.90.00.00.12";" - - Antophylite";"-";15
+"null";"2524.90.00.00.13";" - - Actinolite";"-";15
+"null";"2524.90.00.00.14";" - - Tremolite";"-";15
+"null";"2524.90.00.00.15";" - - Chrysotile";"-";15
+"null";"2524.90.00.00.19";" - - Diğerleri";"-";15
+"null";;;;
+"null";"25.25";"Mika (düzensiz ince tabakalar halinde yarılmış olanlar dahil)";;
+"null";;"mika döküntüleri :";;
+"null";"2525.10.00.00.00";" - Ham mika ve düzensiz yaprak veya ince tabakalar halinde ";;
+"null";;"   yarılmış mika";"-";20
+"null";"2525.20.00.00.00";" - Mika tozu";"-";20
+"null";"2525.30.00.00.00";" - Mika döküntüleri";"-";20
+"null";;;;
+"null";"25.26";"Tabii steatit (sabun taşı) [kabaca yontulmuş veya testere ile yahut";;
+"null";;"başka surette dikdörtgen şeklindeki (kare dahil) bloklar veya ";;
+"null";;"kalın dilimler halinde sadece kesilmiş olsun olmasın]; talk:";;
+"null";"2526.10.00.00.00";" - Ezilmemiş, toz haline getirilmemiş";"-";50
+"null";"2526.20.00.00.00";" - Ezilmiş veya toz haline getirilmiş";"-";50
+"null";;;;
+"null";"[25.27]";;;" "
+"null";;;;
+"null";"2528.00.00.00.00";"Tabii boratlar ve bunların konsantreleri (kalsine edilmiş olsun";;
+"null";;"olmasın) (tabii tuzlu sulardan çıkarılan boratlar hariç); tabii borik";;
+"null";;"asit (kuru ağırlık üzerinden hesaplandığında H3BO3 oranı % 85 'ten ";;
+"null";;"fazla olmayan)";"-";25
+"null";;;;
+"null";"25.29";"Feldispat; lösit; nefelin ve nefelin siyenit ; florspat:";;
+"null";"2529.10";" - Feldispat";;" "
+"null";"2529.10.00.00.11";" - - Ham feldispat";"-";25
+"null";"2529.10.00.00.12";" - - Öğütülmüş feldispat";"-";25
+"null";"2529.10.00.00.13";" - - Flote edilmiş feldispat";"-";25
+"null";"2529.10.00.00.19";" - - Diğerleri";"-";25
+"null";;" - Florspat:";;" "
+"null";"2529.21.00.00.00";" - - Ağırlık itibariyle % 97 veya daha az kalsiyum florür içerenler";"-";25
+"null";"2529.22.00.00.00";" - - Ağırlık itibariyle % 97 'den fazla kalsiyum fIorür içerenler";"-";25
+"null";"2529.30.00.00.00";" - Lösit; nefelin ve nefelin siyenit ";"-";25
+"null";;;;
+"null";"25.30";"Tarifenin başka yerinde belirtilmeyen veya yer almayan mineral";;
+"null";;" maddeler :";;
+"null";"2530.10";" - Vermikülit, perlit ve kloritler (genleştirilmemiş) :";;
+"null";;" - - Vermikülit";;
+"null";"2530.10.00.00.12";" - - - Tane boyu 1mm'yi geçmeyenler";"-";25
+"null";"2530.10.00.00.13";" - - - Tane boyu 1mm'yi geçen 2 mm'yi geçmeyenler";"-";25
+"null";"2530.10.00.00.14";" - - - Tane boyu 2,8 mm'yi geçen 4 mm'yi geçmeyenler";"-";25
+"null";"2530.10.00.00.15";" - - - Tane boyu 4 mm'yi geçen 12 mm'yi geçmeyenler";"-";25
+"null";"2530.10.00.00.16";" - - - Diğerleri";"-";25
+"null";"2530.10.00.00.19";"- - Diğerleri";"-";25
+"null";"2530.20";" - Kieserit, epsomit (tabii magnezyum sülfatlar)";;" "
+"null";"2530.20.00.00.11";" - - Kieserit";"-";25
+"null";"2530.20.00.00.12";" - - Epsomit ";"-";25
+"null";"2530.90";" - Diğerleri:";;
+"null";;" - - Lüle taşı (tabii veya aglomere)";;" "
+"null";"2530.90.00.10.11";" - - - Tabii lüle taşı";"-";5
+"null";"2530.90.00.10.12";" - - - Aglomere lüle taşı";"-";5
+"null";;" - - Diğerleri: ";;" "
+"null";"2530.90.00.90.11";" - - - Kalsine edilmiş veya birbirleriyle karıştırılmış toprak boyalar";"-";25
+"null";"2530.90.00.90.19";" - - - Diğer toprak boyalar";"-";25
+"null";"2530.90.00.90.21";" - - - Siyah kehribar (oltu taşı)";"-";25
+"null";"2530.90.00.90.29";" - - - Diğer kehribarlar";"-";25
+"null";"2530.90.00.90.32";" - - - Zirkonyum silikat (mikronize)";"-";25
+"null";"2530.90.00.90.33";" - - - Tabi sodyum sülfat";"-";25
+"null";"2530.90.00.90.34";" - - -  Stronsiyum sülfat (selestin)";"-";25
+"null";"2530.90.00.90.35";" - - - Tabi arsenik sülfürler";"-";25
+"null";"2530.90.00.90.36";" - - - Tabi kriolit";"-";25
+"null";"2530.90.00.90.37";" - - - Tabi şiolit";"-";25
+"null";"2530.90.00.90.39";" - - - Diğerleri";"-";25

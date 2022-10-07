@@ -1,0 +1,236 @@
+﻿"null";"51.01";"Yün ve yapağı (karde edilmemiş veya taranmamış) :";;
+"null";;" - Yapağı (sırtta yıkanmış yapağı dahil):";;
+"null";;" - - Kırkma yapağı :";;
+"null";"5101.11.00.10.00";" - - - Merinos yapağısı ";"-";5
+"null";"5101.11.00.20.00";" - - - Kirli şevyot";"-";25
+"null";"5101.11.00.90.00";" - - - Diğerleri ";"-";25
+"null";"5101.19";" - - Diğerleri :";;
+"null";"5101.19.00.10.00";" - - - Merinos yapağısı ";"-";5
+"null";"5101.19.00.20.00";" - - - Kirli şevyot";"-";25
+"null";"5101.19.00.90.00";" - - - Diğerleri ";"-";25
+"null";;" - Yıkanmış yün (karbonize edilmemiş):";;
+"null";"5101.21";" - - Kırkma yün :";;
+"null";"5101.21.00.10.00";" - - - Merinos yünü";"-";20
+"null";"5101.21.00.90.00";" - - - Diğerleri ";"-";30
+"null";"5101.29";" - - Diğerleri :";;
+"null";"5101.29.00.10.00";" - - - Merinos yünü";"-";20
+"null";"5101.29.00.90.00";" - - - Diğerleri";"-";30
+"null";"5101.30.00.00.00";" - Karbonize edilmiş ";"-";30
+"null";;;;
+"null";"51.02";"İnce veya kaba hayvan kılları (karde edilmemiş veya taranmamış):";;
+"null";;" - İnce hayvan kılları:";;
+"null";;" - - Kaşmir keçisi kılı:";;
+"null";"5102.11.00.10.00";" - - - Şapka fötrü imaline mahsus olanlar";"-";40
+"null";"5102.11.00.90.00";" - - - Diğerleri ";"-";40
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ankara tavşanı kılı :";;
+"null";"5102.19.10.10.00";" - - - - Şapka fötrü imaline mahsus olanlar";"-";40
+"null";"5102.19.10.90.00";" - - - - Diğerleri";"-";40
+"null";;" - - - Alpaka, lama ve vikunya kılı :";;
+"null";"5102.19.30.10.00";" - - - - Şapka fötrü imaline mahsus olanlar ";"-";40
+"null";"5102.19.30.90.00";" - - - - Diğerleri ";"-";40
+"null";;" - - - Yak (Tibet öküzü), deve, Ankara, Tibet ve benzeri keçilerin kılı:";;
+"null";"5102.19.40.10.00";" - - - - Şapka fötrü imaline mahsus olanlar ";"-";40
+"null";"5102.19.40.90.00";" - - - - Diğerleri ";"-";40
+"null";;" - - -Tavşan (Ankara tavşanı hariç), yabani tavşan, kunduz, bataklık";;
+"null";;"      kunduzu ve misk sıçanı kılı :";;
+"null";"5102.19.90.10.00";" - - - - Şapka fötrü imaline mahsus olanlar";"-";40
+"null";"5102.19.90.90.00";" - - - - Diğerleri";"-";40
+"null";"5102.20";" - Kaba hayvan kılları :";;
+"null";"5102.20.00.10.00";" - - Şapka fötrü imaline mahsus olanlar";"-";40
+"null";;" - - Diğerleri ";;
+"null";"5102.20.00.90.11";" - - - Adi keçi kılı";"-";40
+"null";"5102.20.00.90.19";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"51.03";"Yün, ince veya kaba hayvan kıllarının döküntüleri (iplik döküntü-";;
+"null";;"leri dahil) (ditme suretiyle elde edilenler hariç):";;
+"null";"5103.10";" - Yün ve ince hayvan kıllarının tarama döküntüleri:";;
+"null";"5103.10.10.00.00";" - - Karbonize edilmemiş ";"-";40
+"null";"5103.10.90.00.00";" - - Karbonize edilmiş ";"-";40
+"null";"5103.20";" - Yün ve ince hayvan kıllarının diğer döküntüleri:";;
+"null";"5103.20.00.00.10";" - - İplik döküntüleri";"-";40
+"null";;" - - Diğerleri:";;
+"null";"5103.20.00.00.21";" - - - Karbonize edilmemiş";"-";40
+"null";"5103.20.00.00.22";" - - - Karbonize edilmiş ";"-";40
+"null";"5103.30.00.00.00";" - Kaba hayvan kılı döküntüleri";"-";40
+"null";;;;
+"null";"5104.00";"Yün,ince veya kaba hayvan kıllarının ditme suretiyle elde edilen";;
+"null";;"döküntüleri ";;
+"null";"5104.00.00.00.11";"- Şodi ve mungo";"-";40
+"null";"5104.00.00.00.19";"- Diğerleri";"-";40
+"null";;;;
+"null";"51.05";"Yün, ince veya kaba hayvan kılları (karde edilmiş veya taranmış)";;
+"null";;"(yığın halinde taranmış yün dahil):";;
+"null";"5105.10";" - Karde edilmiş yünler ";;
+"null";"5105.10.00.00.11";" - - Merinos yünü ";"-";50
+"null";"5105.10.00.00.19";" - - Diğer yünler";"-";50
+"null";;" - Yün ""tops""ları ve diğer taranmış yünler:";;
+"null";"5105.21.00.00.00";" - - Yığın halinde taranmış ";"-";50
+"null";"5105.29.00.00.00";" - - Diğerleri ";"-";50
+"null";;" - İnce hayvan kılları (karde edilmiş veya taranmış):";;
+"null";"5105.31.00.00.00";" - - Kaşmir keçisi kılı";"-";50
+"null";"5105.39";" - - Diğerleri:";;
+"null";"5105.39.00.00.11";" - - - Tiftikler";"-";50
+"null";"5105.39.00.00.19";" - - - Diğerleri";"-";50
+"null";"5105.40.00.00.00";" - Kaba hayvan kılları (karde edilmiş veya taranmış)";"-";50
+"null";;;;
+"null";"51.06";"Karde edilmiş (strayhgarn) yün iplikleri (perakende olarak";;
+"null";;"satılacak hale getirilmemiş) :";;
+"null";"5106.10";" - Ağırlık itibariyle % 85 veya daha fazla yün içerenler:";;
+"null";"5106.10.10.00.00";" - - Ağartılmamış ";"-";60
+"null";"5106.10.90.00.00";" - - Diğerleri ";"-";60
+"null";"5106.20";" -  Ağırlık itibariyle % 85'ten az yün içerenler:";;
+"null";"5106.20.10.00.00";" - - Ağırlık itibariyle % 85 veya daha fazla yün ve ince hayvan kılı";;
+"null";;"      içerenler";"-";60
+"null";;" - - Diğerleri :";;
+"null";"5106.20.91.00.00";" - - - Ağartılmamış ";"-";60
+"null";"5106.20.99.00.00";" - - - Diğerleri ";"-";60
+"null";;;;
+"null";"51.07";"Taranmış (kamgarn) yün iplikleri (perakende olarak satılacak hale";;
+"null";;"getirilmemiş) :";;
+"null";"5107.10";" - Ağırlık itibariyle % 85 veya daha fazla yün içerenler:";;
+"null";"5107.10.10.00.00";" - - Ağartılmamış ";"-";75
+"null";"5107.10.90.00.00";" - - Diğerleri ";"-";75
+"null";"5107.20";" - Ağırlık itibariyle % 85'den az yün içerenler:";;
+"null";;" - - Ağırlık itibariyle % 85 veya daha fazla yün ve ince hayvan kılı";;
+"null";;"      içerenler:";;
+"null";"5107.20.10.00.00";" - - - Ağartılmamış ";"-";75
+"null";"5107.20.30.00.00";" - - - Diğerleri ";"-";75
+"null";;" - - Diğerleri:";;
+"null";;" - - - Esas itibariyle veya sadece devamsız sentetik liflerle karışık";;
+"null";;"        olanlar:";;
+"null";"5107.20.51.00.00";" - - - - Ağartılmamış";"-";75
+"null";"5107.20.59.00.00";" - - - - Diğerleri ";"-";75
+"null";;" - - - Başka şekilde karıştırılmış olanlar:";;
+"null";"5107.20.91.00.00";" - - - - Ağartılmamış";"-";75
+"null";"5107.20.99.00.00";" - - - - Diğerleri ";"-";75
+"null";;;;
+"null";"51.08";"İnce hayvan kıllarından iplikler (karde edilmiş veya taranmış)";;
+"null";;"(perakende olarak satılacak hale getirilmemiş):";;
+"null";"5108.10";" - Karde edilmiş:";;
+"null";;" - - Ağartılmamış: ";;
+"null";"5108.10.10.00.11";" - - - Tiftikler";"-";75
+"null";"5108.10.10.00.19";" - - - Diğerleri";"-";75
+"null";;" - - Diğerleri: ";;
+"null";"5108.10.90.00.11";" - - - Tiftikler";"-";75
+"null";"5108.10.90.00.19";" - - - Diğerleri";"-";75
+"null";"5108.20";" - Taranmış:";;
+"null";;" - - Ağartılmamış: ";;
+"null";"5108.20.10.00.11";" - - - Tiftikler";"-";75
+"null";"5108.20.10.00.19";" - - - Diğerleri";"-";75
+"null";;" - - Diğerleri: ";;
+"null";"5108.20.90.00.11";" - - - Tiftikler";"-";75
+"null";"5108.20.90.00.19";" - - - Diğerleri";"-";75
+"null";;;;
+"null";"51.09";"Yün veya ince hayvan kıllarından iplikler (perakende olarak satı -";;
+"null";;"lacak hale getirilmiş) :";;
+"null";"5109.10";" - Ağırlık itibariyle % 85 veya daha fazla yün veya ince hayvan";;
+"null";;"   kılı içerenler :";;
+"null";;" - - Top, çile veya küçük çile halinde olup, ağırlığı 125 gr.ı geçen";;
+"null";;"      500 gr.ı geçmeyenler ";;
+"null";"5109.10.10.00.11";" - - - Yünden iplikler ";"-";80
+"null";"5109.10.10.00.12";" - - - İnce hayvan kılından iplikler ";"-";80
+"null";;" - - Diğerleri ";;
+"null";"5109.10.90.00.11";" - - - Yünden iplikler ";"-";80
+"null";"5109.10.90.00.12";" - - - İnce hayvan kılından iplikler ";"-";80
+"null";"5109.90.00.00.00";" - Diğerleri";"-";80
+"null";;;;
+"null";"5110.00";"Kaba hayvan kıllarından veya at kılından iplikler (gipe edilmiş at";;
+"null";;"kılından iplikler dahil) (perakende olarak satılacak hale getirilmiş";;
+"null";;"olsun olmasın) :";;
+"null";"5110.00.00.10.00";"-Perakende olarak satılacak hale getirilmiş ";"-";80
+"null";"5110.00.00.90.00";"- Diğerleri ";"-";60
+"null";;;;
+"null";"51.11";"Karde edilmiş (strayhgarn) yün ve ince hayvan kıllarından dokunmuş ";;
+"null";;"mensucat :";;
+"null";;" - Ağırlık itibariyle %85 veya daha fazla yün veya ince hayvan kılı";;
+"null";;"   içerenler:";;
+"null";"5111.11";" - - M2. ağırlığı 300 gr.ı geçmeyenler :";;
+"null";"5111.11.00.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"            elverişli maddelerden olanlar) ";"m2";50
+"null";"5111.11.00.90.00";" - - - Diğerleri ";"m2";100
+"null";"5111.19";" - - Diğerleri ";;
+"null";"5111.19.00.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"               elverişli maddelerden olanlar) ";"m2";50
+"null";"5111.19.00.90.00";" - - - Diğerleri ";"m2";100
+"null";"5111.20";" - Diğerleri (esas itibariyle veya sadece sentetik ve suni filament-";;
+"null";;"   lerle karışık olanlar):";;
+"null";"5111.20.00.10.00";" - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"      elverişli maddelerden olanlar) ";"m2";50
+"null";"5111.20.00.90.00";" - - Diğerleri ";"m2";100
+"null";"5111.30";" - Diğerleri (esas itibariyle veya sadece sentetik ve suni devamsız";;
+"null";;"   liflerle karışık olanlar):";;
+"null";;" - - M2. ağırlığı 300 gr.ı geçmeyenler :";;
+"null";"5111.30.10.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"        elverişli maddelerden olanlar) ";"m2";50
+"null";"5111.30.10.90.00";" - - - Diğerleri ";"m2";100
+"null";;" - - M2. ağırlığı 300 gr.ı geçenler :";;
+"null";"5111.30.80.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"        elverişli maddelerden olanlar) ";"m2";50
+"null";"5111.30.80.90.00";" - - - Diğerleri ";"m2";100
+"null";"5111.90";" - Diğerleri:";;
+"null";;" - - Ağırlık itibariyle % 10 dan fazlası 50. fasıldaki dokumaya";;
+"null";;"      elverişli maddelerden olanlar :";;
+"null";"5111.90.10.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"        elverişli maddelerden olanlar) ";"m2";50
+"null";"5111.90.10.90.00";" - - - Diğerleri ";"m2";100
+"null";;" - - Diğerleri:";;
+"null";;" - - - M2.ağırlığı 300 gr.ı geçmeyenler:";;
+"null";"5111.90.91.10.00";" - - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"          elverişli maddelerden olanlar) ";"m2";50
+"null";"5111.90.91.90.00";" - - - - Diğerleri ";"m2";100
+"null";;" - - - M2. ağırlığı 300 gr.ı geçenler:";;
+"null";"5111.90.98.10.00";" - - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"          elverişli maddelerden olanlar) ";"m2";50
+"null";"5111.90.98.90.00";" - - - - Diğerleri ";"m2";100
+"null";;;;
+"null";"51.12";"Taranmış (kamgarn) yünden veya ince hayvan kıllarından dokunmuş men -";;
+"null";;"sucat:";;
+"null";;" - Ağırlık itibariyle % 85 veya daha fazla yün veya ince hayvan";;
+"null";;"   kılı içerenler:";;
+"null";"5112.11";" - - M2. ağırlığı 200 gr. ı geçmeyenler :";;
+"null";"5112.11.00.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"          elverişli maddelerden olanlar) ";"m2";50
+"null";"5112.11.00.90.00";" - - - Diğerleri";"m2";100
+"null";"5112.19";" - - Diğerleri:";;
+"null";"5112.19.00.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"             elverişli maddelerden olanlar) ";"m2";50
+"null";"5112.19.00.90.00";" - - - Diğerleri ";"m2";100
+"null";"5112.20";" - Diğerleri (esas itibariyle veya sadece sentetik ve suni filament -";;
+"null";;"   lerle karışık olanlar) :";;
+"null";"5112.20.00.10.00";" - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"      elverişli maddelerden olanlar)";"m2";50
+"null";"5112.20.00.90.00";" - - Diğerleri ";"m2";100
+"null";"5112.30";" - Diğerleri (esas itibariyle veya sadece sentetik ve suni devamsız";;
+"null";;"   liflerle karışık olanlar):";;
+"null";;" - - M2. ağırlığı 200 gr. ı geçmeyenler :";;
+"null";"5112.30.10.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"        elverişli maddelerden olanlar) ";"m2";50
+"null";"5112.30.10.90.00";" - - - Diğerleri ";"m2";100
+"null";;" - - M2. ağırlığı 200 gr. ı geçenler :";;
+"null";"5112.30.80.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"        elverişli maddelerden olanlar) ";"m2";50
+"null";"5112.30.80.90.00";" - - - Diğerleri ";"m2";100
+"null";"5112.90";" - Diğerleri:";;
+"null";;" - - Ağırlık itibariyle % 10 dan fazlası 50. fasıldaki dokumaya";;
+"null";;"      elverişli maddelerden olanlar :";;
+"null";"5112.90.10.10.00";" - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"        elverişli maddelerden olanlar) ";"m2";50
+"null";"5112.90.10.90.00";" - - - Diğerleri ";"m2";100
+"null";;" - - Diğerleri:";;
+"null";;" - - - M2. ağırlığı 200 gr. ı geçmeyenler :";;
+"null";"5112.90.91.10.00";" - - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"          elverişli maddelerden olanlar) ";"m2";50
+"null";"5112.90.91.90.00";" - - - - Diğerleri ";"m2";100
+"null";;" - - - M2. ağırlığı 200 gr. ı geçenler :";;
+"null";"5112.90.98.10.00";" - - - - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"          elverişli maddelerden olanlar) ";"m2";50
+"null";"5112.90.98.90.00";" - - - - Diğerleri";"m2";100
+"null";;;;
+"null";"5113.00";"Kaba hayvan kılından veya at kılından dokunmuş mensucat:";;
+"null";"5113.00.00.10.00";" - Elastiki mensucat (kauçuk ipliklerle birleştirilmiş dokumaya ";;
+"null";;"    elverişli maddelerden olanlar) ";"m2";50
+"null";" ";" - Diğerleri ";;
+"null";"5113.00.00.90.11";" - - At kılından mensucat ";"m2";75
+"null";"5113.00.00.90.12";" - - Adi keçi kılından mensucat ";"m2";75
+"null";"5113.00.00.90.19";" - - Diğer kaba hayvan kılından mensucat";"m2";75

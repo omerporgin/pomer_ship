@@ -1,0 +1,244 @@
+﻿"null";"41.01";"Sığırların (bufalo dahil) ve atların ham post ve derileri (yaş veya ";;
+"null";;"tuzlanmış, kurutulmuş, kireçlenmiş, pikle edilmiş veya başka şekilde  ";;
+"null";;"muhafaza edilmiş, fakat dabaklanmamış, parşömine edilmemiş veya  ";;
+"null";;"daha ileri bir işleme tabi tutulmamış) (kılları alınmış veya parçalara ";;
+"null";;"ayrılmış olsun olmasın):";;
+"null";"4101.20";" - Bütün halindeki post ve deriler (deri ağırlığı basitçe kurutulduğunda ";;
+"null";;"   8 kg.ı, kuru tuzlandığında 10 kg.ı veya taze, yaş tuzlanmış veya diğer";;
+"null";;"    şekillerde muhafaza edildiğinde 16 kg.ı geçmeyenler):";;
+"null";;" - - Taze:";;
+"null";"4101.20.10.10.00";" - - - Yaş ağırlığı 15 kg.ı geçmeyenler";"Adet";20
+"null";"4101.20.10.20.00";" - - - Yaş ağırlığı 15 kg.dan fazla fakat 16 kg.ı geçmeyenler";"Adet";10
+"null";;" - - Yaş tuzlanmış:";;
+"null";"4101.20.30.10.00";" - - - Yaş ağırlığı 15 kg.ı geçmeyenler";"Adet";20
+"null";"4101.20.30.20.00";" - - - Yaş ağırlığı 15 kg.dan fazla, fakat 16 kg.ı geçmeyenler";"Adet";10
+"null";;" - - Kurutulmuş veya kuru tuzlanmış:";;
+"null";"4101.20.50.10.00";" - - - Kuru ağırlığı 9 kg.ı geçmeyenler";"Adet";20
+"null";"4101.20.50.20.00";" - - - Kuru ağırlığı 9 kg.ı geçen, fakat 10 kg.ı geçmeyenler";"Adet";10
+"null";;" - - Diğerleri:";;
+"null";"4101.20.80.10.00";" - - - Diğer şekillerde muhafaza edildiğinde ağırlığı 14 kg.ı geçmeyenler";"Adet";20
+"null";"4101.20.80.20.00";" - - - Diğer şekillerde muhafaza edildiğinde ağırlığı 14 kg.ı geçen, fakat 16 kg.ı ";;
+"null";;"        geçmeyenler";"Adet";60
+"null";"4101.50";" - Ağırlığı 16 kg.ı geçen bütün halindeki post ve deriler:";;
+"null";;" - - Taze:";;
+"null";"4101.50.10.10.00";" - - - Yaş ağırlığı 16 kg.ı geçen sığır derileri";"Adet";10
+"null";"4101.50.10.20.00";" - - - Yaş ağırlığı 16 kg.ı geçen at derileri";"Adet";60
+"null";;" - - Yaş tuzlanmış:";;
+"null";"4101.50.30.10.00";" - - - Yaş ağırlığı 16 kg.ı geçen sığır derileri";"Adet";10
+"null";"4101.50.30.20.00";" - - - Yaş ağırlığı 16 kg.ı geçen at derileri";"Adet";60
+"null";;" - - Kurutulmuş veya kuru tuzlanmış:";;
+"null";"4101.50.50.10.00";" - - - Sığır derileri";"Adet";10
+"null";"4101.50.50.20.00";" - - - Atların derileri";"Adet";60
+"null";"4101.50.90.00.00";" - - Diğerleri";"Adet";60
+"null";"4101.90";" - Diğerleri (krupon ve yarım krupon deriler dahil):";;
+"null";"4101.90.00.10.00";" - - Krupon ve yarım krupon deriler";"-";10
+"null";"4101.90.00.20.00";" - - Taze veya yaş tuzlanmış sığır derileri";"-";20
+"null";"4101.90.00.30.00";" - - Kurutulmuş veya kuru tuzlanmış sığır derileri";"-";10
+"null";"4101.90.00.40.00";" - - Diğer şekillerde muhafaza edilmiş sığır derileri";"-";60
+"null";"4101.90.00.90.00";" - - Atların derileri";"-";60
+"null";;;;
+"null";"41.02";"Koyun ve kuzuların ham derileri ( yaş veya tuzlanmış, kurutulmuş,";;
+"null";;"kireçlenmiş, pikle edilmiş veya başka şekilde muhafaza edilmiş";;
+"null";;"fakat dabaklanmamış, parşömine edilmemiş veya daha ileri bir ";;
+"null";;"şekilde hazırlanmamış) (yünü alınmış veya parçalara ayrılmış ";;
+"null";;"olsun olmasın) (bu fasılın 1 (c) notunda belirtilenler hariç):";;
+"null";"4102.10";" - Yünü alınmamış:";;
+"null";"4102.10.10.00.00";" - - Kuzulara ait olanlar";"Adet";60
+"null";"4102.10.90.00.00";" - - Diğerleri ";"Adet";60
+"null";;" - Yünü alınmış:";;
+"null";"4102.21.00.00.00";" - - Pikle deriler";"Adet";60
+"null";"4102.29.00.00.00";" - - Diğerleri";"Adet";60
+"null";;;;
+"null";"41.03";"Diğer ham post ve deriler (yaş veya tuzlanmış, kurutulmuş, kireçlenmiş,";;
+"null";;"pikle edilmiş veya başka şekilde muhafaza edilmiş fakat dabak-";;
+"null";;"lanmamış, parşömine edilmemiş veya daha ileri bir şekilde hazırlan-";;
+"null";;"mamış) (kılları alınmış veya parçalara ayrılmış olsun olmasın) ";;
+"null";;"(bu fasılın 1 (b) ve 1 (c) notlarında belirtilenler hariç) :";;
+"null";"4103.20.00.00.00";" - Sürüngenlerin ham derileri";"Adet";60
+"null";"4103.30.00.00.00";" - Domuzların ham derileri";"Adet";60
+"null";"4103.90";" - Diğerleri";;
+"null";"4103.90.00.00.11";" - - Diğer hayvanların yaş derileri";"-";60
+"null";"4103.90.00.00.12";" - - Diğer hayvanların kuru derileri";"-";60
+"null";"4103.90.00.00.13";" - - Diğer hayvanların pikle derileri";"-";60
+"null";"4103.90.00.00.19";" - - Diğerleri";"-";60
+"null";"41.04";"Sığırların (bufalo dahil) veya atların dabaklanmış veya ""crust"" (ara ";;
+"null";;"kurutmalı) postları ve derileri (kılları alınmış) (parçalanmış ";;
+"null";;"olsun olmasın, fakat daha ileri bir işlem görmemiş):";;
+"null";;" - Yaş halde (wet-blue dahil)";;
+"null";"4104.11";" - - Sırçalı deri (full grains), parçalanmamış; yarma deriler";;
+"null";;" - - - Sığırların (bufalo dahil) bütün halindeki post ve derileri  ";;
+"null";;"        (birim yüzey alanı 2,6 m2.yi geçmeyenler)";;
+"null";"4104.11.10.00.11";" - - - - Sırçalı deri (full grains)";"Adet";100
+"null";"4104.11.10.00.12";" - - - - Yarma deri";"Adet";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Sığırların (bufalo dahil) deri ve köseleleri:";;
+"null";;" - - - - - Bütün halindeki post ve derileri (birim yüzey alanı 2,6 m2.yi geçenler)";;
+"null";"4104.11.51.00.11";" - - - - - - Sırçalı deri (full grains)";"Adet";90
+"null";"4104.11.51.00.12";" - - - - - - Yarma deri";"Adet";90
+"null";;" - - - - - Diğerleri";;
+"null";"4104.11.59.00.11";" - - - - - - Sırçalı deri (full grains)";"Adet";90
+"null";"4104.11.59.00.12";" - - - - - - Yarma deri";"Adet";90
+"null";;" - - - - Diğerleri";;
+"null";"4104.11.90.00.11";" - - - - - Sırçalı deri (full grains)";"Adet";90
+"null";"4104.11.90.00.12";" - - - - - Yarma deri";"Adet";90
+"null";"4104.19";" - - Diğerleri:";;
+"null";"4104.19.10.00.00";" - - - Sığırların (bufalo dahil) bütün halindeki post ve derileri  ";;
+"null";;"      (birim yüzey alanı 2,6 m2.yi  geçmeyenler)";"Adet";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Sığırların (bufalo dahil) deri ve köseleleri:";;
+"null";"4104.19.51.00.00";" - - - - - Bütün halindeki post ve derileri (birim yüzey alanı 2,6 m2.yi geçenler)";"Adet";90
+"null";"4104.19.59.00.00";" - - - - - Diğerleri";"Adet";90
+"null";"4104.19.90.00.00";" - - - - Diğerleri";"Adet";90
+"null";;" - Kuru halde (crust):";;
+"null";"4104.41";" - - Sırçalı deri (full grains), parçalanmamış; yarma deriler";;
+"null";;" - - - Sığırların (bufalo dahil) bütün halindeki post ve derileri ";;
+"null";;"       (birim yüzey alanı 2,6 m2.yi  geçmeyenler)";;
+"null";;" - - - - Hint danası derisi (bütün veya baş ve ayakları alınmış, her birinin net";;
+"null";;"          ağırlığı 4,5 kg.ı geçmeyenler, bitkisel dabaklamadan daha ileri bir işlem";;
+"null";;"          görmemiş, belirli işlemlerden geçmiş olsun olmasın, fakat bulunduğu";;
+"null";;"          halde deri eşyası imalatında kullanılacak hale gelmediği açıkça";;
+"null";;"          belli olanlar):";;
+"null";"4104.41.11.10.00";" - - - - - Sadece dabaklanmış fakat belirli işlemlerden geçmemiş olanlar";"Adet";90
+"null";"4104.41.11.90.00";" - - - - - Diğerleri";"Adet";100
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Sadece dabaklanmış";;
+"null";"4104.41.19.10.11";" - - - - - - Dana derisi";"Adet";90
+"null";"4104.41.19.10.19";" - - - - - - Diğer sığırların derileri";"Adet";90
+"null";"4104.41.19.90.00";" - - - - - Başka şekilde hazırlanmış olanlar";"Adet";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Sığırların (bufalo dahil) post ve derileri:";;
+"null";"4104.41.51.00.00";" - - - - - Bütün halindeki derileri (birim yüzey alanı 2,6 m2.yi geçenler)";"Adet";90
+"null";"4104.41.59.00.00";" - - - - - Diğerleri";"Adet";90
+"null";"4104.41.90.00.00";" - - - - Diğerleri";"Adet";90
+"null";"4104.49";" - - Diğerleri:";;
+"null";;" - - - Sığırların (bufalo dahil) bütün halindeki post ve derileri ";;
+"null";;"      (birim yüzey alanı 2,6 m2.yi geçmeyenler):";;
+"null";;" - - - - Hint danası derisi (bütün veya baş ve ayakları alınmış, her";;
+"null";;"     birinin net ağırlığı 4,5 kg. ı geçmeyenler, bitkisel dabaklamadan daha";;
+"null";;"     ileri bir işlem görmemiş, belirli işlemlerden geçmiş olsun olmasın, fakat ";;
+"null";;"     bulunduğu halde deri eşyası imalatında kullanılacak hale gelmediği";;
+"null";;"      açıkça belli olanlar):";;
+"null";"4104.49.11.10.00";" - - - - - Sadece dabaklanmış fakat daha ileri bir işlem görmemiş olanlar";"Adet";90
+"null";"4104.49.11.90.00";" - - - - - Diğerleri";"Adet";100
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Sadece dabaklanmış";;
+"null";"4104.49.19.10.11";" - - - - - - Dana derisi ";"Adet";90
+"null";"4104.49.19.10.19";" - - - - - - Diğer sığırların derileri";"Adet";90
+"null";"4104.49.19.90.00";" - - - - - Başka şekilde hazırlanmış olanlar";"Adet";100
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Sığırların (bufalo dahil) deri ve köseleleri:";;
+"null";"4104.49.51.00.00";" - - - - - Bütün halindeki post ve derileri (birim yüzey alanı 2,6 m2.yi geçenler)";"Adet";90
+"null";"4104.49.59.00.00";" - - - - - Diğerleri";"Adet";90
+"null";"4104.49.90.00.00";" - - - - Diğerleri";"Adet";90
+"null";;;;
+"null";"41.05";"Koyunların veya kuzuların dabaklanmış veya ""crust"" (ara kurutmalı) ";;
+"null";;"derileri (yünü alınmış), (parçalanmış olsun olmasın, fakat daha ileri";;
+"null";;"bir şekilde hazırlanmamış):";;
+"null";"4105.10.00.00.00";" - Yaş halde (wet-blue dahil)";"Adet";90
+"null";"4105.30";" - Kuru halde (crust):";;
+"null";"4105.30.10.00.00";" - - Bitkisel ön dabaklama yapılmış Hint melezi (bazı işlemlere tabi tutulmuş olsun";;
+"null";;"      olmasın,fakat deri eşya imalatında kullanılacak hale gelmediği açıkça belli";;
+"null";;"     olanlar)";"Adet";90
+"null";"4105.30.90.00.00";" - - Diğerleri";"Adet";90
+"null";;;;
+"null";"41.06";" Diğer hayvanların dabaklanmış veya ""crust"" (ara kurutulmuş) ";;
+"null";;"post ve derileri (yünü veya kılı alınmış) (parçalanmış olsun olmasın ";;
+"null";;" fakat daha ileri bir şekilde hazırlanmamış)";;
+"null";;" - Keçi veya oğlakların derileri:";;
+"null";"4106.21.00.00.00";" - - Yaş halde (wet-blue dahil)";"Adet";90
+"null";"4106.22";" - - Kuru halde (crust):";;
+"null";"4106.22.10.00.00";" - - - Bitkisel ön dabaklama yapılmış Hint keçisi veya oğlakları (bazı işlemlere tabi ";;
+"null";;"        tutulmuş olsun olmasın fakat deri eşya imalatında kullanılacak hale gelmediği";;
+"null";;"        açıkça belli olanlar)";"Adet";90
+"null";"4106.22.90.00.00";" - - - Diğerleri";"Adet";90
+"null";;" - Domuzların derileri:";;
+"null";"4106.31";" - - Yaş halde (wet-blue dahil):";;
+"null";"4106.31.00.10.00";" - - - Parçalara ayrılmamış";"Adet";90
+"null";"4106.31.00.90.00";" - - - Parçalara ayrılmış";"Adet";90
+"null";"4106.32.00.00.00";" - - Kuru halde (crust)";"Adet";90
+"null";"4106.40";" - Sürüngenlerin derileri:";;
+"null";"4106.40.10.00.00";" - - Bitkisel ön dabaklama yapılmış";"Adet";90
+"null";"4106.40.90.00.00";" - - Diğerleri";"Adet";90
+"null";;" - Diğerleri:";;
+"null";"4106.91.00.00.00";" - - Yaş halde (wet-blue dahil):";"-";90
+"null";"4106.92.00.00.00";" - - Kuru halde (crust):";"Adet";90
+"null";;;;
+"null";"41.07";"Sığırların (bufalo dahil) veya atların dabaklama veya ara kurutmadan";" ";
+"null";;"sonra ileri derecede hazırlanmış deri ve köseleleri (parşömine";;
+"null";;"edilmiş deri dahil) (kılları alınmış) (parçalanmış olsun olmasın, 41.14";;
+"null";;"pozisyonunda yer alan deri ve köseleler hariç):";;
+"null";;" - Bütün halindeki post ve deriler:";;
+"null";"4107.11";" - - Sırçalı deri (full grains), parçalanmamış:";;
+"null";;" - - - Sığırların (bufalo dahil) bütün haldeki derileri (birim  ";;
+"null";;"        yüzey alanı  2,6 m2 yi geçmeyenler):";;
+"null";"4107.11.11.00.00";" - - - - Vidala";"m2";100
+"null";"4107.11.19.00.00";" - - - - Diğerleri";"m2";100
+"null";"4107.11.90.00.00";" - - - Diğerleri";"m2";100
+"null";"4107.12";" - - Yarma deriler:";;
+"null";;" - - - Sığırların (bufalo dahil) bütün haldeki derileri ( birim  ";;
+"null";;"        yüzey alanı  2,6 m2 yi geçmeyenler):";;
+"null";"4107.12.11.00.00";" - - - - Vidala";"m2";100
+"null";"4107.12.19.00.00";" - - - - Diğerleri";"m2";100
+"null";;" - - - Diğerleri:";;
+"null";"4107.12.91.00.00";" - - - - Sığırların (bufalo dahil) deri ve köseleleri ";"m2";100
+"null";"4107.12.99.00.00";" - - - - Atların deri ve köseleleri";"m2";100
+"null";"4107.19";" - - Diğerleri:";;
+"null";"4107.19.10.00.00";" - - - Sığırların (bufalo dahil) deri ve köseleleri ( birim yüzey alanı  ";;
+"null";;"         2,6 m2 yi geçmeyenler):";"m2";100
+"null";"4107.19.90.00.00";" - - - Diğerleri";"m2";100
+"null";;" - Diğerleri, kenarlar dahil:";;
+"null";"4107.91";" - - Sırçalı deri (full grains), parçalanmamış:";;
+"null";"4107.91.10.00.00";" - - - Taban köselesi";"-";100
+"null";"4107.91.90.00.00";" - - - Diğerleri";"m2";100
+"null";"4107.92";" - - Yarma deriler:";;
+"null";"4107.92.10.00.00";" - - - Sığırların (bufalo dahil) deri ve köseleleri ";"m2";100
+"null";"4107.92.90.00.00";" - - - Atların deri ve köseleleri";"m2";100
+"null";"4107.99";" - - Diğerleri:";;
+"null";"4107.99.10.00.00";" - - - Sığırların (bufalo dahil) deri ve köseleleri ";"m2";100
+"null";"4107.99.90.00.00";" - - - Atların deri ve köseleleri";"m2";100
+"null";;;;
+"null";"[41.08]";;;
+"null";;;;
+"null";"[41.09]";;;
+"null";;;;
+"null";"[41.10]";;;
+"null";;;;
+"null";"[41.11]";;;
+"null";;;;
+"null";"4112.00.00.00.00";"Koyun veya kuzuların dabaklama veya ara kurutmadan sonra ileri ";;
+"null";;"derecede hazırlanmış deri ve köseleleri (parşömine edilmiş deri";;
+"null";;"dahil) (yünü alınmış) (parçalanmış olsun olmasın, 41.14 ";;
+"null";;"pozisyonunda yer alan deri ve köseleler hariç)";"m2";100
+"null";;;;
+"null";"41.13";"Diğer hayvanların dabaklama veya ara kurutmadan sonra ileri derecede ";;
+"null";;"hazırlanmış deri ve köseleleri (parşömine edilmiş deri dahil) (yünü veya ";;
+"null";;"kılları alınmış) (parçalanmış olsun olmasın, 41.14 pozisyonunda yer alan";;
+"null";;"deri ve köseleler hariç):";;
+"null";"4113.10.00.00.00";" - Keçi veya oğlakların deri ve köseleleri";"m2";100
+"null";"4113.20.00.00.00";" - Domuzların deri ve köseleleri";"m2";100
+"null";"4113.30.00.00.00";" - Sürüngenlerin deri ve köseleleri";"m2";100
+"null";"4113.90.00.00.00";" - Diğerleri";"m2";100
+"null";;;;
+"null";"41.14";" Güderi (kombine deri dahil); rugan ve ruganla kaplanmış deri ve";;
+"null";;" köseleler; metalize deri ve köseleler:";;
+"null";"4114.10";" - Güderi (kombine deri dahil):";;
+"null";"4114.10.10.00.00";" - - Koyun ve kuzulardan elde edilenler";"Adet";100
+"null";"4114.10.90.00.00";" - - Diğer hayvanlardan elde edilenler";"Adet";100
+"null";;"- Rugan ve ruganla kaplanmış deri ve köseleler; metalize deri ve ";;
+"null";;"   köseleler";;
+"null";"4114.20.00.00.11";"- - Rugan deri ve köseleler";"m2";100
+"null";"4114.20.00.00.12";"- - Ruganla kaplanmış deri ve köseleler";"m2";100
+"null";"4114.20.00.00.13";"- - Metalize deri ve köseleler";"m2";100
+"null";;;;
+"null";"41.15";"Esası deri ve kösele veya deri veya kösele lifleri olan terkip";;
+"null";;"yoluyla elde edilen levha, yaprak ve şerit halindeki deri ve köse-";;
+"null";;"leler (rulo halinde olsun olmasın); deri ve köselelerin, terkip";;
+"null";;"yoluyla elde edilen deri ve köselelerin,deri ve köseleden eşya";;
+"null";;" imaline uygun olmayan kırpıntı ve diğer döküntüleri; ";;
+"null";;" deri ve kösele talaşı, tozu ve unu:";;
+"null";"4115.10.00.00.00";"- Esası deri ve kösele veya deri veya kösele lifleri olan terkip";;
+"null";;"yoluyla elde edilen levha, yaprak ve şerit halindeki deri ve köse-";;
+"null";;"leler (rulo halinde olsun olmasın)";"-";100
+"null";"4115.20.00.00.00";"- Deri ve köselelerin, terkip yoluyla elde edilen deri ve köselelerin, ";;
+"null";;"deri ve köseleden eşya  imaline uygun olmayan kırpıntı ve diğer  ";;
+"null";;"döküntüleri; deri ve kösele talaşı, tozu ve unu";"-";100

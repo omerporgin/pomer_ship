@@ -1,0 +1,226 @@
+﻿"null";"12.01";"Soya fasulyesi (kırılmış olsun olmasın):";;
+"null";"1201.10.00.00.00";" - Tohumluk olanlar";"-";30
+"null";"1201.90.00.00.00";" - Diğerleri";"-";30
+"null";;;;
+"null";"12.02";"Yer fıstığı (kavrulmamış veya başka şekilde pişirilmemiş, kabuklu";;
+"null";;"veya kırılmış olsun olmasın)";;
+"null";"1202.30.00.00.00";" - Tohumluk olanlar";"-";30
+"null";;" - Diğerleri:";;
+"null";"1202.41.00.00.00";" - - Kabuklu";"-";36
+"null";"1202.42.00.00.00";" - - Kabuksuz (kırılmış olsun olmasın)";"-";36
+"null";"1203.00.00.00.00";"Kopra";"-";30
+"null";;;;
+"null";"1204.00";"Keten tohumu (kırılmış olsun olmasın):";;
+"null";"1204.00.10.00.00";" - Tohumluk olanlar";"-";30
+"null";"1204.00.90.00.00";" - Diğerleri";"-";30
+"null";;;;
+"null";"12.05";"Rep veya kolza tohumları (kırılmış olsun olmasın):";;
+"null";"1205.10";" - Düşük erusik asitli rep veya kolza tohumları:";;
+"null";"1205.10.10.00.00";" - - Tohumluk olanlar";"-";30
+"null";"1205.10.90.00.00";" - - Diğerleri";"-";30
+"null";"1205.90.00.00.00";" - Diğerleri ";"-";30
+"null";;;;
+"null";"1206.00";"Ayçiçeği tohumu (kırılmış olsun olmasın):";;
+"null";"1206.00.10.00.00";" - Tohumluk olanlar";"-";30
+"null";;" - Diğerleri :";;
+"null";;" - - Kabuksuz; gri beyaz çizgili kabuklu";;
+"null";"1206.00.91.00.11";" - - - Çerezlik olanlar";"-";30
+"null";"1206.00.91.00.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri";;
+"null";"1206.00.99.00.11";" - - - Çerezlik olanlar";"-";30
+"null";"1206.00.99.00.19";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"12.07";"Diğer yağlı tohumlar ve meyveler (kırılmış olsun olmasın) :";;
+"null";"1207.10.00.00.00";" - Palm meyvesi ve çekirdeği";"-";30
+"null";;" - Pamuk tohumu:";;
+"null";"1207.21.00.00.00";" - - Tohumluk olanlar";"-";30
+"null";"1207.29.00.00.00";" - - Diğerleri";"-";30
+"null";"1207.30.00.00.00";" - Hint yağı tohumu";"-";30
+"null";"1207.40";" - Susam tohumu:";;
+"null";"1207.40.10.00.00";" - - Tohumluk olanlar";"-";30
+"null";;" - - Diğerleri:";;
+"null";"1207.40.90.00.11";" - - - Ham ";"-";30
+"null";"1207.40.90.00.12";" - - - Soyulmuş";"-";30
+"null";"1207.50";" - Hardal tohumu:";;
+"null";"1207.50.10.00.00";" - - Tohumluk olanlar";"-";30
+"null";"1207.50.90.00.00";" - - Diğerleri";"-";30
+"null";"1207.60.00.00.00";" - Aspir (Carthamus tinctorius) tohumu";"-";30
+"null";"1207.70.00.00.00";" - Kavun, Karpuz tohumu";"-";30
+"null";;" - Diğerleri:";;
+"null";"1207.91";" - - Haşhaş tohumu:";;
+"null";"1207.91.10.00.00";" - - - Tohumluk olanlar";"-";30
+"null";"1207.91.90.00.00";" - - - Diğerleri";"-";30
+"null";"1207.99";" - - Diğerleri:";;
+"null";;" - - - Tohumluk olanlar:";;
+"null";"1207.99.20.00.11";" - - - - Chia tohumu";"-";30
+"null";"1207.99.20.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"1207.99.91.00.00";" - - - - Kenevir (kendir) tohumu";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"1207.99.96.00.11";" - - - - - Chia tohumu";"-";30
+"null";"1207.99.96.00.19";" - - - - - Diğerleri";"-";30
+"null";"12.08";"Yağlı tohum ve meyvelerin un ve kaba unları (hardal unu hariç):";;
+"null";"1208.10";" - Soya fasulyesinin unu ve kaba unları";;" "
+"null";"1208.10.00.00.11";" - - Soya fasulyesinin unu ";"-";30
+"null";"1208.10.00.00.12";" - - Soya fasulyesinin kaba unu";"-";30
+"null";"1208.90";" - Diğerleri";;
+"null";"1208.90.00.00.11";" - - Ayçiçeği tohumunun unu ve kaba unları";"-";30
+"null";"1208.90.00.00.19";" - - Diğerleri";"-";30
+"null";;;;
+"null";"12.09";"Ekim amacıyla kullanılan tohum, meyve ve sporlar:";;
+"null";"1209.10.00.00.00";" - Şeker pancarı tohumları";"-";5
+"null";;" - Yem bitkileri tohumları:";;
+"null";"1209.21.00.00.00";" - - Yonca tohumu";"-";25
+"null";"1209.22";" - - Üçgül tohumu (Trifolium spp.):";;
+"null";"1209.22.10.00.00";" - - - Kırmızı üçgül (Trifolium protense L.)";"-";25
+"null";"1209.22.80.00.00";" - - - Diğerleri";"-";25
+"null";"1209.23";" - - Çayır otu tohumları:";;
+"null";"1209.23.11.00.00";" - - - Çayır (Festuca pratensis Huds.) tohumları";"-";25
+"null";"1209.23.15.00.00";" - - - Kırmızı çayır otu (Festuca rubra L.) tohumları";"-";25
+"null";;" - - - Diğer çayır otu tohumları";;" "
+"null";"1209.23.80.00.11";" - - - - Koyun çayır otu (Festuca ovina L.) tohumları";"-";25
+"null";"1209.23.80.00.19";" - - - - Diğerleri";"-";25
+"null";"1209.24.00.00.00";" - - Kentucky mavi otu tohumu (Poa pratensis L.)";"-";25
+"null";"1209.25";" - - Çim tohumları (Lolium multiflorum Lam, Lolium perenne L.):";;
+"null";"1209.25.10.00.00";" - - - İtalyan çimi (westerwold dahil) (Lolium multiflorum Lam.)";"-";25
+"null";"1209.25.90.00.00";" - - - İngiliz çimi (Lolium perenne L.)";"-";25
+"null";"1209.29";" - - Diğerleri:";;
+"null";;" - - - Çayır kelp kuyruğu otu tohumu, Fiğ; Poa palustris L., Poa trivialis L. cinsi tohumlar; ";;
+"null";;"      domuz ayrığı (Dactylis glomerata L.) tohumu; tavus otları (Agrosties) tohumu";;" "
+"null";"1209.29.45.00.11";" - - - - Vicia sativa L. türü fiğ";"-";25
+"null";"1209.29.45.00.12";" - - - - Diğer tür fiğ";"-";25
+"null";"1209.29.45.00.13";" - - - - Poa palustris L., Poa trivialis L. cinsi tohumlar";"-";25
+"null";"1209.29.45.00.14";" - - - - Domuz ayrığı tohumu (Dactylis glomerata L.)";"-";25
+"null";"1209.29.45.00.15";" - - - - Tavus otları (Agrosties) tohumu";"-";25
+"null";"1209.29.45.00.16";" - - - - Çayır kelp kuyruğu otu tohumu";"-";25
+"null";"1209.29.50.00.00";" - - - Acı bakla tohumu";"-";25
+"null";"1209.29.60.00.00";" - - - Hayvan yemi olarak kullanılan pancar tohumu (Beta vulgaris var.alba)";"-";25
+"null";;" - - - Diğerleri";;" "
+"null";"1209.29.80.00.11";" - - - - Melez çim (Lolium X hybridum Hausskn.)";"-";25
+"null";"1209.29.80.00.12";" - - - - Orman salkım otu (Poa nemoralis L.) tohumları";"-";25
+"null";"1209.29.80.00.13";" - - - - Yüksek çayır yulafı (Arrhenatherum elatius (L.)J veC presl.)tohumları";"-";25
+"null";"1209.29.80.00.14";" - - - - Korunga (Onobrychis sativa L.)";"-";25
+"null";"1209.29.80.00.15";" - - - - Burçak (Vicia ervilia Willd.)";"-";25
+"null";"1209.29.80.00.16";" - - - - Sorgum tohumu";"-";25
+"null";"1209.29.80.00.17";" - - - - Yem şalgamı tohumu";"-";25
+"null";"1209.29.80.00.18";" - - - - Diğerleri";"-";25
+"null";"1209.30.00.00.00";" - Genellikle çiçekleri için yetiştirilen otsu bitkilerin tohumları";"-";25
+"null";;" - Diğerleri:";;
+"null";"1209.91";" - - Sebze tohumları:";;
+"null";"1209.91.30.00.00";" - - - Salata pancarı veya ""kırmızı pancar"" tohumu (Beta vulgaris var. conditiva)";"-";25
+"null";;" - - - Diğerleri";;
+"null";"1209.91.80.00.11";" - - - - Kabak tohumu";"-";25
+"null";"1209.91.80.00.12";" - - - - Domates tohumu";"-";25
+"null";"1209.91.80.00.13";" - - - - Hıyar tohumu";"-";25
+"null";"1209.91.80.00.14";" - - - - Soğan tohumu";"-";25
+"null";"1209.91.80.00.15";" - - - - Havuç tohumu";"-";25
+"null";"1209.91.80.00.16";" - - - - Marul tohumu";"-";25
+"null";"1209.91.80.00.17";" - - - - Karnabahar tohumu";"-";25
+"null";"1209.91.80.00.18";" - - - - Maydanoz tohumu";"-";25
+"null";"1209.91.80.00.21";" - - - - Ispanak tohumu";"-";25
+"null";"1209.91.80.00.22";" - - - - Bamya tohumu";"-";25
+"null";"1209.91.80.00.23";" - - - - Baş salata tohumu";"-";25
+"null";"1209.91.80.00.24";" - - - - Biber tohumu";"-";25
+"null";"1209.91.80.00.25";" - - - - Patlıcan tohumu";"-";25
+"null";"1209.91.80.00.26";" - - - - Turp tohumu";"-";25
+"null";"1209.91.80.00.29";" - - - - Diğer sebze tohumları";"-";25
+"null";"1209.99";" - - Diğerleri :";;
+"null";"1209.99.10.00.00";" - - - Orman ağaçlarının tohumları";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"1209.99.91.00.00";" - - - - Genellikle çiçekleri için yetiştirilen bitkilerin tohumları (1209.30 alt";;
+"null";;"          pozisyonundakiler hariç)";"-";25
+"null";;" - - - - Diğerleri:";;
+"null";"1209.99.99.10.00";" - - - - - Meyva ağaçları tohumları";"-";25
+"null";;" - - - - - Diğerleri";;" "
+"null";"1209.99.99.90.11";" - - - - - - Tütün tohumu";"-";25
+"null";"1209.99.99.90.18";" - - - - - - Diğerleri";"-";25
+"null";;;;
+"null";"12.10";"Şerbetçi otu kozalakları (taze veya kurutulmuş, dane, toz";;
+"null";;"veya pellet şekline getirilmiş olsun olmasın); lüpülin:";;
+"null";"1210.10.00.00.00";" - Şerbetçi otu kozalakları (dane, toz veya pellet şekline";;
+"null";;"   getirilmemiş)";"-";35
+"null";"1210.20";" - Şerbetçi otu kozalakları (dane, toz veya pellet şekline";;
+"null";;"   getirilmiş); lüpülin :";;
+"null";" ";" - - Lüpülinle zenginleştirilmiş şerbetçi otu kozalakları (dane, toz veya ";;
+"null";;"      pellet şekline getirilmiş);lüpülin ";;
+"null";"1210.20.10.00.11";" - - - Lüpülin";"-";35
+"null";"1210.20.10.00.19";" - - - Diğerleri";"-";35
+"null";"1210.20.90.00.00";" - - Diğerleri";"-";35
+"null";;;;
+"null";"12.11";"Bitki ve bitki kısımları (tohum ve meyveler dahil) (esas olarak";;
+"null";;"parfümeride, eczacılıkta, böcek yada mantar öldürücü veya";;
+"null";;"benzeri amaçlarla kullanılan cinsten olanlar) (taze, soğutulmuş,";;
+"null";;"dondurulmuş veya kurutulmuş, kesilmiş, ezilmiş veya toz haline ";;
+"null";;"getirilmiş olsun olmasın):";;
+"null";"1211.20.00.00.00";" - Ginseng kökü";"-";110
+"null";"1211.30.00.00.00";" - Koka yaprağı";"-";110
+"null";"1211.40.00.00.00";" - Haşhaş kellesi";"-";110
+"null";"1211.50.00.00.00";" - Efedra (Ephedra)";"-";110
+"null";"1211.60.00.00.00";" - Afrika kirazının kabuğu (Prunus africana) ";"-";110
+"null";"1211.90";" - Diğerleri:";;
+"null";"1211.90.30.00.00";" - - Tonka fasulyesi";"-";110
+"null";;" - - Diğerleri";;" "
+"null";"1211.90.86.00.11";" - - - Vermut otu";"-";110
+"null";"1211.90.86.00.12";" - - - Likör otu";"-";110
+"null";"1211.90.86.00.14";" - - - Kına kına kabukları";"-";110
+"null";"1211.90.86.00.16";" - - - Yabani güveyotu (Origanum vulgare) (sapları ve yaprakları)";"-";110
+"null";"1211.90.86.00.18";" - - - Meyan kökü";"-";110
+"null";;" - - - Nane";;
+"null";"1211.90.86.00.22";" - - - - Küçük paketler içerisinde bitkisel çay olarak kullanılanlar";"-";110
+"null";"1211.90.86.00.23";" - - - - Diğerleri";"-";110
+"null";;" - - - Ihlamur";;
+"null";"1211.90.86.00.24";" - - - - Küçük paketler içerisinde bitkisel çay olarak kullanılanlar";"-";110
+"null";"1211.90.86.00.25";" - - - - Diğerleri";"-";110
+"null";;" - - - Adaçayı (Salvia officinalis) (yaprakları ve çiçekleri)";;
+"null";"1211.90.86.00.26";" - - - - Küçük paketler içerisinde bitkisel çay olarak kullanılanlar";"-";110
+"null";"1211.90.86.00.27";" - - - - Diğerleri";"-";110
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Küçük paketler içerisinde bitkisel çay olarak kullanılanlar:";;
+"null";"1211.90.86.00.31";" - - - - - Biberiye";"-";110
+"null";"1211.90.86.00.39";" - - - - - Diğerleri";"-";110
+"null";;" - - - - Diğerleri:";;
+"null";"1211.90.86.00.41";" - - - - - Biberiye";"-";110
+"null";"1211.90.86.00.49";" - - - - - Diğerleri";"-";110
+"null";;;;
+"null";"12.12";"Keçiboynuzu, deniz otları ve diğer algler, şeker pancarı ve";;
+"null";;"şeker kamışı (taze , soğutulmuş, dondurulmuş veya kurutulmuş, ";;
+"null";;"öğütülmüş olsun olmasın) ; tarifenin başka yerinde belirtilmeyen";;
+"null";;"veya yer almayan insanların yemesine elverişli cinsten meyve";;
+"null";;"çekirdekleri ve çekirdek içleri  ve diğer bitkisel ürünler (Cicho -";;
+"null";;"rium intybus sativum cinsi  kavrulmamış hindiba kökleri dahil):";;
+"null";;" - Deniz otları ve diğer algler:";;
+"null";"1212.21";" - - İnsan tüketimine elverişli olanlar:";;
+"null";"1212.21.00.10.00";" - - - Başlıca tababette, parfümeride ve benzeri işlerde kullanılanlar ";"-";110
+"null";"1212.21.00.20.00";" - - - Dondurulmuş olanlar ";"-";75
+"null";"1212.21.00.90.00";" - - - Diğerleri";"-";25
+"null";"1212.29";" - - Diğerleri:";;
+"null";"1212.29.00.10.00";" - - - Başlıca tababette, parfümeride ve benzeri işlerde kullanılanlar ";"-";110
+"null";"1212.29.00.20.00";" - - - Dondurulmuş olanlar ";"-";75
+"null";"1212.29.00.90.00";" - - - Diğerleri";"-";25
+"null";;" - Diğerleri :";;
+"null";"1212.91";" - - Şeker pancarı:";;
+"null";"1212.91.20.00.00";" - - - Kurutulmuş (öğütülmüş olsun olmasın)";"-";25
+"null";"1212.91.80.00.00";" - - - Diğerleri";"-";25
+"null";"1212.92.00.00.00";" - - Keçiboynuzu (harnup)";"-";25
+"null";"1212.93.00.00.00";" - - Şeker kamışı";"-";25
+"null";"1212.94.00.00.00";" - -  Hindiba kökleri ";"-";25
+"null";"1212.99";" - - Diğerleri:";;
+"null";;" - - - Keçiboynuzu tohumları:";;
+"null";"1212.99.41.00.00";" - - - - Kabukları soyulmamış, ezilmemiş veya öğütülmemiş";"-";25
+"null";"1212.99.49.00.00";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğerleri";;
+"null";"1212.99.95.00.11";" - - - - Dondurulmuş taze polen";"-";25
+"null";"1212.99.95.00.12";" - - - - Kurutulmuş polen";"-";25
+"null";"1212.99.95.00.13";" - - - - Tatlı sorgum (saccharatum) ";"-";25
+"null";"1212.99.95.00.14";" - - - - Kayısı, şeftali (nektarin dahil) ve erik çekirdekleri ve çekirdek içleri";"-";25
+"null";"1212.99.95.00.19";" - - - - Diğerleri";"-";25
+"null";"1213.00.00.00.00";"Hububat sapları ve kapçıkları (işlenmemiş) (kıyılmış, toz haline";;
+"null";;" getirilmiş, preslenmiş veya pellet şeklinde olsun olmasın)";"-";25
+"null";;;;
+"null";"12.14";"İsveç şalgamı, hayvan pancarı, kök yemler, kuru ot, yonca,";;
+"null";;"üçgül, evliya otu, yemlik lahana, acı bakla, fiğ ve benzeri";;
+"null";;"hayvan yemleri (pellet şeklinde olsun olmasın):";;
+"null";"1214.10.00.00.00";" - Yonca kaba unu ve pelletleri";"-";25
+"null";"1214.90";" - Diğerleri :";;
+"null";"1214.90.10.00.00";" - - Hayvan pancarı, İsveç şalgamı ve diğer kök yemler";"-";25
+"null";"1214.90.90.00.00";" - - Diğerleri";"-";25

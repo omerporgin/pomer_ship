@@ -1,0 +1,189 @@
+﻿"null";"76.01";"İşlenmemiş aluminyum:";;
+"null";"7601.10.00.00.00";" - Alaşımsız aluminyum";"-";10
+"null";"7601.20";" - Aluminyum alaşımları:";;
+"null";"7601.20.20.00.00";" - - Dilim veya kütükler";"-";10
+"null";"7601.20.80.00.00";" - - Diğerleri";"-";10
+"null";;;;
+"null";"7602.00";"Aluminyum döküntü ve hurdaları:";;
+"null";;" - Döküntüler:";;
+"null";"7602.00.11.00.00";" - - Torna talaşı, freze talaşı, kıymıklar, öğütme artıkları, testere talaşı  ve ";;
+"null";;"      eğe talaşı; boyanmış, kaplanmış veya yapıştırılmış ince yaprak ve şe-";;
+"null";;"      ritlerin döküntüleri (mesnetleri hariç kalınlığı 0,2 mm.yi geçmeyenler)";"-";10
+"null";"7602.00.19.00.00";" - - Diğerleri (imalat ıskartaları dahil)";"-";10
+"null";"7602.00.90.00.00";" - Hurdalar";"-";10
+"null";;;;
+"null";"76.03";"Aluminyum tozları ve ince pullar:";;
+"null";"7603.10.00.00.00";" - Pul bünyeli olmayan tozlar";"-";30
+"null";"7603.20";" - Pul bünyeli tozlar, ince pullar :";" ";
+"null";"7603.20.00.00.11";" - - Pul bünyeli tozlar";"-";30
+"null";"7603.20.00.00.12";" - - İnce pullar";"-";30
+"null";;;;
+"null";"76.04";"Aluminyumdan çubuklar ve profiller:";;
+"null";"7604.10";" - Alaşımsız aluminyumdan olanlar:";;
+"null";"7604.10.10.00.00";" - - Çubuklar";"-";40
+"null";"7604.10.90.00.00";" - - Profiller";"-";40
+"null";;" - Aluminyum alaşımlarından:";" ";
+"null";"7604.21.00.00.00";" - - İçi boş profiller";"-";40
+"null";"7604.29";" - - Diğerleri:";" ";
+"null";"7604.29.10.00.00";" - - - Çubuklar";"-";40
+"null";"7604.29.90.00.00";" - - - Profiller";"-";40
+"null";;;;
+"null";"76.05";"Aluminyum teller:";;
+"null";;" - Alaşımsız aluminyumdan olanlar:";;
+"null";"7605.11.00.00.00";" - - Enine kesitinin en geniş yeri 7mm.yi geçenler";"-";40
+"null";"7605.19.00.00.00";" - - Diğerleri";"-";40
+"null";;" - Aluminyum alaşımlarından olanlar:";" ";
+"null";"7605.21.00.00.00";" - - Enine kesitinin en geniş yeri 7mm.yi geçenler";"-";40
+"null";"7605.29.00.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"76.06";"Aluminyum saclar, levhalar, şeritler (kalınlığı 0,2 mm. yi geçenler):";;
+"null";;" - Dikdörtgen (kare dahil) şeklinde olanlar:";;
+"null";"7606.11";" - - Alaşımsız aluminyumdan:";;
+"null";"7606.11.30.00.00";" - - - Aluminyum kompozit paneller";"m2";40
+"null";;" - - - Diğerleri:";;
+"null";"7606.11.50.00.00";" - - - - Boyanmış, verniklenmiş veya plastik maddeyle kaplanmış olanlar";"-";40
+"null";;" - - - - Diğerleri:";" ";
+"null";"7606.11.91.00.00";" - - - - - Kalınlığı 3 mm. den az olanlar";"-";40
+"null";"7606.11.93.00.00";" - - - - - Kalınlığı 3 mm. veya daha fazla, fakat 6 mm. den az olanlar";"-";40
+"null";"7606.11.99.00.00";" - - - - - Kalınlığı 6 mm. veya daha fazla olanlar";"-";40
+"null";"7606.12";" - - Aluminyum alaşımlarından:";" ";
+"null";;" - - - İçecek kutularına ait gövde, alt ve üst kapak imalinde kullanılanlar:";;
+"null";"7606.12.11.00.00";" - - - - Gövde imalinde kullanılanlar";"-";40
+"null";"7606.12.19.00.00";" - - - - Alt ve üst kapak imalinde kullanılanlar";"-";40
+"null";"7606.12.30.00.00";" - - - Aluminyum kompozit paneller";"m2";40
+"null";;" - - - Diğerleri:";;
+"null";"7606.12.50.00.00";" - - - - Boyanmış, verniklenmiş veya plastik maddeyle kaplanmış olanlar";"-";40
+"null";;" - - - - Diğerleri:";;
+"null";"7606.12.92.00.00";" - - - - - Kalınlığı 3 mm. den az olanlar";"-";40
+"null";"7606.12.93.00.00";" - - - - - Kalınlığı 3 mm. veya daha fazla, fakat 6 mm. den az olanlar";"-";40
+"null";"7606.12.99.00.00";" - - - - - Kalınlığı 6 mm. veya daha fazla olanlar";"-";40
+"null";;" - Diğerleri:";" ";
+"null";"7606.91.00.00.00";" - - Alaşımsız aluminyumdan olanlar";"-";40
+"null";"7606.92.00.00.00";" - - Aluminyum alaşımlarından olanlar";"-";40
+"null";;;" ";
+"null";"76.07";"Aluminyumdan yapraklar ve şeritler (baskılı veya baskısız, kağıt, ";" ";
+"null";;"karton, plastik maddeler veya benzerlerinden bir mesnet üzerine";;
+"null";;"tesbit edilmiş olsun olmasın) (mesnedi hariç kalınlığı 0,2 mm. yi ";;
+"null";;"geçmeyenler):";;
+"null";;" - Mesnetsiz olanlar:";;
+"null";"7607.11";" - - Haddelenmiş fakat daha ileri bir işleme tabi tutulmamış:";;
+"null";" ";" - - - Kalınlığı 0,021 mm. den az olanlar :";;
+"null";"7607.11.11.00.00";" - - - - Ağırlığı 10 kg'yi geçmeyen rulolar halinde olanlar";"-";50
+"null";"7607.11.19.00.00";" - - - - Diğerleri";"-";50
+"null";"7607.11.90.00.00";" - - - Kalınlığı 0,021 mm. veya daha fazla,fakat 0,2 mm. yi geçmeyenler";"-";50
+"null";"7607.19";" - - Diğerleri:";" ";
+"null";"7607.19.10.00.00";" - - - Kalınlığı 0,021 mm. den az olanlar";"-";50
+"null";"7607.19.90.00.00";" - - - Kalınlığı 0,021 mm. veya daha fazla,fakat 0,2 mm. yi geçmeyenler";"-";50
+"null";"7607.20";" - Mesnetli olanlar:";" ";
+"null";"7607.20.10.00.00";" - - Mesnedi hariç kalınlığı 0,021 mm. den az olanlar";"-";50
+"null";;" - - Mesnedi hariç kalınlığı 0,021 mm. veya daha fazla, fakat 0,2 mm.yi geç-";;
+"null";;"     meyenler:";;
+"null";"7607.20.91.00.00";" - - - Aluminyum kompozit paneller";"m2";50
+"null";;" - - - Diğerleri:";;
+"null";"7607.20.99.00.21";" - - - - Kendinden yapışkanlı bantlar";"-";50
+"null";"7607.20.99.00.29";" - - - - Diğerleri";"-";50
+"null";;;;
+"null";"76.08";"Aluminyumdan ince ve kalın borular:";;
+"null";"7608.10";" - Alaşımsız aluminyumdan olanlar:";;
+"null";" ";" - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz veya sıvıların naklinde";;
+"null";;"      kullanılan türden, bağlantı parçaları takılmış olanlar  :";;
+"null";"7608.10.00.10.11";" - - - Dikişli ince ve kalın borular";"-";40
+"null";"7608.10.00.10.12";" - - - Dikişsiz ince ve kalın borular";"-";40
+"null";" ";" - - Diğerleri :";" ";
+"null";"7608.10.00.90.11";" - - - Dikişli ince ve kalın borular";"-";40
+"null";"7608.10.00.90.12";" - - - Dikişsiz ince ve kalın borular";"-";40
+"null";"7608.20";" - Aluminyum alaşımlarından:";;
+"null";;" - - Dikişli ince ve kalın borular:";;
+"null";"7608.20.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz veya sıvıların";;
+"null";;"      naklinde kullanılan türden, bağlantı parçaları takılmış olanlar";"-";40
+"null";"7608.20.20.90.00";" - - - Diğerleri";"-";40
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ekstrüzyondan daha ileri bir işlem görmemiş olanlar:";;
+"null";"7608.20.81.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz veya sıvıların";" ";
+"null";;"        naklinde kullanılan türden, bağlantı parçaları takılmış olanlar";"-";40
+"null";"7608.20.81.90.00";" - - - - Diğerleri";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"7608.20.89.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz veya sıvıların";;
+"null";;"         naklinde kullanılan türden, bağlantı parçaları takılmış olanlar";"-";40
+"null";"7608.20.89.90.00";" - - - - Diğerleri";"-";40
+"null";;;;
+"null";"7609.00.00.00.00";"Aluminyum  boru bağlantı parçaları (rakorlar, dirsekler, manşonlar ";;
+"null";;"ve benzerleri)";"-";40
+"null";;;;
+"null";"76.10";"Aluminyum inşaat ve inşaat aksamı (köprüler, köprü aksamı, kuleler,";;
+"null";;"pilonlar, ayaklar, sütunlar, inşaat iskeleleri, çatılar, kapılar,";;
+"null";;"pencereler ve bunların çerçeveleri ve kapı eşikleri,";;
+"null";;"korkuluklar, parmaklıklar gibi) (94.06 pozisyonundaki prefabrik";;
+"null";;"inşaatlar hariç); inşaatta kullanılmak üzere hazırlanmış aluminyum";;
+"null";;"saclar, çubuklar,profiller, borular ve benzerleri) :";;
+"null";"7610.10";" - Kapılar, pencereler, kapı ve pencere çerçeveleri ile  kapı eşikleri: ";;
+"null";"7610.10.00.00.11";" - - Soğuk hava depolarına mahsus olanlar";"Adet (1)";50
+"null";"7610.10.00.00.19";" - - Diğerleri";"Adet (1)";50
+"null";"7610.90";" - Diğerleri:";" ";
+"null";" ";" - - Köprüler ve köprü aksamı, kuleler, pilonlar :";" ";
+"null";"7610.90.10.00.11";" - - - Köprüler ve köprü aksamı";"-";50
+"null";"7610.90.10.00.12";" - - - Kuleler ve pilonlar";"-";50
+"null";" ";" - - Diğerleri :";" ";
+"null";"7610.90.90.00.12";" - - - Sandviç panel";"-";50
+"null";"7610.90.90.00.18";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"7611.00";"Her türlü madde için (sıkıştırılmış veya sıvılaştırılmış gaz hariç)";;
+"null";;"hacmi 300 litreyi geçen ve mekanik veya termik tertibatı bulunmayan";;
+"null";;"aluminyum depolar, sarnıçlar, küvler ve benzeri kaplar (ısıyı izole";;
+"null";;"edici veya iç yüzeyleri kaplanmış olsun olmasın):";;
+"null";"7611.00.00.10.00";" - Eşyanın taşınmasında veya ambalajlanmasında kullanılanlar";"-";45
+"null";"7611.00.00.90.00";" - Diğerleri";"-";40
+"null";;;;
+"null";"76.12";"Her tür madde için (sıkıştırılmış veya sıvılaştırılmış gaz hariç) hacmi";;
+"null";;"300 litreyi geçmeyen ve mekanik veya termik tertibatı bulunmayan ";;
+"null";;"aluminyum depolar, fıçılar, variller, bidonlar ve benzeri kaplar (tüp";;
+"null";;"şeklinde sert veya esnek kaplar dahil) (ısıyı izole edici veya iç ";;
+"null";;"yüzeyleri kaplanmış olsun olmasın) :";;
+"null";"7612.10.00.00.00";" - Tüp şeklinde esnek kaplar";"-";45
+"null";"7612.90";" - Diğerleri:";" ";
+"null";"7612.90.20.00.00";" - - Aerosollerde kullanılacak türdeki kaplar";"Adet";50
+"null";"7612.90.30.00.00";" - - Kalınlığı 0.2 mm yi geçmeyen yapraklardan elde edilenler";"-";50
+"null";"7612.90.80.00.00";" - - Diğerleri";"-";50
+"null";"7613.00.00.00.00";"Sıkıştırılmış veya sıvılaştırılmış gaz için aluminyum kaplar";"-";30
+"null";;;;
+"null";"76.14";"Aluminyumdan demetlenmiş teller, kablolar, örme halatlar";;
+"null";;"ve benzerleri (elektrik için izole edilmemiş olanlar):";;
+"null";"7614.10.00.00.00";" - Çelik özlü olanlar";"-";40
+"null";"7614.90.00.00.00";" - Diğerleri";"-";40
+"null";;;;
+"null";"76.15";"Aluminyumdan sofra, mutfak ve diğer ev işlerinde kullanılan eşya";;
+"null";;"ile sağlığı koruyucu eşya ve bunların aksamı; aluminyumdan sün-";;
+"null";;"gerler, temizlik veya parlatma işlerinde kullanılan eşya, eldivenler";;
+"null";;"ve benzerleri:";;
+"null";"7615.10";" - Sofra, mutfak ve diğer ev işlerinde kullanılan eşya ve bunların ";;
+"null";;"   aksamı; süngerler, temizlik veya parlatma işlerinde kullanılan";;
+"null";;"   eşya, eldivenler ve benzerleri:";;
+"null";"7615.10.10.00.00";" - - Döküm olanlar";"-";60
+"null";"7615.10.30.00.00";" - - Kalınlığı 0.2 mm yi geçmeyen yapraklardan elde edilenler";"-";60
+"null";"7615.10.80.00.00";" - - Diğerleri";"-";60
+"null";"7615.20";" - Sağlığı koruyucu eşya ve aksamı :";" ";
+"null";"7615.20.00.00.11";" - - Sağlığı koruyucu eşya";"-";60
+"null";"7615.20.00.00.15";" - - Sağlığı koruyucu eşyanın aksamı";"-";60
+"null";;;;
+"null";"76.16";"Aluminyumdan diğer eşya:";;
+"null";"7616.10";" - Aluminyumdan küçük ve büyük çiviler, yivli çiviler (83.05";;
+"null";;"   pozisyonundakiler hariç), vidalar, civatalar, somunlar, çengelli";;
+"null";;"   vida, perçin çivileri,pimler, kamalar, kama pimleri, rondelalar ve";;
+"null";;"   benzeri eşya :";;
+"null";"7616.10.00.00.11";" - - Kütle halinde kesilmiş olan ve sap kalınlığı veya delik çapı 6 mm. yi ";;
+"null";;"      geçmeyen vidalar, somunlar, perçin çivileri ve rondelalar";"-";50
+"null";"7616.10.00.00.19";" - - Diğerleri";"-";50
+"null";;" - Diğerleri:";" ";
+"null";"7616.91.00.00.00";" - -  Aluminyum tellerden mensucat, örgüler ve kafeslikler";"-";50
+"null";"7616.99";" - - Diğerleri :";" ";
+"null";"7616.99.10.00.00";" - - - Döküm olanlar";"-";50
+"null";;" - - - Diğerleri :";" ";
+"null";"7616.99.90.10.00";" - - - - Metal depluvayye";"-";45
+"null";" ";" - - - - Diğerleri :";;
+"null";"7616.99.90.90.11";" - - - - - İplik ve dokuma sanayi için masuralar, makaralar, bobinler ve ";;
+"null";" ";"            benzeri mesnetler";"-";50
+"null";"7616.99.90.90.12";" - - - - - Fotoğraf ve sinema filmleri ve pelikülleri veya 85.23 veya 85.24 ";;
+"null";" ";"            pozisyonlarına giren bantlar, filmler ve benzerlerinin sarılmasına";;
+"null";;"            mahsus bobinler ve benzeri mesnetler";"-";50
+"null";"7616.99.90.90.13";" - - - - - Zincirler ";"-";50
+"null";"7616.99.90.90.19";" - - - - - Diğerleri";"-";50

@@ -1,0 +1,142 @@
+﻿"null";"34.01";"Sabunlar; çubuk, kalıplanmış parça ve şekillerde olup sabun olarak";;
+"null";;"kullanılan yüzeyaktif organik ürünler ve müstahzarlar (sabun";;
+"null";;"içersin içermesin);cilt yıkamaya mahsus sıvı veya krem halinde ve ";;
+"null";;"perakende satılacak hale getirilmiş yüzeyaktif organik ürünler ve";;
+"null";;"müstahzarlar (sabun içersin içermesin);sabun veya deterjan";;
+"null";;"emdirilmiş, sıvanmış veya kaplanmış kağıt,vatka,keçe ve";;
+"null";;"dokunmamış mensucat :";;
+"null";;" - Çubuk, kalıplanmış parça ve şekillerde sabun ve yüzeyaktif ";;
+"null";;"   organik ürünler ve müstahzarlar ve sabun veya deterjan emdi -";;
+"null";;"   rilmiş, sıvanmış veya kaplanmış kağıt, vatka, keçe ve dokunma-";;
+"null";;"   mış mensucat:";;
+"null";"3401.11";" - - Tuvalet için (tıbbi ürünler dahil) :";;
+"null";"3401.11.00.10.00";" - - - Deterjan emdirilmiş kağıt ve vatka";"-";200
+"null";"3401.11.00.20.00";" - - - Deterjan veya sabun emdirilmiş keçe";"-";50
+"null";"3401.11.00.30.00";" - - - Sabun emdirilmiş kağıt ve vatka;deterjan ve sabun emdirilmiş";" ";
+"null";;"        dokunmamış mensucat";"-";60
+"null";"3401.11.00.90.00";" - - - Diğerleri";"-";35
+"null";"3401.19";" - - Diğerleri :";" ";
+"null";;" - - - Sabun ve deterjan emdirilmiş, sıvanmış veya kaplanmış kağıt";" ";
+"null";;"        vatka, keçe ve dokunmamış mensucat :";" ";
+"null";"3401.19.00.11.00";" - - - - Sabun emdirilmiş kağıt ve vatka";"-";60
+"null";"3401.19.00.12.00";" - - - - Deterjan veya sabun emdirilmiş keçe";"-";50
+"null";"3401.19.00.13.00";" - - - - Deterjan veya sabun emdirilmiş  dokunmamış mensucat";"-";60
+"null";"3401.19.00.90.00";" - - - Diğerleri";"-";35
+"null";"3401.20";" - Diğer şekillerdeki sabunlar:";" ";
+"null";"3401.20.10.00.00";" - - İnce parça, pul, granül veya toz halinde olanlar";"-";60
+"null";;" - - Diğerleri :";" ";
+"null";"3401.20.90.10.00";" - - - Arap sabunu ve benzeri yumuşak sabunlar";"-";50
+"null";;" - - - Diğerleri";" ";
+"null";"3401.20.90.90.11";" - - - - Sıvı sabunlar";"-";60
+"null";"3401.20.90.90.19";" - - - - Diğerleri";"-";60
+"null";"3401.30.00.00.00";"- Cilt yıkanmasına mahsus sıvı veya krem halinde ve perakende";;
+"null";;"satılacak hale getirilmiş,yüzeyaktif organik ürünler ve müstahzarlar";;
+"null";;"(sabun içersin içermesin)";"-";60
+"null";;;;
+"null";"34.02";"Yüzeyaktif organik maddeler (sabunlar hariç); yüzeyaktif müstah-";;
+"null";;"zarlar ; yıkama müstahzarları (yardımcı yıkama müstahzarları ";;
+"null";;"dahil) ve temizleme müstahzarları (sabun içersin içermesin)";;
+"null";;"(34.01 pozisyonundakiler hariç) :";;
+"null";;" - Anyonlu yüzeyaktif organik maddeler (perakende satılacak hale getiril -";;
+"null";;"   miş olsun olmasın):";;
+"null";"3402.31.00.00.00";" - - Lineer alkil benzen sülfonik asitler ve tuzları";"-";35
+"null";"3402.39";" - - Diğerleri :";;
+"null";"3402.39.10.00.00";" - - - Ağırlık itibariyle % 30 veya daha fazla fakat % 50'den fazla olmayan";;
+"null";;"       disodyum alkil [ oxydi (benzenesulphonate) ] içeren sulu çözeltiler";"-";35
+"null";;" - - - Diğerleri:";;
+"null";"3402.39.90.10.00";" - - - - Sülforezinatlar ve sülfooleatlar";"-";35
+"null";;" - - - - Diğerleri";" ";
+"null";"3402.39.90.90.12";" - - - - - Dodesil benzen sülfonik asit";"-";35
+"null";"3402.39.90.90.19";" - - - - - Diğerleri";"-";35
+"null";;" - Diğer organik yüzeyaktif organik maddeler (perakende satılacak hale ";;
+"null";;"  getirilmiş olsun olmasın):";;
+"null";"3402.41.00.00.00";" - - Katyonlu olanlar";"-";35
+"null";"3402.42.00.00.00";" - - İyonlu olmayanlar";"-";35
+"null";"3402.49";" - - Diğerleri :";" ";
+"null";"3402.49.00.10.00";" - - - Türk kırmızısı yağı";"-";35
+"null";"3402.49.00.90.00";" - - - Diğerleri";"-";35
+"null";"3402.50";" - Perakende satılacak hale getirilmiş müstahzarlar:";;
+"null";;" - - Yüzeyaktif müstahzarlar";;
+"null";"3402.50.10.00.11";" - - - Sabun içerenler";"-";35
+"null";"3402.50.10.00.12";" - - - Sabun içermeyenler";"-";35
+"null";;" - - Yıkama ve temizleme müstahzarları";" ";
+"null";"3402.50.90.00.15";" - - - Sabun içerenler";"-";35
+"null";"3402.50.90.00.16";" - - - Sabun içermeyenler";"-";35
+"null";"3402.90";" - Diğerleri:";;
+"null";;" - - Yüzeyaktif müstahzarlar";;
+"null";"3402.90.10.00.11";" - - - Sabun içerenler";"-";35
+"null";;" - - - Sabun içermeyenler:";;
+"null";"3402.90.10.00.13";" - - - - %50 ila %80 arasında yüzey aktif madde içerenler";"-";35
+"null";"3402.90.10.00.14";" - - - - Diğerleri";"-";35
+"null";;" - - Yıkama ve temizleme müstahzarları";" ";
+"null";"3402.90.90.00.15";" - - - Sabun içerenler";"-";35
+"null";"3402.90.90.00.16";" - - - Sabun içermeyenler";"-";35
+"null";;;;
+"null";"34.03";"Yağlama müstahzarları (Esası yağ olan; kesici aletleri yağlamaya mahsus";;
+"null";;"müstahzarlar, civata veya somun gevşetme ";;
+"null";;"müstahzarları, pas veya korozyonu önleyici müstahzarlar ve ";;
+"null";;"döküm kalıplarını ayırmaya mahsus yağlama müstahzarları dahil) ve";;
+"null";;"dokumaya elverişli maddelerin, deri ve köselenin, post ve kürklerin";;
+"null";;"veya diğer maddelerin katı ve sıvı yağlarla yağlanmasına mahsus ";;
+"null";;"müstahzarlar (esas madde olarak içinde ağırlık itibariyle % 70 ";;
+"null";;"veya daha fazla petrol yağı veya bitümenli minerallerden elde ";;
+"null";;"edilen yağ içeren müstahzarlar hariç):";;
+"null";;" - Petrol yağları veya bitümenli minerallerden elde edilen yağları";;
+"null";;"   içerenler :";;
+"null";"3403.11.00.00.00";" - - Dokumaya elverişli maddelerin, deri ve köselenin, post ve";;
+"null";;"     kürklerin veya diğer maddelerin işlenmesine mahsus müstahzarlar";"-";25
+"null";"3403.19";" - - Diğerleri:";" ";
+"null";"3403.19.10.00.00";" - - - Esas madde olarak kabul edilmemek şartıyla, ağırlık itibariyle % 70 ";" ";
+"null";;"        veya daha fazla petrol yağları veya bitümenli minerallerden elde";" ";
+"null";;"        edilen yağları içerenler";"-";30
+"null";"3403.19.20.00.00";" - - - Hacim olarak en az %25 biyo temelli karbon içeriğine sahip ve en az %60'a kadar";;
+"null";;"       geri dönüştürülebilir yağlayıcılar";"-";25
+"null";"3403.19.80.00.00";" - - - Diğerleri";"-";25
+"null";;" - Diğerleri:";;
+"null";"3403.91.00.00.00";" - - Dokumaya elverişli maddelerin, deri ve köselenin, post ve ";;
+"null";;"     kürklerin veya diğer maddelerin işlenmesine mahsus müstah -";;
+"null";;"     zarlar";"-";25
+"null";"3403.99.00.00.00";" - - Diğerleri";"-";25
+"null";;;;
+"null";"34.04";"Suni mumlar ve müstahzar mumlar:";;
+"null";"3404.20.00.00.00";" - Poli(oksietilen)(polietilen glikol)den elde edilenler";"-";20
+"null";"3404.90";" - Diğerleri:";;
+"null";;" - - Müstahzar mumlar (mühür mumları dahil):";;
+"null";"3404.90.00.11.00";" - - - Suni mumların karışımından oluşan müstahzar mumlar";"-";20
+"null";"3404.90.00.19.00";" - - - Diğerleri";"-";75
+"null";"3404.90.00.90.00";" - - Diğerleri";"-";20
+"null";"34.05";"Ayakkabı, mobilya, döşeme, otomobil karoseri, cam veya metal ";;
+"null";;"boya ve cilaları, temizleme pat veya tozları ve benzeri müstah -";;
+"null";;"zarlar (bu müstahzarlar emdirilmiş, sıvanmış veya kaplanmış ";;
+"null";;"kağıt, vatka, keçe, dokunmamış mensucat, gözenekli plastik veya";;
+"null";;"gözenekli kauçuk şeklinde olsun olmasın) (34.04 pozisyonundaki";;
+"null";;"mumlar hariç):";;
+"null";"3405.10";" - Ayakkabı, deri ve köselelerde kullanılan boya, cila veya ben -";;
+"null";;"   zeri müstahzarlar";;
+"null";"3405.10.00.00.11";" - - Ayakkabı boya ve cilaları ";"-";50
+"null";"3405.10.00.00.12";" - - Deri boya ve cilaları";"-";50
+"null";"3405.10.00.00.19";" - - Diğerleri";"-";50
+"null";"3405.20.00.00.00";" - Mobilya, döşeme veya diğer ağaç işlerinin bakımında kullanı -";" ";
+"null";;"   lan cila ve benzeri müstahzarlar";"-";50
+"null";"3405.30.00.00.00";" - Otomobil karoserlerinde kullanılan cila ve benzeri müstahzarlar";" ";
+"null";;"   (metal cilalar hariç)";"-";50
+"null";"3405.40.00.00.00";" - Temizleme pat ve tozları ve diğer temizleme müstahzarları";"-";50
+"null";"3405.90";" - Diğerleri:";" ";
+"null";"3405.90.10.00.00";" - - Metal cilaları";"-";50
+"null";"3405.90.90.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"3406.00";"Işık temini için kullanılan her türlü mumlar ve benzerleri:";;
+"null";"3406.00.00.20.00";" - Balmumundan mumlar";"-";50
+"null";"3406.00.00.80.00";" - Diğerleri";"-";75
+"null";"3407.00";"Model patları (çocukların eğlenmesi için hazırlanan patlar dahil);";;
+"null";;"takım halinde, perakende satılacak şekilde ambalajlanmış veya";;
+"null";;"plaka, at nalı, çubuk veya benzeri şekillerde bulunan ""dişçilik";;
+"null";;"mumu"" veya diş ölçü maddeleri denilen müstahzarlar; dişçilikte kullanılan ";;
+"null";;"alçı esaslı (kalsine edilmiş alçı veya kalsiyum sülfattan) diğer müstahzarlar";;
+"null";"3407.00.00.10.00";" - Dişçilikte kullanılan alçı esaslı diğer müstahzarlar";"-";30
+"null";" ";" - Diğerleri";" ";
+"null";"3407.00.00.90.11";" - - Dişçilik mumu";"-";25
+"null";"3407.00.00.90.12";" - - Model yapmaya mahsus patlar";"-";25
+"null";"3407.00.00.90.13";" - - Elastomer esaslı ölçü maddeleri (dişçilikte kullanılan)";"-";25
+"null";"3407.00.00.90.14";" - - Çinko oksit-öjenol esaslı ölçü maddeleri (dişçilikte kullanılan)";"-";25
+"null";"3407.00.00.90.19";" - - Diğerleri";"-";25

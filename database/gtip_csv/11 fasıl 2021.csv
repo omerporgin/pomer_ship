@@ -1,0 +1,166 @@
+﻿"null";"1101.00";"Buğday unu veya mahlut unu :";;
+"null";;" - Buğday unu :";;
+"null";"1101.00.11.00.00";" - - Makarnalık buğday (Durum buğdayı) unu";"-";114
+"null";"1101.00.15.00.00";" - - Adi ve kaplıca (kızıl) buğday unu";"-";114
+"null";"1101.00.90.00.00";" - Mahlut unu";"-";114
+"null";;;;
+"null";"11.02";"Hububat unları (buğday unu veya mahlut unu hariç):";;
+"null";"1102.20";" - Mısır unu:";;
+"null";"1102.20.10.00.00";" - - Yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler";"-";45
+"null";"1102.20.90.00.00";" - - Diğerleri";"-";45
+"null";"1102.90";" - Diğerleri :";;
+"null";"1102.90.10.00.00";" - - Arpa unu";"-";45
+"null";"1102.90.30.00.00";" - - Yulaf unu";"-";45
+"null";"1102.90.50.00.00";" - - Pirinç unu";"-";45
+"null";"1102.90.70.00.00";" - - Çavdar unu";"-";45
+"null";"1102.90.90.00.00";" - - Diğerleri";"-";45
+"null";;;;
+"null";"11.03";"Hububatın kabaca öğütülmesinden elde edilen küçük parçalar,";;
+"null";;"hububat kaba unları ve pelletleri:";;
+"null";;"- Hububatın kabaca öğütülmesinden elde edilen küçük parçalar ve";;
+"null";;"hububat kaba unları:";;
+"null";"1103.11";" - - Buğdaydan:";;
+"null";"1103.11.10.00.00";" - - - Makarnalık buğdaydan (durum buğday)";"-";60
+"null";"1103.11.90.00.00";" - - - Adi ve kaplıca (kızıl) buğdaydan";"-";60
+"null";"1103.13";" - - Mısırdan:";;" "
+"null";"1103.13.10.00.00";" - - - Yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler";"-";60
+"null";"1103.13.90.00.00";" - - - Diğerleri";"-";60
+"null";"1103.19";" - - Diğer hububattan:";;
+"null";"1103.19.20.00.00";" - - - Çavdar veya arpadan";"-";60
+"null";"1103.19.40.00.00";" - - -  Yulaftan";"-";60
+"null";"1103.19.50.00.00";" - - -  Pirinçten";"-";60
+"null";;" - - - Diğerleri";;" "
+"null";"1103.19.90.00.13";" - - - - Mahluttan";"-";60
+"null";"1103.19.90.00.19";" - - - - Diğerleri";"-";60
+"null";"1103.20";" - Pelletler:";;
+"null";"1103.20.25.00.00";" - - Çavdar veya arpadan";"-";60
+"null";"1103.20.30.00.00";" - - Yulaftan";"-";60
+"null";"1103.20.40.00.00";" - - Mısırdan";"-";60
+"null";"1103.20.50.00.00";" - - Pirinçten";"-";60
+"null";"1103.20.60.00.00";" - - Buğdaydan";"-";60
+"null";"1103.20.90.00.00";" - - Diğerleri";"-";60
+"null";;;;
+"null";"11.04";"Diğer şekilde işlenmiş hububat taneleri (örneğin; kabuğu";;
+"null";;"çıkarılmış, yassılaştırılmış, flokon halinde, yuvarlatılmış,";;
+"null";;"dilimlenmiş, iri parçalar halinde ufalanmış) ( 10.06";;
+"null";;"pozisyonunda yer alan pirinç hariç); hububat embriyonları";;
+"null";;"(bütün halde, yassılastırılmış, flokon halinde veya öğütülmüş):";;
+"null";"               ";" - Yassılaştırılmış veya flokon halindeki taneler:";;
+"null";"1104.12";" - - Yulaf:";;
+"null";"1104.12.10.00.00";" - - - Yassılaştırılmış taneler";"-";50
+"null";"1104.12.90.00.00";" - - - Flokon halindeki taneler";"-";50
+"null";"1104.19";" - - Diğer hububat:";;
+"null";;" - - - Buğday";;" "
+"null";"1104.19.10.00.11";" - - - - Yassılaştırılmış taneler";"-";50
+"null";"1104.19.10.00.12";" - - - - Flokon halindeki taneler";"-";50
+"null";;" - - - Çavdar";;" "
+"null";"1104.19.30.00.11";" - - - - Yassılaştırılmış taneler";"-";50
+"null";"1104.19.30.00.12";" - - - - Flokon halindeki taneler";"-";50
+"null";;" - - - Mısır";;" "
+"null";"1104.19.50.00.11";" - - - - Yassılaştırılmış taneler";"-";50
+"null";"1104.19.50.00.12";" - - - - Flokon halindeki taneler";"-";50
+"null";;" - - - Arpa";;" "
+"null";"1104.19.61.00.00";" - - - - Yassılaştırılmış taneler";"-";50
+"null";"1104.19.69.00.00";" - - - - Flokon halindeki taneler";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"1104.19.91.00.00";" - - - - Flokon halindeki pirinç";"-";50
+"null";;" - - - - Diğerleri";;" "
+"null";"1104.19.99.00.11";" - - - - - Diğer hububattan yassılastırılmış taneIer";"-";50
+"null";"1104.19.99.00.12";" - - - - - Diğer hububattan flokon halindeki taneler";"-";50
+"null";;" - Diğer işlenmiş taneler (örneğin; kabuğu çıkarılmış, yuvarlatılmış,";;
+"null";;"   dilimlenmiş veya iri parçalar halinde ufalanmış) :";;
+"null";"1104.22";" - - Yulaf taneleri:";;
+"null";"1104.22.40.00.00";" - - - Kabuğu veya kavuzu çıkarılmış, dilimlenmiş veya iri parçalar ";;
+"null";;"        halinde ufalanmış olsun olmasın";"-";50
+"null";"1104.22.50.00.00";" - - - Yuvarlatılmış";"-";50
+"null";"1104.22.95.00.00";" - - - Diğerleri";"-";50
+"null";"1104.23";" - - Mısır taneleri:";;
+"null";"1104.23.40.00.00";" - - - Kabuğu veya kavuzu çıkarılmış, dilimlenmiş veya iri parçalar";;
+"null";;"        halinde ufalanmış olsun olmasın; Yuvarlatılmış ";"-";50
+"null";"1104.23.98.00.00";" - - - Diğerleri";"-";50
+"null";"1104.29";" - - Diğer hububat taneleri:";;
+"null";;" - - - Arpa taneleri";;
+"null";"1104.29.04.00.00";" - - - - Kabuğu veya kavuzu çıkarılmış, dilimlenmiş veya iri parçalar ";;
+"null";;"        halinde ufalanmış olsun olmasın";"-";50
+"null";"1104.29.05.00.00";" - - - - Yuvarlatılmış";"-";50
+"null";"1104.29.08.00.00";" - - - - Diğerleri";"-";50
+"null";;" - - -  Diğerleri";;
+"null";"1104.29.17.00.00";" - - - - Kabuğu veya kavuzu çıkarılmış, dilimlenmiş veya iri parçalar halinde";;
+"null";;"         ufalanmış olsun olmasın";"-";50
+"null";"1104.29.30.00.00";" - - - - Yuvarlatılmış";"-";50
+"null";;" - - - -  Sadece iri parçalar halinde ufalanmış:";;
+"null";"1104.29.51.00.00";" - - - - - Buğday";"-";50
+"null";"1104.29.55.00.00";" - - - - - Çavdar";"-";50
+"null";"1104.29.59.00.00";" - - - - - Diğerleri";"-";50
+"null";;" - - - - Diğerleri :";;
+"null";"1104.29.81.00.00";" - - - - - Buğdaydan";"-";50
+"null";"1104.29.85.00.00";" - - - - - Çavdardan";"-";50
+"null";"1104.29.89.00.00";" - - - - - Diğerleri";"-";50
+"null";"1104.30";" - Hububat embriyonları (bütün halde, yassılaştırılmış,flokon ";;
+"null";;"   haline getirilmiş veya öğütülmüş):";;
+"null";"1104.30.10.00.00";" - - Buğday";"-";50
+"null";;" - - Diğer hububat:";;
+"null";"1104.30.90.00.11";" - - - Mısır özü";"-";50
+"null";"1104.30.90.00.19";" - - - Diğerleri";"-";50
+"null";"11.05";"Patates unu, ezmesi, tozları, flokonları, granülleri ve pelletleri ";;
+"null";"1105.10";" - Patates unu,ezmesi ve tozları";;" "
+"null";"1105.10.00.00.11";" - - Patates unu";"-";30
+"null";"1105.10.00.00.12";" - - Patates ezmesi ve tozları";"-";30
+"null";"1105.20.00.00.00";" - Patates flokonları, granülleri ve pelletleri";"-";30
+"null";;;;
+"null";"11.06";" 07.13 Pozisyonuna giren kuru baklagillerin, 07.14 pozisyonuna";;
+"null";;" giren sagunun ve köklerin veya yumruların un, kaba un ve tozları;";;
+"null";;" 8. fasıla giren ürünlerin un, kaba un ve tozu:";;
+"null";"1106.10.00.00.00";" - 07.13 Pozisyonuna giren kuru baklagillere ait olanlar";"-";30
+"null";"1106.20";" - 07.14 Pozisyonuna giren saguya, köklere ve yumrulara ait olanlar: ";;
+"null";"1106.20.10.00.00";" - - Başka maddeler katılmış (denature)";"-";60
+"null";;" - - Diğerleri";;" "
+"null";"1106.20.90.00.11";" - - - Salep";"-";60
+"null";"1106.20.90.00.19";" - - - Diğerleri";"-";60
+"null";"1106.30";" - 8. Fasıla giren ürünlere ait olanlar :";;
+"null";"1106.30.10.00.00";" - - Muza ait olanlar";"-";30
+"null";;" - - Diğerlerine ait olanlar";;" "
+"null";"1106.30.90.00.15";" - - - Fındıktan olanlar";"-";30
+"null";"1106.30.90.00.19";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"11.07";"Malt (kavrulmuş olsun olmasın):";;
+"null";"1107.10";" - Kavrulmamış:";;
+"null";;" - - Buğday maltı:";;
+"null";"1107.10.11.00.00";" - - - Un şeklinde olanlar";"-";30
+"null";"1107.10.19.00.00";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Un şeklinde olanlar";;" "
+"null";"1107.10.91.00.11";" - - - - Arpadan olanlar";"-";30
+"null";"1107.10.91.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;" "
+"null";"1107.10.99.00.11";" - - - - Arpadan olanlar";"-";30
+"null";"1107.10.99.00.19";" - - - - Diğerleri";"-";30
+"null";"1107.20";" - Kavrulmuş";;" "
+"null";"1107.20.00.00.11";" - - Buğday";"-";30
+"null";"1107.20.00.00.12";" - - Arpa";"-";30
+"null";"1107.20.00.00.19";" - - Diğerleri";"-";30
+"null";;;;
+"null";"11.08";"Nişastalar; inülin:";;
+"null";;" - Nişastalar:";;
+"null";"1108.11";" - - Buğday nişastası:";;
+"null";"1108.11.00.10.00";" - - - Torba içinde olanlar";"-";75
+"null";"1108.11.00.90.00";" - - - Diğerleri";"-";75
+"null";"1108.12";" - - Mısır nişastası:";;
+"null";"1108.12.00.10.00";" - - - Torba içinde olanlar";"-";75
+"null";"1108.12.00.90.00";" - - - Diğerleri";"-";75
+"null";"1108.13";" - - Patates nişastası:";;
+"null";"1108.13.00.10.00";" - - - Torba içinde olanlar";"-";75
+"null";"1108.13.00.90.00";" - - - Diğerleri";"-";75
+"null";"1108.14";" - - Manyok (cassava) nişastası:";;
+"null";"1108.14.00.10.00";" - - - Torba içinde olanlar";"-";75
+"null";"1108.14.00.90.00";" - - - Diğerleri";"-";75
+"null";"1108.19";" - - Diğer nişastalar:";;
+"null";;" - - - Pirinç nişastası:";;
+"null";"1108.19.10.10.00";" - - - - Torba içinde olanlar";"-";75
+"null";"1108.19.10.90.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri:";;
+"null";"1108.19.90.10.00";" - - - - Torba içinde olanlar";"-";75
+"null";"1108.19.90.90.00";" - - - - Diğerleri";"-";75
+"null";"1108.20.00.00.00";" - İnülin";"-";75
+"null";;;;
+"null";"1109.00.00.00.00";"Buğday gluteni (kurutulmuş olsun olmasın)";"-";25

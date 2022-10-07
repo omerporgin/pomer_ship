@@ -1,0 +1,117 @@
+﻿"null";"17.01";"Kamış veya pancar şekeri ve kimyaca saf sakaroz (katı halde) :";;
+"null";;" - İlave aroma veya renk verici madde içermeyen ham şeker:";;
+"null";"1701.12";" - - Pancar şekeri:";;
+"null";"1701.12.10.00.00";" - - - Rafine edilecek olanlar";"-";150
+"null";"1701.12.90.00.00";" - - - Diğerleri";"-";150
+"null";"1701.13";" - - Bu faslın 2 nolu alt pozisyon notunda belirtilen kamış şekeri:";;
+"null";"1701.13.10.00.00";" - - - Rafine edilecek olanlar";"-";150
+"null";"1701.13.90.00.00";" - - - Diğerleri";"-";150
+"null";"1701.14";" - - Diğer kamış şekeri:";;
+"null";"1701.14.10.00.00";" - - - Rafine edilecek olanlar";"-";150
+"null";"1701.14.90.00.00";" - - - Diğerleri";"-";150
+"null";;" - Diğerleri:";;
+"null";"1701.91.00.00.00";" - - İlave aroma veya renk verici maddeler içerenler";"-";150
+"null";"1701.99";" - - Diğerleri:";;
+"null";;" - - -  Beyaz şeker";;" "
+"null";"1701.99.10.00.11";" - - - - Kristal şeker";"-";150
+"null";"1701.99.10.00.12";" - - - - Küp ve kesme şeker";"-";150
+"null";"1701.99.10.00.13";" - - - - Kimyaca saf sakkaroz (katı halde) ";"-";150
+"null";"1701.99.10.00.15";" - - - - Pudra şekeri";"-";150
+"null";"1701.99.10.00.19";" - - - - Diğerleri";"-";150
+"null";"1701.99.90.00.00";" - - - Diğerleri";"-";150
+"null";;;;
+"null";"17.02";"Diğer şekerler (kimyaca saf laktoz, maltoz, glikoz ve fruktoz";;
+"null";;"dahil) (katı halde); ilave aroma veya renk verici maddeler";;
+"null";;"katılmamış şeker şurupları, suni bal (tabii bal iIe karıştırılmış";;
+"null";;"olsun olmasın); karamel:";;
+"null";;" - Laktoz ve laktoz şurubu:";;
+"null";"1702.11";" - - Kuru madde üzerinden hesaplandığında ağırlık itibariyle %99";;
+"null";;"     veya daha fazla laktoz (anhidrit laktoz olarak ifade edilen) ";;
+"null";;"     içerenler :";;
+"null";"1702.11.00.10.00";" - - - Laktoz";"-";35
+"null";"1702.11.00.20.00";" - - - Laktoz şurubu";"-";150
+"null";"1702.19";" - - Diğerleri :";;
+"null";"1702.19.00.10.00";" - - - Laktoz";"-";35
+"null";"1702.19.00.20.00";" - - - Laktoz şurubu";"-";150
+"null";"1702.20";" - Akçaağaç şekeri ve şurubu :";;
+"null";"1702.20.10.00.00";" - - İlave aroma veya renk verici maddeler içeren katı haldeki akça -";;
+"null";;"     ağaç şekeri";"-";150
+"null";"1702.20.90.00.00";" - - Diğerleri";"-";150
+"null";"1702.30";" - Glikoz ve glikoz şurubu (fruktoz içermeyenler veya kuru halde";;
+"null";;"   ağırlık itibariyle % 20 den az fruktoz içerenler) :";;
+"null";"1702.30.10.00.00";" - - İzoglikoz";"-";150
+"null";;" - - Diğerleri :";;
+"null";"1702.30.50.00.00";" - - - Beyaz kristal toz halinde (aglomere edilmiş  olsun olmasın)";"-";150
+"null";"1702.30.90.00.00";" - - - Diğerleri";"-";150
+"null";"1702.40";" - Glikoz ve glikoz şurubu (kuru halde ağırlık itibariyle en az";;
+"null";;"   % 20 veya daha fazla, fakat % 50'den az fruktoz içerenler ) ";;
+"null";;"  (invert şeker hariç) :";;
+"null";"1702.40.10.00.00";" - - İzoglikoz";"-";150
+"null";"1702.40.90.00.00";" - - Diğerleri";"-";150
+"null";"1702.50.00.00.00";" - Kimyaca saf fruktoz";"-";35
+"null";"1702.60";" - Diğer fruktoz ve fruktoz şurubu (kuru halde ağırlık itibariyle";;
+"null";;"   % 50'den fazla fruktoz içerenler) (invert şeker hariç) ";;
+"null";"1702.60.10.00.00";" - - İzoglikoz";"-";150
+"null";"1702.60.80.00.00";" - - İnülin şurubu";"-";150
+"null";"1702.60.95.00.00";" - - Diğerleri";"-";150
+"null";"1702.90";" - Diğerleri (invert şeker ve kuru halde ağırlık itibariyle %50";;
+"null";;"   fruktoz içeren diğer şeker ve şeker şurubu karışımları dahil):";;
+"null";"1702.90.10.00.00";" - - Kimyaca saf maltoz";"-";35
+"null";"1702.90.30.00.00";" - - İzoglikoz";"-";150
+"null";;" - - Malto dekstrin ve malto dekstrin şurubu";;" "
+"null";"1702.90.50.00.11";" - - - Diyet mamaları";"-";150
+"null";"1702.90.50.00.19";" - - - Diğerleri";"-";150
+"null";;" - - Karamel:";;
+"null";"1702.90.71.00.00";" - - - Kuru halde ağırlık itibariyle % 50 veya daha fazla sakkaroz içerenler";"-";150
+"null";;" - - - Diğerleri:";;
+"null";"1702.90.75.00.00";" - - - - Toz halinde (aglomere edilmiş olsun olmasın)";"-";150
+"null";"1702.90.79.00.00";" - - - - Diğerleri";"-";150
+"null";"1702.90.80.00.00";" - - İnülin şurubu";"-";150
+"null";;" - - Diğerleri";;
+"null";;" - - - Suni bal";;
+"null";"1702.90.95.00.11";" - - - - Diabetik olanlar";"-";150
+"null";"1702.90.95.00.19";" - - - - Diğerleri";"-";150
+"null";"1702.90.95.00.90";" - - - Diğerleri";"-";150
+"null";;;;
+"null";"17.03";"Şeker ekstraksiyonundan veya rafinajından elde edilen melaslar:";;
+"null";"1703.10.00.00.00";" - Kamış melasları";"-";35
+"null";"1703.90.00.00.00 ";" - Diğerleri";"-";35
+"null";;;;
+"null";"17.04";"Kakao içermeyen şeker mamulleri (beyaz çikolata dahil) :";;
+"null";"1704.10";" - Ciklet (şekerle kaplanmış olsun olmasın):";;
+"null";;" - - Ağırlık itibariyle % 60'tan az sakaroz içerenler (sakaroz olarak";;
+"null";;"      ifade edilen invert şeker dahil)";;
+"null";"1704.10.10.00.11";" - - - Şerit şeklinde olan cikletler";"-";150
+"null";"1704.10.10.00.19";" - - - Diğerleri";"-";150
+"null";;" - - Ağırlık itibariyle % 60 veya daha fazla sakaroz içerenler (sakaroz";;
+"null";;"     olarak ifade edilen invert şeker dahil)";;
+"null";"1704.10.90.00.11";" - - - Şerit şeklinde olan cikletler";"-";150
+"null";"1704.10.90.00.19";" - - - Diğerleri";"-";150
+"null";"1704.90";" - Diğerleri:";;
+"null";"1704.90.10.00.00";" - - Ağırlık itibariyle %10' dan fazla sakaroz içeren fakat diğer katı";;
+"null";;"      maddeleri içermeyen meyan kökü hülasaları";"-";150
+"null";"1704.90.30.00.00";" - - Beyaz çikolata";"-";150
+"null";;" - - Diğerleri:";;
+"null";"1704.90.51.00.00";" - - - Net muhtevası 1 kg. veya daha fazla ambalajlarda ezmeler";;
+"null";;"        (badem ezmesi dahil)";"-";150
+"null";"1704.90.55.00.00";" - - - Boğaz pastilleri ve öksürük için şekerler";"-";150
+"null";;" - - - Drajeler";;
+"null";"1704.90.61.00.11";" - - - - Sadece fındık ihtiva edenler";"-";150
+"null";"1704.90.61.00.19";" - - - - Diğerleri";"-";150
+"null";;" - - - Diğerleri:";;
+"null";"1704.90.65.00.00";" - - - - Sakızlı ve jöleli şekercilik mamulleri (şekercilik mamulü haline";;
+"null";;"          getirilmiş meyva ezmeleri dahil)";"-";150
+"null";"1704.90.71.00.00";" - - - - Kaynatılmış tatlılar (doldurulmuş olsun olmasın)";"-";150
+"null";"1704.90.75.00.00";" - - - - Karameller ve benzeri tatlılar";"-";150
+"null";;" - - - - Diğerleri:";;
+"null";"1704.90.81.00.00";" - - - - - Basınçla elde edilen tabletler";"-";150
+"null";;" - - - - - Diğerleri :";;
+"null";;" - - - - - - Helva";;
+"null";"1704.90.99.10.11";" - - - - - - - Tahin helvası";"-";150
+"null";"1704.90.99.10.19";" - - - - - - - Diğer helvalar";"-";150
+"null";"1704.90.99.20.00";" - - - - - - Sade lokum";"-";150
+"null";"1704.90.99.30.00";" - - - - - - Kaymaklı lokum";"-";150
+"null";;" - - - - - - Diğerleri";;
+"null";"1704.90.99.90.11";" - - - - - - - Fondan";"-";150
+"null";"1704.90.99.90.12";" - - - - - - - Diğer lokumlar";"-";150
+"null";"1704.90.99.90.19";" - - - - - - - Diğerleri";"-";150

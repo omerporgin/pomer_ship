@@ -1,0 +1,140 @@
+﻿"null";"91.01";"Kol saatleri, cep saatleri ve diğer saatler (zaman ölçen sayaçlar ";;
+"null";;"dahil) (zarfları kıymetli metaller veya kıymetli metallerle kaplama ";;
+"null";;"metallerden olanlar) :";;
+"null";;" - Elektrikle çalışan kol saatleri (zaman ölçen sayaçlı olsun";;
+"null";;"   olmasın):";;
+"null";"9101.11.00.00.00";" - - Sadece mekanik göstergesi olanlar";"Adet";75
+"null";"9101.19.00.00.00";" - - Diğerleri";"Adet";75
+"null";;" - Diğer kol saatleri (zaman ölçen sayaçlı olsun olmasın):";" ";
+"null";"9101.21.00.00.00";" - - Otomatik kurmalı olanlar";"Adet";75
+"null";"9101.29.00.00.00";" - - Diğerleri";"Adet";75
+"null";;" - Diğerleri:";;
+"null";"9101.91";" - - Elektrikle çalışanlar";;
+"null";"9101.91.00.00.11";" - - - Cep saatleri";"Adet";75
+"null";"9101.91.00.00.12";" - - - Kronometreler";"Adet";75
+"null";"9101.91.00.00.19";" - - - Diğerleri";"Adet";75
+"null";"9101.99";" - - Diğerleri";" ";
+"null";"9101.99.00.00.11";" - - - Cep saatleri";"Adet";75
+"null";"9101.99.00.00.12";" - - - Kronometreler";"Adet";75
+"null";"9101.99.00.00.19";" - - - Diğerleri";"Adet";75
+"null";;;;
+"null";"91.02";"Kol saatleri, cep saatleri ve diğer saatler (zaman ölçen sayaçları ";;
+"null";;"dahil) (91.01 pozisyonundakiler hariç) :";;
+"null";;" - Elektrikle çalışan kol saatleri (zaman ölçen sayaçlı olsun ";;
+"null";;"   olmasın):";;
+"null";"9102.11.00.00.00";" - - Sadece mekanik göstergesi olanlar";"Adet";75
+"null";"9102.12.00.00.00";" - - Sadece opto-elektronik göstergesi olanlar (dijital)";"Adet";75
+"null";"9102.19.00.00.00";" - - Diğerleri";"Adet";75
+"null";;" - Diğer kol saatleri (zaman ölçen sayaçlı olsun olmasın):";" ";
+"null";"9102.21.00.00.00";" - - Otomatik kurmalı olanlar";"Adet";75
+"null";"9102.29.00.00.00";" - - Diğerleri";"Adet";75
+"null";;" - Diğerleri:";;
+"null";"9102.91";" - - Elektrikle çalışanlar";;
+"null";"9102.91.00.00.11";" - - - Cep saatleri";"Adet";75
+"null";"9102.91.00.00.12";" - - - Kronometreler";"Adet";75
+"null";"9102.91.00.00.19";" - - - Diğerleri";"Adet";75
+"null";"9102.99";" - - Diğerleri";" ";
+"null";"9102.99.00.00.11";" - - - Cep saatleri";"Adet";75
+"null";"9102.99.00.00.12";" - - - Kronometreler";"Adet";75
+"null";"9102.99.00.00.19";" - - - Diğerleri";"Adet";75
+"null";;;;
+"null";"91.03";"Saat makinalı duvar saatleri ve çalar saatler( 91.04 pozisyonundaki";;
+"null";;"saatler hariç ):";;
+"null";"9103.10";" - Elektrikle çalışanlar:";;
+"null";"9103.10.00.10.00";" - - Çalar saatler";"Adet";75
+"null";"9103.10.00.90.00";" - - Diğerleri";"Adet";75
+"null";"9103.90";" - Diğerleri:";" ";
+"null";"9103.90.00.10.00";" - - Çalar saatler";"Adet";75
+"null";"9103.90.00.90.00";" - - Diğerleri";"Adet";75
+"null";;;;
+"null";"9104.00";"Motorlu kara nakil vasıtalarının, uçakların, uzay araçlarının, gemilerin ";;
+"null";;"veya diğer nakil vasıtaIarının alet tablolarına mahsus saatler ";;
+"null";;"ve benzerleri";;
+"null";"9104.00.00.00.11";" - Elektrikli veya elektronik olanlar";"Adet";75
+"null";"9104.00.00.00.19";" - Diğerleri";"Adet";75
+"null";;;;
+"null";"91.05";"Diğer saatler:";;
+"null";;" - Çalar saatler:";;
+"null";"9105.11.00.00.00";" - - Elektrikle çalışanlar";"Adet";75
+"null";"9105.19.00.00.00";" - - Diğerleri";"Adet";75
+"null";;" - Duvar saatleri:";" ";
+"null";"9105.21.00.00.00";" - - Elektrikle çalışanlar";"Adet";75
+"null";"9105.29.00.00.00";" - - Diğerleri";"Adet";75
+"null";;" - Diğerleri:";" ";
+"null";"9105.91.00.00.00";" - - Elektrikle çalışanlar";"Adet";75
+"null";"9105.99.00.00.00";" - - Diğerleri";"Adet";75
+"null";;;;
+"null";"91.06";"Saat makinalı veya senkron motorlu zaman kontrol cihazları ve";;
+"null";;"zaman sayaçları (devam kaydeden cihazlar, tarih ve saat kayde-";;
+"null";;"dici cihazlar gibi) :";;
+"null";"9106.10.00.00.00";" - Devam kaydedici cihazlar; tarih ve saat kaydedici cihazlar";"Adet";75
+"null";"9106.90.00.00.00";" - Diğerleri";"Adet";75
+"null";;;;
+"null";"9107.00";"Belirli bir zamanda bir mekanizmayı harekete geçirmeyi sağlayan ";;
+"null";;"saat makinalı veya senkron motorlu cihazlar (saat ayarlanışına ";;
+"null";;"göre duran cihazlar ve diğer cihazlar)";;
+"null";"9107.00.00.00.11";"- Elektrikli veya elektronik olanlar";"Adet";75
+"null";"9107.00.00.00.19";"- Diğerleri";"Adet";75
+"null";;;;
+"null";"91.08";"Cep veya kol saati makinaları (tamamlanmış veya birleştirilmiş) :";;
+"null";;" - Elektrikle çalışanlar:";;
+"null";"9108.11.00.00.00";" - - Sadece mekanik göstergeli veya mekanik göstergenin";;
+"null";;"      birleştirilebildiği bir tertibata sahip olanlar";"Adet";75
+"null";"9108.12.00.00.00";" - - Sadece opto-elektronik göstergeli olanlar (dijital)";"Adet";75
+"null";"9108.19.00.00.00";" - - Diğerleri";"Adet";75
+"null";"9108.20.00.00.00";" - Otomatik kurmalı olanlar";"Adet";75
+"null";"9108.90.00.00.00";" - Diğerleri";"Adet";75
+"null";;;;
+"null";"91.09";"Diğer saat makinaları (tamamlanmış ve birleştirilmiş) (cep ve kol";;
+"null";;"saatleri hariç) :";;
+"null";"9109.10.00.00.00";" - Elektrikle çalışanlar";"Adet";75
+"null";"9109.90.00.00.00";" - Diğerleri";"Adet";75
+"null";;;;
+"null";"91.10";"Tamamlanmış saat makinaları (birleştirilmemiş veya kısmen";;
+"null";;"birleştirilmiş) (şablonlar); tamamlanmamış saat makinaları (birleş-";;
+"null";;"tirilmiş); saat makinalarının taslakları:";;
+"null";;" - Cep veya koI saatlerine ait olanlar:";;
+"null";"9110.11";" - - Tamamlanmış makinalar (birleştirilmemiş veya kısmen birleş -";;
+"null";;"     tirilmiş) (şablonlar):";;
+"null";"9110.11.10.00.00";" - - - Spiral rakkaslı olanlar";"Adet";75
+"null";"9110.11.90.00.00";" - - - Diğerleri";"Adet";75
+"null";"9110.12.00.00.00";" - - Tamamlanmamış makinalar (birleştirilmiş)";"-";75
+"null";"9110.19.00.00.00";" - - Taslaklar";"-";75
+"null";"9110.90.00.00.00";" - Diğerleri";"-";75
+"null";;;;
+"null";"91.11";"Saatlerin zarfları ve bunların aksam ve parçaları:";;
+"null";"9111.10.00.00.00";" - Kıymetli metallerden veya kıymetli metallerle kaplama metaller-";;
+"null";;"   den zarflar";"Adet";75
+"null";"9111.20.00.00.00";" - Adi metallerden zarflar (altın veya gümüşle kaplanmış olsun ";;
+"null";;"   olmasın)";"Adet";75
+"null";"9111.80.00.00.00";" - Diğer zarflar";"Adet";75
+"null";"9111.90.00.00.00";" - Aksam ve parçalar";"-";75
+"null";;;;
+"null";"91.12";"Masa ve duvar saatlerinin zarfları ve bu fasıldaki eşyaya ait benzeri";;
+"null";;"zarflar ve bunların aksam ve parçaları:";;
+"null";"9112.20.00.00.00";" - Zarflar";"Adet";75
+"null";"9112.90.00.00.00";" - Aksam ve parçalar";"-";75
+"null";;;;
+"null";"91.13";"Saat kayışları ve bunların aksam ve parçaları:";;
+"null";"9113.10";" - Kıymetli metallerden veya kıymetli metallerle kaplama ";;
+"null";;"   metallerden olanlar:";;
+"null";"9113.10.10.00.00";" - - Kıymetli metallerden olanlar";"-";20
+"null";"9113.10.90.00.00";" - - Kıymetli metallerle kaplama metallerden olanlar";"-";20
+"null";"9113.20";" - Adi metallerden olanlar (altın veya gümüşle kaplanmış olsun ";;
+"null";;"   olmasın)";;
+"null";"9113.20.00.00.11";" - - Altınla kaplanmış olanlar";"-";50
+"null";"9113.20.00.00.19";" - - Diğerleri";"-";50
+"null";"9113.90";" - Diğerleri:";;
+"null";"9113.90.00.10.00";" - - Tabii, suni veya terkip yoluyla elde edilen deriden olanlar";"-";150
+"null";"9113.90.00.20.00";" - - Mensucattan mamul olanlar";"-";100
+"null";"9113.90.00.30.00";" - - İnci, kıymetli taş; sentetik veya terkip yoluyla elde edilen taşlardan";;
+"null";;"        mamul olanlar";"-";20
+"null";"9113.90.00.40.00";" - - Plastik maddelerden olanlar";"-";150
+"null";"9113.90.00.90.00";" - -  Diğerleri";"-";50
+"null";;;;
+"null";"91.14";"Diğer saat aksamı :";;
+"null";"9114.30.00.00.00";" - Kadranlar";"-";75
+"null";"9114.40.00.00.00";" - Tablalar ve köprüler";"-";75
+"null";"9114.90";" - Diğerleri:";;
+"null";"9114.90.10.00.00";" - - Yaylar (zemberekler dahil)";"-";75
+"null";"9114.90.90.00.00";" - - Diğerleri";"-";75

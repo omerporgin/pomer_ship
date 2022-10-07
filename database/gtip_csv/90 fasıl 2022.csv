@@ -1,0 +1,776 @@
+﻿"null";"90.01";"Optik lifler ve optik lif demetleri; optik lif kabloları (85.44 pozisyonundakiler ";;
+"null";;"hariç); yaprak veya levha halinde polarizan maddeler; her tür maddeden ";;
+"null";;"mercekler (kontakt lensler dahil), prizmalar, aynalar ve diğer optik ";;
+"null";;"elemanlar (monte edilmemiş) (optik tarzda işlenmemiş camdan ";;
+"null";;"bu tür elemanlar hariç) :";;
+"null";"9001.10";" - Optik lifler, optik Iif demetleri ve kabloları:";;
+"null";;" - - Görüntü iletici kablolar:";;
+"null";"9001.10.10.10.00";" - - - Camdan olanlar";"-";30
+"null";"9001.10.10.90.00";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";" ";
+"null";"9001.10.90.10.00";" - - - Optik tarzda işlenmemiş olanlar";"-";15
+"null";;" - - - Diğerleri:";" ";
+"null";"9001.10.90.91.00";" - - - - Camdan olanlar";"-";30
+"null";"9001.10.90.99.00";" - - - - Diğerleri";"-";30
+"null";"9001.20";" - Yaprak veya levha halinde polarizan maddeler:";" ";
+"null";"9001.20.00.10.00";" - - Camdan olanlar";"-";30
+"null";"9001.20.00.90.00";" - - Diğerleri";"-";30
+"null";"9001.30.00.00.00";" - Kontak lensler";"Adet";30
+"null";"9001.40";" - Camdan gözlük camları:";;
+"null";"9001.40.20.00.00";" - - Görme kusurunun giderilmesine mahsus olmayanlar";"Adet";30
+"null";;" - - Görme kusurunun giderilmesine mahsus olanlar:";;
+"null";;" - - - Her iki yüzü de işlenmiş olanlar:";;
+"null";"9001.40.41.00.00";" - - - - Tek odaklılar";"Adet";30
+"null";"9001.40.49.00.00";" - - - - Diğerleri";"Adet";30
+"null";"9001.40.80.00.00";" - - - Diğerleri";"Adet";30
+"null";"9001.50";" - Diğer maddelerden gözlük camları:";;
+"null";"9001.50.20.00.00";" - - Görme kusurunun giderilmesine mahsus olmayanlar";"Adet";30
+"null";;" - - Görme kusurunun giderilmesine mahsus olanlar:";;
+"null";;" - - - Her iki yüzü de işlenmiş olanlar:";;
+"null";"9001.50.41.00.00";" - - - - Tek odaklılar";"Adet";30
+"null";"9001.50.49.00.00";" - - - - Diğerleri";"Adet";30
+"null";"9001.50.80.00.00";" - - - Diğerleri";"Adet";30
+"null";"9001.90";" - Diğerleri:";;
+"null";;" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar: ";;
+"null";"9001.90.00.11.00";" - - - Camdan olanlar";"-";30
+"null";"9001.90.00.19.00";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"9001.90.00.91.00";" - - - Camdan olanlar";"-";30
+"null";"9001.90.00.99.00";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"90.02";"Alet ve cihazlar için her tür maddeden monte edilmiş mercekler,";;
+"null";;"prizmalar, aynalar ve diğer optik elemanlar (optik tarzda işlenme-";;
+"null";;"miş camdan bu tür elemanlar hariç):";;
+"null";;" - Objektif mercekleri:";;
+"null";"9002.11";" - - Kamera, projektör, fotoğraf veya sinematografik büyültme veya";;
+"null";;"     küçültme cihazlarına mahsus olanlar:";;
+"null";"9002.11.00.10.00";" - - - Camdan olanlar";"Adet";40
+"null";"9002.11.00.90.00";" - - - Diğerleri";"Adet";40
+"null";"9002.19";" - - Diğerleri:";;
+"null";"9002.19.00.10.00";" - - - Camdan olanlar";"Adet";40
+"null";"9002.19.00.90.00";" - - - Diğerleri";"Adet";40
+"null";"9002.20";" - Filtreler:";;
+"null";"9002.20.00.10.00";" - - Camdan olanlar";"Adet";40
+"null";"9002.20.00.90.00";" - - Diğerleri";"Adet";40
+"null";"9002.90";" - Diğerleri:";;
+"null";;" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar: ";;
+"null";"9002.90.00.11.00";" - - - Camdan olanlar";"-";40
+"null";"9002.90.00.19.00";" - - - Diğerleri";"-";40
+"null";;" - - Diğerleri:";;
+"null";"9002.90.00.91.00";" - - - Camdan olanlar";"-";40
+"null";"9002.90.00.99.00";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"90.03";"Gözlüklere veya benzeri eşyaya ait çerçeveler ve bunların aksam ";;
+"null";;"ve parçaları:";;
+"null";;" - Çerçeveler:";;
+"null";"9003.11.00.00.00";" - - Plastik maddelerden olanlar";"Adet";100
+"null";"9003.19.00.00.00";" - - Diğer maddelerden olanlar";"Adet";100
+"null";"9003.90.00.00.00";" - Aksam ve parçalar";"-";100
+"null";;;" ";
+"null";"90.04";"Gözlükler ve benzerleri (görme kusurunun giderilmesine mahsus";;
+"null";;"gözlükler, koruyucu gözlükler ve diğer gözlükler):";;
+"null";"9004.10";" - Güneş gözlükleri:";;
+"null";"9004.10.10.00.00";" - - Optik tarzda işlenmiş camlı olanlar";"Adet";100
+"null";;" - - Diğerleri:";;
+"null";"9004.10.91.00.00";" - - - Plastik camlı olanlar";"Adet";100
+"null";"9004.10.99.00.00";" - - - Diğerleri";"Adet";100
+"null";"9004.90";" - Diğerleri:";;
+"null";" ";" - - Plastik camlı olanlar";;
+"null";"9004.90.10.00.11";" - - - Optik tarzda işlenmiş camları olanlar";"-";100
+"null";"9004.90.10.00.12";" - - - Röntgen gözlükleri";"-";100
+"null";"9004.90.10.00.19";" - - - Diğerleri";"-";100
+"null";" ";" - - Diğerleri";" ";
+"null";"9004.90.90.00.11";" - - - Optik tarzda işlenmiş camları olanlar";"-";100
+"null";"9004.90.90.00.12";" - - - Röntgen gözlükleri";"-";100
+"null";"9004.90.90.00.19";" - - - Diğerleri";"-";100
+"null";;;;
+"null";"90.05";"Çift gözlü dürbünler, tek gözlü dürbünler, diğer optik teleskoplar ve";;
+"null";;"bunların mesnetleri; diğer astronomi aletleri ve bunların mesnetleri";;
+"null";;"(telsiz astronomi cihazları hariç):";;
+"null";"9005.10.00.00.00";" - Çift gözlü dürbünler";"Adet";50
+"null";"9005.80";" - Diğer aletler:";;
+"null";"9005.80.00.10.00";" - - Tek gözlü dürbünler";"-";50
+"null";" ";" - - Diğerleri";;
+"null";"9005.80.00.90.11";" - - - Optik teleskoplar";"-";20
+"null";"9005.80.00.90.19";" - - - Diğerleri";"-";20
+"null";"9005.90";" - Aksam, parça ve aksesuar (mesnetleri dahil):";;
+"null";"9005.90.00.10.00";" - - Dürbünlere ait olanlar";"-";50
+"null";"9005.90.00.90.00";" - - Diğerleri";"-";20
+"null";;;;
+"null";"90.06";"Fotoğraf makinaları (sinematografik olanlar hariç); fotoğrafçılıkta";;
+"null";;"flaş ışığı meydana getirmeye mahsus cihazlar ve flaş lambaları";;
+"null";;"( 85.39 pozisyonundaki deşarj lambaları hariç):";;
+"null";"9006.30.00.00.00";" - Denizaltında, hava haritacılığında veya iç organların tıbbi veya";;
+"null";;"   cerrahi incelemesinde kullanılmak üzere özel olarak imal edil-";;
+"null";;"   miş fotoğraf makinaları; adli tıp veya kriminolojik amaçlar için";;
+"null";;"   mukayese yapan fotoğraf makinaları";"Adet";60
+"null";"9006.40.00.00.00";" - Anında fotoğraf veren makinalar";"Adet";60
+"null";;" - Diğer fotoğraf makinaları:";;
+"null";"9006.53";" - - Genişliği 35 mm. olan rulo halindeki filmler için";;
+"null";;"     fotoğraf makinaları:";;
+"null";"9006.53.10.00.00";" - - - Kullanılıp atılabilir (dispozıbıl) fotoğraf makinaları";"Adet";60
+"null";"9006.53.80.00.00";" - - - Diğerleri";"Adet";60
+"null";"9006.59.00.00.00";" - - Diğerleri";"Adet";60
+"null";;" - Fotoğrafçılıkta flaş ışığı meydana getirmeye mahsus cihazlar ve";;
+"null";;"   flaş lambaları:     ";;
+"null";"9006.61.00.00.00";" - - Flaş ışığı meydana getirmeye mahsus deşarj lambalı cihazlar ";;
+"null";;"     (elektronik flaşlar)";"Adet";60
+"null";"9006.69";" - - Diğerleri:";;
+"null";"9006.69.00.10.00";" - - - Flaş lambaları, flaş küpleri ve benzerleri";"Adet";50
+"null";"9006.69.00.90.00";" - - - Diğerleri";"Adet";60
+"null";;" - Aksam, parça ve aksesuar:";;
+"null";"9006.91.00.00.00";" - - Fotoğraf makinalarına ait olanlar";"-";60
+"null";"9006.99";" - - Diğerleri :";;
+"null";"9006.99.00.10.00";" - - - Fotoğrafçılıkta flaş ışığı meydana getirmeye mahsus cihazlara ait olanlar";"-";60
+"null";"9006.99.00.90.00";" - - - Diğerleri";"-";60
+"null";;;;
+"null";"90.07";"Sinema kameraları ve projektörleri (ses kaydına veya kaydedilen";;
+"null";;"sesin tekrar verilmesine mahsus cihazları bulunsun bulunmasın) :";;
+"null";"9007.10.00.00.00";" - Kameralar";"Adet";60
+"null";"9007.20.00.00.00";" - Projektörler";"Adet";60
+"null";;" - Aksam, parça ve aksesuar:";;
+"null";"9007.91.00.00.00";" - - Kameralara ait olanlar";"-";60
+"null";"9007.92.00.00.00";" - - Projektörlere ait olanlar";"-";60
+"null";;;;
+"null";"90.08";"Sabit görüntü projektörleri (sinematografik olanlar hariç); fotoğraf";;
+"null";;"büyültücü veya küçültücü cihazlar (sinematografik olanlar hariç):";;
+"null";"9008.50.00.00.00";" - Projektörler, fotoğraf büyültücü ve küçültücü cihazlar";"Adet";60
+"null";"9008.90";" - Aksam, parça ve aksesuar:";;
+"null";"9008.90.00.10.00";" - - Sabit görüntü projektörlerine ait aksam, parça ve aksesuar";"-";60
+"null";"9008.90.00.90.00";" - - Fotoğraf büyültücü veya küçültücü cihazlara ait aksam, parça ve";;
+"null";;"     aksesuar";"-";60
+"null";;;;
+"null";"[90.09]";;;
+"null";;;;
+"null";"90.10";"Bu fasılın diğer pozisyonlarında belirtilmeyen veya yer almayan ";;
+"null";;"fotoğraf (sinematografik dahil) laboratuvarlarında kullanılan alet ve ";;
+"null";;"cihazlar; negatoskoplar; projeksiyon perdesi:";;
+"null";"9010.10";" - Rulo halindeki fotoğraf (sinematografik dahil) film ve kağıtlarının";;
+"null";;"   otomatik olarak develope edilmesine veya develope edilmiş";;
+"null";;"   filmlerin rulo halindeki fotoğrafik kağıtlara basılmasına mahsus ";;
+"null";;"   malzeme ve  cihazlar:";;
+"null";" ";" - - Fotoğraf laboratuvarlarında kullanılanlar";;
+"null";"9010.10.00.10.11";" - - - Filmleri develope etmeye mahsus cihazlar";"-";60
+"null";"9010.10.00.10.19";" - - - Diğerleri";"-";60
+"null";" ";" - - Diğerleri";;
+"null";"9010.10.00.90.11";" - - - Sinema filmlerini develope etmeye mahsus cihazlar";"-";60
+"null";"9010.10.00.90.19";" - - - Diğerleri";"-";60
+"null";"9010.50";" - Sinema veya fotoğraf laboratuvarları için diğer";;
+"null";;"     malzeme ve cihazlar; negatoskoplar:";;
+"null";;" - -  Fotoğraf laboratuvarlarında kullanılanlar:";;
+"null";"9010.50.00.10.11";" - - - Fotoğraf filmi montaj cihazı";"-";60
+"null";"9010.50.00.10.19";" - - - Diğerleri";"-";60
+"null";;" - - Diğerleri :";;
+"null";"9010.50.00.90.11";" - - - Sinema filmi montaj cihazı";"-";60
+"null";"9010.50.00.90.12";" - - - Sinema filminin kopyasını çıkarmaya mahsus cihazlar";"-";60
+"null";"9010.50.00.90.13";" - - - Laklama ve çizgi gidermeye mahsus cihazlar";"-";60
+"null";"9010.50.00.90.19";" - - - Diğerleri  ";"-";60
+"null";"9010.60.00.00.00";" - Projeksiyon perdeleri";"-";60
+"null";"9010.90";" - Aksam , parça ve aksesuar: ";;
+"null";"9010.90.20.00.00";" - - 9010.50.00 veya 9010.60.00 alt pozisyonlarındaki alet ve cihazlara ait olanlar";"-";60
+"null";"9010.90.80.00.00";" - - Diğerleri";"-";60
+"null";;;;
+"null";"90.11";"Kombine haldeki optik mikroskoplar (fotomikrografı, sinefotomik-";;
+"null";;"rografi veya mikroprojeksiyon mikroskopları dahil):";;
+"null";"9011.10.00.00.00";" - Stereoskopik mikroskoplar";"Adet";20
+"null";"9011.20";" - Diğer mikroskoplar (fotomikrografi, sinefotomikrografi";;
+"null";;"   veya mikroprojeksiyon için olanlar) :";;
+"null";"9011.20.10.00.00";" - - Yarı iletken diskler veya ağın  taşınması ve elleçlenmesi için özel olarak";;
+"null";;"       tasarlanmış  cihazlarla  donatılmış fotomikrografik mikroskoplar";"Adet";20
+"null";;" - - Diğerleri";;
+"null";"9011.20.90.00.11";" - - - Fotomikrografi cihazlarıyla beraber olan optik mikroskoplar";"Adet";20
+"null";"9011.20.90.00.12";" - - - Sinefotomikrografi cihazlarıyla beraber olan optik mikroskoplar";"Adet";20
+"null";"9011.20.90.00.13";" - - - Mikroprojeksiyon cihazlarıyla beraber olan optik mikroskoplar";"Adet";20
+"null";"9011.80";" - Diğer mikroskoplar";;
+"null";"9011.80.00.00.11";" - - Ölçme ve kontrol işlemlerinde kullanılan mikroskoplar";"Adet";20
+"null";"9011.80.00.00.19";" - - Diğerleri";"Adet";20
+"null";"9011.90.00.00.00";" - Aksam, parça ve aksesuar";"-";20
+"null";;;;
+"null";"90.12";"Mikroskoplar (optik mikroskoplar hariç) ; difraksiyon cihazları:";;
+"null";"9012.10.00.00.00";" - Mikroskoplar (optik mikroskoplar hariç) ; difraksiyon cihazları";"-";15
+"null";"9012.90.00.00.00";" - Aksam, parça ve aksesuar";"-";15
+"null";;;;
+"null";"90.13";"Lazerler (lazer diyodları hariç) ; bu fasılın başka yerinde belirtilmeyen veya";;
+"null";;"yer almayan diğer optik alet ve cihazlar: ";;
+"null";"9013.10";" - Silahlar için teleskopik dürbünler; periskoplar; bu fasılda veya";;
+"null";;"   XVI. Bölümdeki makina, alet, cihaz veya tertibatın aksam ve";;
+"null";;"   parçasını teşkil edecek şekilde imal edilmiş teleskoplar";;
+"null";"9013.10.10.00.00";" - - Bu fasılda veya  XVI. Bölümdeki makina, alet, cihaz veya tertibatın aksam ve ";;
+"null";;"    parçasını teşkil edecek şekilde imal edilmiş teleskoplar";"-";60
+"null";;" - - Diğerleri:";;
+"null";"9013.10.90.00.11";" - - - Silahlar için teleskopik dürbünler";"-";60
+"null";"9013.10.90.00.12";" - - - Periskoplar";"-";60
+"null";"9013.10.90.00.19";" - - - Diğerleri";"-";60
+"null";"9013.20";" - Lazerler (lazer diyodları hariç):";;
+"null";"9013.20.00.00.10";" - - Silahlar için olanlar";"-";60
+"null";"9013.20.00.00.90";" - - Diğerleri";"-";60
+"null";"9013.80.00.00.00";" - Diğer alet, cihaz ve tertibat";"-";60
+"null";"9013.90";" - Aksam, parça ve aksesuar";" ";
+"null";"9013.90.05.00.00";" - - Silahlara takılacak teleskopik dürbünlere veya periskoplara ait olanlar";"-";60
+"null";"9013.90.80.00.00";" - - Diğerleri";"-";60
+"null";;;;
+"null";"90.14";"Pusulalar; diğer seyrüsefer alet ve cihazları:";;
+"null";"9014.10.00.00.00";" - Pusulalar";"-";20
+"null";"9014.20";" - Hava veya uzay seyrüseferlerine mahsus alet ve cihazlar ";;
+"null";;"   (pusulalar hariç):";;
+"null";;" - - Ataletsel seyrüsefer alet ve cihazları:";;
+"null";;" - - - Elektrikli veya elektronik olanlar:";;
+"null";"9014.20.20.11.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9014.20.20.19.00";" - - - - Diğerleri";"Adet";40
+"null";;" - - - Diğerleri:";;
+"null";"9014.20.20.91.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar:";"Adet";20
+"null";"9014.20.20.99.00";" - - - - Diğerleri";"Adet";20
+"null";;" - - Diğerleri:";;
+"null";"9014.20.80.10.00";" - - - Elektrikli veya elektronik olanlar";"-";40
+"null";"9014.20.80.90.00";" - - - Diğerleri";"-";20
+"null";"9014.80";" - Diğer alet ve cihazlar:";;
+"null";"9014.80.00.10.00";" - - Akustik iskandil aletleri, ultrasonik iskandil aletleri ve ultrasonik dedektörler";"-";40
+"null";" ";" - - Diğerleri";" ";
+"null";"9014.80.00.90.11";" - - - Deniz ve nehir seyrüseferlerinde kullanılan elektronik alet ve cihazlar";"-";20
+"null";"9014.80.00.90.19";" - - - Diğerleri";"-";20
+"null";"9014.90";" - Aksam, parça ve aksesuar:";" ";
+"null";;" - - 9014.10 ve 9014.20 AIt pozisyonlarındaki sivil hava taşıtlarında";" ";
+"null";;"      kullanılanlara ait olanlar:";" ";
+"null";"9014.90.00.11.00";" - - - Elektrikli veya elektronik olanlara ait olanlar";"-";40
+"null";"9014.90.00.19.00";" - - - Diğerleri";"-";20
+"null";;" - - Diğerleri:";" ";
+"null";"9014.90.00.91.00";" - - - Akustik iskandil aletleri, ultrasonik iskandil aletleri ve ultrasonik";" ";
+"null";;"        dedektörlere ait olanlar";"-";40
+"null";"9014.90.00.99.00";" - - - Diğerleri";"-";20
+"null";;;" ";
+"null";"90.15";"Arazi ölçme (fotogrametrik ölçüm aletleri dahil), hidrografik, ";" ";
+"null";;"oşinografik, hidrolojik, meteorolojik veya jeofizik alet ve cihazları";" ";
+"null";;"(pusulalar hariç); telemetreler:";" ";
+"null";"9015.10";" - Telemetreler:";" ";
+"null";"9015.10.00.10.00";" - - Elektrikli olanlar";"-";40
+"null";"9015.10.00.90.00";" - - Diğerleri";"-";20
+"null";"9015.20";" - Teodolitler ve takimetreler (takeometreler):";" ";
+"null";"9015.20.00.10.00";" - - Elektrikli olanlar";"-";40
+"null";"9015.20.00.90.00";" - - Diğerleri ";"-";20
+"null";"9015.30";" - Seviye tesbit aletleri (nivolar):";" ";
+"null";"9015.30.10.00.00";" - - Elektronik olanlar";"-";40
+"null";;" - - Diğerleri:";" ";
+"null";"9015.30.90.10.00";" - - - Elektrikli olanlar";"-";40
+"null";"9015.30.90.90.00";" - - - Diğerleri";"-";20
+"null";"9015.40";" - Fotogrametrik ölçüm alet ve cihazları:";" ";
+"null";"9015.40.00.10.00";" - - Elektrikli olanlar";"-";40
+"null";"9015.40.00.90.00";" - - Diğerleri";"-";20
+"null";"9015.80";" - Diğer alet ve cihazlar:";" ";
+"null";" ";" - - Meteoroloji, hidroloji ve jeofizik alet ve cihazları";" ";
+"null";"9015.80.20.00.11";" - - - Meteorolojiye ait alet ve cihazlar";"-";40
+"null";"9015.80.20.00.12";" - - - Jeofiziğe ait alet ve cihazlar";"-";40
+"null";"9015.80.20.00.19";" - - - Diğerleri";"-";40
+"null";;" - - Jeodezi, topografya, arazi veya seviye ölçmede kullanılan alet";" ";
+"null";;"        ve cihazlar; hidrografı aletleri:";" ";
+"null";" ";" - - - Elektrikli olanlar";" ";
+"null";"9015.80.40.10.11";" - - - - Jeodezi alet ve cihazları";"-";40
+"null";"9015.80.40.10.19";" - - - - Diğerleri";"-";40
+"null";" ";" - - - Diğerleri";" ";
+"null";"9015.80.40.90.11";" - - - - Jeodezi alet ve cihazları";"-";20
+"null";"9015.80.40.90.19";" - - - - Diğerleri";"-";20
+"null";" ";" - - Diğerleri:";" ";
+"null";"9015.80.80.10.00";" - - - Elektrikli olanlar";"-";40
+"null";"9015.80.80.90.00";" - - - Diğerleri";"-";20
+"null";"9015.90";" - Aksam, parça ve aksesuar:";" ";
+"null";" ";" - - Elektrikli veya elektronik olanlara ait olanlar";" ";
+"null";"9015.90.00.10.11";" - - - Meteoroloji alet ve cihazlarına ait olanlar";"-";40
+"null";"9015.90.00.10.19";" - - -  Diğerleri";"-";40
+"null";"9015.90.00.90.00";" - - Diğerleri:";"-";20
+"null";;;;
+"null";"9016.00";"Hassas teraziler (hassasiyeti 5 santigram veya daha iyi olanlar)";;
+"null";;"(ağırlıkları ile birlikte olsun olmasın):";;
+"null";;" - Teraziler:";;
+"null";"9016.00.10.10.00";" - - Elektrikli veya elektronik olanlar";"Adet";40
+"null";"9016.00.10.90.00";" - - Diğerleri";"Adet";40
+"null";;" - Aksam, parça ve aksesuar:";;
+"null";"9016.00.90.10.00";" - - Elektrikli veya elektronik olanlara ait olanlar";"-";40
+"null";"9016.00.90.90.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"90.17";"Resim yapmaya, çizim yapmaya veya hesap yapmaya mahsus ";;
+"null";;"aletler (çizim makinaları, pantograflar, iletkiler, pergel takımları, ";;
+"null";;"sürgülü cetveller, hesap daireleri gibi) ; tarifenin başka yerinde";;
+"null";;"belirtilmeyen veya yer almayan elde kullanılan uzunluk ölçü aletle-";;
+"null";;"ri (ölçü çubukları ve şerit metreler, mikrometreler, kalibreler ";;
+"null";;"gibi):";;
+"null";"9017.10";" - Çizim masaları ve makinaları (otomatik olsun";;
+"null";;"    olmasın) :";;
+"null";;" - - Çiziciler (plotter'ler) :";;
+"null";"9017.10.10.10.00";" - - - Elektrikli veya elektronik olanlar";"Adet";40
+"null";"9017.10.10.90.00";" - - - Diğerleri";"Adet";50
+"null";;" - - Diğerleri :";;
+"null";"9017.10.90.10.00";" - - - Elektrikli veya elektronik olanlar";"Adet";40
+"null";"9017.10.90.90.00";" - - - Diğerleri";"Adet";50
+"null";"9017.20";" - Resim yapmaya, çizim yapmaya veya hesap ";;
+"null";;"   yapmaya mahsus aletler:";;
+"null";"9017.20.05.00.00";" - - Çiziciler (plotter'ler)";"Adet";50
+"null";"9017.20.10.00.00";" - - Resim yapmaya mahsus diğer aletler";"-";50
+"null";"9017.20.39.00.00";" - - Çizim yapmaya mahsus aletler";"Adet";50
+"null";"9017.20.90.00.00";" - - Hesap yapmaya mahsus aletler (sürgülü cetveller, hesap daireleri";;
+"null";;"      ve benzerleri dahil)";"Adet";50
+"null";"9017.30";" - Mikrometreler, kalibreler ve mikyaslar:";;
+"null";"9017.30.00.10.00";" - - Elektrikli veya elektronik olanlar";"Adet";40
+"null";"9017.30.00.90.00";" - - Diğerleri";"Adet";50
+"null";"9017.80";" - Diğer aletler:";;
+"null";;" - - Ölçü çubukları, şerit metreler ve bölmeli cetveller:";;
+"null";"9017.80.10.10.00";" - - - Elektrikli veya elektronik olanlar";"-";40
+"null";" ";" - - - Diğerleri";;
+"null";"9017.80.10.90.11";" - - - - İmali bitirilmemiş veya aksamı tamamlanmamış şerit metreler";"-";50
+"null";"9017.80.10.90.19";" - - - - Diğer şerit metreler";"-";50
+"null";"9017.80.10.90.29";" - - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";" ";
+"null";"9017.80.90.10.00";" - - - Elektrikli veya elektronik olanlar";"-";40
+"null";"9017.80.90.90.00";" - - - Diğerleri";"-";50
+"null";"9017.90";" - Aksam, parça ve aksesuar:";;
+"null";"9017.90.00.10.00";" - - Elektrikli veya elektronik olanlara ait olanlar";"-";50
+"null";"9017.90.00.90.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"90.18";"Tıpta, cerrahide, dişçilikte ve veterinerlikte kullanılan alet ve ci -";;
+"null";;"hazlar (sintigrafi cihazları, diğer elektromedikal cihazlar ve göz";;
+"null";;"testine mahsus cihazlar dahil) :";;
+"null";;" - Elektro teşhis cihazları (fonksiyonel araştırma veya fizyolojik";;
+"null";;"   parametre muayene ölçüm cihazları dahil):";;
+"null";"9018.11.00.00.00";" - - Elektrokardiyograflar (EKG)";"-";35
+"null";"9018.12.00.00.00";" - - Ultrasonik tetkik cihazları";"-";35
+"null";"9018.13.00.00.00";" - - Manyetik rezonansla görüntüleme cihazları";"-";35
+"null";"9018.14.00.00.00";" - - Sintigrafi cihazları";"-";35
+"null";"9018.19";" - - Diğerleri:";" ";
+"null";"9018.19.10.00.00";" - - - İki veya daha fazla parametrenin eşzamanlı olarak takibi için izleme ";;
+"null";;"        tertibatı";"-";35
+"null";;" - - - Diğerleri";;
+"null";"9018.19.90.00.11";" - - - - Elektroensefaloğraf cihazları (EEG)";"-";35
+"null";"9018.19.90.00.12";" - - - - Fiberaskoplar (monitörlü kameralı olsun olmasın)";"-";35
+"null";"9018.19.90.00.13";" - - - - Fonokardiyograf ve kardiyoskoplar";"-";35
+"null";"9018.19.90.00.14";" - - - - Elektromiyografi (EMG)";"-";35
+"null";"9018.19.90.00.19";" - - - - Diğerleri";"-";35
+"null";"9018.20.00.00.00";" - Morötesi veya kızılötesi ışınlı cihazlar";"-";35
+"null";;" - Şırıngalar, iğneler, kateterler, kanüller ve benzeri aletler:";;
+"null";"9018.31";" - - Şırıngalar (iğneli olsun olmasın):";;
+"null";"9018.31.10.00.00";" - - - Plastik maddelerden olanlar";"-";35
+"null";"9018.31.90.00.00";" - - - Diğerleri";"-";35
+"null";"9018.32";" - - Metalden boru şeklinde iğneler ve cerrahi dikiş iğneleri:";" ";
+"null";"9018.32.10.00.00";" - - - Metalden boru şeklinde iğneler";"-";35
+"null";"9018.32.90.00.00";" - - - Cerrahi dikiş iğneleri";"-";35
+"null";"9018.39.00.00.00";" - - Diğerleri";"-";35
+"null";;" - Dişçilikte kullanılan diğer alet ve cihazlar:";" ";
+"null";"9018.41";" - - Dişçilik torna motorları (bir kaide üzerine monte edilmiş diğer dişçilik";" ";
+"null";;"     teçhizatı ile kombine halde olsun olmasın)";" ";
+"null";"9018.41.00.00.11";" - - - Dişçilik torna (Freze) motorları";"-";35
+"null";"9018.41.00.00.12";" - - - Bir kaide üzerine monte edilmiş diğer dişçilik teçhizatı ile kombine ";" ";
+"null";;"        haldeki dişçilik torna motorları";"-";35
+"null";"9018.49";" - - Diğerleri:";" ";
+"null";"9018.49.10.00.00";" - - - Dişçilik tornalarında kullanılmaya mahsus bileyler, diskler, delici uçlar ve fırçalar";"-";35
+"null";;" - - - Diğerleri:";;
+"null";"9018.49.90.00.21";" - - - - Nikel titanyum döner kanal eğesi";"-";35
+"null";"9018.49.90.00.29";" - - - - Diğerleri";"-";35
+"null";"9018.50";" - Göz tıbbına ait diğer alet ve cihazlar:";" ";
+"null";"9018.50.10.00.00";" - - Optik olmayanlar";"-";35
+"null";"9018.50.90.00.00";" - - Optik olanlar";"-";35
+"null";"9018.90";" - Diğer alet ve cihazlar:";" ";
+"null";" ";" - - Kan basıncını ölçmeye mahsus alet ve cihazlar";" ";
+"null";"9018.90.10.00.11";" - - - Elektronik tansiyon aleti";"-";35
+"null";"9018.90.10.00.12";" - - - Mekanik tansiyon aleti";"-";35
+"null";"9018.90.10.00.13";" - - - Kan basıncını ölçmeye mahsus diğer alet ve cihazlar";"-";35
+"null";"9018.90.20.00.00";" - - Endoskoplar";"-";35
+"null";" ";" - - Böbrek diyaliz cihazları (Suni böbrek, böbrek makinası ve diyalizörler)";" ";
+"null";"9018.90.30.00.11";" - - - Böbrek makinaları ";"-";35
+"null";"9018.90.30.00.13";" - - - Dializ ve fistula setleri";"-";35
+"null";"9018.90.30.00.19";" - - - Diğerleri";"-";35
+"null";"9018.90.40.00.00";" - - Diyatermi cihazları";"-";35
+"null";" ";" - - Transfüzyon ve infüzyon cihazları";" ";
+"null";"9018.90.50.00.12";" - - - Kan torbaları";"-";35
+"null";"9018.90.50.00.13";" - - - Serum (infüzyon) setleri";"-";35
+"null";"9018.90.50.00.14";" - - - Damla hazneleri";"-";35
+"null";"9018.90.50.00.19";" - - - Diğerleri";"-";35
+"null";"9018.90.60.00.00";" - -  Anestezi alet ve cihazları";"-";35
+"null";"9018.90.75.00.00";" - - Sinir stimilasyonu cihazları";"-";35
+"null";" ";" - - Diğerleri";" ";
+"null";"9018.90.84.00.12";" - - - Her nevi bisturiler";"-";35
+"null";"9018.90.84.00.13";" - - - Koter kalemi";"-";35
+"null";"9018.90.84.00.18";" - - - Rahim içi aletler";"-";35
+"null";"9018.90.84.00.19";" - - - Diğer alet ve cihazlar";"-";35
+"null";;;" ";
+"null";"90.19";"Mekanoterapi cihazları; masaj cihazları; psikotekni cihazları;";" ";
+"null";;"ozonoterapi, oksijenoterapi, aeroterapi, suni teneffüs veya diğer";" ";
+"null";;"terapik teneffüs cihazları:";;
+"null";"9019.10";" - Mekanoterapi cihazları; masaj cihazları; psikotekni cihazları:";;
+"null";" ";" - - Vibratörlü masaj aletleri (elektrikli)";;
+"null";"9019.10.10.00.11";" - - - Cihazlar";"-";30
+"null";"9019.10.10.00.15";" - - - Aksam ve parçalar";"-";30
+"null";" ";" - - Diğerleri";" ";
+"null";"9019.10.90.00.11";" - - - Mekanoterapi cihazları";"-";30
+"null";"9019.10.90.00.12";" - - - Psikotekni cihazları";"-";30
+"null";"9019.10.90.00.13";" - - - Basınçlı su ile masaj yapan hidro banyo sistemleri";"-";30
+"null";"9019.10.90.00.19";" - - - Diğerleri";"-";30
+"null";"9019.10.90.00.25";" - - - Aksam ve parçalar";"-";30
+"null";"9019.20";" - Ozonoterapi, oksijenoterapi, aeroterapi, suni teneffüs veya diğer";"  ";
+"null";;"   terapik teneffüs cihazları:";" ";
+"null";"9019.20.10.00.00";" - - Mekanik ventilasyon cihazı (İnvaziv)";"Adet";30
+"null";"9019.20.20.00.00";" - - Mekanik ventilasyon cihazı (İnvaziv olmayan)";"Adet";30
+"null";"9019.20.90.00.00";" - - Diğerleri, aksam, parça ve aksesuarları dahil";"-";30
+"null";"90.20";" Diğer teneffüs cihazları ve gaz maskeleri (mekanik parçaları ve";" ";
+"null";;" değiştirilebilen filtreleri olmayan koruyucu maskeler hariç):";" ";
+"null";"9020.00.10.00.00";" - Gaz maskeleri";"Adet";30
+"null";"9020.00.90.00.00";" - Diğerleri, aksam, parça ve aksesuarları dahil";"-";30
+"null";;;;
+"null";"90.21";"Ortopedik cihazlar (koltuk değnekleri, cerrahi kuşaklar ve fıtık ";;
+"null";;"bağları dahil); cebireler, gutyerler ve kırıklara mahsus diğer cihaz-";;
+"null";;"lar; protez organlar; işitme engellilerin işitmesini kolaylaştırmaya mahsus ";;
+"null";;"cihazlar ve vücut kusur veya noksanlığını gidermek amacıyla üstte";;
+"null";;"veya elde taşınan veya vücudun içine yerleştirilen diğer cihazlar:";;
+"null";"9021.10";" - Ortopedik veya kırıklara mahsus  cihazlar:";;
+"null";;" - -  Ortopedik cihazlar";;
+"null";"9021.10.10.00.11";" - - - Vücudun şekil ve bozukluklarını önlemeye veya düzeltmeye mah-";;
+"null";" ";"          sus cihazlar";"-";25
+"null";"9021.10.10.00.12";" - - - Çekme ve germe cihazları (traksiyon)";"-";25
+"null";"9021.10.10.00.19";" - - - Diğerleri";"-";25
+"null";;" - -  Kırıklara mahsus cihazlar";;
+"null";"9021.10.90.00.12";" - - - Kemik tespit malzemesi (implantlar) (tıbbi çiviler, tıbbi plaklar dahil)
+(paslanmaz çelikten), ";"-";25
+"null";"9021.10.90.00.18";" - - - Diğer cihazlar";"-";25
+"null";;" - Protez dişler ve bağlantı parçaları:";;
+"null";"9021.21";" - - Protez dişler:";;
+"null";"9021.21.10.00.00";" - - - Plastik maddelerden olanlar";"100 Adet";75
+"null";"9021.21.90.00.00";" - - - Diğer maddelerden olanlar";"100 Adet";75
+"null";"9021.29.00.00.00";" - - Diğerleri";"-";25
+"null";;" - Vücudun diğer suni parçaları: ";;
+"null";"9021.31.00.00.00";" - - Suni eklemler";"-";25
+"null";"9021.39";" - - Diğerleri:";;
+"null";"9021.39.10.00.00";" - - - Protez gözler";"-";0
+"null";" ";" - - - Diğerleri";;
+"null";"9021.39.90.00.11";" - - - - İnter-okiler lensler";"-";0
+"null";"9021.39.90.00.12";" - - - - Kalp kapakçıkları";"-";0
+"null";"9021.39.90.00.13";" - - - - Diğer uzuv ve organ iç protezleri";"-";0
+"null";"9021.39.90.00.14";" - - - - Diğer uzuv ve organ dış protezleri";"-";0
+"null";"9021.39.90.00.19";" - - - - Diğerleri";"-";0
+"null";"9021.40.00.00.00";" - İşitme engellilerin işitmesini kolaylaştırmaya yarayan cihazlar (aksam, ";;
+"null";;"   parça ve aksesuar hariç)";"Adet";25
+"null";"9021.50";" - Kalp pilleri (pacemaker) (aksam, parça ve aksesuar hariç)";;
+"null";"9021.50.00.00.11";" - - Dahili kalp pilleri";"Adet";25
+"null";"9021.50.00.00.12";" - - Harici kalp pilleri";"Adet";25
+"null";"9021.90";" - Diğerleri:";;
+"null";"9021.90.10.00.00";" - - İşitme engellilerin işitmesini kolaylaştırmaya yarayan cihazların aksam, parça ";;
+"null";;"      ve aksesuarı";"-";25
+"null";" ";" - - Diğerleri";;
+"null";"9021.90.90.00.13";" - - - Suni uzuvları tamamlayıcı aksam ve parçalar";"-";25
+"null";"9021.90.90.00.14";" - - - Görme engelliler için yardımcı elektronik cihazlar";"-";25
+"null";"9021.90.90.00.19";" - - - Diğerleri (aksam ve parçalar dahil)";"-";25
+"null";;;;
+"null";"90.22";"X -Işınlı, alfa, beta, gama veya iyonlaştırıcı ışınlı cihazlar (tıbbi, cerrahi, dişçilik ";;
+"null";;"veya veterinerlik amaçlı kullanımlar için olsun olmasın) (radyografi";;
+"null";;"veya radyoterapi cihazları dahil), X -ışınlı tüpler ve diğer X -ışınlı ";;
+"null";;"jeneratörler, yüksek gerilim jeneratörleri, kontrol panoları ve masa-";;
+"null";;"ları, ekranlar, muayene veya tedavi masaları, koltuklar ve benzerleri:";;
+"null";;" - X -Işınlı cihazlar (tıbbi, cerrahi, dişçilik veya veterinerlik amaçlı ";;
+"null";;"   kullanımlar için olsun olmasın) (radyografi veya radyoterapi ";;
+"null";;"   cihazları dahil):";;
+"null";"9022.12.00.00.00";" - - Bilgisayarlı tomografi cihazları";"Adet";15
+"null";"9022.13.00.00.00";" - - Diğerleri (dişçiliğe mahsus olanlar)";"Adet";15
+"null";"9022.14.00.00.00";" - - Diğerleri (tıbbi, cerrahi veya veterinerlik amaçlı kullanımlar ";;
+"null";;"     için) ";"Adet";15
+"null";"9022.19.00.00.00";" - - Diğer amaçlarla kullanılanlar";"Adet";15
+"null";;" - Alfa, beta, gama veya iyonlaştırıcı ışınlı cihazlar (tıbbi, cerrahi, dişçilik veya";;
+"null";;"   veterinerlik amaçlı kullanımlar için olsun olmasın) (radyografi";;
+"null";;"   veya radyoterapi cihazları dahil):";;
+"null";"9022.21.00.00.00";" - - Tıbbi, cerrahi, dişçilik veya veterinerlik amaçlı kullanımlar için";"Adet";15
+"null";"9022.29.00.00.00";" - - Diğer amaçlarla kullanılanlar";"Adet";15
+"null";"9022.30.00.00.00";" - X -Işın tüpleri";"Adet";15
+"null";"9022.90";" - Diğerleri (aksam, parça ve aksesuar dahil):";;
+"null";"9022.90.20.00.00";" - - X-Işını kullanarak çalışan aletlere ait aksam parça ve aksesuar";"-";15
+"null";;" - - Diğerleri:";;
+"null";"9022.90.80.00.11";" - - - Radyoskopi (floroskopi) cihazlarına ait olanlar";"-";15
+"null";"9022.90.80.00.19";" - - - Diğerleri";"-";15
+"null";;;;
+"null";"9023.00";"Teşhir edilmek (öğretimde veya sergilerde) üzere imal edilen ve ";;
+"null";;"başka amaçlar için kullanılmaya elverişli olmayan alet, cihaz ve ";;
+"null";;"modeller:";;
+"null";"9023.00.10.00.00";" - Fizik, kimya veya teknik konuların öğretiminde kullanılan türde olanlar";"-";25
+"null";" ";" - Diğerleri";" ";
+"null";"9023.00.80.00.11";" - - Maketler";"-";25
+"null";"9023.00.80.00.19";" - - Diğerleri";"-";25
+"null";;;;
+"null";"90.24";"Maddelerin (metal, ağaç, dokumaya elverişli madde, kağıt, plastik";;
+"null";;"maddeler gibi) sertliğini, dayanıklılığını, mukavemetini, elastikiye-";;
+"null";;"tini veya diğer mekanik özelliklerini denemeye ve kontrol etmeye ";;
+"null";;"mahsus makina ve cihazlar:";;
+"null";"9024.10";" - Metalleri denemeye ve kontrol etmeye mahsus makina ve ";;
+"null";;"   cihazlar:";;
+"null";"9024.10.20.00.00";" - - Üniversal (çok amaçlı) veya çekme deney ve kontrollerine mahsus ";;
+"null";;"        olanlar ";"-";40
+"null";"9024.10.40.00.00";" - - Sertlik deney ve kontrollerine mahsus olanlar";"-";40
+"null";;" - - Diğerleri:";;
+"null";"9024.10.80.10.00";" - - - Elektrikli olanlar";"-";40
+"null";"9024.10.80.90.00";" - - - Diğerleri";"-";25
+"null";"9024.80";" - Diğer makina ve cihazlar:.";" ";
+"null";"9024.80.00.10.00";" - - Elektrikli olanlar";"-";40
+"null";"9024.80.00.90.00";" - - Diğerleri";"-";25
+"null";"9024.90";" - Aksam, parça ve aksesuar:";" ";
+"null";"9024.90.00.10.00";" - - Elektrikli veya elektronik olanlara ait olanlar";"-";40
+"null";"9024.90.00.90.00";" - - Diğerleri";"-";25
+"null";;;;
+"null";"90.25";"Hidrometreler ve yüzer türdeki benzeri aletler, termometreler,";;
+"null";;"pirometreler,barometreler, higrometreler ve psikrometreler";;
+"null";;"(kaydedici tertibatı olsun olmasın) ve bunların birbirleriyle";;
+"null";;"kombine olanları:";;
+"null";;" - Termometreler ve pirometreler (diğer aletlerle kombine ";;
+"null";;"   olmayanlar):";;
+"null";"9025.11";" - - Sıvılı olanlar (doğrudan doğruya okunanlar):";;
+"null";"9025.11.20.00.00";" - - - Kliniklerde veya veterinerlikte kullanılan termometreler";"Adet";35
+"null";;" - - - Diğerleri";;
+"null";"9025.11.80.00.11";" - - - - Ovülasyon termometresi (yekpare cam gövdeli, civalı)";"Adet";35
+"null";"9025.11.80.00.19";" - - - - Diğerleri";"Adet";35
+"null";"9025.19";" - - Diğerleri:";;
+"null";"9025.19.00.11.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";"9025.19.00.19.00";" - - - Diğerleri ";"Adet";40
+"null";"9025.80";" - Diğer aletler:";;
+"null";;" - - Barometreler (diğer aletlerle kombine olmayanlar):";;
+"null";"9025.80.20.10.00";" - - - Elektronik ve elektrikli olanlar";"Adet";40
+"null";"9025.80.20.90.00";" - - - Diğerleri:";"Adet";35
+"null";;" - - Diğerleri:";;
+"null";;" - - - Elektronik olanlar";;
+"null";"9025.80.40.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar:";"-";40
+"null";"9025.80.40.90.00";" - - - - Diğerleri";"-";40
+"null";" ";" - - - Diğerleri";" ";
+"null";"9025.80.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";35
+"null";"9025.80.80.20.00";" - - - - Elektrikli olanlar";"-";40
+"null";"9025.80.80.90.00";" - - - - Diğerleri";"-";35
+"null";"9025.90";" - Aksam, parça ve aksesuar:";;
+"null";" ";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";;
+"null";"9025.90.00.11.00";" - - - Elektrikli veya elektronik olanlara ait olanlar";"-";40
+"null";"9025.90.00.19.00";" - - - Diğerleri";"-";35
+"null";;" - - Diğerleri:";;
+"null";" ";" - - - Elektrikli veya elektronik olanlara ait olanlar";;
+"null";"9025.90.00.21.11";" - - - - Rezistanlı termometre algılayıcısı (RTD)";"-";40
+"null";"9025.90.00.21.12";" - - - - Optik pirometreler için algılayıcılar";"-";40
+"null";"9025.90.00.21.13";" - - - - Termokopul";"-";40
+"null";"9025.90.00.21.19";" - - - - Diğerleri";"-";40
+"null";"9025.90.00.29.00";" - - - Diğerleri";"-";35
+"null";;;;
+"null";"90.26";"Sıvı ve gazların akış, seviye basınç veya değişebilir diğer özellikle-";;
+"null";;"rini ölçmeye veya muayenesine mahsus alet ve cihazlar (debimet-";;
+"null";;"reler, seviye göstergeleri, manometreler, kalorimetreler gibi)";;
+"null";;"( 90.14, 90.15, 90.28 veya 90.32 pozisyonlarındaki alet ve cihazlar";;
+"null";;"hariç):";;
+"null";"9026.10";" - Sıvıların akışını veya seviyesini ölçmeye veya muayeneye";;
+"null";;"   mahsus olanlar:";;
+"null";;" - - Elektronik olanlar:";;
+"null";;" - - - Debimetreler:";;
+"null";"9026.10.21.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9026.10.21.90.00";" - - - - Diğerleri";"Adet";40
+"null";;" - - - Diğerleri:";;
+"null";"9026.10.29.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9026.10.29.90.00";" - - - - Diğerleri";"Adet";40
+"null";;" - - Diğerleri:";;
+"null";;" - - - Debimetreler:";;
+"null";"9026.10.81.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9026.10.81.90.00";" - - - - Diğerleri";"Adet";40
+"null";;" - - - Diğerleri:";;
+"null";"9026.10.89.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9026.10.89.90.00";" - - - - Diğerleri";"Adet";40
+"null";"9026.20";" - Basınç ölçmeye veya kontrol etmeye mahsus olanlar:";;
+"null";;" - - Elektronik olanlar:";;
+"null";"9026.20.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9026.20.20.90.00";" - - - Diğerleri";"Adet";40
+"null";;" - - Diğerleri :";;
+"null";;" - - -Spiral veya metal diyafram tipi basınç göstergeleri:";;
+"null";"9026.20.40.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9026.20.40.90.00";" - - - - Diğerleri";"Adet";40
+"null";;" - - - Diğerleri:";;
+"null";"9026.20.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9026.20.80.20.00";" - - - - Basınç kontrol anahtarları";"Adet";40
+"null";"9026.20.80.80.00";" - - - - Diğerleri";"Adet";40
+"null";"9026.80";" - Diğer alet ve cihazlar:";;
+"null";;" - - Elektronik olanlar:";;
+"null";"9026.80.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9026.80.20.90.00";" - - - Diğerleri";"-";40
+"null";;" - - Diğerleri: ";;
+"null";"9026.80.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9026.80.80.90.00";" - - - Diğerleri";"-";40
+"null";"9026.90";" - Aksam, parça ve aksesuar:";;
+"null";"9026.90.00.10.00";" - - Sivil hava taşıtlarında kullanılanlara ait olanlar";"-";35
+"null";"9026.90.00.90.00";" - - Diğerleri";"-";35
+"null";;;;
+"null";"90.27";"Fiziksel ve kimyasal analiz için alet ve cihazlar (polarimetreler,";;
+"null";;"refraktometreler, spektrometreler, gaz veya duman tahlil cihazları);";;
+"null";;"akışkanlığı,gözenekliliği, genleşmeyi, yüzey gerilimini veya ben-";;
+"null";;"zerlerini ölçmeye veya muayeneye mahsus alet ve cihazlar; ısı, ";;
+"null";;"ışık ve ses ölçmeye veya muayeneye mahsus alet ve cihazlar ";;
+"null";;"(pozmetreler dahil) ; mikrotomlar:";;
+"null";"9027.10";" - Gaz veya duman analiz cihazları:";;
+"null";"9027.10.10.00.00";" - - Elektronik olanlar";"Adet";40
+"null";"9027.10.90.00.00";" - - Diğerleri";"Adet";40
+"null";"9027.20.00.00.00";" - Kromatograflar ve elektroforez cihazları";"-";40
+"null";"9027.30";" - Optik ışınlı (UV, görülebilir ışınlar, IR) spektrometreler, ";;
+"null";;"    spektrofotometreler ve spektrograflar";;
+"null";"9027.30.00.00.11";" - - Spektrometreler";"-";40
+"null";"9027.30.00.00.19";" - - Diğerleri";"-";40
+"null";"9027.50.00.00.00";" - Optik ışınlı diğer alet ve cihazlar (UV, görülebilir ışınlar, IR)";"-";40
+"null";;" - Diğer alet ve cihazlar:";" ";
+"null";"9027.81.00.00.00";" - - Kütle spektrometreleri";"Adet";40
+"null";"9027.89";" - - Diğerleri:";;
+"null";"9027.89.10.00.00";" - - - Pozometreler";"-";40
+"null";"9027.89.30.00.00";" - - - pH metreler, rH metreler ve iletkenliği ölçen diğer aletler";"-";40
+"null";"9027.89.90.00.00";" - - - Diğerleri";"-";40
+"null";"9027.90.00.00.00";" - Mikrotomlar; aksam, parça ve aksesuar";"-";40
+"null";;;;
+"null";"90.28";"Gaz, sıvı ve elektrik sayaçları (bunların kalibre cihazları dahil):";;
+"null";"9028.10.00.00.00";" - Gaz sayaçları";"Adet";50
+"null";"9028.20.00.00.00";" - Sıvı sayaçları";"Adet";50
+"null";"9028.30";" - Elektrik sayaçları:";;
+"null";;" - - Alternatif akım için olanlar:";;
+"null";;" - - - Tek fazlı";;
+"null";"9028.30.11.00.11";" - - - - Elektronik olanlar";"Adet";50
+"null";"9028.30.11.00.19";" - - - - Diğerler";"Adet";50
+"null";;" - - - Çok fazlı";;
+"null";"9028.30.19.00.11";" - - - - Elektronik olanlar";"Adet";50
+"null";"9028.30.19.00.19";" - - - - Diğerler";"Adet";50
+"null";" ";" - - Diğerleri";;
+"null";"9028.30.90.00.11";" - - - Güç ölçen demantmetreli (sarfiyat) sayaçları";"Adet";50
+"null";"9028.30.90.00.12";" - - - Aktif sayaçlar";"Adet";50
+"null";"9028.30.90.00.13";" - - - Reaktif sayaçlar";"Adet";50
+"null";"9028.30.90.00.14";" - - - Elektronik sayaçlar ";"Adet";50
+"null";"9028.30.90.00.18";" - - - Diğerleri";"Adet";50
+"null";"9028.90";" - Aksam, parça ve aksesuar:";;
+"null";;" - - Elektrik sayaçlarına ait olanlar";;
+"null";"9028.90.10.00.11";" - - - Sadece elektronik sayaçlara ait olanlar";"-";50
+"null";"9028.90.10.00.19";" - - - Diğerleri";"-";50
+"null";"9028.90.90.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"90.29";"Devir adedi sayaçları, üretim sayaçları, taksimetreler,milometreler,";;
+"null";;"pedometreler,vb.; hız göstergeleri ve takometreler ( 90.14 ve 90.15";;
+"null";;"pozisyonlarındakiler hariç) ; stroboskoplar:";;
+"null";"9029.10";" - Devir adedi sayaçları, üretim sayaçları, taksimetreler, milometre-";;
+"null";;"   ler , pedometreler ve benzerleri:";;
+"null";"9029.10.00.10.00";" - - Sivil hava taşıtlarında kullanılan elektrikli veya elektronik devir adedi";;
+"null";;"      sayaçları ";"-";40
+"null";"9029.10.00.20.00";" - - Elektronik veya elektrikli olanlar";"-";40
+"null";"9029.10.00.90.00";" - - Diğerleri";"-";40
+"null";"9029.20";" - Hız göstergeleri ve takometreler; stroboskoplar:";" ";
+"null";;" - - Hız göstergeleri ve takometreler:";" ";
+"null";;" - - - Kara taşıtlarına mahsus hız göstergeleri:";" ";
+"null";"9029.20.31.10.00";" - - - - Elektronik veya elektrikli olanlar";"-";40
+"null";"9029.20.31.90.00";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri :";" ";
+"null";"9029.20.38.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus elektronik veya elektrikli olanlar";"-";40
+"null";"9029.20.38.90.00";" - - - - Diğerleri";"-";50
+"null";;" - - Stroboskoplar:";" ";
+"null";"9029.20.90.10.00";" - - - Elektronik veya elektrikli olanlar";"-";40
+"null";"9029.20.90.90.00";" - - - Diğerleri";"-";50
+"null";"9029.90.00.00.00";" - Aksam, parça ve aksesuar";"-";50
+"null";;;" ";
+"null";"90.30";"Elektriki miktarları ölçmeye veya muayeneye mahsus osiloskop, ";" ";
+"null";;"spektrum analizörleri ve diğer alet ve cihazları ( 90.28 pozisyonun-";" ";
+"null";;"daki elektrik sayaçları hariç); alfa, beta, gama, X-ışını, kozmik veya";" ";
+"null";;"diğer iyonlaşma ışınlarını ölçmeye veya bulmaya mahsus alet ve ";" ";
+"null";;"cihazlar:";"  ";
+"null";"9030.10";" - İyonlaşma ışınlarını ölçmeye veya bulmaya mahsus alet ve ";" ";
+"null";;"   cihazlar:";" ";
+"null";"9030.10.00.10.00";" - - SiviI hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"9030.10.00.90.00";" - - Diğerleri";"-";40
+"null";"9030.20";" - Osiloskoplar ve osilograflar:";" ";
+"null";"9030.20.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9030.20.00.90.00";" - - Diğerleri";"-";40
+"null";;" - Gerilim, akım, direnç veya güç ölçmeye veya muayene etmeye";" ";
+"null";;"   mahsus diğer alet ve cihazlar (Yarı iletken diskler veya tertibatın";" ";
+"null";;"   ölçülmesi veya muayenesi için olanlar hariç):";;
+"null";"9030.31";" - - Multimetreler (Kaydedici tertibatı olmayanlar):";" ";
+"null";"9030.31.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";" ";" - - - Diğerleri";" ";
+"null";"9030.31.00.90.11";" - - - - Elektronik olanlar";"-";40
+"null";"9030.31.00.90.12";" - - - - Elektrikli olanlar";"-";40
+"null";"9030.32";" - - Multimetreler (Kaydedici tertibatı olanlar):";" ";
+"null";"9030.32.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";" ";" - - - Diğerleri";" ";
+"null";"9030.32.00.90.11";" - - - - Elektronik olanlar";"-";40
+"null";"9030.32.00.90.12";" - - - - Elektrikli olanlar";"-";40
+"null";"9030.33";" - - Diğerleri ( kaydedici tertibatı olmayanlar):";;
+"null";;" - - - Direnç ölçen aletler";;
+"null";"9030.33.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9030.33.20.90.00";" - - - - Diğerleri";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"9030.33.70.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9030.33.70.90.00";" - - - - Diğerleri";"-";40
+"null";"9030.39";" - - Diğerleri (kaydedici tertibatı olanlar):";;
+"null";;" - - - Elektronik olanlar:";;
+"null";"9030.39.00.11.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9030.39.00.19.00";" - - - - Diğerleri";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"9030.39.00.21.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9030.39.00.29.00";" - - - - Diğerleri";"-";40
+"null";"9030.40";" - Telekomünikasyon için özel olarak imal edilmiş diğer alet ve ";" ";
+"null";;"   cihazlar (hipsometreler ve diyafonometreler, kazanç ölçü aletleri, ";" ";
+"null";;"   distorsiyonmetreler ve sofometreler gibi):";" ";
+"null";"9030.40.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"9030.40.00.90.00";" - - Diğerleri";"-";40
+"null";;" - Diğer alet ve cihazlar:";" ";
+"null";"9030.82.00.00.00";" - - Yarı iletken disklerin veya tertibatın (entegre devreler dahil) kontrolüne ";" ";
+"null";;"    veya ölçülmesine veya mahsus olanlar";"-";40
+"null";"9030.84";" - - Diğerleri, kaydedici tertibatı olanlar:";" ";
+"null";"9030.84.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"9030.84.00.90.00";" - - - Diğerleri";"-";40
+"null";"9030.89";" - - Diğerleri:";" ";
+"null";"9030.89.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9030.89.00.90.00";" - - - Diğerleri";"-";40
+"null";"9030.90";" - Aksam, parça ve aksesuar :";;
+"null";"9030.90.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"9030.90.00.90.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"90.31";"Bu fasılın herhangi bir yerinde belirtilmeyen veya yer almayan ";" ";
+"null";;"ölçme veya muayene alet, cihaz ve makinaları; profil projektörleri:";" ";
+"null";"9031.10";" - Mekanik parçaları dengeleme makinaları (balans makinaları):";" ";
+"null";"9031.10.00.10.00";" - - Elektronik veya elektrikli olanlar";"-";40
+"null";"9031.10.00.90.00";" - - Diğerleri";"-";50
+"null";"9031.20";" - Deney standları:";" ";
+"null";"9031.20.00.10.00";" - - Elektronik veya elektrikli olanlar";"-";40
+"null";"9031.20.00.90.00";" - - Diğerleri";"-";50
+"null";;" - Diğer optik alet ve cihazlar :";;
+"null";"9031.41.00.00.00";" - - Yarı iletken diskler veya tertibatın (entegre devreler dahil) kontrolüne veya";;
+"null";;"     yarı iletken tertibatın (entegre devreler dahil) imalatında kullanılan";;
+"null";;"    fotomask veya ağın kontrolüne mahsus olanlar";"-";50
+"null";"9031.49";" - - Diğerleri";" ";
+"null";"9031.49.10.00.00";" - - - Profil projektörleri";"Adet";50
+"null";"9031.49.90.00.00";" - - - Diğerleri";"-";50
+"null";"9031.80";" - Diğer alet, cihaz ve makinalar:";;
+"null";" ";" - - Geometrik büyüklükleri ölçmeye veya kontrole mahsus olanlar:";;
+"null";"9031.80.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";50
+"null";"9031.80.20.90.00";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";;
+"null";"9031.80.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";50
+"null";"9031.80.80.90.00";" - - - Diğerleri";"-";50
+"null";"9031.90";" - Aksam, parça ve aksesuar:";;
+"null";"9031.90.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";50
+"null";"9031.90.00.90.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"90.32";"Otomatik ayar ve kontrol alet ve cihazları:";;
+"null";"9032.10";" - Termostatlar:";;
+"null";;" - - Elektronik olanlar:";;
+"null";"9032.10.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9032.10.20.20.00";" - - - Binalarda kullanılan, oda, fan coil ve klima termostatları ";"Adet";40
+"null";"9032.10.20.90.00";" - - - Diğerleri";"Adet";40
+"null";;" - - Diğerleri:";;
+"null";"9032.10.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"9032.10.80.90.00";" - - - Diğerleri";"Adet";40
+"null";"9032.20";" - Basınç kontrol cihazları (manostatlar):";;
+"null";"9032.20.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";" ";" - - Diğerleri";;
+"null";"9032.20.00.90.11";" - - - Elektronik basınç kontrol cihazları";"Adet";40
+"null";"9032.20.00.90.19";" - - - Diğerleri";"Adet";40
+"null";;" - Diğer alet ve cihazlar:";;
+"null";"9032.81";" - - Hidrolik veya pnömatik:";;
+"null";"9032.81.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";" ";" - - - Diğerleri";;
+"null";"9032.81.00.90.11";" - - - - Seviye kontrol cihazları";"-";40
+"null";"9032.81.00.90.12";" - - - - Bacalardan otomatik olarak duman çekme regülatörleri";"-";40
+"null";"9032.81.00.90.19";" - - - - Diğerleri";"-";40
+"null";"9032.89.00.00.00";" - - Diğerleri";"-";40
+"null";"9032.90";" - Aksam, parça ve aksesuar:";;
+"null";"9032.90.00.10.00";" - - Elektronik veya elektrikli olanlara ait olanlar";"-";40
+"null";"9032.90.00.90.00";" - - Diğerleri";"-";35
+"null";;;" ";
+"null";"9033.00";"90. Fasılda yer alan makina, alet ve cihazlara ait aksam, parça";" ";
+"null";;"ve aksesuar (bu fasılın başka yerinde belirtilmeyen veya yer ";" ";
+"null";;"almayan)";;
+"null";"9033.00.10.00.00";" - Bir baskılı devre veya diğer benzeri bir yüzeye monte edilmiş bir veya daha fazla";;
+"null";;"     LED ve bir veya daha fazla konektör ve diğer pasif komponentlerden oluşan,";;
+"null";;"     ışık kaynağı olan, LCD göstergeler için arka ışık aydınlatması olarak kullanılan ";;
+"null";;"     LED arka ışık modülleri (optik bileşenler veya koruyucu diyotlar içersin içermesin) ";"-";50
+"null";"9033.00.90.00.00";" - Diğerleri";"-";50

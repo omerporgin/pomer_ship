@@ -1,0 +1,98 @@
+﻿"null";"0501.00.00.00.00";"İnsan saçı (işlenmemiş, yıkanmış veya yağı alınmış olsun";;
+"null";;"olmasın) ; insan saçı döküntüleri";"-";25
+"null";;;;
+"null";"05.02";"Evcil domuz veya yaban domuzu kılları; porsuk kılları";;
+"null";;"veya fırça imali için diğer kıllar; bu kılların döküntüleri:";;
+"null";"0502.10";" - EvciI domuz veya yaban domuzu kılları ve bunların döküntüleri:";;
+"null";"0502.10.00.10.00";" - - Domuz kılı";"-";25
+"null";"0502.10.00.90.00";" - - Diğerleri";"-";25
+"null";"0502.90.00.00.00";" - Diğerleri ";"-";25
+"null";;;;
+"null";"(05.03)";;;
+"null";;;;
+"null";"0504.00";"Tam veya parça halinde hayvan bağırsakları, mesaneleri ve";;
+"null";;"mideleri (balıklara ait olanlar hariç) (taze, soğutulmuş, dondurul -";;
+"null";;"muş, tuzlanmış, salamura edilmiş, kurutulmuş veya tütsülenmiş) :";;
+"null";"";" - Kurutulmuş şirdenler";;" "
+"null";"0504.00.00.10.11";" - - Kuru buzağı şirdeni";"-";15
+"null";"0504.00.00.10.19";" - - Diğerleri";"-";15
+"null";;" - Diğerleri";" ";
+"null";"0504.00.00.90.10 ";" - - Bağırsaklar";"-";15
+"null";"0504.00.00.90.30";" - - Kurutulmamış şirdenler";"-";15
+"null";"0504.00.00.90.90";" - - Diğerleri";"-";15
+"null";;;;
+"null";"05.05";"Kuşların tüylü veya ince tüylü deri ve diğer kısımları, tüyler";;
+"null";;"ve tüy parçaları (kenarları kırpılmış olsun olmasın) ve ince ";;
+"null";;"tüyler (muhafaza amacıyla işleme, temizleme veya dezenfekte";;
+"null";;"etmeden başka bir işleme tabi tutulmamış); tüy veya tüy parça -";;
+"null";;"larının  toz ve döküntüleri:";;
+"null";"0505.10";" - Doldurmada kullanılan tüyler; ince tüyler:";;
+"null";"0505.10.10.00.00";" - - İşlenmemiş";"-";50
+"null";"0505.10.90.00.00";" - - Diğerleri";"-";50
+"null";"0505.90.00.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"05.06";"Kemikler ve boynuz içi kemikleri (işlenmemiş, yağı alınmış,";;
+"null";;"basit bir şekilde hazırlanmış fakat şekil verilerek kesilmemiş,";;
+"null";;"asitle işlem görmüş veya jelatini alınmış); bunların toz ve";;
+"null";;"döküntüleri:";;
+"null";"0506.10.00.00.00";" - Asitle işlem görmüş kemik ve kıkırdaklar";"-";10
+"null";"0506.90.00.00.00";" - Diğerleri";"-";10
+"null";;;;
+"null";"05.07";"Fildişi, kaplumbağa kabuğu, balina dişi ve balina dişinin";;
+"null";;"kılları, boynuzlar,geyik boynuzları,toynaklar,tırnaklar,";;
+"null";;"pençeler ve gagalar (işlenmemiş veya basit bir şekilde";;
+"null";;"hazırlanmış, fakat şekil verilerek kesilmemiş); bunların";;
+"null";;"toz ve döküntüleri:";;
+"null";"0507.10.00.00.00";" - Fildişi ; fildişi tozu ve döküntüleri";"-";20
+"null";"0507.90";" - Diğerleri";;" "
+"null";"0507.90.00.00.11";" - - Boynuzlar";"-";10
+"null";"0507.90.00.00.12";" - - Tırnaklar";"-";10
+"null";"0507.90.00.00.19";" - - Diğerleri";"-";10
+"null";;;;
+"null";"0508.00";"Mercan ve benzeri maddeler(işlenmemiş veya basit bir şekilde";;
+"null";;"hazırlanmış,fakat başka bir işlem görmemiş); yumuşakça,";;
+"null";;"kabuklu hayvan veya kabuğu dikenli hayvanların kabukları ve";;
+"null";;"mürekkep balığı kemiği (işlenmemiş veya basit bir şekilde";;
+"null";;"hazırlanmış, fakat şekil verilerek kesilmemiş); bunların";;
+"null";;"toz ve döküntüleri:";;" "
+"null";"0508.00.10.00.00";" - Kırmızı Mercan (Corallium rubrum)";"-";10
+"null";"0508.00.90.00.00";" - Diğerleri";"-";10
+"null";;;;
+"null";"(05.09)";;;
+"null";;;;
+"null";"0510.00";" Akamber, kunduz hayası (kastoreum), kedi miski (sivet) ve misk;";;
+"null";;" kuduz böceği (kantarit) ve safra (kurutulmuş olsun olmasın);";;
+"null";;" eczacılık ürünlerinin hazırlanmasında kullanılan guddeler";;
+"null";;" ve diğer hayvansal maddeler (taze, soğutulmuş, dondurulmuş ";;
+"null";;" veya geçici olarak diğer şekillerde konserve edilmiş) :";;
+"null";"0510.00.00.10.00";" - Kantarit";"-";10
+"null";" ";" - Diğerleri";;" "
+"null";"0510.00.00.90.11";" - - Safra (kurutulmuş olsun olmasın )";"-";50
+"null";"0510.00.00.90.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"05.11";"Tarifenin başka yerinde belirtilmeyen veya yer almayan hayvan-";;
+"null";;" sal menşeli ürünler; insanların yemesine elverişli  olmayan";;
+"null";;" 1. veya 3. fasıllarda yer alan cansız hayvanlar:";;
+"null";"0511.10.00.00.00";" - Sığır spermleri                                                     ";"Adet";30
+"null";;" - Diğerleri:";;
+"null";"0511.91";" - - Balık,kabuklu hayvan,yumuşakça veya diğer su";;
+"null";;"     omurgasızlarının ürünleri; 3.fasılda yer alan cansız hayvanlar:";;
+"null";"0511.91.10.00.00";" - - - Balık döküntüleri                                                  ";"-";15
+"null";;" - - - Diğerleri                                                                    ";;
+"null";"0511.91.90.00.11";" - - - - Alabalık yumurtası";"-";30
+"null";"0511.91.90.00.19";" - - - - Diğerleri                                                                    ";"-";30
+"null";"0511.99";" - - Diğerleri:";;
+"null";"0511.99.10.00.00";" - - - Veterler ve tendonlar; dabaklanmamış derilerin kırpıntı ve";;
+"null";;"        benzeri döküntüleri                                                                           ";"-";15
+"null";;" - - - Hayvansal menşeli tabii süngerler:";;
+"null";"0511.99.31.00.00";" - - - - İşlenmemiş";"-";30
+"null";"0511.99.39.00.00";" - - - - Diğerleri                                                                            ";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"0511.99.85.10.00";" - - - - İpek böceği yumurtaları                                                    ";"-";0
+"null";"0511.99.85.20.00";" - - - - At kılı ve at kılı döküntüleri (başka  maddelerin yardımıyla veya";;
+"null";;"         müstakilen tabakalar halinde olsun olmasın)";"-";5
+"null";;" - - - - Diğerleri                                                                            ";;" "
+"null";"0511.99.85.90.11";" - - - - - Hayvan kanı (kurutulmuş olsun olmasın)";"-";30
+"null";"0511.99.85.90.12";" - - - - - Kırmız böceği (ochenille) ve benzeri böcekler";"-";30
+"null";"0511.99.85.90.13";" - - - - - Hayvan yemi yapımında kullanılacak sakatatlar";"-";30
+"null";"0511.99.85.90.18";" - - - - - Diğerleri";"-";30

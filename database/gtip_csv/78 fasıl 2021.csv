@@ -1,0 +1,31 @@
+﻿"null";"78.01";"İşlenmemiş kurşun:";;
+"null";"7801.10.00.00.00";" - Rafine edilmiş kurşun";"-";35
+"null";;" - Diğerleri:";;
+"null";;" - - Ağırlık itibariyle antimuan oranı diğer elementlerden fazla ";;
+"null";;"     olanlar :";;
+"null";"7801.91.00.00.11";" - - - Ağırlık itibariyle % 0.02 veya daha fazla gümüş içeren, rafine ";;
+"null";;"        edilmeye mahsus olanlar (külçe kurşun)";"-";35
+"null";"7801.91.00.00.19";" - - - Diğerleri";"-";35
+"null";"7801.99";" - - Diğerleri:";;
+"null";"7801.99.10.00.00";" - - - Ağırlık itibariyle % 0,02 veya daha fazla gümüş içeren, rafine ";;
+"null";;"        edilmeye mahsus olanlar (külçe kurşun)";"-";35
+"null";"7801.99.90.00.00";" - - - Diğerleri";"-";35
+"null";;;" ";
+"null";"7802.00.00.00.00";"Kurşun döküntü ve hurdaları";"-";35
+"null";;;;
+"null";"['78.03]";;;
+"null";;;;
+"null";"78.04";"Kurşun saclar, levhalar, yapraklar ve şeritler; kurşun tozları ve";;
+"null";;"ince pullar:";;
+"null";;" - Saclar, levhalar, yapraklar ve şeritler:";;
+"null";"7804.11.00.00.00";" - - Saclar, yapraklar ve şeritler (mesnetleri hariç kalınlıkları 0,2";;
+"null";;"     mm. yi geçmeyenler)";"-";40
+"null";"7804.19.00.00.00";" - - Diğerleri";"-";40
+"null";"7804.20.00.00.00";" - Kurşun tozları ve ince pullar";"-";40
+"null";;;;
+"null";"[78.05]";;;
+"null";;;;
+"null";"7806.00";"Kurşundan diğer eşya:";;
+"null";"7806.00.10.00.00";" - Radyoaktif maddelerin taşıma veya mahfazası sırasında radyasyondan";;"                       "
+"null";;"   korunmaya mahsus kurşun kılıflı kaplar (EURATOM)";"-";40
+"null";"7806.00.80.00.00";" - Diğerleri";"-";40

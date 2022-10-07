@@ -1,0 +1,167 @@
+﻿"null";;"I.SİLİSLİ FOSİL UNLARINDAN VEYA BENZERİ SİLİSLİ ";;
+"null";;"TOPRAKLARDAN EŞYA VE ATEŞE DAYANIKLI EŞYA";;
+"null";;;;
+"null";"6901.00.00.00.00";"Silisli fosil unlarından (kiselgur, tripolit veya diatomit gibi) veya ";;
+"null";;"benzeri silisli topraklardan tuğlalar, döşeme tuğlaları, karolar ve ";;
+"null";;"diğer seramik eşya";"-";75
+"null";;;;
+"null";"69.02";"Ateşe dayanıklı tuğlalar, döşeme tuğlaları, karolar ve inşaatta ";;
+"null";;"kullanılan ateşe dayanıklı benzeri seramik eşya (silisli fosil ";;
+"null";;"unlarından veya benzeri silisli topraklardan olanlar hariç):";;
+"null";"6902.10";" - Ağırlık itibariyle % 50'den fazla, MgO, CaO veya Cr2O3 olarak ifade";;
+"null";;"   edilen, ayrı ayrı veya birlikte Mg, Ca ya da Cr elementleri içerenler:";;
+"null";;" - - Kromit, magnezit ve krom magnezit ateş tuğlaları";;
+"null";"6902.10.00.10.11";" - - - Kromit ateş tuğlaları";"-";40
+"null";"6902.10.00.10.12";" - - - Magnezit ateş tuğlaları";"-";40
+"null";"6902.10.00.10.13";" - - - Krom magnezit ateş tuğlaları";"-";40
+"null";;" - - Diğerleri";;
+"null";"6902.10.00.90.11";" - - - Magnezit ile zenginleştirilmiş ve pişirilmiş dolomit ateş tuğlaları";"-";40
+"null";"6902.10.00.90.19";" - - - Diğerleri";"-";40
+"null";"6902.20";" - Ağırlık itibariyle % 50'den fazla alumin (Al2O3), silis (SiO2) veya";;
+"null";;"   bunların karışımını ya da bileşimini içerenler:";;
+"null";"6902.20.10.00.00";" - - Ağırlık itibariyle % 93 veya daha fazla silis (SiO2) içerenler";"-";40
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 7'den fazla fakat % 45' den az alumin (Al203)";;
+"null";;"        içerenler";;
+"null";"6902.20.91.00.11";" - - - - Şamottan tuğlalar (alumin %20-44)";"-";40
+"null";"6902.20.91.00.12";" - - - - Şamottan karolar (alumin %20-44)";"-";40
+"null";"6902.20.91.00.13";" - - - - Şamottan diğer eşyalar (alumin %20-44)";"-";40
+"null";"6902.20.91.00.19";" - - - - Diğerleri";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"6902.20.99.10.00";" - - - - Ağırlık itibariyle % 70'den fazla alumin içeren ateş tuğlaları";"-";40
+"null";;" - - - - Diğerleri";;
+"null";"6902.20.99.90.11";" - - - - - %50'den az alumin içeren ateş tuğlaları";"-";40
+"null";"6902.20.99.90.12";" - - - - - %50-70 (dahil) arası alumin içeren ateş tuğlaları";"-";40
+"null";"6902.20.99.90.13";" - - - - - Sömi-silika (SiO2 %75-85) ateş tuğlaları";"-";40
+"null";"6902.20.99.90.19";" - - - - - Diğerleri";"-";40
+"null";"6902.90";" - Diğerleri";;
+"null";"6902.90.00.00.11";" - - Karbon blokları";"-";40
+"null";"6902.90.00.00.19";" - - Diğerleri";"-";40
+"null";"69.03";"Ateşe dayanıklı diğer seramik eşya (karni, potafırın, kapsül, tapa, ";;
+"null";;"mesnet, kal potası, kılıf, tüp, boru, çubuk ve sürgülü kapılar gibi) (silisli";;
+"null";;" fosil unlarından veya benzeri silisli topraklardan olanlar hariç):";;
+"null";"6903.10";" - Ağırlık itibariyle % 50'den fazla serbest karbon içerenler";;
+"null";"6903.10.00.00.11";" - - Grafitten olanlar";"-";25
+"null";"6903.10.00.00.19";" - - Diğerleri";"-";25
+"null";"6903.20";" - Ağırlık itibariyle % 50'den fazla alumin (AI2O3) veya alumin ve";;
+"null";;"    silis (SiO2) karışımı ya da bileşimini içerenler:";;
+"null";;" - - Ağırlık itibariyle % 45'den az alumin (AI2O3) içerenler:";;
+"null";;" - - - Silikadan ve sömi -silikadan olanlar";;
+"null";"6903.20.10.10.11";" - - - - Silikadan olanlar";"-";25
+"null";"6903.20.10.10.12";" - - - - Sömi-silikadan olanlar";"-";25
+"null";"6903.20.10.90.00";" - - - Diğerleri";"-";25
+"null";"6903.20.90.00.00";" - - Ağırİık itibariyle % 45 veya daha fazla alumin (Al2O3) içerenler";"-";25
+"null";"6903.90";" - Diğerleri:";;
+"null";"6903.90.10.00.00";" - - Ağırlık itibariyle % 25'den fazla fakat % 50'yi geçmeyen grafit veya";;
+"null";;"      diğer şekillerdeki karbon ya da bunların karışımını içerenler";"-";25
+"null";;" - - Diğerleri:";;
+"null";"6903.90.90.10.00";" - - - Kromitten olanlar";"-";25
+"null";;" - - - Diğerleri";;
+"null";"6903.90.90.90.11";" - - - - Dolomitten olanlar";"-";25
+"null";"6903.90.90.90.12";" - - - - Magnezitten olanlar";"-";25
+"null";"6903.90.90.90.13";" - - - - Korborandumdan (silisyum karbürden) olanlar";"-";25
+"null";"6903.90.90.90.19";" - - - - Diğerleri";"-";25
+"null";;"II.DİĞER SERAMİK MAMULLERİ";;
+"null";;;;
+"null";"69.04";"Seramikten inşaat tuğlaları (kaba tuğlalar, putrel üstü tuğlaları ";;
+"null";;"ve benzeri eşya) :";;
+"null";"6904.10";" - İnşaat tuğlaları";;
+"null";"6904.10.00.00.11";" - - Adi topraktan olanlar";"Adet";50
+"null";"6904.10.00.00.19";" - - Diğer seramik maddelerden olanlar";"Adet";50
+"null";"6904.90";" - Diğerleri";;
+"null";"6904.90.00.00.11";" - - Adi topraktan olanlar";"-";50
+"null";"6904.90.00.00.19";" - - Diğer seramik maddelerden olanlar";"-";50
+"null";;;;
+"null";"69.05";"Seramikten kiremitler, baca şapkaları, baca boruları, mimarı ";;
+"null";;"tezyinat ve inşaat işinde kullanılan diğer seramik eşya:";;
+"null";"6905.10";" - Kiremitler";;
+"null";"6905.10.00.00.11";" - - Adi topraktan olanlar";"Adet";50
+"null";"6905.10.00.00.19";" - - Diğer seramik maddelerden olanlar";"Adet";50
+"null";"6905.90";" - Diğerleri";;
+"null";"6905.90.00.00.11";" - - Adi topraktan olanlar";"-";50
+"null";"6905.90.00.00.19";" - - Diğer seramik maddelerden olanlar";"-";50
+"null";;;;
+"null";"6906.00";"Seramikten borular, oluklar ve boru bağlantı parçaları";;
+"null";"6906.00.00.00.11";"- Adi topraktan olanlar";"-";50
+"null";"6906.00.00.00.19";"- Diğer seramik maddelerden olanlar";"-";50
+"null";;;;
+"null";"69.07";"Seramikten döşeme veya kaplama karoları ve kaldırım taşları; ";;
+"null";;"seramikten mozaik küpler ve benzerleri (bir mesnet üzerinde ";;
+"null";;"olsun olmasın); bitirme seramikleri: ";;
+"null";;" - Döşeme veya kaplama karoları, kaldırım taşları, (6907.30 ve 6907.40  ";;
+"null";;"    alt pozisyonlarındakiler hariç):";;
+"null";"6907.21.00.00.00";" - - Ağırlıkça suyu absorbe etme katsayısı % 0,5’i geçmeyenler ";"m2";100
+"null";"6907.22.00.00.00";" - - Ağırlıkça suyu absorbe etme katsayısı % 0,5’i geçen fakat ";;
+"null";;"     %10’u geçmeyenler";"m2";100
+"null";"6907.23.00.00.00";" - - Ağırlıkça suyu absorbe etme katsayısı % 10’u geçenler";"m2";100
+"null";"6907.30.00.00.00";" - Mozaik küpler ve benzerleri (6907.40 alt pozisyonundakiler hariç)";"m2";100
+"null";"6907.40.00.00.00";" - Bitirme seramikleri";"m2";100
+"null";;;;
+"null";"[69.08]";;;
+"null";;;;
+"null";"69.09";"Laboratuvarlarda, kimyasal veya diğer teknik işlerde kullanılan ";;
+"null";;"seramik cihazlar ve eşya; ziraat işlerinde kullanılan seramikten ";;
+"null";;"yalak, gerdel ve benzeri diğer kaplar; nakil ve ambalaj işlerinde ";;
+"null";;"kullanılan seramik küçük testiler ve benzeri kaplar:";;
+"null";;" - Laboratuvarlarda, kimyasal veya diğer teknik işlerde kullanılan ";;
+"null";;"   seramik cihazlar ve eşya:";;
+"null";"6909.11";" - - Porselenden olanlar";;
+"null";"6909.11.00.00.11";" - - - Laboratuvar eşyası";"-";50
+"null";"6909.11.00.00.12";" - - - Teknik işlerde ve sanayide kullanılanlar";"-";50
+"null";"6909.11.00.00.19";" - - - Diğerleri";"-";50
+"null";"6909.12.00.00.00";" - - Mohs skalasına göre sertliği 9 veya daha fazla olan eşya";"-";50
+"null";"6909.19";" - - Diğerleri";" ";
+"null";"6909.19.00.00.11";" - - - Laboratuvar eşyası";"-";50
+"null";"6909.19.00.00.12";" - - - Teknik işlerde ve sanayide kullanılanlar";"-";50
+"null";"6909.19.00.00.19";" - - - Diğerleri";"-";50
+"null";"6909.90";" - Diğerleri";;
+"null";"6909.90.00.00.11";" - - Ticari nakliyat ve ambalajlamada kullanılanlar";"-";50
+"null";"6909.90.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"69.10";"Seramikten musluk taşları, lavabolar, lavabo ayakları, küvetler, ";;
+"null";;"bideler, alafranga tuvaletler, rezervuarlar, pisuarlar ve sıhhi ";;
+"null";;"tesisatta kullanılan benzeri diğer eşya:";;
+"null";"6910.10.00.00.00";" - Porselenden olanlar";"-";100
+"null";"6910.90.00.00.00";" - Diğerleri";"-";100
+"null";;;;
+"null";"69.11";"Porselenden sofra ve mutfak eşyası, diğer ev eşyası ve tuvalet eşyası: ";;
+"null";"6911.10";" - Sofra ve mutfak eşyası";;
+"null";"6911.10.00.00.11";" - - Beyaz olanlar";"-";100
+"null";"6911.10.00.00.12";" - - Tek renkli olanlar";"-";100
+"null";"6911.10.00.00.19";" - - Diğerleri";"-";100
+"null";"6911.90";" - Diğerleri";;
+"null";"6911.90.00.00.11";" - - Beyaz olanlar";"-";100
+"null";"6911.90.00.00.12";" - - Tek renkli olanlar";"-";100
+"null";"6911.90.00.00.19";" - - Diğerleri";"-";100
+"null";;;;
+"null";"6912.00";"Seramikten sofra ve mutfak eşyası, diğer ev eşyası ve tuvalet ";;
+"null";;"eşyası (porselenden olanlar hariç):";;
+"null";;" - Sofra ve mutfak eşyası:";;
+"null";"6912.00.21.00.00";" - - Adi topraktan olanlar";"-";100
+"null";"6912.00.23.00.00";" - - Greden olanlar";"-";100
+"null";;" - - Fayanstan veya ince çömlekçi eşyasından olanlar:";;
+"null";"6912.00.25.00.11";" - - - Beyaz olanlar";"-";100
+"null";"6912.00.25.00.12";" - - - Tek renkli olanlar";"-";100
+"null";"6912.00.25.00.19";" - - - Diğerleri";"-";100
+"null";"6912.00.29.00.00";" - - Diğerleri";"-";100
+"null";;" - Diğerleri";;
+"null";"6912.00.81.00.00";" - - Adi topraktan olanlar";"-";100
+"null";"6912.00.83.00.00";" - - Greden olanlar";"-";100
+"null";"6912.00.85.00.00";" - - Fayanstan veya ince çömlekçi eşyasından olanlar:";"-";100
+"null";"6912.00.89.00.00";" - - Diğerleri";"-";100
+"null";;;;
+"null";"69.13";"Seramikten heykelcikler ve diğer süs eşyası:";;
+"null";"6913.10";" - Porselenden olanlar:";;
+"null";"6913.10.00.00.10";" - - El yapımı çiniden olanlar";"-";100
+"null";"6913.10.00.00.90";" - - Diğerleri";"-";100
+"null";"6913.90";" - Diğerleri:";;
+"null";"6913.90.10.00.00";" - - Adi topraktan olanlar";"-";100
+"null";;" - - Diğerleri:";;
+"null";;" - - - Fayanstan veya ince çömlekçi eşyasından olanlar:";;
+"null";"6913.90.93.00.10";" - - - - El yapımı çiniden olanlar ";"-";100
+"null";"6913.90.93.00.90";" - - - - Diğerleri";"-";100
+"null";"6913.90.98.00.00";" - - - Diğerleri";"-";100
+"null";;;;
+"null";"69.14";"Seramikten diğer eşya:";;
+"null";"6914.10.00.00.00";" - Porselenden  olanlar";"-";100
+"null";"6914.90.00.00.00";" - Diğerleri";"-";100

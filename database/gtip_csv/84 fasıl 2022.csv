@@ -1,0 +1,2810 @@
+﻿"null";"84.01";"Nükleer reaktörler; nükleer reaktörler için ışınlanmamış yakıt ele-";;
+"null";;"manları (kartuşlar); izotopik ayırım için makina ve cihazlar :";;
+"null";"8401.10.00.00.00";" - Nükleer reaktörler";"-";15
+"null";"8401.20";" - İzotopik ayırım için makina ve cihazlar, bunların aksam ve ";;
+"null";;"   parçaları :";;
+"null";;" - - Uranyum izotoplarının ayırımına mahsus olanlar, bunların aksam ve ";;
+"null";;"      parçaları";;
+"null";"8401.20.00.10.11";" - - - Cihazlar";"-";30
+"null";"8401.20.00.10.15";" - - - Aksam ve parçalar";"-";30
+"null";;" - - Ağır su üretimine mahsus makina ve cihazlar ";;
+"null";"8401.20.00.20.11";" - - - Cihazlar";"-";40
+"null";"8401.20.00.20.15";" - - - Aksam ve parçalar";"-";40
+"null";;" - - Diğerleri";" ";
+"null";"8401.20.00.90.11";" - - - Cihazlar";"-";50
+"null";"8401.20.00.90.15";" - - - Aksam ve parçalar";"-";50
+"null";"8401.30.00.00.00";" - Işınlanmamış yakıt elemanları (kartuşlar) ";"gi F/S";50
+"null";"8401.40.00.00.00";" - Nükleer reaktörlerin aksam ve parçaları ";"-";50
+"null";;;;
+"null";"84.02";"Buhar kazanları (aynı zamanda alçak basınçlı su buharı da üretebi-";;
+"null";;"len merkezi ısıtma için sıcak su kazanları hariç); kızgın su kazanları:";;
+"null";;" - Buhar kazanları:";;
+"null";"8402.11.00.00.00";" - - Saatte 45 tondan fazla buhar üreten su borulu kazanlar";"-";40
+"null";"8402.12.00.00.00";" - - Saatte 45 ton veya daha az buhar üreten su borulu kazanlar";"-";40
+"null";"8402.19";" - - Diğer buhar üreten kazanlar (karma kazanlar dahil):";" ";
+"null";"8402.19.10.00.00";" - - - Alev borulu kazanlar";"-";40
+"null";;" - - - Diğerleri :";" ";
+"null";"8402.19.90.00.11";" - - - - Duman borulu kazanlar";"-";40
+"null";"8402.19.90.00.19";" - - - - Diğerleri";"-";40
+"null";"8402.20.00.00.00";" - Kızgın su kazanları";"-";50
+"null";"8402.90";" - Aksam ve parçalar:";" ";
+"null";;" - - Kızgın su kazanlarına ait olanlar";" ";
+"null";"8402.90.00.10.11";" - - - Ondüle külhanlar";"-";50
+"null";"8402.90.00.10.19";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri";" ";
+"null";"8402.90.00.90.11";" - - - Buhar boruları";"-";40
+"null";"8402.90.00.90.12";" - - - Buhar domları";"-";40
+"null";"8402.90.00.90.13";" - - - Buhar toplayıcı borular (kollektörler)";"-";40
+"null";"8402.90.00.90.14";" - - - Ondüle külhanlar";"-";40
+"null";"8402.90.00.90.19";" - - - Diğerleri";"-";40
+"null";;;" ";
+"null";"84.03";"Merkezi ısıtma kazanları (84.02 pozisyonundakiler hariç):";" ";
+"null";"8403.10";" - Kazanlar:";" ";
+"null";"8403.10.10.00.00";" - - Demir dökümden olanlar";"-";50
+"null";"8403.10.90.00.00";" - - Diğerleri";"-";50
+"null";"8403.90";" - Aksam ve parçalar:";" ";
+"null";"8403.90.10.00.00";" - - Demir dökümden olanlar";"-";50
+"null";"8403.90.90.00.00";" - - Diğerleri";"-";50
+"null";;;" ";
+"null";"84.04";"84.02 veya 84.03 Pozisyonlarındaki kazanlarla birlikte kullanılmaya";" ";
+"null";;"mahsus yardımcı cihazlar (ekonomizörler, kızgın su hasıl edenler,";;
+"null";;"kurum temizleme ve gaz tasarruf cihazları gibi); su buharı veya";;
+"null";;"diğer buhar güç üniteleri için kondansörler:";;
+"null";"8404.10";" - 84.02 veya 84.03 Pozisyonlarındaki kazanlarla birlikte kullanılma-";;
+"null";;"   ya mahsus yardımcı cihazlar:";;
+"null";"8404.10.00.10.00";" - - Merkezi ısıtma kazanları ile birlikte kullanılan yardımcı cihazlar";"-";50
+"null";;" - - Diğerleri";" ";
+"null";"8404.10.00.90.11";" - - -  Su ısıtıcıları (ekonomizörler) ve hava ısıtıcıları";"-";40
+"null";"8404.10.00.90.12";" - - - Kızdırıcılar ve kızdırıcı soğutucuları";"-";40
+"null";"8404.10.00.90.13";" - - - Buhar ve ısı akümülatörleri";"-";40
+"null";"8404.10.00.90.14";" - - - Kurum temizleme cihazları";"-";40
+"null";"8404.10.00.90.15";" - - - Gaz tasarruf cihazları";"-";40
+"null";"8404.10.00.90.19";" - - - Diğerleri";"-";40
+"null";"8404.20.00.00.00";" - Buhar güç üniteleri için kondansörler";"-";40
+"null";"8404.90";" - Aksam ve parçalar:";" ";
+"null";"8404.90.00.10.00";" - - Merkezi ısıtma kazanları ile birlikte kullanılan yardımcı cihazların";" ";
+"null";;"      aksam ve parçaları";"-";50
+"null";;" - - Diğerleri";" ";
+"null";"8404.90.00.90.11";" - - - Kızdırıcı borular";"-";40
+"null";"8404.90.00.90.19";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"84.05";"Gaz veya su gazı jeneratörleri (arıtıcıları ile birlikte olsun olmasın);";;
+"null";;"su ile işleyen asetilen jeneratörleri ve benzeri gaz jeneratörleri";;
+"null";;"(arıtıcıları ile birlikte olsun olmasın):";;
+"null";"8405.10";" - Gaz veya su gaz jeneratörleri (arıtıcıları iIe birlikte olsun olmasın);";;
+"null";;"   su ile işleyen asetilen jeneratörleri ve benzeri gaz jeneratörleri";;
+"null";;"   (arıtıcıları ile birlikte olsun olmasın)";;
+"null";"8405.10.00.00.11";" - - Gaz jenaratörleri";"-";50
+"null";"8405.10.00.00.12";" - - Su gazı jenaratörleri";"-";50
+"null";"8405.10.00.00.13";" - - Su ile işleyen asetilen jenaratörleri";"-";50
+"null";"8405.10.00.00.14";" - - Oksijen jenaratörleri";"-";50
+"null";"8405.10.00.00.19";" - - Diğerleri";"-";50
+"null";"8405.90.00.00.00";" - Aksam ve parçalar";"-";50
+"null";;;" ";
+"null";"84.06";"Buhar türbinleri:";" ";
+"null";"8406.10.00.00.00";" - Deniz taşıtlarına ait türbinler";"-";40
+"null";;" - Diğer türbinler:";" ";
+"null";"8406.81.00.00.00";" - - Gücü 40 MW'ı geçenler";"-";40
+"null";"8406.82.00.00.00";" - - Gücü 40 MW.ı geçmeyenler";"-";40
+"null";"8406.90";" - Aksam ve parçalar:";" ";
+"null";"8406.90.10.00.00";" - - Stator çarkları, rotorlar ve bunların çarkları";"-";40
+"null";"8406.90.90.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"84.07";"Kıvılcım ile ateşlemeli içten yanmalı doğrusal veya döner pistonlu";;
+"null";;"motorlar (patlamalı motor):";;
+"null";"8407.10";" - Hava taşıtları için olanlar:";;
+"null";;" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";;
+"null";"8407.10.00.10.11";" - - - Silindir hacmi 250 cm3 veya daha az olanlar";"Adet";35
+"null";"8407.10.00.10.12";" - - - Silindir hacmi 250 cm3 .den fazla olanlar";"Adet";35
+"null";;" - - Diğerleri";" ";
+"null";"8407.10.00.90.11";" - - - Silindir hacmi 250 cm3 veya daha az olanlar";"Adet";35
+"null";"8407.10.00.90.12";" - - - Silindir hacmi 250 cm3 .den fazla olanlar";"Adet";35
+"null";;" - Deniz taşıtları için olanlar:";;
+"null";"8407.21";" - - Dıştan takma motorlar:";;
+"null";"8407.21.10.00.00";" - - - Silindir hacmi 325 cm3.ü geçmeyenler";"Adet";35
+"null";;" - - - Silindir hacmi 325 cm3.ü geçenler:";" ";
+"null";"8407.21.91.00.00";" - - - - Gücü 30 kW.ı geçmeyenler";"Adet";35
+"null";"8407.21.99.00.00";" - - - - Gücü 30 kW.ı geçenler";"Adet";35
+"null";"8407.29.00.00.00";" - - Diğerleri";"Adet";35
+"null";;" - 87. Fasıldaki kara taşıtlarında kullanılacak türde doğrusal";;
+"null";;"   pistonlu motorlar:";;
+"null";"8407.31.00.00.00";" - - Silindir hacmi 50 cm3.ü geçmeyenler";"Adet";35
+"null";"8407.32";" - - Silindir hacmi 50 cm3.ü geçen fakat 250 cm3.ü geçmeyenler:";" ";
+"null";"8407.32.10.00.00";" - - - Silindir hacmi 50 cm3.ü geçen fakat 125 cm3.ü geçmeyenler";"Adet";35
+"null";"8407.32.90.00.00";" - - - Silindir hacmi 125 cm3.ü geçen fakat 250 cm3.ü geçmeyenler";"Adet";35
+"null";"8407.33";" - - Silindir hacmi 250 cm3.ü geçen fakat 1.000 cm3.ü geçmeyenler:";;
+"null";"8407.33.20.00.00";" - - - Silindir hacmi 250 cm3.ü geçen fakat 500 cm3.ü geçmeyenler";"Adet";35
+"null";"8407.33.80.00.00";" - - - Silindir hacmi 500 cm3.ü geçen fakat 1000 cm3.ü geçmeyenler";"Adet";35
+"null";"8407.34";" - - Silindir hacmi 1000 cm3. ü geçenler:";;
+"null";"8407.34.10.00.00";" - - - Montaj sanayiine mahsus olanlar: 8701. 10 Alt pozisyonundaki moto-";;
+"null";;"        kültörler için; 87.03 pozisyonundaki motorlu taşıtlar için; 87.04 pozis-";;
+"null";;"        yonundaki motorlu taşıtlar (silindir hacmi 2800 cm3.den az bir motorla ";" ";
+"null";;"        birlikte) için; 87.05 pozisyonundaki motorlu taşıtlar için olanlar";"Adet";35
+"null";;" - - - Diğerleri:";" ";
+"null";"8407.34.30.00.00";" - - - - Kullanılmış";"Adet";35
+"null";;" - - - - Kullanılmamış:";" ";
+"null";"8407.34.91.00.00";" - - - - - Silindir hacmi 1500 cm3.ü geçmeyenler";"Adet";35
+"null";"8407.34.99.00.00";" - - - - - Silindir hacmi 1500 cm3.ü geçenler";"Adet";35
+"null";"8407.90";" - Diğer motorlar:";" ";
+"null";"8407.90.10.00.00";" - - Silindir hacmi 250 cm3.ü geçmeyenler";"Adet";35
+"null";;" - - Silindir hacmi 250 cm3.ü geçenler:";;
+"null";"8407.90.50.00.00";" - - - Montaj sanayiine mahsus olanlar: 8701.10 Alt pozisyonundaki moto-";;
+"null";;"        kültörler için; 87.03 pozisyonundaki motorlu taşıtlar için; 87.04 pozis-";;
+"null";;"        nundaki motorlu taşıtlar (silindir hacmi 2800 cm3. den az bir motorla ";;
+"null";;"        birlikte) için; 87.05 pozisyonundaki motorlu taşıtlar için olanlar";"Adet";35
+"null";;" - - - Diğerleri:";" ";
+"null";"8407.90.80.00.00";" - - - - Gücü 10 kW.ı geçmeyenler";"Adet";35
+"null";"8407.90.90.00.00";" - - - - Gücü 10 kW.ı geçenler";"Adet";35
+"null";;;;
+"null";"84.08";"Sıkıştırmayla ateşlemeli içten yanmalı pistonlu motorlar (dizel ve";;
+"null";;"yarı dizel ):";;
+"null";"8408.10";" - Deniz taşıtları için olanlar:";;
+"null";;" - - Kullanılmış:";;
+"null";"8408.10.11.00.00";" - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";;"        lar, 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00  ";;
+"null";;"        alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.19.00.00";" - - - Diğerleri";"Adet";35
+"null";;" - - Kullanılmamış:";;
+"null";;" - - - Gücü 50 kW.ı geçmeyenler:";;
+"null";"8408.10.23.00.00";" - - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";" ";"          lar; 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00";;
+"null";;"          alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.27.00.00";" - - - - Diğerleri";"Adet";35
+"null";;" - - - Gücü 50 kW.ı geçen fakat 100 kW.ı geçmeyenler:";;
+"null";"8408.10.31.00.00";" - - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";;"          lar, 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00  ";;
+"null";;"          alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.39.00.00";" - - - - Diğerleri";"Adet";35
+"null";;" - - - Gücü 100 kW.ı geçen fakat 200 kW.ı geçmeyenler:";;
+"null";"8408.10.41.00.00";" - - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";;"          lar, 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00  ";;
+"null";;"          alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.49.00.00";" - - - - Diğerleri";"Adet";35
+"null";;" - - - Gücü 200 kW.ı geçen fakat 300 kW.ı geçmeyenler:";;
+"null";"8408.10.51.00.00";" - - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";;"          lar, 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00  ";;
+"null";;"          alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.59.00.00";" - - - - Diğerleri";"Adet";35
+"null";;" - - - Gücü 300 kW.ı geçen fakat 500 kW.ı geçmeyenler:";;
+"null";"8408.10.61.00.00";" - - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";;"          lar, 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00  ";;
+"null";;"          alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.69.00.00";" - - - - Diğerleri";"Adet";35
+"null";;" - - - Gücü 500 kW.ı geçen fakat 1000 kW.ı geçmeyenler:";;
+"null";"8408.10.71.00.00";" - - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";;"          lar, 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00  ";;
+"null";;"          alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.79.00.00";" - - - - Diğerleri";"Adet";35
+"null";;" - - - Gücü 1000 kW.ı geçen fakat 5000 kW.ı geçmeyenler:";;
+"null";"8408.10.81.00.00";" - - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";;"          lar, 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00  ";;
+"null";;"          alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.89.00.00";" - - - - Diğerleri";"Adet";35
+"null";;" - - - Gücü 5000 kW.ı geçenler:";;
+"null";"8408.10.91.00.00";" - - - - 89.01 ila 89.06 pozisyonlarındaki denizde seyretmeye mahsus taşıt-";;
+"null";;"          lar, 8904.00.10.00 alt pozisyonundaki römorkörler ve 8906.10.00.00  ";;
+"null";;"          alt pozisyonundaki savaş gemileri için olanlar";"Adet";35
+"null";"8408.10.99.00.00";" - - - - Diğerleri";"Adet";35
+"null";"8408.20";" - 87. Fasıldaki taşıtlarda kullanılan türde olan motorlar:";;
+"null";"8408.20.10.00.00";" - - Montaj sanayiine mahsus olanlar: 8701.10 Alt pozisyonundaki moto-";;
+"null";;"      kültörler için; 87.03 pozisyonundaki motorlu taşıtlar için; 87.04 pozis-";;
+"null";;"      yonundaki motorlu taşıtlar (silindir hacmi 2500 cm3. den az bir motorla";;
+"null";;"      birlikte) için; 87.05 pozisyonundaki motorlu taşıtlar için olanlar";"Adet";35
+"null";;" - - Diğerleri:";;
+"null";;" - - - Tarımda ve ormancılıkta kullanılan tekerlekli traktörler için:";;
+"null";"8408.20.31.00.00";" - - - - Gücü 50 kW.ı geçmeyenler";"Adet";35
+"null";"8408.20.35.00.00";" - - - - Gücü 50 kW.ı geçen fakat 100 kW.ı geçmeyenler";"Adet";35
+"null";"8408.20.37.00.00";" - - - - Gücü 100 kW.ı geçenler";"Adet";35
+"null";;" - - - 87. Fasıldaki diğer taşıtlar için:";;
+"null";"8408.20.51.00.00";" - - - - Gücü 50 kW.ı geçmeyenler";"Adet";35
+"null";"8408.20.55.00.00";" - - - - Gücü 50 kW.ı geçen fakat 100 KW ı geçmeyenler";"Adet";35
+"null";"8408.20.57.00.00";" - - - - Gücü 100 kW.ı geçen fakat 200 kW.ı geçmeyenler";"Adet";35
+"null";"8408.20.99.00.00";" - - - - Gücü 200 kW.ı geçenler";"Adet";35
+"null";"8408.90";" - Diğer motorlar:";" ";
+"null";"8408.90.21.00.00";" - -  Demiryolu taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";;" - -  Diğerleri:";;
+"null";;" - - -  Kullanılmış";;
+"null";"8408.90.27.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";35
+"null";"8408.90.27.90.00";" - - - - Diğerleri";"Adet";35
+"null";;" - - -  Kullanılmamış:";;
+"null";;" - - - -  Gücü 15 kW.ı geçmeyenler:";;
+"null";"8408.90.41.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.41.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 15 kW.ı geçen fakat 30 kW.ı geçmeyenler:";;
+"null";"8408.90.43.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.43.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 30 kW.ı geçen fakat 50 kW.ı geçmeyenler:";;
+"null";"8408.90.45.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.45.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 50 kW.ı geçen fakat 100 kW.ı geçmeyenler:";;
+"null";"8408.90.47.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.47.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 100 kW.ı geçen fakat 200 kW.ı geçmeyenler:";;
+"null";"8408.90.61.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.61.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 200 kW.ı geçen fakat 300 kW.ı geçmeyenler:";;
+"null";"8408.90.65.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.65.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 300 kW.ı geçen fakat 500 kW.ı geçmeyenler:";;
+"null";"8408.90.67.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.67.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 500 kW.ı geçen fakat 1000 kW.ı geçmeyenler:";;
+"null";"8408.90.81.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.81.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 1000 kW.ı geçen fakat 5000 kW.ı geçmeyenler:";;
+"null";"8408.90.85.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.85.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;" - - - -  Gücü 5000 kW.ı geçenler:";;
+"null";"8408.90.89.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";35
+"null";"8408.90.89.90.00";" - - - - - Diğerleri";"Adet";35
+"null";;;;
+"null";"84.09";"Sadece veya esas itibariyle 84.07 veya 84.08 pozisyonlarındaki";;
+"null";;"motorların aksam ve parçaları:";;
+"null";"8409.10";" - Hava taşıtları için olanlar:";;
+"null";"8409.10.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"8409.10.00.90.00";" - - Diğerleri";"-";40
+"null";;" - Diğerleri:";;
+"null";"8409.91";" - - Sadece veya esas itibariyle kıvılcım ile ateşlemeli içten";;
+"null";;"      yanmalı pistonlu motorlar için olanlar";;
+"null";"8409.91.00.00.11";" - - - Aluminyumdan silindir kapakları";"-";40
+"null";"8409.91.00.00.12";" - - - Pistonlar";"-";40
+"null";"8409.91.00.00.13";" - - - Segmanlar";"-";40
+"null";"8409.91.00.00.14";" - - - Silindir gömlekleri";"-";40
+"null";"8409.91.00.00.15";" - - - Sübaplar";"-";40
+"null";"8409.91.00.00.16";" - - - Enjektörler";"-";40
+"null";"8409.91.00.00.17";" - - - Biyeller";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"8409.91.00.00.31";" - - - - Metal dökümden olanlar";"-";40
+"null";"8409.91.00.00.39";" - - - - Diğerleri";"-";40
+"null";"8409.99";" - - Diğerleri";;
+"null";"8409.99.00.00.11";" - - - Aluminyumdan silindir kapakları";"-";40
+"null";"8409.99.00.00.12";" - - - Pistonlar";"-";40
+"null";"8409.99.00.00.13";" - - - Segmanlar";"-";40
+"null";"8409.99.00.00.14";" - - - Silindir gömlekleri";"-";40
+"null";"8409.99.00.00.15";" - - - Sübaplar";"-";40
+"null";"8409.99.00.00.16";" - - - Enjektörler";"-";40
+"null";"8409.99.00.00.17";" - - - Biyeller";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"8409.99.00.00.31";" - - - - Metal dökümden olanlar";"-";40
+"null";"8409.99.00.00.39";" - - - - Diğerleri";"-";40
+"null";"84.10";"Su türbinleri, su çarkları ve bunlar için regülatörler:";;
+"null";;" - Su türbinleri ve su çarkları:";;
+"null";"8410.11.00.00.00";" - - Gücü 1000 kW.ı geçmeyenler";"-";25
+"null";"8410.12.00.00.00";" - - Gücü 1000 kW.ı geçen fakat 10 000 kW.ı geçmeyenler";"-";25
+"null";"8410.13.00.00.00";" - - Gücü 10 000 kW.ı geçenler";"-";25
+"null";"8410.90.00.00.00";" - Aksam ve parçalar (regülatörler dahil)";"-";25
+"null";;;;
+"null";"84.11";"Turbojetler, turbopropellerler ve diğer gaz türbinleri:";;
+"null";;" - Turbojetler:";;
+"null";"8411.11";" - - İtici gücü 25 kN.u geçmeyenler:";;
+"null";"8411.11.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8411.11.00.90.00";" - - - Diğerleri";"Adet";25
+"null";"8411.12";" - - İtici gücü 25 kN.u geçenler:";" ";
+"null";;" - - -  İtici gücü 25 kN.u gecen fakat 44 kN.u geçmeyenler:";;
+"null";"8411.12.10.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8411.12.10.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - - -  İtici gücü 44 kN.u geçen fakat 132 kN.u geçmeyenler:";;
+"null";"8411.12.30.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8411.12.30.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - - - İtici gücü 132 kN.u geçenler:";;
+"null";"8411.12.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8411.12.80.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - Turbopropellerler:";" ";
+"null";"8411.21";" - - Gücü 1 100 kW.ı geçmeyenler:";" ";
+"null";"8411.21.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";25
+"null";"8411.21.00.90.00";" - - - Diğerleri";"Adet";25
+"null";"8411.22";" - - Gücü 1 100 k W.ı geçenler:";" ";
+"null";;" - - -  Gücü  1 100 kW.ı geçen fakat 3 730 kW.ı geçmeyenler:";;
+"null";"8411.22.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";25
+"null";"8411.22.20.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Gücü 3 730 kW.ı geçenler:";;
+"null";"8411.22.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";25
+"null";"8411.22.80.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - Diğer gaz türbinleri:";;
+"null";"8411.81";" - - Gücü 5 000 kW.ı geçmeyenler:";;
+"null";"8411.81.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8411.81.00.90.00";" - - - Diğerleri";"Adet";25
+"null";"8411.82";" - - Gücü 5 000 kW.ı geçenler:";" ";
+"null";;" - - - Gücü 5 000 kW ı geçen fakat 20 000 kW.ı geçmeyenler:";;
+"null";"8411.82.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8411.82.20.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Gücü 20 000 kW.ı geçen fakat 50 000 kW ı geçmeyenler:";;
+"null";"8411.82.60.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8411.82.60.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Gücü 50 000 kW ı geçenler:";;
+"null";"8411.82.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8411.82.80.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - Aksam ve parçalar:";;
+"null";"8411.91";" - - Turbojetler veya turbopropellerlere ait olanlar:";;
+"null";"8411.91.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";25
+"null";"8411.91.00.90.00";" - - - Diğerleri";"-";25
+"null";"8411.99";" - - Diğerleri:";;
+"null";"8411.99.00.10.00";" - - - Sivil hava taşıtlarında kullanılan gaz türbinlerine ait olanlar ";"-";25
+"null";"8411.99.00.90.00";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"84.12";"Diğer motorIar ve kuvvet hasıI eden makinalar:";;
+"null";"8412.10";" - Tepkili motorlar (turbo jetler hariç):";;
+"null";"8412.10.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8412.10.00.90.00";" - - Diğerleri";"Adet";25
+"null";;" - Hidrolik güç motorları ve makinaları:";;
+"null";"8412.21";" - - Doğrusal hareketli olanlar (silindirler):";;
+"null";;" - - - Hidrolik sistemler:";;
+"null";"8412.21.20.10.00";" - - - - Sivil hava taşıtlarında kullanılan gaz türbinlerine ait olanlar";"-";25
+"null";"8412.21.20.90.00";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"8412.21.80.10.00";" - - - - Sivil hava taşıtlarında kullanılan gaz türbinlerine ait olanlar";"-";25
+"null";"8412.21.80.90.00";" - - - - Diğerleri";"-";25
+"null";"8412.29";" - - Diğerleri:";" ";
+"null";;" - - - Hidrolik sistemler:";;
+"null";"8412.29.20.10.00";" - - - - Sivil hava taşıtlarında kullanılan gaz türbinlerine ait olanlar";"-";25
+"null";"8412.29.20.90.00";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğerleri :";" ";
+"null";;" - - - - Hidrolik yağ motorları:";;
+"null";"8412.29.81.10.00";" - - - - - Sivil hava taşıtlarında kullanılan gaz türbinlerine ait olanlar";"-";25
+"null";"8412.29.81.90.00";" - - - - - Diğerleri";"-";25
+"null";;" - - - - Diğerleri:";;
+"null";"8412.29.89.10.00";" - - - - - Sivil hava taşıtlarında kullanılan gaz türbinlerine ait olanlar";"-";25
+"null";"8412.29.89.90.00";" - - - - - Diğerleri";"-";25
+"null";;" - Pnömatik güç motorları ve makinaları:";" ";
+"null";"8412.31";" - - Doğrusal hareketli olanlar (silindirler):";" ";
+"null";"8412.31.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"8412.31.00.90.00";" - - - Diğerleri";"-";40
+"null";"8412.39";" - - Diğerleri:";" ";
+"null";"8412.39.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"8412.39.00.90.00";" - - - Diğerleri";"-";40
+"null";"8412.80";" - Diğerleri:";" ";
+"null";"8412.80.10.00.00";" - - Buharla çalışan makinalar";"-";40
+"null";;" - - Diğerleri:";" ";
+"null";"8412.80.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"8412.80.80.90.11";" - - - - Rüzgarla çalışan motor ve makinalar";"-";40
+"null";"8412.80.80.90.19";" - - - - Diğerleri";"-";40
+"null";"8412.90";" - Aksam ve parçalar:";" ";
+"null";;" - - Tepkili motorlar (turbojetler hariç) için olanlar:";;
+"null";"8412.90.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";25
+"null";"8412.90.20.90.00";" - - - Diğerleri";"-";25
+"null";;" - - Hidrolik güç motorları ve makinalarına ait olanlar:";;
+"null";"8412.90.40.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";25
+"null";"8412.90.40.90.00";" - - - Diğerleri";"-";25
+"null";;" - - Diğerleri:";" ";
+"null";"8412.90.80.10.00";" - - - Buharla çalışan makinalara ait olanlar";"-";40
+"null";"8412.90.80.20.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";25
+"null";" ";" - - - Diğerleri:";" ";
+"null";"8412.90.80.90.11";" - - - -  Pnömatik güç motorlarına ve makinalarına ait olanlar";"-";40
+"null";"8412.90.80.90.12";" - - - -  Rüzgarla çalışan motor ve makinalara ait olanlar";"-";40
+"null";"8412.90.80.90.19";" - - - -  Diğerleri";"-";40
+"null";;;;
+"null";"84.13";"Sıvılar için pompalar (ölçü tertibatı olsun olmasın) ; sıvı elevatörleri:";;
+"null";;" - Ölçü tertibatı olan veya ölçü tertibatı takılmak üzere imal edilmiş";;
+"null";;"    pompalar:";;
+"null";"8413.11";" - - Servis istasyonları veya garajlarda kullanılan türde yakıt veya yağ";;
+"null";;"     dağıtım pompaları:";;
+"null";"8413.11.00.10.00";" - - - Fiyat ve miktar gösteren tertibatı olan dağıtım pompaları";"Adet";50
+"null";"8413.11.00.90.00";" - - - Diğerleri";"Adet";50
+"null";"8413.19";" - - Diğerleri:";;
+"null";"8413.19.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.19.00.20.00";" - - - Fiyat ve miktar gösteren tertibatı olan dağıtım pompaları";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8413.19.00.90.11";" - - - - Gıda maddeleri için miktar gösteren dağıtım pompaları";"Adet";50
+"null";"8413.19.00.90.12";" - - - - Miktar gösteren tertibatı olan diğer dağıtım pompaları";"Adet";50
+"null";"8413.19.00.90.19";" - - - - Diğerleri";"Adet";50
+"null";"8413.20";" - El pompaları (8413.11 veya 8413.19 alt pozisyonlarındakiler hariç):";;
+"null";"8413.20.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.20.00.90.00";" - - Diğerleri";"Adet";50
+"null";"8413.30";" - İçten yanmalı pistonlu motorlar için yakıt, yağ veya soğutma";;
+"null";;"   pompaları:";;
+"null";;" - - Enjeksiyon pompaları:";;
+"null";"8413.30.20.10.00";" - - -Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";50
+"null";"8413.30.20.90.00";" - - - Diğerleri";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";"8413.30.80.10.00";" - - -Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8413.30.80.90.11";" - - - - Yağ pompaları";"Adet";50
+"null";"8413.30.80.90.12";" - - - - Soğutma pompaları";"Adet";50
+"null";"8413.30.80.90.19";" - - - - Diğerleri";"Adet";50
+"null";"8413.40.00.00.00";" - Beton pompaları";"Adet";50
+"null";"8413.50";" - Diğer doğrusal deplasmanlı (pozitif hareketli) pompalar:";;
+"null";;" - - Hidrolik üniteler:";;
+"null";"8413.50.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8413.50.20.90.00";" - - - Diğerleri";"-";50
+"null";;" - - Dozaj ve oranlama pompaları:";;
+"null";"8413.50.40.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.50.40.90.00";" - - - Diğerleri";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";;" - - - Pistonlu pompalar:";;
+"null";;" - - - - Hidrolik yağ pompaları:";;
+"null";"8413.50.61.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.50.61.90.00";" - - - - - Diğerleri";"Adet";50
+"null";;" - - - - Diğerleri:";;
+"null";"8413.50.69.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.50.69.90.00";" - - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8413.50.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.50.80.90.00";" - - - - Diğerleri";"Adet";50
+"null";"8413.60";" - Diğer döner deplasmanlı (pozitif hareketli) pompalar:";;
+"null";;" - - Hidrolik üniteler:";;
+"null";"8413.60.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8413.60.20.90.00";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";;
+"null";;" - - - Dişli pompalar:";;
+"null";;" - - - - Hidrolik yağ pompaları:";;
+"null";"8413.60.31.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";;" - - - - - Diğerleri:";;
+"null";"8413.60.31.90.11";" - - - - - - Aluminyum gövdeli, iletim hacmi 1 cm3/devir veya daha fazla fakat";;
+"null";;"            100 cm3/devir geçmeyen, çıkış mili çapı 6mm veya daha fazla fakat";;
+"null";;"            35 mm geçmeyenler";"Adet";50
+"null";"8413.60.31.90.19";" - - - - - - Diğerleri";"Adet";50
+"null";;" - - - - Diğerleri:";;
+"null";"8413.60.39.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.60.39.90.00";" - - - - - Diğerleri";"Adet";50
+"null";;" - - - Kanatlı pompalar:";;
+"null";;" - - - - Hidrolik yağ pompaları:";;
+"null";"8413.60.61.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.60.61.90.00";" - - - - - Diğerleri";"Adet";50
+"null";;" - - - - Diğerleri:";;
+"null";"8413.60.69.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.60.69.90.00";" - - - - - Diğerleri";"Adet";50
+"null";;" - - - Vidalı pompalar:";;
+"null";"8413.60.70.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.60.70.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8413.60.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.60.80.90.00";" - - - - Diğerleri";"Adet";50
+"null";"8413.70";" - Diğer santrifüj pompalar:";;
+"null";;" - - Dalgıç pompaları:";;
+"null";;" - - - Tek kademeli olanlar";;
+"null";"8413.70.21.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";50
+"null";"8413.70.21.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Çok kademeli olanlar";;
+"null";"8413.70.29.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";50
+"null";"8413.70.29.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - Isıtmada veya sıcak su temininde kullanılan salmastrasız çarklı pompalar";;
+"null";"8413.70.30.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";50
+"null";"8413.70.30.90.00";" - - - Diğerleri";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";;" - - - Çıkış ağzı çapı 15 mm.yi geçmeyenler:";;
+"null";"8413.70.35.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.70.35.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Çıkış ağzı çapı 15 mm.yi geçenler:";;
+"null";;" - - - - Tıkanmaz çarklı ve yıldız çarklı (rejeneratif) pompalar:";;
+"null";"8413.70.45.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.70.45.90.00";" - - - - - Diğerleri";"Adet";50
+"null";;" - - - - Radyal akışlı pompalar:";;
+"null";;" - - - - - Tek kademeli olanlar:";;
+"null";;" - - - - - - Çarkı tek girişli olanlar:";;
+"null";;" - - - - - - - Yekpare gövdeli olanlar:";;
+"null";"8413.70.51.10.00";" - - - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.70.51.90.00";" - - - - - - - - Diğerleri";"Adet";50
+"null";;" - - - - - - - Diğerleri:";;
+"null";"8413.70.59.10.00";" - - - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.70.59.90.00";" - - - - - - - - Diğerleri";"Adet";50
+"null";;" - - - - - - Çarkı çok girişli olanlar:";;
+"null";"8413.70.65.10.00";" - - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.70.65.90.00";" - - - - - - - Diğerleri";"Adet";50
+"null";;" - - - - - Çok kademeli olanlar:";;
+"null";"8413.70.75.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.70.75.90.00";" - - - - - - Diğerleri";"Adet";50
+"null";;" - - - - Diğer santrifüj pompalar:";;
+"null";;" - - - - - Tek kademeli olanlar:";;
+"null";"8413.70.81.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.70.81.90.00";" - - - - - - Diğerleri";"Adet";50
+"null";;" - - - - - Çok kademeli olanlar:";;
+"null";"8413.70.89.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8413.70.89.90.00";" - - - - - - Diğerleri";"Adet";50
+"null";;" - Diğer pompalar; sıvı elevatörleri:";;
+"null";"8413.81.00.00.00";" - - Pompalar";"Adet";50
+"null";"8413.82.00.00.00";" - - Sıvı elevatörleri";"Adet";50
+"null";;" - Aksam ve parçalar:";;
+"null";"8413.91";" - - Pompalara ait olanlar";;
+"null";"8413.91.00.00.11";" - - - Metal dökümden olanlar";"-";50
+"null";"8413.91.00.00.19";" - - - Diğerleri";"-";50
+"null";"8413.92.00.00.00";" - - Sıvı elevatörlerine ait olanlar";"-";50
+"null";;;;
+"null";"84.14";"Hava veya vakum pompaları, hava veya diğer gaz kompresörleri,";;
+"null";;"fanlar (vantilatörler ve aspiratörler); bir aspiratörü olan havalan-";;
+"null";;"dırmaya mahsus davlumbazlar (filtreli olsun olmasın); gaz geçirmez biyolojik ";;
+"null";;"güvenlik kabinleri (filtreli olsun olmasın) :";;
+"null";"8414.10";" - Vakum pompaları:";;
+"null";"8414.10.15.00.00";" - - Yarı iletkenlerin veya sadece veya esas itibarıyla düz panel göstergelerin";;
+"null";;"     üretiminde kullanılan türde olanlar";"Adet";40
+"null";;" - - Diğerleri:";;
+"null";;" - - - Döner pistonlu pompalar, kayar kanatlı döner pompalar, moleküler";;
+"null";;"        pompalar ve ruts tipi pompalar:";;
+"null";"8414.10.25.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";"8414.10.25.90.00";" - - - - Diğerleri";"Adet";40
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Difüzyon pompaları, kriyostatik pompalar ve emici pompalar:";;
+"null";"8414.10.81.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";"8414.10.81.90.00";" - - - - - Diğerleri";"Adet";40
+"null";;" - - - - Diğerleri:";;
+"null";"8414.10.89.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";"8414.10.89.90.00";" - - - - - Diğerleri";"Adet";40
+"null";"8414.20";" - El veya ayakla çalıştırılan hava pompaları:";;
+"null";"8414.20.20.00.00";" - - Bisikletler ve motosikletler için el pompaları";"Adet";40
+"null";;" - - Diğerleri:";;
+"null";"8414.20.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";"8414.20.80.90.00";" - - - Diğerleri";"Adet";40
+"null";"8414.30";" - Soğutma cihazlarında kullanılan kompresörler:";;
+"null";;" - - Gücü 0,4 kW.ı geçmeyenler:";;
+"null";"8414.30.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.30.20.90.00";" - - - Diğerleri";"Adet";50
+"null";;" - - Gücü 0,4 kW.ı geçenler:";;
+"null";;" - - - Hermetik veya yarı hermetik olanlar:";;
+"null";"8414.30.81.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.30.81.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8414.30.89.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.30.89.90.00";" - - - - Diğerleri";"Adet";50
+"null";"8414.40";" - Tekerlekli şasiler üzerine monte edilmiş çekilebilen hava";;
+"null";;"    kompresörleri:";;
+"null";;" - - Dakikada verdiği hava debisi 2 m3.ü geçmeyenler";;
+"null";"8414.40.10.00.11";" - - -Vidalı olanlar";"Adet";50
+"null";"8414.40.10.00.12";" - - - Pistonlu olanlar";"Adet";50
+"null";"8414.40.10.00.19";" - - - Diğerleri";"Adet";50
+"null";;" - - Dakikada verdiği hava debisi 2 m3.ü geçenler";;
+"null";"8414.40.90.00.11";" - - -Vidalı olanlar";"Adet";50
+"null";"8414.40.90.00.12";" - - - Pistonlu olanlar";"Adet";50
+"null";"8414.40.90.00.19";" - - - Diğerleri";"Adet";50
+"null";;" - Fanlar:";;
+"null";"8414.51";" - - Gücü 125 W.ı geçmeyen kendinden elektrik motorlu masa, yer,";;
+"null";;"     duvar, pencere, tavan veya çatı fanları :";;
+"null";"8414.51.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";60
+"null";"8414.51.00.90.00";" - - - Diğerleri";"Adet";60
+"null";"8414.59";" - - Diğerleri:";;
+"null";"8414.59.15.00.00";" - - - Sadece veya esas itibarıyla mikroişlemcilerin, telekominikasyon cihazlarının,  ";;
+"null";;"       otomatik bilgi işlem makinalarının veya bunların ünitelerinin soğutulması için ";;
+"null";;"       kullanılan türde fanlar";"Adet";60
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Eksenel (aksiyal) fanlar :";;
+"null";"8414.59.25.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";60
+"null";"8414.59.25.90.00";" - - - - - Diğerleri";"Adet";60
+"null";;" - - - - Santrifüjlü fanlar :";;
+"null";"8414.59.35.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";60
+"null";"8414.59.35.90.00";" - - - - - Diğerleri";"Adet";60
+"null";;" - - - - Diğerleri:";;
+"null";"8414.59.95.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";60
+"null";"8414.59.95.90.00";" - - - - -  Diğerleri";"Adet";60
+"null";"8414.60.00.00.00";" - En büyük yatay kenarı 120 cm.yi geçmeyen davlumbazlar";"Adet";60
+"null";"8414.70.00.00.00";" - Gaz geçirmez biyolojik güvenlik kabinleri (filtreli olsun olmasın)";"Adet";60
+"null";"8414.80";" - Diğerleri:";;
+"null";;" - - Turbo kompresörler:";;
+"null";;" - - - Tek kademeli olanlar:";;
+"null";"8414.80.11.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.80.11.90.00";" - - - -  Diğerleri";"Adet";50
+"null";;" - - - Çok kademeli olanlar:";;
+"null";"8414.80.19.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.80.19.90.00";" - - - -  Diğerleri";"Adet";50
+"null";;" - - Pistonlu kompresörler:";;
+"null";;" - - - Monometre basıncı 15 bar'ı geçmeyenler:";;
+"null";;" - - - - Debisi saatte 60 m3.ü geçmeyenler:";;
+"null";"8414.80.22.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";;" - - - - -  Diğerleri:";;
+"null";"8414.80.22.90.11";" - - - - - - Hava tankı ihtiva edenler";"Adet";50
+"null";"8414.80.22.90.19";" - - - - - - Diğerleri";"Adet";50
+"null";;" - - - - Debisi saatte 60 m3.ü geçenler:";" ";
+"null";"8414.80.28.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.80.28.90.00";" - - - - -  Diğerleri";"Adet";50
+"null";;" - - - Monometre basıncı 15 bar'ı geçenler:";" ";
+"null";;" - - - - Debisi saatte 120 m3.ü geçmeyenler:";" ";
+"null";"8414.80.51.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.80.51.90.00";" - - - - -  Diğerleri";"Adet";50
+"null";;" - - - - Debisi saatte 120 m3.ü geçenler:";" ";
+"null";"8414.80.59.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.80.59.90.00";" - - - - -  Diğerleri";"Adet";50
+"null";;" - - Döner hareketli kompresörler:";" ";
+"null";;" - - - Tek şaftlı olanlar:";" ";
+"null";"8414.80.73.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.80.73.90.00";" - - - -  Diğerleri";"Adet";50
+"null";;" - - - Çok şaftlı olanlar:";" ";
+"null";;" - - - - Vidalı kompresörler:";" ";
+"null";"8414.80.75.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.80.75.90.00";" - - - - -  Diğerleri";"Adet";50
+"null";;" - - - - Diğerleri:";" ";
+"null";"8414.80.78.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8414.80.78.90.00";" - - - - -  Diğerleri";"Adet";50
+"null";;" - - Diğerleri:";" ";
+"null";"8414.80.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";30
+"null";"8414.80.80.20.00";" - - - Aspiratörü olan filtreli davlumbazlar";"Adet";40
+"null";"8414.80.80.30.00";" - - - Serbest pistonlu jeneratörler";"Adet";50
+"null";;" - - - Diğerleri:";" ";
+"null";"8414.80.80.90.11";" - - - - En büyük yatay kenarı 120 cm.yi geçen bir aspiratörü olan davlum-";" ";
+"null";;"             bazlar";"Adet";50
+"null";"8414.80.80.90.19";" - - - - Diğerleri";"Adet";50
+"null";"8414.90";" - Aksam ve parçalar:";" ";
+"null";"8414.90.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";60
+"null";"8414.90.00.90.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"84.15";"Klima cihazları (motorlu bir vantilatör ile nem ve ısıyı değiştirmeye";;
+"null";;"mahsus tertibatı olanlar) (nemin ayrı olarak ayarlanamadığı cihazlar";;
+"null";;"dahil):";;
+"null";"8415.10";" - Pencere, duvar, tavan veya zemine sabitlenecek tipler ";;
+"null";;"  [tek bir gövde halinde(self-contained) veya split sistem]: ";;
+"null";"8415.10.10.00.00";" - - Tek bir gövde halinde (self-contained)";"-";60
+"null";;" - - Ayrı elemanlı sistemler (split-sistem)";;
+"null";"8415.10.90.00.11";" - - - Değişken debili (VRF) olanlar";"-";60
+"null";"8415.10.90.00.19";" - - - Diğerleri";"-";60
+"null";"8415.20.00.00.00";" - Motorlu taşıtlarda şahıslar için kullanılan türden olanlar";"-";60
+"null";;" - Diğerleri:";;
+"null";"8415.81";" - - Bir soğutucu ünite ve soğutma-ısıtma çevrimini tersine değiştiren";;
+"null";;"     bir valf içerenler (ters çevrimli ısı pompaları ) :";;
+"null";"8415.81.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";60
+"null";"8415.81.00.90.00";" - - - Diğerleri";"-";60
+"null";"8415.82";" - - Diğerleri (bir soğutucu ünite içerenler):";" ";
+"null";"8415.82.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";60
+"null";"8415.82.00.90.00";" - - - Diğerleri";"-";60
+"null";"8415.83";" - - Bir soğutucu ünite içermeyenler:";" ";
+"null";"8415.83.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";60
+"null";"8415.83.00.90.00";" - - - Diğerleri";"-";60
+"null";"8415.90";" - Aksam ve parçalar:";" ";
+"null";"8415.90.00.10.00";" - - 8415.81, 8415.82 veya 8415.83 alt pozisyonlarındaki sivil hava";" ";
+"null";;"      taşıtlarında kullanılmaya mahsus klima cihazlarına ait olanlar ";"-";60
+"null";;" - - Diğerleri:";;
+"null";;" - - - Split sistemlerin dış üniteleri";;
+"null";"8415.90.00.90.02";" - - - - Değişken debili (VRF) olanlar";"-";60
+"null";"8415.90.00.90.09";" - - - - Diğerleri";"-";60
+"null";"8415.90.00.90.12";" - - - Split sistemlerin iç üniteleri";"-";60
+"null";"8415.90.00.90.19";" - - - Diğerleri";"-";60
+"null";;;;
+"null";"84.16";"Akaryakıt, tozlaştırılmış katı yakıt veya gaz yakıtlı ocak brülörleri;";;
+"null";;"mekanik kömür taşıyıcıları (bunların mekanik ızgaraları, mekanik kül";;
+"null";;"boşaltıcıları ve benzeri cihazları dahil):";;
+"null";"8416.10";" - Akaryakıt brülörleri:";;
+"null";"8416.10.10.00.00";" - - Otomatik kontrol tertibatı bulunanlar";"Adet";60
+"null";"8416.10.90.00.00";" - - Diğerleri";"Adet";60
+"null";"8416.20";" - Diğer yakıt brülörleri (kombine brülörler dahil)";;
+"null";"8416.20.10.00.00";" - - Sadece gaz için olanlar (monoblok, bir vantilatör ve bir kontrol cihazı ile   ";;
+"null";;"      birlikte bulunanlar)";"Adet";60
+"null";;" - - Diğerleri";;
+"null";;" - - - Kombine brülörler";;
+"null";"8416.20.20.00.11";" - - - - Tozlaştırılmış katı yakıt brülörleri";"Adet";60
+"null";"8416.20.20.00.19";" - - - - Diğerleri";"Adet";60
+"null";;" - - - Diğerleri";;
+"null";"8416.20.80.00.11";" - - - - Tozlaştırılmış katı yakıt brülörleri";"-";60
+"null";"8416.20.80.00.19";" - - - - Diğerleri";"-";60
+"null";"8416.30.00.00.00";" - Mekanik kömür taşıyıcılar (bunların mekanik ızgaraları, ";;
+"null";;"   mekanik kül boşaltıcıları ve benzeri cihazları dahil)";"-";60
+"null";"8416.90";" - Aksam ve parçalar";;
+"null";"8416.90.00.00.11";" - - Brülörlere ait olanlar";"-";60
+"null";"8416.90.00.00.19";" - - Diğerleri";"-";60
+"null";;;;
+"null";"84.17";"Sanayi veya laboratuvarlara mahsus elektrikli olmayan fırınlar ve";;
+"null";;"ocaklar (çöp yakma fırınları dahil):";;
+"null";"8417.10";" - Metallerin, metal cevherlerinin, piritlerin kavrulması, ergitilmesi";;
+"null";;"    veya başka şekillerde ısıl işlem görmesine mahsus, fırınlar ve ";;
+"null";;"    ocaklar";;
+"null";"8417.10.00.00.11";" - - Ergitme fırınları";"-";25
+"null";"8417.10.00.00.12";" - - Isıl işlem fırınları";"-";25
+"null";"8417.10.00.00.13";" - - İzabe fırınları";"-";25
+"null";"8417.10.00.00.19";" - - Diğerleri";"-";25
+"null";"8417.20";" - Ekmekçilik fırınları (bisküvi fırınları dahil):";" ";
+"null";"8417.20.10.00.00";" - - Tünel fırınları";"-";25
+"null";"8417.20.90.00.00";" - - Diğerleri";"-";25
+"null";"8417.80";" - Diğerleri:";" ";
+"null";"8417.80.30.00.00";" - - Seramik ürünlerin fırınlanmasına mahsus fırınlar ve ocaklar";"Adet";25
+"null";"8417.80.50.00.00";" - - Çimento, cam ve kimyasal ürünlerin fırınlanmasına mahsus fırınlar ve ocaklar";"Adet";25
+"null";"8417.80.70.00.00";" - - Diğerleri";"-";25
+"null";"8417.90.00.00.00";" - Aksam ve parçalar";"-";25
+"null";;;" ";
+"null";"84.18";"Buzdolapları, dondurucular ve diğer soğutucu ve dondurucu cihazlar";" ";
+"null";;"(elektrikli olsun olmasın); ısı pompaları (84.15 pozisyonundaki klima";" ";
+"null";;"cihazları hariç) :";" ";
+"null";"8418.10";" - Birden fazla dış kapılı veya çekmeceli veya bunların kombinasyonu olan";" ";
+"null";;"   kombine haldeki soğutucu -dondurucular:";;
+"null";"8418.10.20.00.00";" - - Hacmi 340 litreyi geçenler";"Adet";60
+"null";"8418.10.80.00.00";" - - Diğerleri";"Adet";60
+"null";;" - Ev tipi soğutucular:";" ";
+"null";"8418.21";" - - Kompresörlü olanlar:";" ";
+"null";"8418.21.10.00.00";" - - - Hacmi 340 litreyi geçenler";"Adet";60
+"null";;" - - - Diğerleri:";" ";
+"null";"8418.21.51.00.00";" - - - - Masa modeli olanlar";"Adet";60
+"null";"8418.21.59.00.00";" - - - - Gömme tip olanlar";"Adet";60
+"null";;" - - - - Diğerleri:";" ";
+"null";"8418.21.91.00.00";" - - - - - Hacmi 250 litreyi geçmeyenler";"Adet";60
+"null";"8418.21.99.00.00";" - - - - - Hacmi 250 litreyi geçen fakat 340 litreyi geçmeyenler";"Adet";60
+"null";"8418.29";" - - Diğerleri";" ";
+"null";"8418.29.00.00.11";" - - - Evlerde kullanılan elektriksiz buzdolapları";"Adet";60
+"null";"8418.29.00.00.19";" - - - Diğerleri";"Adet";60
+"null";"8418.30";" - Yatay tip dondurucular (hacmi 800 litreyi geçmeyenler):";" ";
+"null";"8418.30.20.00.00";" - - Hacmi 400 litreyi geçmeyenler";"Adet";60
+"null";"8418.30.80.00.00";" - - Hacmi 400 litreyi geçen fakat 800 Iitreyi geçmeyenler";"Adet";60
+"null";"8418.40";" - Dikey tip dondurucular (hacmi 900 litreyi geçmeyenler):";;
+"null";"8418.40.20.00.00";" - - Hacmi 250 litreyi geçmeyenler";"Adet";60
+"null";"8418.40.80.00.00";" - - Hacmi 250 litreyi geçen fakat 900 litreyi geçmeyenler";"Adet";60
+"null";"8418.50";" - Dondurucu veya soğutucu ekipmanlar ile mücehhez depolama ve";;
+"null";;"    teşhir amaçlı diğer mobilya ( konsol, dolap, teşhir tezgahları, vitrinler ";;
+"null";;"     ve benzerleri)";;
+"null";;" - - Vitrin tipi soğutucular (bir soğutucu ünite veya evaparatör ile mücehhez";;
+"null";;"      olanlar):";;
+"null";"8418.50.11.00.00";" - - - Dondurulmuş gıdaların depolanması için olanlar";"Adet";60
+"null";"8418.50.19.00.00";" - - - Diğerleri";"Adet";60
+"null";"8418.50.90.00.00";" - - Mobilya tipi diğer soğutucular";"Adet";60
+"null";;" - Diğer soğutucu veya dondurucu cihazlar; ısı pompaları:";;
+"null";"8418.61.00.00.00";" - - Isı pompaları ( 84.15 pozisyonunda yer alan klima cihazları hariç)";"-";60
+"null";"8418.69";" - - Diğerleri:";" ";
+"null";"8418.69.00.91.00";" - - - Komple soğutma tesisleri";"-";60
+"null";;" - - - Diğerleri:";;
+"null";"8418.69.00.99.11";" - - - - Frigorifik araç kasalarına takılmaya mahsus soğutucu üniteler";"-";60
+"null";"8418.69.00.99.12";" - - - - Buz yapma makineleri";"-";60
+"null";"8418.69.00.99.19";" - - - - Diğerleri";"-";60
+"null";;" - Aksam ve parçalar:";" ";
+"null";"8418.91.00.00.00";" - - Soğutucu veya dondurucu cihazlara mahsus mobilyalar";"-";60
+"null";"8418.99";" - - Diğerleri:";" ";
+"null";"8418.99.10.00.00";" - - - Evaporatörler ve kondenserler (ev tipi buzdolapları için olanlar hariç)";"-";60
+"null";"8418.99.90.00.00";" - - - Diğerleri";"-";60
+"null";;;" ";
+"null";"84.19";"Isı değişikliği yoluyla (özellikle ısıtma, pişirme, kavurma, damıtma,";" ";
+"null";;"rektifiye etme, steril hale koyma, pastörize etme, etüvleme, kurutma,";" ";
+"null";;"buharlaştırma, kondanse etme veya soğutma gibi) maddelerin";" ";
+"null";;"işlenmesi için makinalar ve tesis veya laboratuvar cihazları (ısıtması ";"  ";
+"null";;"elektrikle olsun olmasın)(85.14 pozisyonundaki ocaklar, fırınlar ve diğer";" ";
+"null";;"cihazlar hariç)  (ev işlerinde kullanılmaya mahsus makina ve cihazlar ";" ";
+"null";;"hariç) elektrikli olmayan şofbenler ve diğer su ısıtıcıları:";" ";
+"null";;" - Elektrikli olmayan anında veya depolu su ısıtıcıları:";;
+"null";"8419.11.00.00.00";" - - Gazla çalışan anında su ısıtıcılar";"-";60
+"null";"8419.12.00.00.00";" - - Güneş enerjili (solar) su ısıtıcıları";"-";60
+"null";"8419.19";" - - Diğerleri";" ";
+"null";"8419.19.00.00.11";" - - - Termosifonlar (depolu su ısıtıcıları)";"-";60
+"null";"8419.19.00.00.19";" - - - Diğerleri";"-";60
+"null";"8419.20";" - Tıbbi, cerrahi veya laboratuvar sterilizatörleri";" ";
+"null";"8419.20.00.00.11";" - - Elektrikli sterilizatörler";"-";40
+"null";"8419.20.00.00.19";" - - Diğer sterilizatörler";"-";40
+"null";;" - Kurutucular:";" ";
+"null";"8419.33.00.00.00";" - - Liyofilizasyon aletleri, dondurarak kurutma üniteleri ve sprey kurutucular ";"-";40
+"null";"8419.34.00.00.00";" - - Diğerleri, tarım ürünleri için olanlar";"-";40
+"null";"8419.35.00.00.00";" - -  Diğerleri, ağaç, kağıt hamuru, kağıt veya kartonlar için olanlar";"-";40
+"null";"8419.39.00.00.00";" - - Diğerleri";"-";40
+"null";"8419.40";" - Damıtma veya rektifiye tesisleri";;
+"null";"8419.40.00.00.11";" - - Su damıtma cihazı (elektrikle çalışan)";"-";40
+"null";"8419.40.00.00.19";" - - Diğerleri";"-";40
+"null";"8419.50";" - Isı değiştiricileri (eşanjörler):";;
+"null";"8419.50.20.00.00";" - - Floropolimerlerden mamul iç çapı 3 cm veya daha az olan delikli giriş ve ";;
+"null";;"    çıkış borularına sahip ısı değiştiricileri ";"-";40
+"null";"8419.50.80.00.00";" - - Diğerleri";"-";40
+"null";"8419.60.00.00.00";" - Hava veya diğer gazları sıvılaştırmaya mahsus makinalar";"-";40
+"null";;" - Diğer makina, tesis ve cihazlar:";" ";
+"null";"8419.81";" - - Sıcak içecek yapmaya veya yiyecekleri pişirmeye veya ısıtmaya";" ";
+"null";;"     mahsus olanlar:";" ";
+"null";;" - - - Kahve ve diğer sıcak içecekleri yapmaya mahsus perkolatör ve";" ";
+"null";;"          diğer cihazlar:";;
+"null";"8419.81.20.00.11";" - - - - Elektrikli olanlar";"-";40
+"null";"8419.81.20.00.19";" - - - - Diğerleri";"-";40
+"null";"8419.81.80.00.00";" - - - Diğerleri";"-";40
+"null";"8419.89";" - - Diğerleri:";" ";
+"null";"8419.89.10.00.00";" - - - Su dolaşımı vasıtası ile doğrudan soğutmaya mahsus (bir ayırma";" ";
+"null";;"        duvarı olmayan) soğutma kuleleri ve benzeri tesisler";"-";40
+"null";"8419.89.30.00.00";" - - - Biriktirme yoluyla metal kaplamaya mahsus vakum-buhar teribatı ";"-";40
+"null";;" - - - Diğerleri:";" ";
+"null";"8419.89.98.10.00";" - - - - Pastörizatörler";"-";40
+"null";;" - - - - Diğerleri";" ";
+"null";"8419.89.98.90.11";" - - - - - Tütsüleme cihazları";"-";40
+"null";"8419.89.98.90.12";" - - - - - Dondurma imaline mahsus kimyasal tuz esaslı mekanik kaplar      ";"-";40
+"null";"8419.89.98.90.19";" - - - - - Diğerleri";"-";40
+"null";"8419.90";" - Aksam ve parçalar:";;
+"null";"8419.90.15.00.00";" - - 8419.20.00.00 alt pozisyonundaki sterilizatörlere ait olanlar";"-";40
+"null";;" - - Diğerleri:";;
+"null";"8419.90.85.10.00";" - - - Pastörizatörlere ait olanlar";"-";40
+"null";;" - - - Diğerleri";;
+"null";"8419.90.85.90.11";" - - - - Perkolatörlere ait olanlar";"-";60
+"null";"8419.90.85.90.12";" - - - - Şofben ve diğer su ısıtıcılarına ait olanlar";"-";60
+"null";"8419.90.85.90.13";" - - - - Isı değiştiricilerine (eşanjörler) ait olanlar";"-";60
+"null";"8419.90.85.90.19";" - - - - Diğerleri";"-";60
+"null";;;;
+"null";"84.20";"KalenderIer ve diğer hadde makinaIarı (metal veya cam hadde ";" ";
+"null";;"makinaIarı hariç) ve bu makinaIarın siIindirleri:";" ";
+"null";"8420.10";" - Kalenderler ve diğer hadde makinaları:";" ";
+"null";"8420.10.10.00.00";" - - Tekstil sanayiinde kullanılan türden olanlar";"-";50
+"null";"8420.10.30.00.00";" - - Kağıt sanayiinde kullanılan türden olanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8420.10.81.00.00";" - - - Sadece veya esas itibarıyla baskılı devre veya baskılı devre yüzeylerinin";;
+"null";;"      üretiminde kullanılan türde laminasyon ruloları";"-";50
+"null";"8420.10.89.00.00";" - - - Diğerleri";"-";50
+"null";;" - Aksam ve parçalar:";"  ";
+"null";"8420.91";" - - Silindirler:";" ";
+"null";;" - - - Demir dökümden olanlar";" ";
+"null";"8420.91.10.00.11";" - - - - Kalenderler için";"-";50
+"null";"8420.91.10.00.19";" - - - - Diğer hadde makinaları için";"-";50
+"null";;" - - - Diğerleri";" ";
+"null";"8420.91.80.00.11";" - - - - Kalenderler için";"-";50
+"null";"8420.91.80.00.19";" - - - - Diğer hadde makinaları için";"-";50
+"null";"8420.99.00.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"84.21";"Santrifüjler (santrifüj kurutma makinaları dahil); sıvıların veya";;
+"null";;"gazların fiItre edilmesine veya arıtılmasına mahsus makina ve ";;
+"null";;"cihazlar:";;
+"null";;" - Santrifüjler (santrifüj kurutma makinaları dahil):";;
+"null";"8421.11.00.00.00";" - - Krema ayırıcılar (ekremözler)";"-";30
+"null";"8421.12";" - - Çamaşır kurutma makinaları";;
+"null";"8421.12.00.00.11";" - - - Bir defada kurutacağı çamaşırın kuru ağırlığı 6 kg.ı geçmeyecek";;
+"null";;"        kapasitede olanlar";"Adet";30
+"null";"8421.12.00.00.19";" - - - Bir defada kurutacağı çamaşırın kuru ağırlığı 6 kg.ı geçen";;
+"null";;"        kapasitede olanlar";"Adet";30
+"null";"8421.19";" - - Diğerleri:";;
+"null";;" - - - Laboratuvarlarda kullanılan santrifüjler";;
+"null";"8421.19.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus  olanlar";"-";30
+"null";"8421.19.20.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8421.19.70.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8421.19.70.90.00";" - - - - Diğerleri ";"-";30
+"null";;" - Sıvıların filtre edilmesine veya arıtılmasına mahsus makina ve";;
+"null";;"    cihazlar:";;
+"null";"8421.21.00.00.00";" - - Suyun filtre edilmesine veya arıtılmasına mahsus olanlar";"-";30
+"null";"8421.22.00.00.00";" - - İçeceklerin (su hariç) filtre edilmesine veya arıtılmasına mahsus";" ";
+"null";;"     olanlar";"-";30
+"null";"8421.23.00.00.00";" - - İçten yanmalı motorlar için yağ ve yakıt filtreleri";"-";30
+"null";"8421.29";" - - Diğerleri:";" ";
+"null";"8421.29.20.00.00";" - - - Floropolimerden mamul filtre veya arıtma membranı kalınlığı 140 mikronu geçmeyenler ";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8421.29.80.00.11";" - - - - Diyalizör";"-";30
+"null";"8421.29.80.00.19";" - - - - Diğerleri";"-";30
+"null";;" - Gazların filtre edilmesi veya arıtılmasına mahsus makina ve ";;
+"null";;"    cihazlar:";;
+"null";"8421.31";" - - İçten yanmalı motorlar için hava filtreleri:";;
+"null";"8421.31.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8421.31.00.90.00";" - - - Diğerleri";"-";30
+"null";"8421.32.00.00.00";" - - İçten yanmalı motorlardan çıkan egzoz gazlarını arıtmak veya filtrelemek için ";;
+"null";;"    birleştirilmiş olsun veya olmasın katalitik konvertörler veya partikül filtreleri ";"-";30
+"null";"8421.39";" - - Diğerleri:";" ";
+"null";"8421.39.15.00.00";" - - - Paslanmaz çelik gövdeli, iç çapı 1,3 cm geçmeyen delikli giriş ve çıkış  ";;
+"null";;"      borularına sahip olanlar";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Havanın filtre edilmesi veya arıtılması için makina ve cihazlar:";;
+"null";"8421.39.25.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8421.39.25.90.00";" - - - - - DiğerIeri";"-";30
+"null";;" - - - - Diğer gazların filtre edilmesi veya arıtılması için makina ve cihazlar: ";" ";
+"null";;" - - - - - Katalitik işlem esaslı olanlar:";;
+"null";"8421.39.35.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8421.39.35.90.00";" - - - - - - DiğerIeri";"-";30
+"null";;" - - - - - Diğerleri:";;
+"null";"8421.39.85.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8421.39.85.90.00";" - - - - - - DiğerIeri";"-";30
+"null";;" -  Aksam ve parçalar:";;
+"null";"8421.91.00.00.00";" - - Santrifüjlere ait olanlar (santrifüj kurutma makinalarına ait olanlar dahil)";"-";30
+"null";"8421.99";" - - Diğerleri";" ";
+"null";"8421.99.10.00.00";" - - - 8421.29.20 veya 8421.39.15 alt pozisyonlarındaki makine ve cihazlara ait olanlar";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8421.99.90.00.11";" - - - - Gümüş ihtiva eden filtre kartuşları";"-";30
+"null";"8421.99.90.00.12";" - - - - Ters ozmos filtre membranı";"-";30
+"null";"8421.99.90.00.13";" - - - - Nano filtasyon filtre membranı";"-";30
+"null";"8421.99.90.00.14";" - - - - Ultra ve mikro filtrasyon filtre membranı";"-";30
+"null";"8421.99.90.00.19";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"84.22";"Bulaşık yıkama makinaları; şişeleri veya diğer kapları temizlemeye";;
+"null";;"veya kurutmaya mahsus makinalar; şişeleri, kutuları, çuvalları veya";;
+"null";;"diğer kapları doldurmaya, kapamaya, mühürlemeye veya etiketle- ";;
+"null";;"meye mahsus makinalar; şişeleri,kavanozları,tüpleri ve benzeri ";;
+"null";;"kapları kapsüllemeye mahsus makinalar; diğer paketleme veya ";;
+"null";;"ambalajlama makinaları (ısı ile büzerek ambalajlamaya mahsus ";;
+"null";;"makinalar dahil) ;içecekleri gazlandırmaya mahsus makinalar:";;
+"null";;" - Bulaşık yıkama makinaları:";;
+"null";"8422.11.00.00.00";" - - Evlerde kullanılanlar";"Adet";30
+"null";"8422.19.00.00.00";" - - Diğerleri";"Adet";30
+"null";"8422.20.00.00.00";" - Şişeleri veya diğer kapları temizlemeye veya kurutmaya mahsus";;
+"null";;"   makinalar";"-";30
+"null";"8422.30.00.00.00";" - Şişeleri, kutuları, çuvalları veya diğer kapları doldurmaya, kapa-";;
+"null";;"   maya, mühürlemeye veya etiketlemeye mahsus makinalar;şişeleri,";;
+"null";;"   kavanozları, tüpleri ve benzeri kapları kapsüllemeye mahsus maki-";;
+"null";;"   nalar; içecekleri gazlandırmaya mahsus makinalar";"-";30
+"null";"8422.40";" - Diğer paketleme veya ambalajlama makinaları (ısı ile büzerek ";;
+"null";;"   ambalajlamaya  mahsus makinalar dahil):";;
+"null";"8422.40.00.00.11";" - - Sigara, puro, sigarillo veya makaron paketleme veya ambalajlama makinaları";"-";30
+"null";"8422.40.00.00.19";" - - Diğerleri";"-";30
+"null";"8422.90";" - Aksam ve parçalar";;
+"null";"8422.90.10.00.00";" - - Bulaşık yıkama makinalarına ait olanlar";"-";30
+"null";;" - - Diğerleri";;
+"null";"8422.90.90.00.11";" - - - Diğer paketleme veya ambalajlama makinalarına ait olanlar";"-";30
+"null";"8422.90.90.00.19";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"84.23";"Tartı alet ve cihazları (hassasiyeti 5 santigram veya daha iyi olan";;
+"null";;"teraziler hariç) (tartarak sayan veya kontrol eden baskül ve teraziler";;
+"null";;"dahil) her tür tartı alet ve cihazlarına mahsus ağırlıklar:";;
+"null";"8423.10";" - İnsan tartan basküller (bebekleri tartmaya mahsus olanlar dahil);";;
+"null";;"   evlerde kullanılan teraziler:";;
+"null";"8423.10.10.00.00";" - - Evlerde kullanılan teraziler";"Adet";60
+"null";;" - - Diğerleri";;
+"null";"8423.10.90.00.11";" - - - Elektrikli ve elektronik basküller";"Adet";50
+"null";"8423.10.90.00.19";" - - - Diğerleri";"Adet";50
+"null";"8423.20";" - Taşıyıcı bantlar üzerindeki maddeyi tartmaya mahsus basküller";;
+"null";"8423.20.10.00.00";" - - Ağırlık ölçümünü elektronik olarak yapanlar";"Adet";50
+"null";"8423.20.90.00.00";" - - Diğerleri";"Adet";50
+"null";"8423.30";" - Sabit ağırlıkları tartan basküller ve maddeyi belirli bir ağırlığa";;
+"null";;"   göre tartarak çuval ve diğer kaplara doldurmaya mahsus baskül ";;
+"null";;"   ve teraziler (hazneli tartı cihazları dahil):";;
+"null";;" - - Ağırlık ölçümünü elektronik olarak yapanlar:";;
+"null";"8423.30.10.10.00";" - - - Basküller";"Adet";50
+"null";"8423.30.10.90.00";" - - - Diğerleri";"Adet";60
+"null";" ";" - - Diğerleri:";" ";
+"null";"8423.30.90.10.00";" - - - Basküller";"Adet";50
+"null";"8423.30.90.90.00";" - - - Diğerleri";"Adet";60
+"null";;" - Diğer tartı alet ve cihazları:";;
+"null";"8423.81";" - - Tartma kapasitesi 30 kg.ı geçmeyenler:";;
+"null";;" - - - Ağırlık ölçümünü elektronik olarak yapanlar:";;
+"null";"8423.81.21.00.00";" - - - - Maddelerin önceden tesbit edilen bir ağırlığa göre ağırlık kontrolünü";;
+"null";;"        otomatik olarak yapan kontrol aletleri (ağırlıklara göre tasnif edenler dahil)";"Adet";60
+"null";"8423.81.23.00.00";" - - - - Önceden paketlenmiş maddeleri tartmaya ve etiketlemeye mahsus  alet ve cihazlar";"Adet";60
+"null";"8423.81.25.00.00";" - - - - Dükkanlarda kullanılan teraziler";"Adet";60
+"null";"8423.81.29.00.00";" - - - - Diğerleri";"Adet";60
+"null";"8423.81.80.00.00";" - - - Diğerleri";"Adet";60
+"null";"8423.82";" - - Tartma kapasitesi 30 kg.ı geçen fakat 5000 kg.ı geçmeyenler:";;
+"null";"8423.82.20.00.00";" - - - Ağırlık ölçümünü elektronik olarak yapanlar, motorlu araçları tartanlar hariç";"Adet";60
+"null";;" - - - Diğerleri:";;
+"null";"8423.82.81.00.00";" - - - - Maddelerin önceden tespit edilen bir ağırlığa göre ağırlık kontrolünü";;
+"null";;"        otomatik olarak yapan kontrol aletleri (ağırlıklarına göre tasnif edilenler dahil)";"Adet";60
+"null";;" - - - - Diğerleri:";;
+"null";"8423.82.89.10.00";" - - - - - Basküller";"Adet";50
+"null";"8423.82.89.90.00";" - - - - - Diğerleri";"Adet";60
+"null";"8423.89";" - - Diğerleri:";"  ";
+"null";;" - - - Ağırlık ölçümünü elektronik olarak yapanlar:";;
+"null";"8423.89.20.10.00";" - - - - Köprü tipi basküller";"Adet";50
+"null";"8423.89.20.90.00";" - - - - Diğerleri";"Adet";60
+"null";;" - - - Diğerleri:";;
+"null";"8423.89.80.10.00";" - - - - Köprü tipi basküller";"Adet";50
+"null";"8423.89.80.90.00";" - - - - Diğerleri";"Adet";60
+"null";"8423.90";" - Her türlü tartı alet ve cihazlarına mahsus ağırlıklar; tartı alet ve";;
+"null";;"   cihazlarının aksam ve parçaları:";;
+"null";"8423.90.10.00.00";" - - 8423.20.10, 8423.30.10, 8423.81.21, 8423.81.23, 8423.81.25, 8423.81.29";;
+"null";;"     8423.82.20 veya 8423.89.20 alt pozisyonlarındaki aletlerin aksam parçaları  ";"-";60
+"null";"8423.90.90.00.00";" - - Diğerleri";"-";60
+"null";;;" ";
+"null";"84.24";"Sıvı veya toz halindeki maddeleri püskürtmeye, dağıtmaya veya ";;
+"null";;"pülverize etmeye mahsus mekanik cihazlar (el ile kullanılan türde";;
+"null";;"olsun olmasın); yangın söndürme cihazları (doldurulmuş olsun";;
+"null";;"olmasın); püskürtme tabancaları ve benzeri cihazlar; buhar veya";;
+"null";;"kum püskürtme makinaları ve benzeri püskürtme makinaları:";;
+"null";"8424.10.00.00.00";" - Yangın söndürme cihazları (doldurulmuş olsun olmasın)";"-";50
+"null";"8424.20.00.00.00";" - Püskürtme tabancaları ve benzeri cihazlar";"-";50
+"null";"8424.30";" - Buhar veya kum püskürtme makinaları ve benzeri makinalar:";;
+"null";;" - - Su ile temizleme cihazları ( kendinden motorlu ):";;
+"null";"8424.30.01.00.00";" - - - Isıtma tertibatlı olanlar";"Adet";50
+"null";"8424.30.08.00.00";" - - - Diğerleri";"Adet";50
+"null";;" - -  Diğer makina ve cihazlar:";;
+"null";"8424.30.10.00.00";" - - - Basınçlı hava ile çalışanlar";"-";50
+"null";"8424.30.90.00.00";" - - - Diğerleri";"-";50
+"null";;" - Tarıma veya bahçeciliğe ait püskürtücüler:";;
+"null";"8424.41";" - - Portatif olanlar:";;
+"null";"8424.41.00.10.00";" - - - Zirai mücadelede kullanılan türde olanlar";"Adet";25
+"null";"8424.41.00.90.00";" - - - Diğerleri";"Adet";50
+"null";"8424.49";" - - Diğerleri:";;
+"null";"8424.49.10.00.00";" - - - Traktörler tarafından çekilmek veya bunlara monte edilmek";;
+"null";;"       üzere yapılmış pülvarizatörler ve toz dağıtıcılar";"Adet";50
+"null";"8424.49.90.00.00";" - - - Diğerleri";"Adet";50
+"null";;" - Diğer cihazlar:";;
+"null";"8424.82";" - - Tarıma veya bahçeciliğe ait olanlar:";;
+"null";"8424.82.10.00.00";" - - - Sulama cihazları";"-";50
+"null";"8424.82.90.00.00";" - - - Diğerleri";"-";50
+"null";"8424.89";" - - Diğerleri:";;
+"null";"8424.89.40.00.00";" - - - Sadece veya esas itibarıyla baskılı devreler veya baskılı devre montajlarının";;
+"null";;"      üretiminde kullanılan türde mekanik püskürtme, dağıtma cihazları";"-";50
+"null";"8424.89.70.00.00";" - - - Diğerleri";"-";50
+"null";"8424.90";" - Aksam ve parçalar :";;
+"null";"8424.90.20.00.00";" - - 8424.89.40 alt pozisyonundaki mekanik cihazlara ait olanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8424.90.80.00.11";" - - - Tarım ve bahçeciliğe ait olanlar";"-";50
+"null";"8424.90.80.00.19";" - - - Diğerleri ";"-";50
+"null";;;;
+"null";"84.25";"Palangalar ve ağır yük kaldırıcıları (skipli yük kaldırıcıları hariç);";;
+"null";;"bucurgatlar ve ırgatlar; krikolar:";;
+"null";;" - Palangalar ve ağır yük kaldırıcıları (skipli yük kaldırıcıları ve";;
+"null";;"   taşıtların kaldırılmasına mahsus ağır yük kaldırıcıları hariç) :";;
+"null";"8425.11.00.00.00";" - - Elektrik motorlu olanlar";"Adet";50
+"null";"8425.19.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Diğer bucurgatlar ve ırgatlar:";;
+"null";"8425.31";" - - Elektrik motorlu olanlar:";;
+"null";"8425.31.00.00.11";" - - - Gemilerde kulanılan bucurgatlar ve ırgatlar";"Adet";50
+"null";"8425.31.00.00.19";" - - - Diğerleri";"Adet";50
+"null";"8425.39";" - - Diğerleri:";;
+"null";"8425.39.00.00.10";" - - - Maden kuyularına skiplerin indirilip çıkarılmasını sağlayan bucurgatlar ;";;
+"null";;"       özellikle yer altında kullanılmak üzere imal edilmiş bucurgatlar";"Adet";50
+"null";"8425.39.00.00.90";" - - - Diğerleri";"Adet";50
+"null";;" - Krikolar; taşıtların kaldırılmasında kullanılan ağır yük kaldırıcıları:";;
+"null";"8425.41.00.00.00";" - - Servis istasyonları veya garajlarda kullanılan türdeki sabit kriko";;
+"null";;"     sistemleri";"Adet";50
+"null";"8425.42.00.00.00";" - - Diğer hidrolik krikolar ve ağır yük kaldırıcıları (hidrolik)";"Adet";50
+"null";"8425.49.00.00.00";" - - Diğerleri";"Adet";50
+"null";;;;
+"null";"84.26";"Gemi vinçleri (""derricks""); vinçler (""cranes"") (taşıyıcı halatlı vinçler";;
+"null";;"dahil); hareketli kaldırma çerçeveleri, şasisi ""straddle"" tipi olan ayak";;
+"null";;"mesafeIeri ayarlanabilen Iastik tekerlekli taşıyıcılar ve vinçli yük";;
+"null";;"arabaları:";;
+"null";;" - Gezer köprü vinçleri, sabit veya raylar üzerinde hareket eden taşı-";;
+"null";;"    yıcı vinçler, gantri vinçler, köprü vinçler, hareketli kaldırma çerçe-";;
+"null";;"    veleri ve şasisi ""straddle"" tipi olan ayak mesafeleri ayarlanabilen";;
+"null";;"    lastik tekerlekli taşıyıcılar:";;
+"null";"8426.11.00.00.00";" - - Sabit bir mesnet üzerine tesbit edilmiş gezer köprü vinçleri";"-";50
+"null";"8426.12";" - - Hareketli kaldırma çerçeveleri ve şasisi ""straddle"" tipi olan ayak";;
+"null";;"     mesafeleri ayarlanabilen Iastik tekerlekli taşıyıcılar:";;
+"null";"8426.12.00.10.00";" - - - Hareketli kaldırma çerçeveleri";"-";50
+"null";"8426.12.00.90.00";" - - - Diğerleri";"-";50
+"null";"8426.19";" - - Diğerleri";" ";
+"null";"8426.19.00.00.11";" - - - Gantri vinçler";"-";50
+"null";"8426.19.00.00.12";" - - - Köprü vinçler";"-";50
+"null";"8426.19.00.00.13";" - - - Raylı taşıyıcı vinçler";"-";50
+"null";"8426.19.00.00.19";" - - - Diğerleri";"-";50
+"null";"8426.20.00.00.00";" - Kule vinçler";"-";50
+"null";"8426.30.00.00.00";" - Seyyar dirençli vinçler";"-";50
+"null";;" - Kendinden hareketli diğer makina ve cihazlar:";" ";
+"null";"8426.41";" - - Lastik tekerlekli olanlar:";" ";
+"null";"8426.41.00.10.00";" - - - Vinçli yük arabaları";"-";50
+"null";"8426.41.00.90.00";" - - - Diğerleri";"-";50
+"null";"8426.49.00.00.00";" - - Diğerleri";"-";50
+"null";;" - Diğer makina ve cihazlar:";;
+"null";"8426.91";" - - Kara taşıtlarına monte edilmek üzere imal edilmiş olanlar:";;
+"null";"8426.91.10.00.00";" - - - Taşıtların yüklenip boşaltılmasına mahsus hidrolik vinçler";"Adet";50
+"null";"8426.91.90.00.00";" - - - Diğerleri";"-";50
+"null";"8426.99";" - - Diğerleri:";;
+"null";"8426.99.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8426.99.00.90.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"84.27";"Forkliftler; kaldırma ve elleçleme tertibatı olan diğer yük arabaları:";;
+"null";"8427.10";" - Elektrik motorlu kendinden hareketli forkliftler ve diğer yük";;
+"null";;"   arabaları:";;
+"null";"8427.10.10.00.00";" - - Kaldırma yüksekliği 1 m. veya daha fazla olanlar";"Adet";50
+"null";"8427.10.90.00.00";" - - Diğerleri";"Adet";50
+"null";"8427.20";" - Kendinden hareketli diğer forkliftler ve diğer yük arabaları:";;
+"null";;" - - Kaldırma yüksekliği 1 m. veya daha fazla olanlar:";;
+"null";"8427.20.11.00.00";" - - - Arazi forkliftleri ve istiflemeye mahsus diğer yük arabaları";"Adet";50
+"null";"8427.20.19.00.00";" - - - Diğerleri";"Adet";50
+"null";"8427.20.90.00.00";" - - Diğerleri";"Adet";50
+"null";"8427.90";" - Diğer forkliftler ve yük arabaları:";;
+"null";"8427.90.00.10.00";" - - Mekanik kaldırma platformlu yük arabaları";"Adet";50
+"null";"8427.90.00.90.00";" - - Diğerleri";"Adet";60
+"null";;;;
+"null";"84.28";"Kaldırma, elleçleme, yükleme veya boşaltma işlerine mahsus diğer ";;
+"null";;"makina ve cihazlar (asansörler, yürüyen merdivenler, konveyörler,";;
+"null";;"teleferikler gibi):";;
+"null";"8428.10";" - Asansörler ve skipli yük kaldırıcıları:";;
+"null";;" - - Elektrikli olanlar:";;
+"null";"8428.10.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8428.10.20.90.11";" - - - - İnsan taşımaya mahsus olanlar";"-";50
+"null";"8428.10.20.90.12";" - - - - Yük taşımaya mahsus olanlar";"-";50
+"null";"8428.10.20.90.19";" - - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8428.10.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8428.10.80.90.00";" - - - Diğerleri";"-";50
+"null";"8428.20";" - Pnömatik elevatörler ve konveyörler:";" ";
+"null";;" - - Dökme malzeme için olanlar";;
+"null";"8428.20.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8428.20.20.90.00";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8428.20.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8428.20.80.90.00";" - - - Diğerleri";"-";50
+"null";;" - Eşya ve malzeme taşımaya mahsus sürekli hareketli diğer ";;
+"null";;"   elevatörler ve konveyörler:";;
+"null";"8428.31.00.00.00";" - - Yer altında kullanılmak üzere özel olarak imal edilmiş olanlar";"-";50
+"null";"8428.32.00.00.00";" - - Diğerleri (kovalı olanlar)";"-";50
+"null";"8428.33";" - - Diğerleri, (bantlı olanlar):";" ";
+"null";"8428.33.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8428.33.00.90.00";" - - - Diğerleri";"-";50
+"null";"8428.39";" - - Diğerleri:";" ";
+"null";;" - - - Rulolu veya makaralı konveyörler";;
+"null";"8428.39.20.10.00";" - - - -Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8428.39.20.90.00";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8428.39.90.10.00";" - - - -Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8428.39.90.90.00";" - - - - Diğerleri";"-";50
+"null";"8428.40.00.00.00";" - Yürüyen merdiven ve yürüyen platformlar";"-";50
+"null";"8428.60.00.00.00";" - Teleferikler, telesiyejler ve teleskiler; fünikülerler için çekiş";" ";
+"null";;"    mekanizmaları";"-";50
+"null";"8428.70.00.00.00";" - Sınai robotlar";"-";50
+"null";"8428.90";" - Diğer makina ve cihazlar:";" ";
+"null";;" - - Tarımda kullanılmak üzere özel olarak imal edilmiş yükleyiciler:";" ";
+"null";"8428.90.71.00.00";" - - -  Zirai traktörlere takılmak üzere imal edilenler";"-";50
+"null";"8428.90.79.00.00";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";" ";
+"null";"8428.90.90.10.00";" - - - Haddehane için makina ve cihazlar; ürünlerin taşınmasına mahsus";;
+"null";;"        döner masalar; külçe, bilye, çubuk ve levha bloklarına mahsus";;
+"null";;"        külbütörler ve manipulatörler";"-";50
+"null";"8428.90.90.20.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8428.90.90.90.11";" - - - - Sabit personel yükseltici platformlar";"-";50
+"null";"8428.90.90.90.12";" - - - - Mobil personel yükseltici platformlar";"-";50
+"null";"8428.90.90.90.19";" - - - - Diğerleri";"-";50
+"null";"84.29";"Kendinden hareketli buldozerler, angledozerler, greyderler, toprak";;
+"null";;"tesviyesine mahsus makinalar, skreyperler, mekanik küreyiciler,";;
+"null";;"ekskavatörler, küreyici yükleyiciler, sıkıştırma işini tokmaklamak";;
+"null";;"suretiyle yapan makinalar ve yol silindirleri:";;
+"null";;" - Buldozerler ve angledozerler:";;
+"null";"8429.11";" - - Paletli olanlar";;
+"null";"8429.11.00.00.11";" - - - Buldozerler";"Adet";15
+"null";"8429.11.00.00.12";" - - - Angledozerler";"Adet";15
+"null";"8429.19";" - - Diğerleri";" ";
+"null";"8429.19.00.00.11";" - - - Buldozerler";"Adet";15
+"null";"8429.19.00.00.12";" - - - Angledozerler";"Adet";15
+"null";"8429.20";" - Greyderler ve toprağın tesviyesine mahsus makinalar";" ";
+"null";"8429.20.00.00.11";" - - Greyderler";"Adet";15
+"null";"8429.20.00.00.12";" - - Toprağın tesviyesine mahsus makinalar";"Adet";15
+"null";"8429.30.00.00.00";" - Skreyperler";"Adet";15
+"null";"8429.40";" - Sıkıştırma işini tokmaklamak suretiyle yapan makinalar ve yol";;
+"null";;"   silindirleri:";;
+"null";;" - - Yol silindirleri:";;
+"null";" ";" - - - Vibratörlü olanlar";;
+"null";"8429.40.10.00.11";" - - - - Lastik tekerlekli olanlar";"Adet";50
+"null";"8429.40.10.00.19";" - - - - Diğerleri";"Adet";50
+"null";"8429.40.30.00.00";" - - - Diğerleri";"Adet";50
+"null";"8429.40.90.00.00";" - - Sıkıştırma işini tokmaklamak suretiyle yapan makinalar";"Adet";15
+"null";;" - Mekanik küreyiciler, ekskavatörler ve küreyici yükleyiciler:";;
+"null";"8429.51";" - - Önden yüklemeli küreyici yükleyiciler:";;
+"null";;" - - - Yer altında kullanılmak üzere özel olarak imal edilmiş küreyici";;
+"null";;"         yükleyiciler:";;
+"null";;" - - - - Toprağı kazabilenler";;
+"null";"8429.51.10.10.11";" - - - - - Lastik tekerlekli olanlar";"Adet";15
+"null";"8429.51.10.10.19";" - - - - - Diğerleri";"Adet";15
+"null";;" - - - - Diğerleri";;
+"null";"8429.51.10.90.11";" - - - - - Lastik tekerlekli olanlar";"Adet";50
+"null";"8429.51.10.90.19";" - - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8429.51.91.00.00";" - - - - Paletli yükleyiciler";"Adet";50
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Toprağı kazabilenler";;
+"null";"8429.51.99.10.11";" - - - - - - Lastik tekerlekli olanlar";"Adet";15
+"null";"8429.51.99.10.19";" - - - - - - Diğerleri";"Adet";15
+"null";;" - - - - - Diğerleri";;
+"null";"8429.51.99.90.11";" - - - - - - Lastik tekerlekli olanlar";"Adet";50
+"null";"8429.51.99.90.19";" - - - - - - Diğerleri";"Adet";50
+"null";"8429.52";" - - Kulesi 360 derece dönebilen makina ve cihazlar:";;
+"null";"8429.52.10.00.00";" - - - Paletli ekskavatörler";"Adet";15
+"null";" ";" - - - Diğerleri";;
+"null";"8429.52.90.00.11";" - - - - Lastik tekerlekli olanlar";"Adet";50
+"null";"8429.52.90.00.19";" - - - - Diğerleri";"Adet";50
+"null";"8429.59";" - - Diğerleri:";;
+"null";;" - - - Toprağı kazabilenler";;
+"null";"8429.59.00.10.11";" - - - - Beko loder";"Adet";15
+"null";"8429.59.00.10.19";" - - - - Diğerleri";"Adet";15
+"null";"8429.59.00.90.00";" - - - Diğerleri";"Adet";50
+"null";;;;
+"null";"84.30";"Toprağın, minerallerin veya cevherlerin taşınması, yayılması, tesvi-";;
+"null";;"yesi, sıyrılması, kazılması, sıkıştırılması, bastırılıp sıkıştırılması,";;
+"null";;"çıkarılması veya delinmesine mahsus diğer makina ve cihazlar;";;
+"null";;"kazık varyosları ve kazık sökme makinaları; kar küreyicileri ve ";;
+"null";;"püskürtücüleri:";;
+"null";"8430.10";" - Kazık varyosları ve kazık sökme makinaları:";;
+"null";"8430.10.00.10.00";" - - Kazık varyosları";"Adet";15
+"null";"8430.10.00.20.00";" - - Kazık sökme makinaları";"Adet";50
+"null";"8430.20";" - Kar küreyicileri ve kar püskürtücüleri";;
+"null";"8430.20.00.00.11";" - - Kar küreyicileri";"Adet";50
+"null";"8430.20.00.00.12";" - - Kar püskürtücüleri";"Adet";50
+"null";;" - Kömür veya kaya kesicileri (havözler) ve tünel açma makinaları:";;
+"null";"8430.31.00.00.00";" - - Kendinden hareketli olanlar";"-";15
+"null";"8430.39.00.00.00";" - - Diğerleri";"-";15
+"null";;" - Diğer delme veya sondaj makinaları:";;
+"null";"8430.41.00.00.00";" - - Kendinden hareketli olanlar";"-";15
+"null";"8430.49.00.00.00";" - - Diğerleri";"-";15
+"null";"8430.50.00.00.00";" - Kendinden hareketli diğer makina ve cihazlar";"-";15
+"null";;" - Kendinden hareketli olmayan diğer makina ve cihazlar:";;
+"null";"8430.61";" - - Sıkıştırma veya basıp sıkıştırma makina ve cihazları";" ";
+"null";"8430.61.00.00.11";" - - - İtilen ve çekilen yol silindirleri";"Adet";15
+"null";"8430.61.00.00.19";" - - - Diğerleri";"Adet";15
+"null";"8430.69.00.00.00";" - - Diğerleri";"-";15
+"null";;;;
+"null";"84.31";"Özellikle veya esasen 84.25 ila 84.30 pozisyonlarındaki makina ve";;
+"null";;"cihazlar ile birlikte kullanılmaya elverişli aksam ve parçalar:";;
+"null";"8431.10.00.00.00";" - 84.25 Pozisyonundaki makina ve cihazlara ait olanlar";"-";50
+"null";"8431.20";" - 84.27 Pozisyonundaki makina ve cihazlara ait olanlar:";;
+"null";"8431.20.00.10.00";" - - 8427.90.00.10 Alt pozisyonundaki makina ve cihazlara ait olanlar";"-";50
+"null";"8431.20.00.20.00";" - - 8427.90.00.90 Alt pozisyonundaki makina ve cihazlara ait olanlar";"-";60
+"null";"8431.20.00.90.00";" - - Diğerlerine ait olanlar";"-";50
+"null";;" - 84.28 Pozisyonundaki makina ve cihazlara ait olanlar:";" ";
+"null";"8431.31";" - - Asansörlere, skipli asansörlere veya yürüyen merdivenlere";" ";
+"null";;"     ait olanlar:";;
+"null";"8431.31.00.00.11";" - - - Boyu 1 metre ve üzeri asansör ışık perdesi (boy fotoseli)";"-";50
+"null";"8431.31.00.00.12";" - - - Asansör kılavuz rayları";"-";50
+"null";"8431.31.00.00.19";" - - - Diğerleri";"-";50
+"null";"8431.39.00.00.00";" - - Diğerleri";"-";50
+"null";;" - 84.26, 84.29 ve 84.30 Pozisyonlarındaki makina ve cihazlara ait ";" ";
+"null";;"   olanlar";" ";
+"null";"8431.41.00.00.00";" - - Kovalar, kepçeler, kürekler, kıskaçlar ve kancalar";"-";50
+"null";"8431.42.00.00.00";" - - Buldozer ve angledozer bıçakları";"-";15
+"null";"8431.43.00.00.00";" - - 8430.41 ve 8430.49 Alt pozisyonlarındaki delme veya sondaj";" ";
+"null";;"     makinalarına ait aksam ve parçalar";"-";15
+"null";"8431.49";" - - Diğerleri:";;
+"null";;" - - - Demir Dökümden veya çelik dökümden olanlar:";;
+"null";;" - - - - 84.29 Pozisyonundaki makina ve cihazlara ait olanlar:";" ";
+"null";"8431.49.20.21.00";" - - - - - 8429.51.10.90 ve 8429.51.99.90, 8429.52.90.00, 8429.59.00.90 Alt ";" ";
+"null";;"            pozisyonlarındaki makina ve cihazlara ait olanlar";"-";50
+"null";"8431.49.20.23.00";" - - - - - 8429.40.10.00 ve 8429.40.30.00 alt pozisyonlarındaki makina ve ";" ";
+"null";;"            cihazlara ait olanlar";"-";50
+"null";"8431.49.20.29.00";" - - - - - Diğerleri";"-";15
+"null";"8431.49.20.49.00";" - - - - Diğerleri";"-";50
+"null";"8431.49.80.00.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"84.32";"Toprağı hazırlamaya, işlemeye ve ekmeye mahsus tarla ve bahçe";;
+"null";;"tarımında veya ormancılıkta kullanılan makina ve cihazlar; çimen-";;
+"null";;"likler ve spor sahaları için silindirler:";;
+"null";"8432.10.00.00.00";" - Pulluklar";"Adet";25
+"null";;" -Tırmıklar, skarifikatörler, kültivatörler, zararlı otları ayıklayan";;
+"null";;"   makinalar, çapa makinaları:";;
+"null";"8432.21.00.00.00";" - - Diskli tırmıklar (diskorolar)";"Adet";25
+"null";"8432.29";" - - Diğerleri:";;
+"null";" ";" - - - Skarifikatörler ve kültivatörler";;
+"null";"8432.29.10.00.11";" - - - - Skarifikatörler";"Adet";25
+"null";"8432.29.10.00.12";" - - - - Kültivatörler";"Adet";25
+"null";"8432.29.30.00.00";" - - - Tırmıklar";"Adet";25
+"null";"8432.29.50.00.00";" - - - Toprak frezeleri (rötovatörler)";"Adet";25
+"null";" ";" - - - Diğerleri";" ";
+"null";"8432.29.90.00.11";" - - - - Gübreli çapa makinaları";"Adet";25
+"null";"8432.29.90.00.19";" - - - - Diğer çapa makinaları";"Adet";25
+"null";"8432.29.90.00.21";" - - - - Tırmıklı merdaneler";"Adet";25
+"null";"8432.29.90.00.29";" - - - - Diğer merdaneler";"Adet";25
+"null";"8432.29.90.00.39";" - - - - Diğerleri";"Adet";25
+"null";;" - Ekim ve dikim makinaları:";;
+"null";"8432.31.00.00.00";" - - Toprağı sürmeden doğrudan ekim ve dikim yapanlar";"Adet";25
+"null";"8432.39";" - - Diğerleri:";;
+"null";;" - - - Ekim makinaları:";;
+"null";" ";" - - - - Merkezden tahrikli hassas ekim makinaları";;
+"null";"8432.39.11.00.11";" - - - - - Mekanik olanlar (mibzer)";"Adet";25
+"null";"8432.39.11.00.12";" - - - - - Pnömatik olanlar (mibzer)";"Adet";25
+"null";"8432.39.19.00.00";" - - - - Diğerleri";"Adet";25
+"null";" ";" - - - Tek dane ve yumru ekim makinaları ve fide ve fidan dikim makinaları:";" ";
+"null";"8432.39.90.00.11";" - - - - Tek dane ekim makinaları";"Adet";25
+"null";"8432.39.90.00.12";" - - - - Yumru dikim makinaları";"Adet";25
+"null";"8432.39.90.00.13";" - - - - Fide dikim makinaları";"Adet";25
+"null";"8432.39.90.00.14";" - - - - Fidan dikim makinaları";"Adet";25
+"null";;" - Gübreleme makina ve cihazları:";;
+"null";"8432.41.00.00.00";" - - Hayvan gübresi dağtıcıları";"Adet";25
+"null";"8432.42.00.00.00";" - - Diğer gübre dağıtıcıları";"Adet";25
+"null";"8432.80";" - Diğer makina ve cihazlar";;
+"null";"8432.80.00.00.11";" - - Çimenlikler ve spor sahaları için silindirler";"-";25
+"null";"8432.80.00.00.12";" - - Taş parçalarını sökme, toplama makinaları";"-";25
+"null";"8432.80.00.00.19";" - - Diğerleri";"-";25
+"null";"8432.90.00.00.00";" - Aksam ve parçalar";"-";25
+"null";;;;
+"null";"84.33";"Tarım ürünlerinin hasat ve harman edilmesine mahsus makina ve ";;
+"null";;"cihazlar (ot ve saman balyalamaya mahsus olanlar dahil) ; çim ve";;
+"null";;"ot biçme makina ve cihazları; yumurtaları, meyvaları ve diğer ";;
+"null";;"tarım ürünlerini ağırlık ve büyüklüklerine göre ayıran ve temizleyen";;
+"null";;"makina ve cihazlar ( 84.37 pozisyonundaki makina ve cihazlar hariç):";;
+"null";;" - Çimenlikler, parklar veya spor alanları için çim biçme makina ve cihazları:";;
+"null";"8433.11";" - - Motorlu olanlar (yatay bir zemin üzerinde dönen kesici tertibatlı):";;
+"null";"8433.11.10.00.00";" - - - Elektrik motorlu olanlar";"Adet";25
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Kendinden hareketli olanlar:";;
+"null";"8433.11.51.00.00";" - - - - - Oturacak yeri olanlar";"Adet";25
+"null";"8433.11.59.00.00";" - - - - - Diğerleri";"Adet";25
+"null";"8433.11.90.00.00";" - - - - Diğerleri";"Adet";25
+"null";"8433.19";" - - Diğerleri:";;
+"null";;" - - - Motorlu olanlar:";;
+"null";"8433.19.10.00.00";" - - - - Elektrik motorlu olanlar";"Adet";25
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Kendinden hareketli olanlar:";;
+"null";"8433.19.51.00.00";" - - - - - - Oturacak yeri olanlar";"Adet";25
+"null";"8433.19.59.00.00";" - - - - - - Diğerleri";"Adet";25
+"null";"8433.19.70.00.00";" - - - - - Diğerleri";"Adet";25
+"null";"8433.19.90.00.00";" - - - Motorsuz olanlar";"Adet";25
+"null";"8433.20";" - Diğer çim biçme makinaları (traktörlere monte edilen parmaklı biçme";;
+"null";;"    makinaları dahil):";;
+"null";"8433.20.10.00.00";" - - Motorlu olanlar";"Adet";25
+"null";;" - - Diğerleri:";;
+"null";"8433.20.50.00.00";" - - - Bir traktörle taşınmak veya çekilmek üzere imal edilmiş olanlar";"Adet";25
+"null";"8433.20.90.00.00";" - - - Diğerleri";"Adet";25
+"null";"8433.30.00.00.00";" - Ot hazırlama makina ve cihazları";"Adet";25
+"null";"8433.40.00.00.00";" - Ot ve saman balyalama makina ve cihazları (ot ve samanları ";;
+"null";;"   toplayıp demet veya balya yapmaya mahsus olanlar dahil)";"Adet";25
+"null";;" - Diğer hasat makina ve cihazları; harman makina ve cihazları:";" ";
+"null";"8433.51";" - - Biçer döverler:";;
+"null";;" - - - Biçme ağzı genişliği 2 metreyi geçmeyenler";;
+"null";"8433.51.00.00.11";" - - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.51.00.00.19";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Biçme ağzı genişliği 2 metreyi geçenler";;
+"null";"8433.51.00.00.21";" - - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.51.00.00.29";" - - - - Diğerleri";"Adet";25
+"null";"8433.52";" - - Diğer harman makina ve cihazları";" ";
+"null";"8433.52.00.00.12";" - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.52.00.00.18";" - - - Diğerleri";"Adet";25
+"null";"8433.53";" - - Kök ve yumru hasat makinaları:";;
+"null";;" - - - Patates sökme ve hasat makinaları";;
+"null";"8433.53.10.00.13";" - - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.53.10.00.19";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Pancar baş kesme ve hasat makinaları";" ";
+"null";"8433.53.30.00.13";" - - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.53.30.00.19";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Diğerleri";" ";
+"null";;" - - - - Yer fıstığı sökme ve hasat makinaları";;
+"null";"8433.53.90.00.13";" - - - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.53.90.00.18";" - - - - - Diğerleri";"Adet";25
+"null";"8433.53.90.00.19";" - - - - Diğerleri";"Adet";25
+"null";"8433.59";" - - Diğerleri:";;
+"null";" ";" - - - Silaj makinası";;
+"null";"8433.59.11.00.00";" - - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.59.19.00.00";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Pamuk hasat makinaları";;
+"null";"8433.59.85.00.11";" - - - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.59.85.00.19";" - - - - - Diğerleri";"Adet";25
+"null";;" - - - - Domates hasat makinaları";;
+"null";"8433.59.85.00.21";" - - - - - Kendinden hareketli olanlar";"Adet";25
+"null";"8433.59.85.00.29";" - - - - - Diğerleri";"Adet";25
+"null";"8433.59.85.00.39";" - - - - Diğerleri";"Adet";25
+"null";"8433.60.00.00.00";" - Yumurtaları, meyvaları veya diğer tarım ürünlerini ağırlık veya büyük-";;
+"null";;"   lüklerine göre ayırmaya veya temizlemeye mahsus makina ve cihazlar";"-";25
+"null";"8433.90";" - Aksam ve parçalar:";;
+"null";" ";" - - Kombine hasat ve harman makinalarına (biçer döverlere) ve ot ve";;
+"null";;"      samanları balyalamaya mahsus makinalara ait olanlar";;
+"null";"8433.90.00.10.11";" - - - Kombine hasat ve harman makinalarına (biçer döverlere) ait olanlar";"-";25
+"null";"8433.90.00.10.12";" - - - Ot ve samanları balyalama makinalarına ait olanlar";"-";25
+"null";"8433.90.00.20.00";" - - Harman makinalarına ait olanlar";"-";25
+"null";" ";" - - Diğerleri";" ";
+"null";"8433.90.00.90.11";" - - - Orak makinalarına (biçerlere) ait olanlar";"-";25
+"null";"8433.90.00.90.19";" - - - Diğerleri";"-";25
+"null";;;" ";
+"null";"84.34";"Süt sağma makinaları ve sütçülükte kullanılan makina ve cihazlar:";" ";
+"null";"8434.10.00.00.00";" - Süt sağma makinaları";"-";10
+"null";"8434.20";" - Sütçülükte kullanılan makina ve cihazlar";" ";
+"null";"8434.20.00.00.11";" - - Tereyağ imaline mahsus makina ve cihazlar (ekremözler hariç)";"-";10
+"null";"8434.20.00.00.12";" - - Peynir imaline mahsus makina ve cihazlar";"-";10
+"null";"8434.20.00.00.19";" - - Diğerleri";"-";10
+"null";"8434.90.00.00.00";" - Aksam ve parçalar";"-";10
+"null";;;;
+"null";"84.35";"Şarap, elma şarabı, meyva suları veya benzeri içeceklerin imaline";;
+"null";;"mahsus presler, fulvarlar ve benzeri makina ve cihazlar:";;
+"null";"8435.10";" - Makina ve cihazlar:";;
+"null";"8435.10.00.00.11";" - - Üzüm sıkma presleri";"-";25
+"null";"8435.10.00.00.12";" - - Meyva sularını çıkarmaya mahsus presler";"-";25
+"null";"8435.10.00.00.19";" - - Diğerleri";"-";25
+"null";"8435.90.00.00.00";" - Aksam ve parçalar";"-";25
+"null";;;;
+"null";"84.36";"Tarla ve bahçe tarımına, ormancılığa, kümes hayvancılığına veya ";;
+"null";;"arıcılığa mahsus diğer makina ve cihazlar (mekanik veya termik";;
+"null";;"tertibatlı çimlendirmeye mahsus olanlar dahil); kümes hayvancılığı-";;
+"null";;"na mahsus civciv çıkartma ve büyütme makina ve cihazları:";;
+"null";"8436.10.00.00.00";" - Hayvan yemlerini hazırlamaya mahsus makina ve cihazlar";"-";25
+"null";;" - Kümes hayvancılığına mahsus makina ve cihazlar; civciv çıkartma";;
+"null";;"   ve büyütme makina ve cihazları:";;
+"null";"8436.21";" - - Civciv çıkartma ve büyütme makina ve cihazları:";;
+"null";"8436.21.00.00.11";" - - - Civciv çıkartma makina ve cihazları";"-";25
+"null";"8436.21.00.00.12";" - - - Civciv büyütme makina ve cihazları";"-";25
+"null";"8436.29";" - - Diğerleri:";" ";
+"null";"8436.29.00.00.11";" - - - Tavuk beslemeye mahsus otomatik cihazlar";"-";25
+"null";"8436.29.00.00.12";" - - - Yumurtaları muayene etmeye mahsus mekanik tertibatlı makina ve ";" ";
+"null";" ";"        cihazlar (tasnif makinaları hariç)";"-";25
+"null";"8436.29.00.00.13";" - - - Tavukların tüylerini yolmaya mahsus makina ve cihazlar";"-";25
+"null";"8436.29.00.00.19";" - - - Diğerleri";"-";25
+"null";"8436.80";" - Diğer makina ve cihazlar:";;
+"null";"8436.80.10.00.00";" - - Ormancılığa mahsus olanlar";"Adet";25
+"null";"8436.80.90.00.00";" - - Diğerleri";"-";25
+"null";;" - Aksam ve parçalar:";;
+"null";"8436.91.00.00.00";" - - Kümes hayvancılığına veya civciv çıkartma ve büyütme makina ";;
+"null";;"     ve cihazlarına ait olanlar";"-";25
+"null";"8436.99";" - - Diğerleri";;
+"null";"8436.99.00.00.11";" - - - Hayvan yemlerini hazırlayan makina ve cihazlara ait olanlar";"-";25
+"null";"8436.99.00.00.19";"- - - Diğerleri";"-";25
+"null";;;;
+"null";"84.37";"Tohumların, hububatın, kuru baklagillerin temizlenmesine, tasnif ";;
+"null";;"edilmesine veya ayıklanmasına mahsus makina ve cihazlar; kuru ";;
+"null";;"baklagillerin veya hububatın öğütülmesine veya işlenmesine mah-";;
+"null";;"sus makina ve cihazlar (çiftlik tipi makina ve cihazlar hariç):";;
+"null";"8437.10.00.00.00";" - Tohumların, hububatın veya kuru baklagillerin temizlenmesine, ";;
+"null";;"    tasnif edilmesine veya ayıklanmasına mahsus makina ve cihazlar";"Adet";40
+"null";"8437.80";" - Diğer makina ve cihazlar";;
+"null";" ";" - - Değirmencilikte kullanılmaya mahsus olanlar";;
+"null";"8437.80.00.10.11";" - - - Hububatın öğütülmesine ve işlenmesine mahsus makina ve cihazlar";"-";40
+"null";"8437.80.00.10.12";" - - - Kuru baklagillerin öğütülmesine ve işlenmesine mahsus makina ve ci-";;
+"null";" ";"        hazlar";"-";40
+"null";"8437.80.00.10.19";" - - - Diğerleri";"-";40
+"null";"8437.80.00.90.00";" - - Diğerleri";"-";25
+"null";"8437.90";" - Aksam ve parçalar:";;
+"null";"8437.90.00.10.00";" - - Tohumların, hububatın veya kuru baklagillerin temizlenmesi, ağırlığı";;
+"null";;"      ve büyüklüklerine göre tasnif edilmesine veya ayıklanmasına mahsus";;
+"null";" ";"      makina ve cihazlara ait olanlar";"-";25
+"null";" ";" - - Diğerleri";;
+"null";"8437.90.00.90.11";" - - - Vals topları ";"-";40
+"null";"8437.90.00.90.19";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"84.38";"Bu fasılın diğer pozisyonlarında yer almayan veya belirtilmeyen ";;
+"null";;"yiyecek ve içeceklerin sınai amaçlarla hazırlanması veya imaline ";;
+"null";;"mahsus makina ve cihazlar (hayvansal, bitkisel veya mikrobiyal sabit katı veya ";;
+"null";;"sıvı yağların çıkarılmasına veya hazırlanmasına mahsus olanlar hariç):";;
+"null";"8438.10";" - Ekmekçilik, pastacılık, bisküvicilik makina ve cihazları ile makarna";;
+"null";;"    ve benzeri ürünlerin imaline mahsus makina ve cihazlar:";;
+"null";"8438.10.10.00.00";" - - Ekmek, pasta, bisküvi imaline mahsus olanlar";"-";40
+"null";"8438.10.90.00.00";" - - Makarna veya benzerlerinin imaline mahsus olanlar";"-";40
+"null";"8438.20.00.00.00";" - Şekerleme, kakao veya çikolata imaline mahsus makina ve";;
+"null";;"    cihazlar";"-";40
+"null";"8438.30.00.00.00";" - Şeker imaline mahsus makina ve cihazlar";"-";40
+"null";"8438.40.00.00.00";" - Biracılığa mahsus makina ve cihazlar";"-";40
+"null";"8438.50.00.00.00";" - Etlerin veya kümes hayvanlarının etlerinin hazırlanmasına mahsus";" ";
+"null";;"   makina ve cihazlar";"-";40
+"null";"8438.60";" - Sebze, meyva ve kabuklu yemişlerin hazırlanmasına mahsus ";" ";
+"null";;"    makina ve cihazlar";" ";
+"null";"8438.60.00.00.11";" - - Patates soyma makina ve cihazları";"-";40
+"null";"8438.60.00.00.12";" - - Meyva ve sebzelerin hazırlanmasına mahsus makina ve cihazlar ";"-";40
+"null";"8438.60.00.00.13";" - - Kabuklu yemişlerin hazırlanmasına mahsus makina ve cihazlar";"-";40
+"null";"8438.80";" - Diğer makina ve cihazlar:";" ";
+"null";;" - - Çay yapraklarını veya kahve çekirdeklerini işlemeye mahsus makina";" ";
+"null";;"      ve cihazlar:";" ";
+"null";"8438.80.10.10.00";" - - - Çay yapraklarını kesen veya kıvıran makina";"-";50
+"null";"8438.80.10.90.00";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";" ";
+"null";"8438.80.91.00.00";" - - - İçeceklerin hazırlanmasına veya imaline mahsus makina ve cihazlar";"-";40
+"null";;" - - - Diğerleri:";" ";
+"null";"8438.80.99.10.00";" - - - - Portakallardan uçucu yağ çıkarmaya mahsus makina ve cihazlar";"-";50
+"null";" ";" - - - - Diğerleri";" ";
+"null";"8438.80.99.90.11";" - - - - - Balıkların veya kabuklu deniz hayvanlarının hazırlanmasına mahsus";" ";
+"null";" ";"            olanlar ";"-";40
+"null";"8438.80.99.90.19";" - - - - - Diğerleri ";"-";40
+"null";"8438.90";" - Aksam ve parçalar:";;
+"null";"8438.90.00.10.00";" - - Kahve çekirdeklerinin kabuklarını soymaya veya çıkarmaya mahsus";;
+"null";;"      makina ve cihazlara, çay yapraklarını kesen veya kıvıran makina ve";;
+"null";;"      cihazlara, portakallardan uçucu yağ çıkarmaya mahsus makina ve";;
+"null";;"      cihazlara ait olanlar";"-";50
+"null";" ";" - - Diğerleri";" ";
+"null";"8438.90.00.90.11";" - - - Biracılığa ait makina ve cihazların aksam ve parçaları ";"-";40
+"null";"8438.90.00.90.12";" - - - Kalıplar";"-";40
+"null";"8438.90.00.90.19";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"84.39";"Lifli selülozik maddelerden kağıt hamuru imaline veya kağıt veya ";;
+"null";;"karton imaline veya finisajına mahsus makina ve cihazlar:";;
+"null";"8439.10";" - Lifli selülozik maddelerden kağıt hamuru imaline mahsus makina";;
+"null";;"    ve cihazlar";;
+"null";"8439.10.00.00.11";" - - Kağıt hamuru imalinde kullanılacak olan ham maddeleri hazırlamaya ";;
+"null";" ";"      mahsus makina ve cihazlar";"-";30
+"null";"8439.10.00.00.12";" - - Kağıt hamuru imaline mahsus makina ve cihazlar";"-";30
+"null";"8439.20.00.00.00";" - Kağıt veya karton imaline mahsus makina ve cihazlar";"-";30
+"null";"8439.30.00.00.00";" - Kağıt veya kartonların finisajına mahsus makina ve cihazlar";"-";30
+"null";;" - Aksam ve parçalar:";;
+"null";"8439.91.00.00.00";" - - Lifli selülozik maddelerden kağıt hamuru imali için makina ve ";;
+"null";;"     cihazlara ait olanlar";"-";30
+"null";"8439.99.00.00.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"84.40";"Cilt makinaları ve kitap formalarını dikmeye mahsus makinalar";;
+"null";;"(münferit yaprakları dikmeye mahsus makinalar dahil):";;
+"null";"8440.10";" - Makina ve cihazlar:";;
+"null";"8440.10.10.00.00";" - - Kağıt katlama makinaları";"-";30
+"null";"8440.10.20.00.00";" - - Kağıt ve formaları harmanlamaya mahsus makina ve cihazlar";"-";30
+"null";" ";" - - İplikle dikmeye, tel ile dikmeye, tel zımba ile birleştirmeye mahsus";" ";
+"null";" ";"      makina ve cihazlar";" ";
+"null";"8440.10.30.00.11";" - - - İplikle dikmeye mahsus makina ve cihazlar";"-";30
+"null";"8440.10.30.00.12";" - - - Tel ile dikmeye mahsus makina ve cihazlar";"-";30
+"null";"8440.10.30.00.13";" - - - Tel zımba ile birleştirmeye mahsus makina ve cihazlar";"-";30
+"null";" ";" - - Dikişsiz birleştirme makina ve cihazları";" ";
+"null";"8440.10.40.00.11";" - - - Soğuk ve sıcak tutkal ile yapıştıran makina ve cihazlar";"-";30
+"null";"8440.10.40.00.19";" - - - Diğerleri";"-";30
+"null";" ";" - - Diğerleri";" ";
+"null";"8440.10.90.00.11";" - - - Sırt, kapak yapma makina ve cihazları";"-";30
+"null";"8440.10.90.00.12";" - - - Kapak takma makina ve cihazları";"-";30
+"null";"8440.10.90.00.13";" - - - Entegre cilt makina ve cihazları";"-";30
+"null";"8440.10.90.00.19";" - - - Diğerleri";"-";30
+"null";"8440.90.00.00.00";" - Aksam ve parçalar";"-";40
+"null";;;" ";
+"null";"84.41";"Kağıt hamuru, kağıt veya kartonun işlenmesine mahsus diğer maki-";" ";
+"null";;"na ve cihazlar (her cins kesme makina ve cihazları dahil):";;
+"null";"8441.10";" - Kağıt kesme makinaları:";;
+"null";"8441.10.10.00.00";" - - Bobin halindeki kağıtları kesme ve tekrar bobin halinde sarmaya";;
+"null";;"      mahsus makinalar";"-";30
+"null";"8441.10.20.00.00";" - - Diğer boyuna veya enine kesme makinaları";"-";30
+"null";;" - - Düz giyotinler:";" ";
+"null";"8441.10.30.10.00";" - - - Fotoğrafçılıkta kullanılanlar";"-";60
+"null";"8441.10.30.90.00";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri";;
+"null";"8441.10.70.10.00";" - - - Fotoğrafçılıkta kullanılanlar";"-";60
+"null";"8441.10.70.90.00";" - - - Diğerleri";"-";30
+"null";"8441.20";" - Torba kese kağıdı veya zarf yapmaya mahsus makinalar";" ";
+"null";"8441.20.00.00.11";" - - Zarf imaline mahsus makinalar";"-";30
+"null";"8441.20.00.00.19";" - - Diğerleri";"-";30
+"null";"8441.30.00.00.00";" - Kutu, tüp, varil ve benzeri mahfazaları yapmaya mahsus makinalar";" ";
+"null";;"   (kalıplama suretiyle yapılanlar hariç)";"-";30
+"null";"8441.40.00.00.00";" - Kağıt hamuru, kağıt veya kartondan kalıplama suretiyle eşya ";" ";
+"null";;"   imaline mahsus makina ve cihazlar";"-";30
+"null";"8441.80";" - Diğer makina ve cihazlar";;
+"null";"8441.80.00.00.11";" - - Parafinli kağıt ve kartondan bardak, kavanoz, tabak vb. imaline mahsus ";;
+"null";" ";"      makina ve cihazlar";"-";30
+"null";"8441.80.00.00.12";" - - Zımbalı delik açma (perforaj) makinaları";"-";30
+"null";"8441.80.00.00.13";" - - Yaprak sigara kağıdı imaline mahsus makinalar";"-";30
+"null";"8441.80.00.00.19";" - - Diğerleri";"-";30
+"null";"8441.90";" - Aksam ve parçalar:";;
+"null";;" - - Kesme makinalarına ait olanlar:";;
+"null";" ";" - - - Giyotinlere ait olanlar:";;
+"null";"8441.90.10.11.00";" - - - - Fotoğrafçılıkta kullanılanlar";"-";60
+"null";"8441.90.10.19.00";" - - - - Diğerleri";"-";40
+"null";"8441.90.10.90.00";" - - - Diğerleri";"-";40
+"null";"8441.90.90.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"84.42";" Levhaları, silindirleri ve diğer tabedici unsurları hazırlamaya";;
+"null";;"  ve yapmaya mahsus makinalar, cihazlar ve teçhizat ( 84.56 ila";;
+"null";;"  84.65 pozisyonlarında yer alan makinalar hariç); levhalar,";;
+"null";;"  silindirler ve diğer tabedici unsurlar; matbaacılıkta kullanılmak";;
+"null";;" üzere hazırlanmış levhalar, silindirler ve litoğrafya taşları (örneğin ;";;
+"null";;"  düz, pütürlü veya cilalı):";;
+"null";"8442.30";" - Makina, cihaz ve teçhizat :";;
+"null";"8442.30.00.10.00";" - - Klişecilik stereo tipi ve benzerleri için makina ve cihazlar";"Adet";30
+"null";;" - - Diğerleri";;
+"null";"8442.30.00.90.11";" - - - Film matrisleri";"Adet";40
+"null";"8442.30.00.90.12";" - - - Yazı program matrisleri";"Adet";40
+"null";"8442.30.00.90.19";" - - - Diğerleri";"Adet";40
+"null";"8442.40.00.00.00";" - Yukarıdaki makina, alet ve cihazlara ait aksam ve parçalar";"-";40
+"null";"8442.50.00.00.00";" - Levhalar, silindirler ve diğer tabedici unsurlar; matbaacılıkta";" ";
+"null";;"  kullanılmak üzere hazırlanmış levhalar, silindirler ve litografya";" ";
+"null";;"  taşları (düz, pütürlü, cilalı vb.)";"-";40
+"null";"84.43";" Levhalar, silindirler ve 84.42 pozisyonundaki diğer  tabedici unsurlar";;
+"null";;" aracılığıyla baskı yapmaya  mahsus makinalar; diğer baskı, kopyalama";;
+"null";;"  ve faks makinaları ( kombine halde olsun olmasın); bunların";;
+"null";;"  aksam, parça ve aksesuarları";;
+"null";;"  - Levhalar, silindirler ve 84.42 pozisyonundaki diğer  tabedici unsurlar";;
+"null";;"   aracılığıyla baskı yapmaya  mahsus makinalar;";;
+"null";"8443.11.00.00.00";" - - Ofset baskı yapan makinalar,bobin halinde kağıda baskı yapanlar";"Adet";30
+"null";"8443.12.00.00.00";" - - Ofset baskı yapan makinalar, tabaka kağıda baskı yapan büro tipi";;
+"null";;"    makinalar ( rulo halinde olmayan,bir kenarı 22 cm.yi geçmeyen ve ";;
+"null";;"     ve diğer kenarı 36 cm.yi geçmeyen kağıtları kullanan )";"Adet";30
+"null";"8443.13";" - - Ofset baskı yapan diğer makinalar";" ";
+"null";;" - - - Tabaka kağıda baskı yapanlar:";;
+"null";"8443.13.10.00.00";" - - - - Kullanılmış";"Adet";30
+"null";;" - - - - Yeni:";;
+"null";"8443.13.32.00.00";" - - - - - Kağıt ebadı 53x75 cm.yi geçmeyenler";"Adet";30
+"null";"8443.13.34.00.00";" - - - - - Kağıt ebadı 53x75 cm.yi geçen, fakat 75x107 cm. yi geçmeyenler ";"Adet";30
+"null";"8443.13.38.00.00";" - - - - - Kağıt ebadı 75x107 cm.yi geçenler";"Adet";30
+"null";"8443.13.90.00.00";" - - - Diğerleri";"Adet";30
+"null";"8443.14.00.00.00";" - - Tipografik baskı yapan makinalar, bobin halindeki kağıda baskı";" ";
+"null";;"     yapanlar (fleksografik baskı yapanlar hariç)";"Adet";30
+"null";"8443.15";" - - Tipografik baskı yapan makinalar (bobin halindeki kağıda baskı";" ";
+"null";;"     yapanlar hariç) (fleksografik baskı yapanlar hariç)";;
+"null";"8443.15.00.00.11";" - - - Pedallı tipo baskı makinaları";"Adet";30
+"null";"8443.15.00.00.12";" - - - Silindir kazanlı tipo baskı makinaları";"Adet";30
+"null";"8443.15.00.00.19";" - - - Diğerleri";"Adet";30
+"null";"8443.16.00.00.00";" - - Fleksografik baskı yapan makinalar";"Adet";30
+"null";"8443.17.00.00.00";" - - Gravür baskı (tifdruk) yapan makina ";"Adet";30
+"null";"8443.19";" - - Diğerleri:";;
+"null";"8443.19.20.00.00";" - - - Dokumaya elverişli maddeler üzerine baskı yapmaya mahsus olanlar";"Adet";35
+"null";"8443.19.40.00.00";" - - - Yarı iletkenlerin üretiminde kullanılmaya mahsus olanlar";"Adet";30
+"null";;" - - - Diğerleri:";;
+"null";"8443.19.70.10.00";" - - - - Rotatif baskı makinaları";"Adet";30
+"null";;" - - - - Diğerleri:";;
+"null";"8443.19.70.90.11";" - - - - - Serigrafi baskı makinaları";"Adet";30
+"null";"8443.19.70.90.19";" - - - - - Diğerleri";"Adet";30
+"null";;" - Diğer baskı, kopyalama ve faks makinaları ( kombine  halde";;
+"null";;"   olsun olmasın):";;
+"null";"8443.31.00.00.00";" - - Baskı, kopyalama veya faks geçiş fonksiyonlarının iki veya daha ";;
+"null";;"     fazlasını yapan, otomatik bilgi işlem makinalarına veya networke";;
+"null";;"     bağlanabilen makinalar";"Adet";60
+"null";"8443.32";" - - Diğerleri, otomatik bilgi işlem makinalarına veya networke ";;
+"null";;"     bağlanabilen makinalar:";;
+"null";;" - - -Yazıcılar:";;
+"null";;" - - - - İnk jet tipi yazıcılar:";;
+"null";"8443.32.10.10.11";" - - - - - Net baskı eni 180 cm'yi geçen veya en az dört baskı kafasına sahip olanlar ";"Adet";20
+"null";"8443.32.10.10.19";" - - - - - Diğerleri";"Adet";20
+"null";"8443.32.10.20.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";20
+"null";;" - - - - Diğerleri:";;
+"null";"8443.32.10.90.11";" - - - - - Matris tipi yazıcılar";"Adet";20
+"null";"8443.32.10.90.12";" - - - - - Lazer tipi yazıcılar";"Adet";20
+"null";"8443.32.10.90.13";" - - - - - Satır yazıcılar";"Adet";20
+"null";"8443.32.10.90.19";" - - - - - Diğer yazıcılar";"Adet";20
+"null";"8443.32.80.00.00";" - - - Diğerleri";"Adet";60
+"null";"8443.39.00.00.00";" - - Diğerleri";"Adet";60
+"null";;" - Aksam, parça ve aksesuarlar:";;
+"null";"8443.91";"  - - Levhalar, silindirler ve 84.42 pozisyonundaki diğer  tabedici unsurlar";;
+"null";;"     aracılığıyla baskı yapmaya  mahsus makinalarda kullanılan aksam,";;
+"null";;"      parça ve aksesuarlar";;
+"null";"8443.91.10.00.00";" - - - 8443.19.40 alt pozisyonunda yer alan cihazlara ait olanlar";"-";40
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Demir dökümden veya çelik dökümden olanlar:";;
+"null";"8443.91.91.10.00";" - - - - - Dokumaya elverişli maddeler üzerine baskı yapmaya mahsus ";;
+"null";;"          makinalara ait olanlar";"-";50
+"null";"8443.91.91.90.00";" - - - - - Diğerleri";"-";40
+"null";;" - - - - Diğerleri:";;
+"null";"8443.91.99.10.00";" - - - - - Dokumaya elverişli maddeler üzerine baskı yapmaya mahsus ";;
+"null";;"          makinalara ait olanlar";"-";50
+"null";"8443.91.99.90.00";" - - - - - Diğerleri";"-";40
+"null";"8443.99";" - - Diğerleri:";;
+"null";"8443.99.10.00.00";" - - - Birleştirilmiş elektronik aksam , parça ve aksesuar";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8443.99.90.10.00";" - - - - Optik sistemli fotokopi cihazlarına ait olanlar ";"-";60
+"null";;" - - - - Diğerleri:";;
+"null";"8443.99.90.20.00";" - - - - - Dokumaya elverişli maddeler üzerine baskı yapmaya mahsus ";;
+"null";;"          makinalara ait olanlar";"-";50
+"null";"8443.99.90.90.00";" - - - - - Diğerleri";"-";40
+"null";;;;
+"null";"8444.00";"Dokumaya elverişli sentetik veya suni maddelerin ekstrüzyonu";;
+"null";;"(basınçlı fışkırtma usulüyle lif imali), çekilmesi, tekstüre edilmesi ";;
+"null";;"veya kesilmesine mahsus makina ve cihazlar:";;
+"null";"8444.00.10.00.00";" - Ekstrüzyona mahsus makina ve cihazlar";"Adet";30
+"null";"8444.00.90.00.00";" - Diğerleri";"Adet";30
+"null";;;;
+"null";"84.45";"Dokumaya elverişli elyafın hazırlanmasına mahsus makinalar; eğir-";;
+"null";;"me, katlama veya bükme makinaları veya dokumaya elverişli iplik-";;
+"null";;"lerin üretimine mahsus diğer makina ve cihazlar; dokumaya elverişli";;
+"null";;"iplikleri bobinleme veya çilelemeye mahsus (masura sarıcılar dahil)";;
+"null";;"ve 84.46 veya 84.47 pozisyonlarındaki makinalarda kullanılan doku-";;
+"null";;"maya elverişli ipliklerin hazırlanmasına mahsus makinalar:";;
+"null";;" - Dokumaya elverişli elyafın hazırlanmasına mahsus makinalar:";;
+"null";"8445.11.00.00.00";" - - Karde makinaları (tarak makinaları)";"Adet";30
+"null";"8445.12.00.00.00";" - - Tarama makinaları (penyöz)";"Adet";30
+"null";"8445.13.00.00.00";" - - Şerit halindeki pamuk, keten, kendir, vb. lifleri çekip uzatarak ve";" ";
+"null";;"      hafifçe bükerek iplik taslağı (fitil) haline getirmeye mahsus ";" ";
+"null";;"      cihazlar";"Adet";30
+"null";"8445.19";" - - Diğerleri:";" ";
+"null";"8445.19.00.10.00";" - - - Saw -gin çırçır makinaları";"Adet";30
+"null";" ";" - - - Diğerleri";" ";
+"null";"8445.19.00.90.11";" - - - - Açma makinaları";"Adet";30
+"null";"8445.19.00.90.12";" - - - - Ovalama makinaları (finisör)";"Adet";30
+"null";"8445.19.00.90.13";" - - - - Kıvırcıklaştırma makinaları";"Adet";30
+"null";"8445.19.00.90.14";" - - - - Karde makinalarından çıkan vatka ve şerit halindeki lifleri bir araya ge- ";" ";
+"null";" ";"          tirerek tekrar homojen bünyeli şeritler haline sokmaya mahsus makina";" ";
+"null";" ";"          ve cihazlar";"Adet";30
+"null";"8445.19.00.90.19";" - - - - Diğerleri";"Adet";30
+"null";"8445.20";" - Dokumaya elverişli Iifleri eğirmeye mahsus makinalar";" ";
+"null";"8445.20.00.00.11";" - - Open-end eğirme makinaları";"Adet";30
+"null";"8445.20.00.00.12";" - - Ring eğirme makinaları";"Adet";30
+"null";"8445.20.00.00.19";" - - Diğerleri";"Adet";30
+"null";"8445.30.00.00.00";" - Dokumaya elverişli lifleri katlama veya bükmeye mahsus makinalar";"Adet";30
+"null";"8445.40";" - Dokumaya elverişli lifleri bobinleme ve çilelemeye mahsus ";" ";
+"null";;"   makinalar (masura sarıcılar dahil)";" ";
+"null";"8445.40.00.00.11";" - - Masura sıyırma makinaları";"Adet";30
+"null";"8445.40.00.00.12";" - - Masura sarıcılar (atkı aktarma makinaları)";"Adet";30
+"null";"8445.40.00.00.19";" - - Diğerleri";"Adet";30
+"null";"8445.90";" - Diğerleri";" ";
+"null";"8445.90.00.00.11";" - - Çözgü makinaları";"Adet";40
+"null";"8445.90.00.00.12";" - - Çözgü ipliklerine mahsus haşıl makinaları ";"Adet";40
+"null";"8445.90.00.00.13";" - - Çözgü ipliklerini, dokuma tezgahlarının gücü tellerine ve taraklarına ge-";" ";
+"null";" ";"      çirmeye mahsus cihazlar (tahar makinaları)";"Adet";40
+"null";"8445.90.00.00.14";" - - Dokuma tezgahlarındaki çözgü ipliklerinin nihayetlerini tezgaha yeni ve-";" ";
+"null";" ";"      rilecek olan çözgü ipliklerinin uçlarına bağlamayı sağlayan cihazlar";"Adet";40
+"null";"8445.90.00.00.19";" - - Diğerleri";"Adet";40
+"null";;;" ";
+"null";"84.46";"Dokuma makinaları (tezgahlar):";" ";
+"null";"8446.10.00.00.00";" - Genişliği 30 cm.yi geçmeyen kumaşların dokunmasına mahsus ";" ";
+"null";;"    olanlar";"Adet";35
+"null";;" - Genişliği 30 cm.yi geçen kumaşların dokunmasına mahsus olanlar ";" ";
+"null";;"    (mekikli):";" ";
+"null";"8446.21.00.00.00";" - - Motorlu olanlar";"Adet";35
+"null";"8446.29.00.00.00";" - - Diğerleri";"Adet";35
+"null";"8446.30.00.00.00";" - Genişliği 30 cm.yi geçen kumaşların dokunmasına mahsus olanlar ";" ";
+"null";;"    (mekiksiz)";"Adet";35
+"null";;;" ";
+"null";"84.47";"Örgü makinaları, dikiş -trikotaj makinaları ve gipe edilmiş iplik, tül, ";" ";
+"null";;"dantela, işleme, şeritci ve kaytancı eşyası veya file imaline mahsus ";" ";
+"null";;"makina ve cihazlar ve püskül, ponpon makina ve cihazları:";" ";
+"null";;" - Dairesel örgü yapan makinalar:";" ";
+"null";"8447.11";" - - Silindir çapı 165 mm.yi geçmeyenler:";" ";
+"null";"8447.11.00.00.11";" - - - Ev tipi yuvarlak (dairevi) örgü makinaları";"Adet";40
+"null";"8447.11.00.00.12";" - - - Sanayi tipi yuvarlak (dairevi) örgü makinaları";"Adet";40
+"null";"8447.12";" - - Silindir çapı 165 mm.yi geçenler:";" ";
+"null";"8447.12.00.00.11";" - - - Ev tipi yuvarlak (dairevi) örgü makinaları";"Adet";40
+"null";"8447.12.00.00.12";" - - - Sanayi tipi yuvarlak (dairevi) örgü makinaları";"Adet";40
+"null";"8447.20";" - Düz örgü yapan makinalar; dikiş -trikotaj makinaları:";;
+"null";" ";" - - Çözgülü örgü makinaları (Raschel tipi dahil); dikiş-trikotaj makinaları ";;
+"null";"8447.20.20.00.11";" - - - Ev tipi düz örgü makinaları";"Adet";40
+"null";"8447.20.20.00.12";" - - - Sanayi tipi düz örgü makinaları";"Adet";40
+"null";"8447.20.20.00.13";" - - - Ev tipi dikiş-trikotaj makinaları";"Adet";40
+"null";"8447.20.20.00.14";" - - - Sanayi tipi dikiş-trikotaj makinaları";"Adet";40
+"null";"8447.20.80.00.00";" - - Diğerleri";"Adet";40
+"null";"8447.90";" - Diğerleri:";;
+"null";"8447.90.00.00.11";" - - İşleme makinaları";"Adet";40
+"null";"8447.90.00.00.12";" - - Şerit ve kaytan yapan makinalar";"Adet";40
+"null";"8447.90.00.00.19";" - - Diğerleri";"Adet";40
+"null";;;;
+"null";"84.48";"84.44, 84.45, 84.46 ve 84.47 Pozisyonlarındaki makinalar için yardımcı";;
+"null";;"makina ve cihazlar (ratiyerler, jakardlar, atkı ipliği kesicileri, çözgü";;
+"null";;"ipliği kesicileri, mekik değiştirme mekanizmaları gibi); sadece veya ";;
+"null";;"esas itibariyle bu pozisyonda veya 84.44, 84.45, 84.46 ve 84.47 ";;
+"null";;"pozisyonlarındaki makinalarda kullanılmaya uygun aksam, parça ve ";;
+"null";;"aksesuar (iğler, kelebekler, kard garnitürleri, taraklar, iğneli taraklar,";;
+"null";;"üretme memeleri, mekikler, gücü teli ve gücü çerçeveleri, çorapçı ";;
+"null";;"eşyasına mahsus iğneler, platinler, tığlar gibi):";;
+"null";;" - 84.44,84.45, 84.46 veya 84.47 Pozisyonlarındaki makinalar için ";;
+"null";;"   yardımcı makina ve cihazlar:";;
+"null";"8448.11.00.00.00";" - - Ratiyerler ve jakardlar; jakard kardlarını azaltıcı, kopya edici,";;
+"null";;"     delici veya birleştirici makinalar";"-";40
+"null";"8448.19";" - - Diğerleri";" ";
+"null";"8448.19.00.10.00";" - - - Dokumaya elverişli iplikleri eğirmeye mahsus makinalar için yardımcı";" ";
+"null";;"        makinalar";"-";30
+"null";"8448.19.00.90.00";" - - - Diğerleri";"-";40
+"null";"8448.20";" - 84.44 Pozisyonundaki makinaların veya bunların yardımcı ";" ";
+"null";;"   cihazlarının aksam, parça ve aksesuarı:";" ";
+"null";"8448.20.00.00.11";" - - Üretme memeleri";"-";40
+"null";"8448.20.00.00.19";" - - Diğerleri";"-";40
+"null";;" - 84.45 Pozisyonundaki makinaların veya bunların yardımcı ";" ";
+"null";;"   cihazlarının aksam, parça ve aksesuarı:";" ";
+"null";"8448.31.00.00.00";" - - Kard garnitürü";"-";40
+"null";"8448.32.00.00.00";" - - Dokumaya elverişli liflerin hazırlanmasına mahsus makinalara ait";" ";
+"null";;"     olanlar (kard garnitürü hariç)";"-";40
+"null";"8448.33.00.00.00";" - - İğler, kelebekler, döner bilezikler ve açık ağızlı bilezikler";"-";40
+"null";"8448.39";" - - Diğerleri";" ";
+"null";"8448.39.00.00.11";" - - - Naylon kopçalar";"-";40
+"null";"8448.39.00.00.12";" - - - Metal kopçalar";"-";40
+"null";"8448.39.00.00.19";" - - - Diğerleri";"-";40
+"null";;" - Dokuma makinaları veya bunların yardımcı makinalarının aksam, ";;
+"null";;"    parça ve aksesuarı:";;
+"null";"8448.42.00.00.00";" - - Dokuma makinalarına mahsus taraklar, gücü telleri ve gücü ";" ";
+"null";;"     çerçeveleri";"-";40
+"null";"8448.49.00.00.00";" - - Diğerleri";"-";40
+"null";;" - 84.47 Pozisyonundaki makinaların veya bunların yardımcı ";;
+"null";;"   makinalarının aksam, parça ve aksesuarı:";;
+"null";"8448.51";" - - İlmiklerin oluşturulmasında kullanılan platinler, iğneler ve diğer";;
+"null";;"     eşya:";;
+"null";"8448.51.10.00.00";" - - - Platinler";"-";40
+"null";" ";" - - - Diğerleri";" ";
+"null";"8448.51.90.00.11";" - - - - Örgü makinalarına ait iğneler";"-";40
+"null";"8448.51.90.00.19";" - - - - Diğerleri";"-";40
+"null";"8448.59";" - - Diğerleri";" ";
+"null";"8448.59.00.00.11";" - - - Örgü ve haşıl makinalarına ait taraklar";"-";40
+"null";"8448.59.00.00.12";" - - - Konik örgü çapraz taraklar";"-";40
+"null";"8448.59.00.00.19";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"8449.00";"Şekilli veya parça halinde keçe veya dokunmamış mensucat ";;
+"null";;"imalatına veya finisajına mahsus makina ve cihazlar (keçeden şapka ";;
+"null";;"imaline mahsus makina ve cihazlar dahil); şapka kalıpları:";;
+"null";"8449.00.00.10.00";" - Makina ve cihazlar; şapka kalıpları";"-";30
+"null";"8449.00.00.90.00";" - Aksam ve parçalar";"-";40
+"null";;;;
+"null";"84.50";"Ev veya çamaşırhane tipi yıkama makinaları (yıkama ve kurutma ";;
+"null";;"tertibatı bir arada olanlar dahil) :";;
+"null";;" - Kuru çamaşır kapasitesi 10 kg.ı geçmeyenler:";;
+"null";"8450.11";" - - Tam otomatik makinalar:";;
+"null";;" - - - Kuru çamaşır kapasitesi 6 kg.ı geçmeyenler:";;
+"null";"8450.11.11.00.00";" - - - - Çamaşırı önden yüklemeli olanlar";"Adet";40
+"null";"8450.11.19.00.00";" - - - - Çamaşırı üstten yüklemeli olanlar";"Adet";40
+"null";"8450.11.90.00.00";" - - - Kuru çamaşır kapasitesi 6 kg.ı geçen fakat 10 kg.ı geçmeyenler";"Adet";40
+"null";"8450.12.00.00.00";" - - Diğer çamaşır makinaları (santrifüjlü kurutma tertibatlı olanlar)";"Adet";40
+"null";"8450.19";" - - Diğerleri";" ";
+"null";"8450.19.00.00.11";" - - - Elektrikli olanlar";"Adet";40
+"null";"8450.19.00.00.19";" - - - Diğerleri";"Adet";40
+"null";"8450.20.00.00.00";" - Kuru çamaşır kapasitesi 10 kg.ı geçen çamaşır makinaları";"Adet";40
+"null";"8450.90.00.00.00";" - Aksam ve parçalar";"-";50
+"null";;;;
+"null";"84.51";"Dokumaya elverişli ipliklerin, mensucatın veya dokumaya elverişli";;
+"null";;"madde mamullerinin yıkanması, temizlenmesi, sıkılması, kurutulma-";;
+"null";;"sı, ütülenmesi, preslenmesi suretiyle ütülenmesi (ısı ile yapıştıran ";;
+"null";;"presler dahil), ağartılması, boyanması, aprelenmesi, finisajı, emdiril-";;
+"null";;"mesine mahsus makina ve cihazlar (84.50 pozisyonundakiler hariç) ";;
+"null";;"ve zemin kaplamalarının imalatında kullanılan (linoleum gibi) men-";;
+"null";;"sucat veya diğer mesnetlere pasta kaplama makinaları; mensucatı";;
+"null";;"top halinde sarmaya, açmaya, katlamaya, kesmeye veya şekilli ";;
+"null";;"kesmeye mahsus makinalar:";;
+"null";"8451.10.00.00.00";" - Kuru temizleme makinaları";"-";40
+"null";;" - Kurutma makinaları:";;
+"null";"8451.21";" - - Kuru çamaşır kapasitesi 10 kg.ı geçmeyenler:";;
+"null";"8451.21.00.00.11";" - - - Evlerde kullanılanlar";"-";40
+"null";"8451.21.00.00.19";" - - - Diğerleri";"-";40
+"null";"8451.29.00.00.00";" - - Diğerleri";"-";40
+"null";"8451.30.00.00.00";" - Ütü makinaları ve presler (ısı ile yapıştıran presler dahil):";"Adet";40
+"null";"8451.40";" - Yıkama, ağartma veya boyama makinaları";;
+"null";"8451.40.00.00.11";" - - Sanayide kullanılan yıkama makinaları";"-";40
+"null";"8451.40.00.00.12";" - - Ağartma makinaları";"-";40
+"null";"8451.40.00.00.13";" - - Boyama makinaları";"-";40
+"null";"8451.50";" - Mensucatı top halinde sarmaya, açmaya, katlamaya, kesmeye veya";;
+"null";;"    şekilli kesmeye mahsus makinalar";;
+"null";"8451.50.00.00.11";" - - Mensucatı top halinde sarmaya mahsus makinalar";"-";40
+"null";"8451.50.00.00.12";" - - Mensucatı şekilli kesmeye mahsus makinalar";"-";40
+"null";"8451.50.00.00.19";" - - Diğerleri";"-";40
+"null";"8451.80";" - Diğer makinalar:";" ";
+"null";"8451.80.10.00.00";" - - Linoleum veya diğer zemin kaplamalarının imalatında, mensucat";" ";
+"null";;"      veya diğer mesnetlere pasta kaplama makinaları";"-";40
+"null";"8451.80.30.00.00";" - - Apre ve finisaj makinaları";"-";40
+"null";"8451.80.80.00.00";" - - Diğerleri";"-";40
+"null";"8451.90";" - Aksam ve parçalar";" ";
+"null";"8451.90.00.00.11";" - - Ütü ve pres makinalarının aksam ve parçaları ";"-";50
+"null";"8451.90.00.00.12";" - - Kuru temizleme makinalarının aksam ve parçaları";"-";50
+"null";"8451.90.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"84.52";"Dikiş makinaları (84.40 pozisyonundaki kitap dikme makinaları hariç);";;
+"null";;"özellikle dikiş makinaları için imal edilmiş mobilya, tabla ve mahfa-";;
+"null";;"zalar; dikiş makinalarının iğneleri:";;
+"null";"8452.10";" - Ev tipi dikiş makinaları:";;
+"null";;" - - Sadece düz dikiş yapan motorlu veya motorsuz dikiş makinaları";;
+"null";;"      (motorsuzların başı 16 kg.ı, motorluların ise motorla birlikte 17 kg.ı geç-";;
+"null";;"      meyenler); sadece düz dikiş yapan motorlu veya motorsuz dikiş maki-";;
+"null";;"      nalarının başları (motorsuz olanların 16 kg.ı, motorlu olanların ise motor-";;
+"null";;"      la birlikte 17 kg.ı geçmeyenler):";;
+"null";"8452.10.11.00.00";" - - - Birim değeri 65 €' den fazla olanlar (iskelet,tabla ve mobilyalar hariç)";"Adet";30
+"null";"8452.10.19.00.00";" - - - Diğerleri";"Adet";30
+"null";" ";" - - Diğer dikiş makinaları ve başları";;
+"null";"8452.10.90.00.11";" - - - Diğer dikiş yapan motorsuz dikiş makinaları ve başları";"Adet";30
+"null";"8452.10.90.00.12";" - - - Diğer dikiş yapan motorlu dikiş makinaları ve başları";"Adet";30
+"null";;" - Diğer dikiş makinaları:";;
+"null";"8452.21.00.00.00";" - - Otomatik üniteler";"Adet";30
+"null";"8452.29";" - - Diğerleri:";;
+"null";"8452.29.00.00.11";" - - - Dikiş makinası başları";"Adet";30
+"null";"8452.29.00.00.19";" - - - Diğerleri";"Adet";30
+"null";"8452.30.00.00.00";" - Dikiş makinaları iğneleri";"1000 Ad";40
+"null";"8452.90";" - Dikiş makinalarına mahsus mobilya, tabla, mahfaza ve bunlara mahsus";;
+"null";;"   aksam ve parçalar; Dikiş makinalarının diğer aksam ve parçaları";;
+"null";"8452.90.00.10.00";" - - MobiIya, tabla ve mahfazalar";"-";50
+"null";"8452.90.00.90.00";" - - Diğerleri";"-";30
+"null";"84.53";"Post, deri ve köselelerin hazırlanması, dabaklanması veya işlenmesi,";;
+"null";;"deri veya köseleden yapılan ayakkabı veya diğer eşyanın imaline ";;
+"null";;"veya tamirine mahsus makina ve cihazlar (dikiş makinaları hariç):";;
+"null";"8453.10.00.00.00";" - Post, deri ve köselelerin hazırlanması, dabaklanması veya işlen-";;
+"null";;"   mesine mahsus makina ve cihazlar";"-";30
+"null";"8453.20.00.00.00";" - Ayakkabı imaline veya tamirine mahsus makina ve cihazlar";"-";30
+"null";"8453.80.00.00.00";" - Diğer makina ve cihazlar";"-";30
+"null";"8453.90.00.00.00";" - Aksam ve parçalar";"-";30
+"null";;;;
+"null";"84.54";"Metalürjide veya metal dökümhanelerinde kullanılan tav ocakları,";;
+"null";;"döküm potaları, külçe kalıpları ve döküm makinaları:";;
+"null";"8454.10.00.00.00";" - Tav ocakları";"-";15
+"null";"8454.20.00.00.00";" - Külçe kalıpları ve döküm potaları";"-";15
+"null";"8454.30";" - Döküm makinaları:";" ";
+"null";"8454.30.10.00.00";" - - Basınçlı döküm makinaları";"-";15
+"null";"8454.30.90.00.00";" - - Diğerleri";"-";15
+"null";"8454.90";" - Aksam ve parçalar";" ";
+"null";"8454.90.00.00.11";" - - Tav ocaklarına ait olanlar";"-";15
+"null";"8454.90.00.00.19";" - - Diğerleri";"-";15
+"null";;;" ";
+"null";"84.55";"Metalleri haddeleme makinaları ve bunların silindirleri:";" ";
+"null";"8455.10.00.00.00";" - Boru imaline mahsus hadde makinaları";"-";40
+"null";;" - Diğer hadde makinaları:";" ";
+"null";"8455.21";" - - Sıcak hadde makinaları ve kombine haldeki sıcak ve soğuk hadde";" ";
+"null";;"     makinaları";" ";
+"null";"8455.21.00.00.11";" - - - Blum, kütük ve benzerlerini haddeleyerek enine kesitleri muayyen bazı";" ";
+"null";" ";"        ürünler haline sokan hadde makinaları (silindirleri oluklu hadde maki-";" ";
+"null";" ";"        naları)";"-";40
+"null";"8455.21.00.00.12";" - - - Bandaj ve vagon tekerleklerine mahsus hadde makinaları";"-";40
+"null";"8455.21.00.00.19";" - - - Diğerleri";"-";40
+"null";"8455.22.00.00.00";" - - Soğuk hadde makinaları";"-";40
+"null";"8455.30";" - Hadde silindirleri:";" ";
+"null";"8455.30.10.00.00";" - - Demir dökümden olanİar";"-";40
+"null";;" - - Dövülmüş çelikten olanlar:";" ";
+"null";"8455.30.31.00.00";" - - - Sıcak hadde iş silindirleri; sıcak ve soğuk hadde destek silindirleri";"-";40
+"null";"8455.30.39.00.00";" - - - Soğuk hadde iş silindirleri";"-";40
+"null";"8455.30.90.00.00";" - - Diğerleri";"-";40
+"null";"8455.90.00.00.00";" - Diğer aksam ve parçalar";"-";40
+"null";;;;
+"null";"84.56";"Herhangi bir maddenin aşındırılarak, lazerle, diğer ışın veya foton ";;
+"null";;"ışınıyla, ultrasonik, elektro -erozyon, elektro -kimyasal, elektron ışını, ";;
+"null";;"ionik ışın veya plazma arkı yöntemleri ile işlenmesine mahsus ";;
+"null";;"makina ve aletler, su püskürtmeli kesme makinaları:";;
+"null";;" - Lazerle, fotonla veya diğer ışın yöntemleri ile ";;
+"null";;"   çalışanlar:";;
+"null";"8456.11";" - - Lazerle çalışanlar:";;
+"null";"8456.11.10.00.00";" - - - Sadece veya esas itibarıyla baskılı devreler, baskılı devre montajları, 85.17 ";;
+"null";;"      pozisyonuna ait aksamlar veya otomatik bilgi işlem makinalarının üretiminde";;
+"null";;"      kullanılan türde olanlar";"Adet";50
+"null";"8456.11.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8456.12";" - - Fotonla veya diğer ışın yöntemleri ile çalışanlar:";;
+"null";"8456.12.10.00.00";" - - - Sadece veya esas itibarıyla baskılı devreler, baskılı devre montajları, 85.17 ";;
+"null";;"      pozisyonuna ait aksamlar veya otomatik bilgi işlem makinalarının üretiminde";;
+"null";;"      kullanılan türde olanlar";"Adet";50
+"null";"8456.12.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8456.20.00.00.00";" - Ultrasonik  yöntemi ile çalışanlar";"Adet";50
+"null";"8456.30";" - Elektro -erozyon yöntemi ile çalışanlar:";" ";
+"null";;" - - Sayısal kontrollü olanlar:";;
+"null";"8456.30.11.00.00";" - - - Tel - kesme";"Adet";50
+"null";"8456.30.19.00.00";" - - - Diğerleri";"Adet";50
+"null";"8456.30.90.00.00";" - - Diğerleri";"Adet";50
+"null";"8456.40.00.00.00";" - Plazma arkı yöntemi ile çalışanlar";"Adet";50
+"null";"8456.50.00.00.00";" - Su jeti kesme makinaları";"Adet";50
+"null";"8456.90";" - Diğerleri:";" ";
+"null";"8456.90.00.10.00";" - - Taş, seramik ürünler, beton, amyantlı çimento ve benzeri diğer";;
+"null";;"     mineral maddelerin işlenmesine mahsus olanlar";"Adet";40
+"null";"8456.90.00.90.00";" - - Diğerleri";"Adet";50
+"null";;;;
+"null";"84.57";"Metal işlemeye mahsus işleme merkezleri, tek istasyonlu tezgahlar ";;
+"null";;"ve çok istasyonlu transfer tezgahları:";;
+"null";"8457.10";" - İşleme merkezleri";;
+"null";;" - - Yatay olanlar";;
+"null";"8457.10.10.00.11";" - - - 4 ve daha az hareketli eksenli olanlar";"Adet";50
+"null";"8457.10.10.00.12";" - - - 5 veya daha fazla hareketli eksenli olanlar";"Adet";50
+"null";;" - - Diğerleri";;
+"null";;" - - - Köprülü tip olmayanlar:";;
+"null";"8457.10.90.00.11";" - - - - 4 ve daha az hareketli eksenli olanlar";"Adet";50
+"null";"8457.10.90.00.12";" - - - - 5 veya daha fazla hareketli eksenli olanlar";"Adet";50
+"null";"8457.10.90.00.13";" - - - - Hızlı delik delme ve kılavuz çekme merkezleri";"Adet";50
+"null";;" - - - Köprülü tip olanlar:";;
+"null";"8457.10.90.00.14";" - - - - 4 ve daha az hareketli eksenli olanlar";"Adet";50
+"null";"8457.10.90.00.15";" - - - - 5 veya daha fazla hareketli eksenli olanlar";"Adet";50
+"null";"8457.20.00.00.00";" - Tek istasyonlu tezgahlar";"Adet";50
+"null";"8457.30";" - Çok istasyonlu transfer tezgahları";" ";
+"null";"8457.30.10.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8457.30.90.00.00";" - - Diğerleri";"Adet";50
+"null";;;;
+"null";"84.58";"Metal işlemeye mahsus torna tezgahları ( tornalama merkezleri ";;
+"null";;"dahil):";;
+"null";;" - Yatay torna tezgahları:";;
+"null";"8458.11";" - - Numerik kontrollü olanlar:";;
+"null";;" - - - Tornalama merkezleri ";;
+"null";"8458.11.20.00.11";" - - - - 4 ve daha az hareketli eksenli olanlar";"Adet";50
+"null";"8458.11.20.00.12";" - - - - 5 veya daha fazla hareketli eksenli olanlar";"Adet";50
+"null";;" - - - Otomatik torna tezgahları :";" ";
+"null";;" - - - - Tek milli olanlar";;
+"null";"8458.11.41.00.11";" - - - - - 2 lineer eksenli olanlar";"Adet";50
+"null";"8458.11.41.00.12";" - - - - - 2 lineer ve 1 döner eksenli olanlar ";"Adet";50
+"null";"8458.11.41.00.13";" - - - - - 3 lineer ve 1 döner eksenli olanlar";"Adet";50
+"null";"8458.11.41.00.19";" - - - - - Diğerleri";"Adet";50
+"null";"8458.11.49.00.00";" - - - - Çok milli olanlar";"Adet";50
+"null";"8458.11.80.00.00";" - - - Diğerleri";"Adet";50
+"null";"8458.19.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Diğer torna tezgahları:";;
+"null";"8458.91";" - - Numerik kontrollü olanlar:";;
+"null";"8458.91.20.00.00";" - - - Tornalama merkezleri ";"Adet";50
+"null";"8458.91.80.00.00";" - - - Diğerleri";"Adet";50
+"null";"8458.99.00.00.00";" - - Diğerleri";"Adet";50
+"null";;;;
+"null";"84.59";"Metalleri talaş kaldırmak suretiyle delmeye, raybalamaya, frezelemeye,";;
+"null";;"diş açmaya veya vida yuvası açmaya mahsus takım tezgahları";;
+"null";;"(kızaklı işlem üniteleri dahil) [84.58 pozisyonundaki torna tezgahları ";;
+"null";;"(tornalama merkezleri dahil) hariç] :";;
+"null";"8459.10.00.00.00";" - Kızaklı işlem üniteleri";"Adet";50
+"null";;" - Diğer delme tezgahları:";" ";
+"null";"8459.21.00.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8459.29.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Diğer rayba -freze tezgahları:";;
+"null";"8459.31.00.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8459.39.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Diğer rayba tezgahları:";" ";
+"null";"8459.41.00.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8459.49.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Konsol tipi freze tezgahları:";" ";
+"null";"8459.51.00.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8459.59.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Diğer freze tezgahları:";" ";
+"null";"8459.61";" - - Numerik kontrollü olanlar:";" ";
+"null";"8459.61.10.00.00";" - - - Takım freze tezgahları";"Adet";50
+"null";"8459.61.90.00.00";" - - - Diğerleri:";"Adet";50
+"null";"8459.69";" - - Diğerleri:";" ";
+"null";"8459.69.10.00.00";" - - - Takım freze tezgahları";"Adet";50
+"null";"8459.69.90.00.00";" - - - Diğerleri:";"Adet";50
+"null";"8459.70.00.00.00";" - Diğer diş açma veya vida yuvası açma tezgahları";"Adet";50
+"null";;;" ";
+"null";"84.60";"Metalleri veya sermetleri taşlama taşları  ,aşındırıcılar veya parlat-";" ";
+"null";;"ma ürünleri vasıtasıyla işleyen çapak alma, bileme, taşlama,";" ";
+"null";;"honlama, lepleme, parlatma veya başka şekilde tamamlama işlem-";" ";
+"null";;"lerine mahsus tezgahlar ( 84.61 pozisyonundaki dişli açma, dişli";" ";
+"null";;"taşlama veya dişli tamamlama tezgahları hariç):";" ";
+"null";;" - Düz yüzey taşlama tezgahları:";;
+"null";"8460.12.00.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8460.19.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Diğer taşlama tezgahları:";;
+"null";"8460.22.00.00.00";" - - Merkezsiz taşlama makineleri, numerik kontrollü olanlar";"Adet";50
+"null";"8460.23.00.00.00";" - - Diğer silindirik taşlama makineleri, numerik kontrollü olanlar";"Adet";50
+"null";"8460.24.00.00.00";" - - Diğerleri, numerik kontrollü olanlar";"Adet";50
+"null";"8460.29";" - - Diğerleri:";;
+"null";"8460.29.10.00.00";" - - - Silindirik yüzeyler için taşlama tezgahları ";"Adet";50
+"null";"8460.29.90.00.00";" - - - Diğerleri";"Adet";50
+"null";;" - Bileme tezgahları (alet veya kesici takım için):";" ";
+"null";"8460.31.00.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8460.39.00.00.00";" - - Diğerleri";"Adet";50
+"null";"8460.40";" - Honlama veya lepleme tezgahları :";" ";
+"null";" ";" - - Numerik kontrollü olanlar";" ";
+"null";"8460.40.10.00.11";" - - - Honlama tezgahları";"Adet";50
+"null";"8460.40.10.00.12";" - - - Lepleme tezgahları";"Adet";50
+"null";" ";" - - Diğerleri";" ";
+"null";"8460.40.90.00.11";" - - - Honlama tezgahları";"Adet";50
+"null";"8460.40.90.00.12";" - - - Lepleme tezgahları";"Adet";50
+"null";"8460.90";" - Diğerleri:";;
+"null";"8460.90.00.00.11";" - - Rektifiye tezgahları";"Adet";50
+"null";"8460.90.00.00.19";" - - Diğerleri";"Adet";50
+"null";" ";;;
+"null";"84.61";"Metalleri veya sermetleri taIaş kaldırarak işleyen, tarifenin başka bir";;
+"null";;"yerinde beIirtilmeyen veya yer almayan planya,vargel, yiv açma, ";;
+"null";;"broş, dişli açma, dişli taşIama veya dişli tamamlama tezgahları,";;
+"null";;"testere, diIme tezgahları ve diğer takım tezgahIarı:";;
+"null";"8461.20";" - Vargel ve yiv açma tezgahları";;
+"null";"8461.20.00.00.11";" - - Vargel tezgahları";"Adet";50
+"null";"8461.20.00.00.12";" - - Yiv açma tezgahları";"Adet";50
+"null";"8461.30";" - Broş tezgahları :";;
+"null";"8461.30.10.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8461.30.90.00.00";" - - Diğerleri";"Adet";50
+"null";"8461.40";" - Dişli açma, dişli taşlama veya dişli tamamlama tezgahları:";;
+"null";;" - - Dişli açma tezgahları:";;
+"null";;" - - - Dişli çarkları açmaya mahsus olanlar:";;
+"null";"8461.40.11.00.00";" - - - - Numerik kontrollü olanlar";"Adet";50
+"null";"8461.40.19.00.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğer dişlileri açmaya mahsus olanlar:";" ";
+"null";"8461.40.31.00.00";" - - - - Numerik kontrollü olanlar";"Adet";50
+"null";"8461.40.39.00.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - Dişli taşlama veya tamamlama tezgahları:";;
+"null";;" - - - Mikrometrik ayarlama sistemi olanlar (eksenlerinden herhangi birinin";;
+"null";;"        ayarlanma hassasiyeti en az 0,01 mm. olanlar):";;
+"null";" ";" - - - - Numerik kontrollü olanlar";;
+"null";"8461.40.71.00.11";" - - - - - Dişli taşlama tezgahları";"Adet";50
+"null";"8461.40.71.00.12";" - - - - - Dişli tamamlama tezgahları";"Adet";50
+"null";" ";" - - - - Diğerleri";" ";
+"null";"8461.40.79.00.11";" - - - - - Dişli taşlama tezgahları";"Adet";50
+"null";"8461.40.79.00.12";" - - - - - Dişli tamamlama tezgahları";"Adet";50
+"null";" ";" - - - Diğerleri";" ";
+"null";"8461.40.90.00.11";" - - - - Dişli taşlama tezgahları";"Adet";50
+"null";"8461.40.90.00.12";" - - - - Dişli tamamlama tezgahları";"Adet";50
+"null";"8461.50";" - Testere tezgahları ve dilme tezgahları:";;
+"null";;" - - Testere tezgahları:";;
+"null";"8461.50.11.00.00";" - - - Testeresi daire şeklinde olanlar";"Adet";50
+"null";"8461.50.19.00.00";" - - - Diğerleri";"Adet";50
+"null";"8461.50.90.00.00";" - - Dilme tezgahları";"Adet";50
+"null";"8461.90.00.00.00";" - Diğerleri";"Adet";50
+"null";;;;
+"null";"84.62";"Metalleri dövme, çekiçleme veya kalıpta dövme suretiyle işlemeye ";;
+"null";;"mahsus takım tezgahları (presler dahil) (hadde makinaları hariç); metalleri ";;
+"null";;"kavislendirmeye, katlamaya,düzeltmeye, makasla kesmeye, zımbalı kesmeye,";;
+"null";;"taslak çıkartmaya, şataflamaya veya dişlemeye mahsus takım tezgahları";;
+"null";;"(presler, dilme hatları, uzunlamasına kesme hatları dahil) (çekme tezgahları ";;
+"null";;"hariç); metalleri veya metal karbürleri işlemeye mahsus yukarıda sayılmayan presler:";;
+"null";;" - Dövme, kalıpta dövme (presler dahil) ve sıcak çekiçler için sıcak ";;
+"null";;"   şekillendirme makineleri: ";;
+"null";"8462.11";" - - Kapalı kalıp dövme makineleri:";;
+"null";"8462.11.10.00.00";" - - - Numerik kontrollü olanlar";"Adet";50
+"null";"8462.11.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8462.19";" - - Diğerleri:";;
+"null";"8462.19.10.00.00";" - - - Numerik kontrollü olanlar";"Adet";50
+"null";"8462.19.90.00.00";" - - - Diğerleri";"Adet";50
+"null";;" - Yassı ürünler için kavislendirme, katlama, düzeltme veya yassı-";;
+"null";;"    laştırma tezgahları (abkant presler dahil):";;
+"null";"8462.22";" - - Profil şekillendirme makineleri: ";;
+"null";"8462.22.10.00.00";" - - - Numerik kontrollü olanlar";"Adet";50
+"null";"8462.22.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8462.23.00.00.00";" - - Numerik kontrollü abkant presler";"Adet";50
+"null";"8462.24.00.00.00";" - - Numerik kontrollü panel bükücüler";"Adet";50
+"null";"8462.25.00.00.00";" - - Numerik kontrollü rulo şekillendirme makineleri";"Adet";50
+"null";"8462.26.00.00.00";" - - Numerik kontrollü diğer kavislendirme, katlama, düzeltme veya yassı-";;
+"null";;"     laştırma tezgahları";"Adet";50
+"null";"8462.29";" - - Diğerleri:";;
+"null";"8462.29.10.00.00";" - - - Numerik kontrollü olanlar";"Adet";50
+"null";"8462.29.90.00.00";" - - - Diğerleri";"Adet";50
+"null";;" - Yassı ürünler için dilme hatları, uzunlamasına kesme hatları ve diğer";;
+"null";;"   makasla kesme tezgahları (presler dahil) (kombine haldeki zımbalı kesme ve ";;
+"null";;"   makasla kesme tezgahları hariç):";;
+"null";"8462.32";" - - Dilme hatları ve uzunlamasına kesme hatları:";;
+"null";"8462.32.10.00.00";" - - - Numerik kontrollü olanlar";"Adet";50
+"null";"8462.32.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8462.33.00.00.00";" - - Numerik kontrollü makasla kesme tezgahları";"Adet";50
+"null";"8462.39.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Yassı ürünler için zımbalı kesme, taslak çıkarma veya dişleme tezgahları";;
+"null";;"  (presler dahil) (kombine haldeki zımbalı kesme ve makasla kesme tezgahları dahil):";;
+"null";"8462.42";" - - Numerik kontrollü olanlar:";;
+"null";"8462.42.00.00.11";" - - - Zımbalı kesme tezgahları";"Adet";50
+"null";"8462.42.00.00.12";" - - - Presler";"Adet";50
+"null";"8462.42.00.00.19";" - - - Diğerleri";"Adet";50
+"null";"8462.49";" - - Diğerleri:";;
+"null";"8462.49.00.00.11";" - - - Zımbalı kesme makinaları";"Adet";50
+"null";"8462.49.00.00.12";" - - - Presler";"Adet";50
+"null";"8462.49.00.00.19";" - - - Diğerleri";"Adet";50
+"null";;" - Tüp, boru, içi boş profil ve çubuk işleme makineleri (presler hariç): ";;
+"null";"8462.51.00.00.00";" - - Numerik kontrollü olanlar";"Adet";50
+"null";"8462.59.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Soğuk metal işleme presleri: ";;
+"null";"8462.61";" - - Hidrolik presler:";;
+"null";;" - - - Numerik Kontrollü olanlar";;
+"null";"8462.61.10.10.00";" - - - - Metal tozlarını sinterleyerek kalıplamaya mahsus presler veya";;
+"null";;"        metal döküntülerini sıkıştırarak balya yapmaya mahsus presler";"Adet";50
+"null";"8462.61.10.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";" ";
+"null";"8462.61.90.10.00";" - - - - Metal tozlarını sinterleyerek kalıplamaya mahsus presler veya ";;
+"null";;"         metal döküntülerini sıkıştırarak balya yapmaya mahsus presler";"Adet";50
+"null";"8462.61.90.90.00";"- - - -Diğerleri";"Adet";50
+"null";"8462.62";" - - Mekanik presler:";;
+"null";"8462.62.10.00.00";" - - - Numerik Kontrollü olanlar";"Adet";50
+"null";"8462.62.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8462.63";" - - Servo presler:";;
+"null";"8462.63.10.00.00";" - - - Numerik Kontrollü olanlar";"Adet";50
+"null";"8462.63.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8462.69";" - - Diğerleri:";;
+"null";;" - - - Numerik Kontrollü olanlar";;
+"null";"8462.69.10.10.00";" - - - - Metal tozlarını sinterleyerek kalıplamaya mahsus presler veya";;
+"null";;"        metal döküntülerini sıkıştırarak balya yapmaya mahsus presler";"Adet";50
+"null";"8462.69.10.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8462.69.90.10.00";" - - - - Metal tozlarını sinterleyerek kalıplamaya mahsus presler veya ";;
+"null";;"         metal döküntülerini sıkıştırarak balya yapmaya mahsus presler";"Adet";50
+"null";"8462.69.90.90.00";"- - - -Diğerleri";"Adet";50
+"null";"8462.90";" - Diğerleri:";;
+"null";"8462.90.10.00.00";" - - Numerik Kontrollü olanlar";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";"8462.90.90.00.11";" - - - Jant düzeltme makinaları";"Adet";50
+"null";"8462.90.90.00.19";" - - - Diğerleri";"Adet";50
+"null";"84.63";"Metalleri veya sermetleri talaş kaldırmadan işlemeye mahsus diğer";;
+"null";;"takım tezgahları:";;
+"null";"8463.10";" - Çubuk, boru, profil, tel veya benzerlerini çekme makinaları:";;
+"null";"8463.10.10.00.00";" - - TeI çekme makinaları";"Adet";50
+"null";"8463.10.90.00.00";" - - Diğerleri";"Adet";50
+"null";"8463.20";" - Diş açma makinaları";" ";
+"null";"8463.20.00.00.11";" - - Ezerek vida dişi açma makinaları";"Adet";50
+"null";"8463.20.00.00.19";" - - Diğerleri";"Adet";50
+"null";"8463.30.00.00.00";" - Tel işlemeye mahsus makinalar";"Adet";50
+"null";"8463.90.00.00.00";" - Diğerleri";"Adet";50
+"null";;;;
+"null";"84.64";"Taş, seramik, beton, asbestli çimento veya benzeri mineral maddele-";;
+"null";;"ri işlemeye veya camı soğuk olarak işlemeye mahsus makinalar:";;
+"null";"8464.10.00.00.00";" - Testere makinaları ";"Adet";40
+"null";"8464.20";" - Taşlama veya parlatma makinaları:";" ";
+"null";;" - - Camı işlemeye mahsus olanlar:";" ";
+"null";"8464.20.11.00.00";" - - - Optik camlar için olanlar";"Adet";40
+"null";"8464.20.19.00.00";" - - - Diğerleri";"-";40
+"null";"8464.20.80.00.00";" - - Diğerleri";"-";40
+"null";"8464.90.00.00.00";" - Diğerleri";"-";40
+"null";;;;
+"null";"84.65";"Ağaç, mantar, kemik, sert kauçuk, sert plastik maddeler veya benzeri ";;
+"null";;"sert maddeleri işlemeye mahsus makinalar (çivi çakma, zımbalama,";;
+"null";;"yapıştırma veya başka şekilde birleştirmeye mahsus makinalar dahil):";;
+"null";"8465.10";" - Çeşitli makina işlemlerini bu işlemler arasında alet değiştirmeden ";;
+"null";;"    yapan makinalar:";;
+"null";"8465.10.10.00.00";" - -  Her işlem arasında işlenecek parçanın yüklemesi elle yapılanlar";"Adet";50
+"null";"8465.10.90.00.00";" - -  Her işlem arasında işlenecek parçanın yüklemesi otomatik olarak";" ";
+"null";;"      yapılanlar";"Adet";50
+"null";"8465.20.00.00.00";" - İşleme merkezleri";"Adet";50
+"null";;" - Diğerleri:";" ";
+"null";"8465.91";" - - Testere makinaları :";" ";
+"null";"8465.91.10.00.00";" - - - Şerit testereler";"Adet";50
+"null";"8465.91.20.00.00";" - - - Dairevi testereler";"Adet";50
+"null";"8465.91.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8465.92";" - - Planya,freze veya keserek kalıplama makinaları";" ";
+"null";"8465.92.00.00.11";" - - - Planya makinaları";"Adet";50
+"null";"8465.92.00.00.12";" - - - Freze makinaları";"Adet";50
+"null";"8465.92.00.00.13";" - - - Keserek kalıplama makinaları";"Adet";50
+"null";"8465.93";" - - Taşlama,zımparalama veya parlatma makinaları";;
+"null";"8465.93.00.00.11";" - - - Taşlama makinaları";"Adet";50
+"null";"8465.93.00.00.12";" - - - Zımparalama makinaları";"Adet";50
+"null";"8465.93.00.00.13";" - - - Parlatma makinaları";"Adet";50
+"null";"8465.94.00.00.00";" - - Bükme veya birleştirme makinaları";"Adet";50
+"null";"8465.95.00.00.00";" - - Delik açma veya zıvanalama makinaları";"Adet";50
+"null";"8465.96.00.00.00";" - - Yarma,dilme veya soyarak yaprak halinde açma makinaları";"Adet";50
+"null";"8465.99";" - - Diğerleri:";;
+"null";"8465.99.00.00.11";" - - - Ebonit ve sert plastik maddelerin işlenmesine mahsus makinalar";"Adet";50
+"null";"8465.99.00.00.19";" - - - Diğerleri";"Adet";50
+"null";;;;
+"null";"84.66";"Sadece veya esas itibariyle 84.56 ila 84.65 pozisyonlarındaki makina-";;
+"null";;"larda kullanılmaya elverişli aksam, parça ve aksesuar (işlenecek par-";;
+"null";;"çaları tutucular ve alet tutucuları, otomatik şekilde açılan pafta kafa-";;
+"null";;"ları, taksim edici tertibat ve makinalara mahsus diğer tertibat dahil); ";;
+"null";;"elde kullanılmaya mahsus her türlü el aletlerinin alet tutucuları:";;
+"null";"8466.10";" - Alet tutucuları ve otomatik şekilde açılan pafta kafaları:";;
+"null";;" - - Alet tutucuları:";;
+"null";"8466.10.20.00.00";" - - - Aynalar, kıskaçlar ve kovanlar";"-";50
+"null";;" - - - Diğerleri:";" ";
+"null";"8466.10.31.00.00";" - - - - Torna tezgahlarına mahsus olanlar";"-";50
+"null";"8466.10.38.00.00";" - - - - Diğerleri";"-";50
+"null";"8466.10.80.00.00";" - - Otomatik şekilde açılan pafta kafaları";"-";50
+"null";"8466.20";" - İşlenecek parçaları tutucular:";" ";
+"null";"8466.20.20.00.00";" - - Özel uygulamalar için takım ve aparatlar; standart takım ve";" ";
+"null";;"      aparatların parçalarından oluşan setler";"-";50
+"null";;" - - Diğerleri:";" ";
+"null";" ";" - - - Torna tezgahlarına mahsus olanlar";" ";
+"null";"8466.20.91.00.11";" - - - - Torna aynaları";"-";50
+"null";"8466.20.91.00.19";" - - - - Diğerleri";"-";50
+"null";"8466.20.98.00.00";" - - - Diğerleri";"-";50
+"null";"8466.30.00.00.00";" - Makinalara ait taksim edici tertibat ve diğer özel tertibat";"-";50
+"null";;" - Diğerleri:";" ";
+"null";"8466.91";" - - 84.64 Pozisyonundaki makinalara ait olanlar:";;
+"null";"8466.91.20.00.00";" - - - Demir dökümden veya çelik dökümden olanlar";"-";40
+"null";"8466.91.95.00.00";" - - - Diğerleri";"-";40
+"null";"8466.92";" - - 84.65 Pozisyonundaki makinalara ait olanlar:";" ";
+"null";"8466.92.20.00.00";" - - - Demir dökümden veya çelik dökümden olanlar";"-";50
+"null";"8466.92.80.00.00";" - - - Diğerleri";"-";50
+"null";"8466.93";" - - 84.56 ila 84.61 Pozisyonlarındaki makinalara  ait olanlar";;
+"null";"8466.93.40.00.00";" - - - 8456.11.10, 8456.12.10, 8456.20, 8456.30, 8457.10, 8458.91, 8459.21.00";;
+"null";;"      8459.61 veya 8461.50 alt pozisyonlarında yer alan ve sadece veya esas itibarıyla";;
+"null";;"      baskılı devreler, baskılı devre montajları, 85.17 pozisyonuna ait aksamlar, veya";;
+"null";;"      otomatik bilgi işlem makinalarına ait aksamların üretiminde kullanılan türde";;
+"null";;"     makinalara ait aksam parça ve aksesuarlar";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8466.93.50.00.00";" - - - - 8456.50.00 alt pozisyonundaki makinere ait olanlar";"-";50
+"null";"8466.93.60.00.00";" - - - - Diğerleri";"-";50
+"null";"8466.94";" - - 84.62 veya 84.63 Pozisyonlarındaki makinalara";;
+"null";;"      ait olanlar:";;
+"null";"8466.94.00.10.00";" - - - Metal tozlarını sinterleyerek kalıplamaya mahsus";;
+"null";;"           preslere ve metal tozlarını sıkıştırarak balya ";;
+"null";;"            yapmaya mahsus preslere ait olanlar";"-";50
+"null";"8466.94.00.90.00";" - - - Diğerleri";"-";50
+"null";;;" ";
+"null";"84.67";" El ile kullanılan, pnömatik ,hidrolik veya  elektrikli ya da elektriksiz ";" ";
+"null";;" kendinden motorlu olan aletler :";;
+"null";;" - Pnömatik aletler:";;
+"null";"8467.11";" - - Rotatif tiptekiler (kombine haldeki rotatif darbeli olanlar dahil):";;
+"null";"8467.11.10.00.00";" - - - Metal işlemek için olanlar";"-";50
+"null";" ";" - - - Diğerleri";" ";
+"null";"8467.11.90.00.11 ";" - - - - Garaj, atölye ve benzeri yerlerde kullanılan hava tazyikli gres ";" ";
+"null";" ";"          tabancaları";"-";50
+"null";"8467.11.90.00.19";" - - - - Diğerleri";"-";50
+"null";"8467.19.00.00.00";" - - Diğerleri";"-";50
+"null";;" - Kendinden elektrik motorlu olanlar: ";;
+"null";"8467.21";" - - Her tür matkaplar:";;
+"null";"8467.21.10.00.00";" - - - Harici bir güç kaynağı olmaksızın çalışabilenler";"Adet";35
+"null";;" - - - Diğerleri:";;
+"null";"8467.21.91.00.00";" - - - - Elektropnömatik olanlar";"Adet";35
+"null";"8467.21.99.00.00";" - - - - Diğerleri";"Adet";35
+"null";"8467.22";" - - Testereler:";;
+"null";"8467.22.10.00.00";" - - - Zincir testereler";"Adet";35
+"null";"8467.22.30.00.00";" - - - Dairesel testereler";"Adet";35
+"null";"8467.22.90.00.00";" - - - Diğerleri";"Adet";35
+"null";"8467.29";" - - Diğerleri:";;
+"null";"8467.29.20.00.00";" - - - Harici bir güç kaynağı olmaksızın çalışabilenler";"Adet";35
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - BileyiciIer ve taşlayıcılar:";;
+"null";"8467.29.51.00.00";" - - - - - Köşe taşlayıcıIar";"Adet";35
+"null";"8467.29.53.00.00";" - - - - - KayışIı bileyiciler";"Adet";35
+"null";"8467.29.59.00.00";" - - - - - Diğerleri";"Adet";35
+"null";"8467.29.70.00.00";" - - - - Planyalar";"Adet";35
+"null";"8467.29.80.00.00";" - - - - Çit makasları ve çim biçme makasları";"Adet";35
+"null";"8467.29.85.00.00";" - - - - Diğerleri";"Adet";35
+"null";;" - Diğer aletler:";;
+"null";"8467.81.00.00.00";" - - Zincirli testereler";"Adet";50
+"null";"8467.89";" - - Diğerleri";;
+"null";;" - - - Hidrolik olanlar:";;
+"null";"8467.89.00.11.00";" - - - - Delme veya sondaj makinaları";"-";15
+"null";"8467.89.00.19.00";" - - - - Diğerleri";"-";50
+"null";"8467.89.00.90.00";" - - - Diğerleri";"-";50
+"null";;" - Aksam ve parçalar:";" ";
+"null";"8467.91";" - -  Zincir testerelere ait olanlar";;
+"null";"8467.91.00.10.00";" - - - Kendinden elektrik motorlu olanlar";"-";50
+"null";"8467.91.00.90.00";" - - - Diğerleri ";"-";50
+"null";"8467.92.00.00.00";" - - Pnömatik aletlere ait olanlar";"-";50
+"null";"8467.99";" - - Diğerleri";" ";
+"null";;" - - - Hidrolik olanlar:";" ";
+"null";"8467.99.00.11.00";" - - - - Delme veya sondaj makinalarına ait olanlar";"-";15
+"null";"8467.99.00.19.00";" - - - - Diğerleri";"-";15
+"null";"8467.99.00.20.00";" - - - Kendinden elektrik motorlu olanlara ait olanlar";"-";35
+"null";"8467.99.00.90.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"84.68";"Lehim ve kaynak yapmaya mahsus makina ve cihazlar (kesmeye el-";" ";
+"null";;"verişli olsun olmasın) (85.15 pozisyonundakiler hariç); gazla çalışan ";;
+"null";;"satıh tavlamaya mahsus makina ve cihazlar:";;
+"null";"8468.10.00.00.00";" - Elle kullanılan şalümolar";"-";30
+"null";"8468.20";" - Gazla çalışan diğer makina ve cihazlar";" ";
+"null";"8468.20.00.00.11";" - - Termoplastik maddeler için kaynak cihazları";"-";30
+"null";"8468.20.00.00.19";" - - Diğerleri";"-";30
+"null";"8468.80.00.00.00";" - Diğer makina ve cihazlar";"-";30
+"null";"8468.90";" - Aksam ve parçalar:";" ";
+"null";"8468.90.00.10.00";" - - Lehim yapmaya mahsus makina ve cihazlara ait olanlar";"-";50
+"null";" ";" - - Diğerleri";" ";
+"null";"8468.90.00.90.11";" - - - Satıh tavlama makina ve cihazlarına ait olanlar";"-";30
+"null";"8468.90.00.90.19";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"[84.69]";;;
+"null";;;;
+"null";"84.70";"Hesap makinaları ve hesaplama fonksiyonu olup verilen bilgileri";;
+"null";;"kaydeden, kaydedilen bilgileri  yeniden veren ve gösteren cep tipi";;
+"null";;"makinalar; hesaplama tertibatı olan muhasebe makinaları, ";;
+"null";;"posta pulu yerine kullanılan damga basan makinalar, bilet basma";;
+"null";;"ve verme makinaları ve benzeri cihazlar; yazar kasalar:";;
+"null";"8470.10.00.00.00";" - Harici bir elektrikli güç kaynağı olmaksızın çalışabilen elektronik";;
+"null";;"   hesap makinaları ve hesaplama fonksiyonu olup verilen bilgileri kay-";;
+"null";;"   deden, kaydedilen bilgileri  yeniden veren ve gösteren cep tipi ";;
+"null";;"   makinalar";"Adet";30
+"null";;" - Diğer elektronik hesap makinaları:";" ";
+"null";"8470.21.00.00.00";" - - Yazma tertibatı olanlar";"Adet";30
+"null";"8470.29.00.00.00";" - - Diğerleri";"Adet";30
+"null";"8470.30.00.00.00";" - Diğer hesap makinaları";"Adet";30
+"null";"8470.50";" - Yazar kasalar";;
+"null";"8470.50.00.00.11";" - -  Satış noktası terminalleri (POS makinaları)";"Adet";30
+"null";"8470.50.00.00.19";" - -  Diğerleri";"Adet";30
+"null";"8470.90";" - Diğerleri";;
+"null";"8470.90.00.00.11";" - - Posta pulu yerine kullanılan damga basan makinalar";"Adet";30
+"null";"8470.90.00.00.12";" - - Bilet basma ve verme makinaları";"Adet";30
+"null";"8470.90.00.00.19";" - - Diğerleri";"Adet";30
+"null";;;" ";
+"null";"84.71";"Tarifenin başka bir yerinde belirtilmeyen veya yer almayan otomatik";" ";
+"null";;"bilgi işlem makinaları ve bunlara ait birimler; manyetik veya optik";" ";
+"null";;"okuyucular, verileri kayıt ortamına kod şekline dönüştürerek girmeye ait";" ";
+"null";;"makinalar ile bu verileri işleyen makinalar:";;
+"null";"8471.30.00.00.00";"- Portatif otomatik bilgi işlem makinaları ( en az bir merkezi işlem";;
+"null";;"  birimi, bir klavye ve bir ekrandan oluşan ve ağırlığı 10 kg.ı geçmeyenler)";"Adet";20
+"null";;" - Diğer otomatik bilgi işlem makinaları:";;
+"null";"8471.41";" - - Aynı kabin içinde en az bir merkezi işlem birimi ve bir giriş bir çıkış ";;
+"null";;"     birimi bulunanlar (birbirlerine bağlı olsun olmasın) : ";;
+"null";"8471.41.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";"8471.41.00.90.00";" - - - Diğerleri ";"Adet";20
+"null";"8471.49";" - - Diğerleri ( sistem halinde getirilenler):";;
+"null";"8471.49.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";20
+"null";"8471.49.00.90.00";" - - - Diğerleri";"Adet";20
+"null";"8471.50";" - 8471.41 veya  8471.49 alt pozisyonlarında yer alanların dışındaki bilgi ";;
+"null";;"   işlem birimleri ( aynı kabin içinde bellek birimi, giriş birimi, çıkış ";;
+"null";;"   biriminden bir veya ikisini içersin içermesin):";;
+"null";"8471.50.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";20
+"null";"8471.50.00.90.00";" - - Diğerleri ";"Adet";20
+"null";"8471.60";" - Giriş birimleri ve çıkış birimleri  ( aynı kabin içinde bellek birimi";;
+"null";;"   içersin içermesin) :";;
+"null";;" - - Klavyeler:";;
+"null";"8471.60.60.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";"8471.60.60.90.00";" - - - Diğerleri";"Adet";20
+"null";;" - - Diğerleri:";;
+"null";"8471.60.70.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";;" - - - Diğerleri:";" ";
+"null";"8471.60.70.90.11";" - - - - Optik okuyucular";"Adet";20
+"null";"8471.60.70.90.12";" - - - - Manyetik kod okuyucular";"Adet";20
+"null";"8471.60.70.90.13";" - - - - Işıklı kalem";"Adet";20
+"null";"8471.60.70.90.14";" - - - - Mouse";"Adet";20
+"null";"8471.60.70.90.15";" - - - - Plotter (çizici)";"Adet";20
+"null";"8471.60.70.90.16";" - - - - Digitizer";"Adet";20
+"null";"8471.60.70.90.19";" - - - - Diğerleri";"Adet";20
+"null";"8471.70";" - Bellek birimleri :";" ";
+"null";;" - - Ana bellek birimleri:";;
+"null";"8471.70.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";"8471.70.20.90.00";" - - - Diğerleri";"Adet";20
+"null";;" - - Diğerleri:";" ";
+"null";;" - - - Disk birimleri:";;
+"null";;" - - - - Optik olanlar (manyeto-optik olanlar dahil):";;
+"null";"8471.70.30.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";"8471.70.30.90.00";" - - - - - Diğerleri";"Adet";20
+"null";;" - - - - Diğerleri:";" ";
+"null";;" - - - - - Hard disk sürücü:";;
+"null";"8471.70.50.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";"8471.70.50.90.00";" - - - - - - Diğerleri";"Adet";20
+"null";;" - - - - - Diğerleri:";;
+"null";"8471.70.70.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";"8471.70.70.90.00";" - - - - - - Diğerleri";"Adet";20
+"null";;" - - - Manyetik teyp birimleri:";;
+"null";"8471.70.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";"8471.70.80.90.00";" - - - - Diğerleri";"Adet";20
+"null";;" - - - Diğerleri:";;
+"null";"8471.70.98.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";20
+"null";"8471.70.98.90.00";" - - - - Diğerleri";"Adet";20
+"null";"8471.80.00.00.00";" - Otomatik bilgi işlem makinalarının diğer birimleri";"Adet";20
+"null";"8471.90.00.00.00";" - Diğerleri";"Adet";20
+"null";;;;
+"null";"84.72";"Diğer büro makinaları (hektografik veya mumlu kağıtla çalışan teksir";;
+"null";;"makinaları, adres basma makinaları, para ayırma, sayma veya paket-";;
+"null";;"leme makinaları, otomatik banknot verme makinaları, kurşun kalem";;
+"null";;"açma cihazları, delikli veya tel zımba makinaları gibi):";;
+"null";"8472.10.00.00.00";" - Teksir makinaları";"Adet";40
+"null";"8472.30.00.00.00";" - Mektupları tasnif etmeye veya katlamaya veya mektupları zarflara";;
+"null";;"   veya bantlara yerleştirmeye, mektupları açmaya, kapamaya veya";;
+"null";;"   mühürlemeye ve posta pullarını yapıştırmaya veya iptal etmeye ";;
+"null";;"   mahsus makinalar";"Adet";30
+"null";"8472.90";" - Diğerleri:";;
+"null";"8472.90.10.00.00";" - - Metal paraları ayıran, sayan veya paketleyen makinalar";"Adet";30
+"null";;" - - Diğerleri:";;
+"null";"8472.90.80.10.00";" - - - Çek yazma makinaları";"-";30
+"null";"8472.90.80.20.00";" - - - Adres basma makinaları";"-";40
+"null";"8472.90.80.30.00";" - - - Adres plakalarını stampa etme makinaları";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8472.90.80.90.11";" - - - - Kurşun kalem açma cihazları";"-";30
+"null";"8472.90.80.90.12";" - - - - Delgeç veya tel zımba makinaları";"-";30
+"null";"8472.90.80.90.13";" - - - - Banknot sayma makinası";"-";30
+"null";"8472.90.80.90.19";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"84.73";"Sadece veya esas itibariyle 84.70 ila 84.72 pozisyonlarındaki makina";;
+"null";;"ve cihazlarda kullanılmaya elverişli aksam, parça ve aksesuarlar";;
+"null";;"(kutular, kılıflar ve benzerleri hariç):";;
+"null";;" - 84.70 Pozisyonundaki makinalara ait aksam, parça ve aksesuar:";;
+"null";"8473.21";" - - 8470.10, 8470.21 veya 8470.29 Alt pozisyonlarındaki elektronik";;
+"null";;"     hesap makinalarına ait olanlar :";;
+"null";"8473.21.10.00.00";" - - - Birleştirilmiş elektronik aksam , parça ve aksesuar";"-";30
+"null";"8473.21.90.00.00";" - - - Diğerleri";"-";30
+"null";"8473.29";" - - Diğerleri :";" ";
+"null";"8473.29.10.00.00";" - - - Birleştirilmiş elektronik aksam, parça ve aksesuar";"-";30
+"null";" ";" - - - Diğerleri";" ";
+"null";"8473.29.90.00.11";" - - - - Muhasebe makinalarına ait olanlar";"-";30
+"null";"8473.29.90.00.12";" - - - - Yazar kasalara ait olanlar";"-";30
+"null";"8473.29.90.00.19";" - - - - Diğer hesap makinalarına ait olanlar";"-";30
+"null";"8473.29.90.00.29";" - - - - Diğerleri";"-";30
+"null";"8473.30";" - 84.71 Pozisyonundaki makinalara ait aksam, parça ve aksesuar :";" ";
+"null";"8473.30.20.00.00";" - - Birleştirilmiş elektronik aksam, parça ve aksesuar";"-";30
+"null";"8473.30.80.00.00";" - - Diğerleri";"-";30
+"null";"8473.40";" - 84.72 Pozisyonundaki makinalara ait aksam, parça ve aksesuar :";" ";
+"null";"8473.40.10.00.00";" - - Birleştirilmiş elektronik aksam, parça ve aksesuar";"-";30
+"null";;" - - Diğerleri";;
+"null";"8473.40.80.00.11";" - - - Çek yazan makinalara ait olanlar";"-";30
+"null";"8473.40.80.00.12";" - - - Adres plakaları";"-";30
+"null";"8473.40.80.00.19";" - - - Diğerleri";"-";30
+"null";"8473.50";" - 84.70 ila 84.72 Pozisyonlarındaki makinalardan iki veya daha faz- ";" ";
+"null";;"   lasında aynı derecede kullanılmaya uygun olan aksam, parça ve";" ";
+"null";;"   aksesuar:";" ";
+"null";"8473.50.20.00.00";" - - Birleştirilmiş elektronik aksam, parça ve aksesuar:";"-";30
+"null";"8473.50.80.00.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"84.74";"Toprak, taş, cevher veya katı haldeki diğer mineral maddeleri (toz ve";;
+"null";;"hamur halinde olanlar dahil) tasnif etmeye, elemeye, ayırmaya, yıka-";;
+"null";;"maya,kırmaya, öğütmeye, karıştırmaya veya yoğurmaya mahsus ma-";;
+"null";;"kina ve cihazlar; mineral katı yakıtları, seramik hamurlarını, sertleş-";;
+"null";;"memiş çimentoyu, alçıyı ve toz veya hamur halindeki diğer mineral ";;
+"null";;"maddeleri aglomere etmeye, kalıba dökmeye veya bunlara şekil ver-";;
+"null";;"meye mahsus makina ve cihazlar; kumdan dökümhane kalıpları yap-";;
+"null";;"maya mahsus makinalar:";;
+"null";"8474.10";" - Tasnif etmeye, elemeye, ayırmaya veya yıkamaya mahsus  maki-";;
+"null";;"   nalar :";;
+"null";"8474.10.00.10.00";" - - Maden cevherlerini tasnif etmeye, ayırmaya, elemeye veya yıkamaya";" ";" "
+"null";;"      mahsus makinalar";"-";25
+"null";"8474.10.00.90.00";" - - Diğerleri";"-";25
+"null";"8474.20";" - Kırmaya veya öğütmeye mahsus makinalar:";" ";
+"null";"8474.20.00.10.00";" - - Taş kırma makinaları";"-";50
+"null";"8474.20.00.90.00";" - - Diğerleri";"-";25
+"null";;" - Karıştırmaya veya yoğurmaya mahsus makina ve cihazlar:";" ";
+"null";"8474.31.00.00.00";" - - Beton veya harç karıştırıcılar";"-";50
+"null";"8474.32.00.00.00";" - - Mineral maddeleri bitümenle karıştırmaya mahsus makinalar";"-";25
+"null";"8474.39.00.00.00";" - - Diğerleri";"-";25
+"null";"8474.80";" - Diğer makina ve cihazlar";;
+"null";"8474.80.10.00.00";" - - Seramik hamurlarını aglomere etmeye, kalıba dökmeye veya bunlara şekil ";;
+"null";;"      vermeye mahsus makina ve cihazlar";"-";25
+"null";;" - - Diğerleri:";;
+"null";"8474.80.90.00.11";" - - - Kumdan dökümhane kalıpları yapmaya mahsus makinalar (maça makinası)";"-";25
+"null";"8474.80.90.00.12";" - - - Kiremit ve tuğla veya biriket yapmaya mahsus makina ve cihazlar";"-";25
+"null";"8474.80.90.00.13";" - - - Beton blok yapmaya mahsus makina ve cihazlar";"-";25
+"null";"8474.80.90.00.19";" - - - Diğerleri";"-";25
+"null";"8474.90";" - Aksam ve parçalar:";;
+"null";;" - - Demir dökümden veya çelik dökümden olanlar:";;
+"null";"8474.90.10.10.00";" - - - Maden cevherlerini tasnif etmeye, ayırmaya, elemeye ve yıkamaya ";;
+"null";;"        mahsus makinalara ait olanlar";"-";25
+"null";" ";" - - - Diğerleri";" ";
+"null";"8474.90.10.90.11";" - - - - Beton ve taş kırma makinalarına ait olanlar";"-";25
+"null";"8474.90.10.90.12";" - - - - Tasnif etme makinalarına ait olanlar";"-";25
+"null";"8474.90.10.90.13";" - - - - Öğütme makinalarına ait olanlar";"-";25
+"null";"8474.90.10.90.19";" - - - - Diğerleri";"-";25
+"null";;" - - Diğerleri:";;
+"null";"8474.90.90.10.00";" - - - Maden cevherlerini tasnif etmeye, ayırmaya, elemeye ve yıkamaya ";;
+"null";;"        mahsus makinalara ait olanlar";"-";25
+"null";" ";" - - - Diğerleri";" ";
+"null";"8474.90.90.90.11";" - - - - Beton ve taş kırma makinalarına ait olanlar";"-";25
+"null";"8474.90.90.90.12";" - - - - Tasnif etme makinalarına ait olanlar";"-";25
+"null";"8474.90.90.90.13";" - - - - Öğütme makinalarına ait olanlar";"-";25
+"null";"8474.90.90.90.19";" - - - - Diğerleri";"-";25
+"null";;;;
+"null";"84.75";"Elektrik veya elektronik ampullerin, tüplerin veya valflerin veya flaş";;
+"null";;"ampullerinin cam zarflar içinde montajına mahsus makinalar; cam";;
+"null";;"veya cam eşyanın imaline veya sıcak olarak işlenmesine mahsus ";;
+"null";;"makinalar:";;
+"null";"8475.10.00.00.00";" - Elektrik veya elektronik ampullerin, tüplerin veya valflerin veya ";;
+"null";;"   flaş ampullerinin cam zarflar içinde montajına mahsus makinalar";"-";30
+"null";;" - Cam veya cam eşyanın imaline veya sıcak olarak işlenmesine ";;
+"null";;"   mahsus makinalar :";;
+"null";"8475.21.00.00.00";" - - Optik liflerin ve taslaklarının imaline mahsus makinalar";"-";30
+"null";"8475.29.00.00.00";" - - Diğerleri";"-";30
+"null";"8475.90";" - Aksam ve parçalar";" ";
+"null";"8475.90.10.00.00";" - - 8475.21.00 alt pozisyonundaki makinalara ait olanlar";"-";30
+"null";"8475.90.90.00.00";" - - Diğerleri";"-";30
+"null";;;" ";
+"null";"84.76";"Otomatik satış makinaları (posta pulu, sigara, yiyecek veya içecek ";;
+"null";;"makinaları gibi) (para bozma makinaları dahil):";;
+"null";;" - Otomatik içecek satış makinaları:";;
+"null";"8476.21.00.00.00";" - - Isıtma veya soğutma tertibatı olanlar:";"Adet";50
+"null";"8476.29.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - Diğer makinalar:";" ";
+"null";"8476.81.00.00.00";" - - Isıtma veya soğutma tertibatı olanlar";"Adet";50
+"null";"8476.89";" - - Diğerleri:";;
+"null";"8476.89.10.00.00";" - - - Para bozma makineleri";"Adet";50
+"null";"8476.89.90.00.00";" - - - Diğerleri";"Adet";50
+"null";"8476.90";" - Aksam ve parçalar";;
+"null";"8476.90.10.00.00";" - - Para bozma makinalarına ait olanlar";"-";50
+"null";"8476.90.90.00.00";" - - Diğerleri";"-";50
+"null";"84.77";"Bu fasılın başka pozisyonlarında belirtilmeyen veya yer almayan";;
+"null";;"kauçuk veya plastiğin işlenmesine veya kauçuk veya plastikten eşyanın";;
+"null";;"imaline mahsus makina ve cihazlar:";;
+"null";"8477.10.00.00.00";" - Enjeksiyon makinaları ";"Adet";50
+"null";"8477.20.00.00.00";" - Ekstrüzyon makinaları";"Adet";50
+"null";"8477.30.00.00.00";" - Püskürtme döküm makinaları";"Adet";50
+"null";"8477.40";" - Vakumlu döküm makinaları ve ısıtarak şekil veren diğer makinalar";" ";
+"null";"8477.40.00.00.11";" - - Vakumlu döküm makinaları";"Adet";50
+"null";"8477.40.00.00.19";" - - Isıtarak şekil veren diğer makinalar";"Adet";50
+"null";;" - Şekil vermeye veya döküm yapmaya mahsus diğer makina ve ci-";;
+"null";;"   hazlar:";;
+"null";"8477.51";" - - Dış Iastiğin dökümüne veya sırt kaplamasına mahsus veya iç las-";;
+"null";;"     tiğin dökümüne veya başka bir usulle şekil verilmesine mahsus ";;
+"null";;"     makinalar";;
+"null";"8477.51.00.00.11";" - - - Dış lastiğin dökümüne mahsus makinalar";"Adet";50
+"null";"8477.51.00.00.12";" - - - Sırt kaplamasına mahsus makinalar";"Adet";50
+"null";"8477.51.00.00.13";" - - - İç lastiğin dökümüne mahsus makinalar";"Adet";50
+"null";"8477.51.00.00.14";" - - - Başka bir usulle şekil verilmesine mahsus makinalar";"Adet";50
+"null";"8477.59";" - - Diğerleri :";;
+"null";"8477.59.10.00.00";" - - - Presler";"Adet";50
+"null";"8477.59.80.00.00";" - - - Diğerleri";"Adet";50
+"null";"8477.80";" - Diğer makina ve cihazlar:";;
+"null";;" - - Sünger görünüşlü veya gözenekli ürünlerin imaline mahsus olanlar";;
+"null";"8477.80.11.00.00";" - - - Reaktif reçinelerin işlenmesine mahsus makinalar ";"Adet";50
+"null";"8477.80.19.00.00";" - - - Diğerleri";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";"8477.80.91.00.00";" - - - Parçalara ayırma makinaları";"Adet";50
+"null";"8477.80.93.00.00";" - - - Karıştırıcılar, yoğurucular ve çırpıcılar";"Adet";50
+"null";"8477.80.95.00.00";" - - - Kesme, yarma ve soyma makinaları";"Adet";50
+"null";"8477.80.99.00.00";" - - - Diğerleri";"-";50
+"null";"8477.90";" - Aksam ve parçalar :";;
+"null";"8477.90.10.00.00";" - - Demir dökümden veya çelik dökümden olanlar";"-";50
+"null";"8477.90.80.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"84.78";"Bu fasılın başka pozisyonIarında belirtilmeyen veya yer almayan";;
+"null";;"tütünün hazırlanmasına veya işlenmesine mahsus makina ve ";;
+"null";;"cihazlar:";;
+"null";"8478.10";" - Makina ve cihazlar:";;
+"null";"8478.10.00.00.11";" - - Tütün veya damar kıyım makina ve cihazları";"-";50
+"null";"8478.10.00.00.12";" - - Sigara, puro veya sigarillo imaline mahsus makina ve cihazlar ";"-";50
+"null";"8478.10.00.00.19";" - - Diğerleri";"-";50
+"null";"8478.90.00.00.00";" - Aksam ve parçalar";"-";50
+"null";;;;
+"null";"84.79";"Bu fasılın başka pozisyonlarında belirtilmeyen veya yer almayan ";;
+"null";;"kendine özgü bir fonksiyonu olan makinalar ve mekanik cihazlar:";;
+"null";"8479.10";" - Bayındırlık, inşaat ve benzeri işlerde kullanılmaya mahsus makina";;
+"null";;"   ve cihazlar";;
+"null";"8479.10.00.00.11";" - - Yol çizme makinaları";"-";50
+"null";"8479.10.00.00.12";" - - Beton serme ve dökme makinaları";"-";50
+"null";"8479.10.00.00.19";" - - Diğerleri";"-";50
+"null";"8479.20";" - Hayvansal veya sabit bitkisel veya mikrobiyal katı veya sıvı yağların";;
+"null";;"  çıkarılmasına veya hazırlanmasına mahsus makina ve cihazlar";;
+"null";"8479.20.00.00.11";" - - Sabun kalıplama veya kesme makina ve cihazları";"-";50
+"null";"8479.20.00.00.19";" - - Diğerleri";"-";50
+"null";"8479.30";" - Ağaç veya diğer lifli maddelerden Ievha imaline mahsus presler ve";;
+"null";;"   ağaç veya mantar işlemeye mahsus diğer makina ve cihazlar :";;
+"null";"8479.30.10.00.00";" - - Presler";"-";50
+"null";"8479.30.90.00.00";" - - Diğerleri";"-";50
+"null";"8479.40.00.00.00";" - İp, halat veya kablo bükme makinaları";"Adet";50
+"null";"8479.50.00.00.00";" - Sınai robotlar (tarifenin başka yerinde belirtilmeyen veya ";;
+"null";;"   yer almayan)";"-";50
+"null";"8479.60.00.00.00";" - Suyun buharlaşması yoluyla havayı soğutan cihazlar";"-";50
+"null";;" - Yolcu biniş köprüleri:";;
+"null";"8479.71.00.00.00";" - - Havalimanlarında kullanılan türde olanlar";"-";50
+"null";"8479.79.00.00.00";" - - Diğerleri";"-";50
+"null";;" - Diğer makina ve cihazlar:";;
+"null";"8479.81.00.00.00";" - - Metallerin işlenmesine mahsus olanlar (eIektrik tellerini bobin ";;
+"null";;"     halinde sarmaya mahsus olanlar dahil)";"-";50
+"null";"8479.82.00.00.00";" - - Karıştırma, yoğurma, kırma, öğütme, eleme, kalburlama, homo -";" ";
+"null";;"     jenleştirme,sübye hale getirme makinaları";"-";50
+"null";"8479.83.00.00.00";" - - Soğuk izostatik presler ";"-";50
+"null";"8479.89";" - - Diğerleri:";;
+"null";"8479.89.30.00.00";" - - - Hidrolik maden direkleri (hareketli)";"-";50
+"null";"8479.89.60.00.00";" - - - Merkezi yağlama sistemleri";"-";50
+"null";"8479.89.70.00.00";" - - - Sadece veya esas itibarıyla baskılı devre montajlarının üretiminde kullanılan türde";;
+"null";;"       otomatik elektronik komponent dizgi makinaları";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8479.89.97.10.00";" - - - -Toprak eşya imalinde kullanılan makinalar";"-";30
+"null";"8479.89.97.20.00";" - - - - Fırça imaline mahsus makina ve cihazlar, pompa tipindeki otomatik";;
+"null";;"              makina gresörleri,   otomatik ayakkabı boyama cihazları";"-";50
+"null";"8479.89.97.30.00";" - - - - Su içinde çalışan şalumolar; kayaları ve  betonu kesmeye veya";;
+"null";;"             bunlar üzerinde delik açmaya mahsus cihazlar";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"8479.89.97.90.11";" - - - - - Lastik sökme ve takma makinaları";"-";50
+"null";"8479.89.97.90.12";" - - - - - Peron ayırıcı kapı sistemleri";"-";50
+"null";"8479.89.97.90.13";" - - - - - Makaron veya filtre çubuğu yapma makinaları";"-";50
+"null";"8479.89.97.90.19";" - - - - - Diğerleri";"-";50
+"null";"8479.90";" - Aksam ve parçalar:";;
+"null";"8479.90.15.00.00";" - - 8479.89.70 alt pozisyonundaki makinalara ait olanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";;" - - - Demir dökümden veya çelik dökümden olanlar:";;
+"null";"8479.90.20.10.00";" - - - - Su içinde çalışan şalumolar; kayaları ve  betonu kesmeye veya";;
+"null";;"             bunlar üzerinde delik açmaya mahsus cihazlara ait olanlar";"-";30
+"null";;" - - - - Diğerleri:  ";;
+"null";"8479.90.20.90.11";" - - - - - İp, halat ve kablo  makinalarına ait olanlar";"-";50
+"null";"8479.90.20.90.19";" - - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8479.90.70.10.00";" - - - - Su içinde çalışan şalumolar; kayaları ve   betonu kesmeye veya";;
+"null";;"              bunlar üzerinde delik açmaya mahsus cihazlara ait olanlar";"-";30
+"null";;" - - - - Diğerleri:  ";;
+"null";"8479.90.70.90.11";" - - - - - İp, halat ve kablo makinalarına ait olanlar";"-";50
+"null";"8479.90.70.90.19";" - - - - - Diğerleri";"-";50
+"null";;;;
+"null";"84.80";"Metal dökümhaneleri için dereceler (döküm kasaları); döküm plaka-";" ";
+"null";;"ları;döküm modelleri; metaller (külçe kalıpları hariç), metal karbürler,";"  ";
+"null";;"cam,mineral maddeler, kauçuk veya plastik maddeler için kalıplar:";" ";
+"null";"8480.10.00.00.00";" - Metal dökümhaneleri için dereceler (döküm kasaları)";"-";40
+"null";"8480.20.00.00.00";" - Döküm plakaları";"-";40
+"null";"8480.30";" - Döküm modelleri:";" ";
+"null";"8480.30.10.00.00";" - - Ahşap olanlar";"-";60
+"null";;" - - Diğerleri:";;
+"null";" ";" - - - Demir dökümden, demirden, çelikten veya aluminyumdan olanlar";;
+"null";"8480.30.90.10.11";" - - - - Aluminyumdan olanlar";"-";50
+"null";"8480.30.90.10.19";" - - - - Diğerleri";"-";50
+"null";"8480.30.90.20.00";" - - - Bakırdan olanlar";"-";40
+"null";"8480.30.90.80.00";" - - - Plastikten olanlar";"-";150
+"null";;" - MetalIer veya metal karbürIer için kalıplar:";" ";
+"null";"8480.41.00.00.00";" - - Enjeksiyon veya basınçlı döküm için olanlar";"-";40
+"null";"8480.49.00.00.00";" - - Diğerleri";"-";40
+"null";"8480.50.00.00.00";" - Cam kalıpları";"-";40
+"null";"8480.60.00.00.00";" - Mineral maddeler için kalıplar";"-";40
+"null";;" - Kauçuk veya plastik maddeler için kalıplar:";" ";
+"null";"8480.71.00.00.00 ";" - - Enjeksiyon veya basınçlı döküm için olanlar";"-";40
+"null";"8480.79.00.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"84.81";"Borular, kazanlar, tanklar, depolar ve benzeri diğer kaplar için";;
+"null";;"musluklar, valfler (vanalar) ve benzeri cihazlar (basınç düşürücü";;
+"null";;"valfler ile termostatik kontrollü valfler dahil):";;
+"null";"8481.10";" - Basınç düşürücü valfler:";;
+"null";"8481.10.05.00.00";" - - Filtre veya yağlayıcılarla kombine  halde olanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8481.10.19.00.00";" - - - Demir dökümden veya çelik dökümden olanlar";"-";50
+"null";"8481.10.99.00.00";" - - - Diğerleri";"-";50
+"null";"8481.20";" - Yağlı hidrolik veya pnömatik transmisyon valfleri:";" ";
+"null";"8481.20.10.00.00";" - - Yağlı hidrolik güç transmisyon kontrol valfleri";"-";50
+"null";"8481.20.90.00.00";" - - Pnömatik güç transmisyon kontrol valfleri";"-";50
+"null";"8481.30";" - Çek valfIeri (dönüşsüz):";" ";
+"null";"8481.30.91.00.00";" - - Demir dökümden veya çelik dökümden olanlar";"-";50
+"null";"8481.30.99.00.00";" - - Diğerleri";"-";50
+"null";"8481.40";" - Emniyet veya bırakma (relief) valfleri:";" ";
+"null";"8481.40.10.00.00";" - - Demir dökümden veya çelik dökümden olanlar";"-";50
+"null";"8481.40.90.00.00";" - - Diğerleri";"-";50
+"null";"8481.80";" - Diğer cihazlar:";" ";
+"null";;" - - Sıhhi tesisat musluk ve valfleri:";" ";
+"null";"8481.80.11.00.00";" - - - Karıştırıcı valfler";"-";50
+"null";" ";" - - - DiğerIeri";" ";
+"null";;" - - - - Musluklar:";;
+"null";"8481.80.19.00.01";" - - - - - Sensörlü olanlar";"-";50
+"null";"8481.80.19.00.09";" - - - - - Diğerleri";"-";50
+"null";"8481.80.19.00.12";" - - - - Valfler";"-";50
+"null";;" - - Merkezi ısıtma radyatör valfleri:";" ";
+"null";"8481.80.31.00.00";" - - - Termostatik kontrollü valfler";"-";50
+"null";"8481.80.39.00.00";" - - - Diğerleri";"-";50
+"null";"8481.80.40.00.00";" - - Pnömatik tekerlekler ve iç lastikler için valfler (sübaplar)";"-";50
+"null";;" - - Diğerleri:";" ";
+"null";;" - - - Process kontrol valfleri:";" ";
+"null";"8481.80.51.00.00";" - - - - Isı ayarlayıcı valfler";"-";50
+"null";"8481.80.59.00.00";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri:";" ";
+"null";;" - - - - Sürgülü valfler:";" ";
+"null";"8481.80.61.00.00";" - - - - - Demir dökümden olanlar";"-";50
+"null";"8481.80.63.00.00";" - - - - - Çelikten olanlar";"-";50
+"null";"8481.80.69.00.00";" - - - - - Diğerleri";"-";50
+"null";;" - - - - Globe (stop) valfler:";" ";
+"null";"8481.80.71.00.00";" - - - - - Demir dökümden olanlar";"-";50
+"null";"8481.80.73.00.00";" - - - - - Çelikten olanlar";"-";50
+"null";"8481.80.79.00.00";" - - - - - Diğerleri";"-";50
+"null";"8481.80.81.00.00";" - - - - Küresel ve konik valfler";"-";50
+"null";"8481.80.85.00.00";" - - - - Kelebek valfler";"-";50
+"null";"8481.80.87.00.00";" - - - - Diyafram valfler";"-";50
+"null";" ";" - - - - Diğerleri";" ";
+"null";"8481.80.99.00.11";" - - - - - Yangın hidrantları";"-";50
+"null";"8481.80.99.00.12";" - - - - - Sulama hidrantları";"-";50
+"null";"8481.80.99.00.13";" - - - - - Buhar kapanları";"-";50
+"null";;" - - - - - Diğerleri:";;
+"null";"8481.80.99.00.21";" - - - - - - Metal dökümden olanlar";"-";50
+"null";"8481.80.99.00.29";" - - - - - - Diğerleri";"-";50
+"null";"8481.90";" - Aksam ve parçalar:";;
+"null";"8481.90.00.00.11";" - - Metal dökümden olanlar";"-";50
+"null";"8481.90.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"84.82";"Bilyalı veya makaralı yataklar (rulmanlar):";;
+"null";"8482.10";" - Bilyalı yataklar (rulmanlar):";;
+"null";;" - - En büyük dış çapı 30 mm.yi geçmeyenler";;
+"null";"8482.10.10.00.11";" - - - Dış çapı 9 mm.yi geçmeyenler";"-";15
+"null";"8482.10.10.00.12";" - - - Dış çapı 9 mm.yi geçen fakat 30 mm.yi geçmeyenler";"-";15
+"null";;" - - Diğerleri";;
+"null";"8482.10.90.00.11";" - - - Dış çapı 30 mm.yi geçen fakat 52 mm.yi geçmeyenler";"-";15
+"null";"8482.10.90.00.12";" - - - Dış çapı 52 mm.yi geçen fakat 100 mm.yi geçmeyenler";"-";15
+"null";"8482.10.90.00.13";" - - - Dış çapı 100 mm.den daha fazla olanlar";"-";15
+"null";"8482.20.00.00.00";" - Konik makaralı yataklar (rulmanlar) (monte edilmek üzere hazırlanmış konik";" ";
+"null";;"   bilezik ve makara grupları dahil)";"-";15
+"null";"8482.30.00.00.00";" - Fıçı makaralı yataklar (rulmanlar)";"-";15
+"null";"8482.40.00.00.00";" - İğne makaralı yataklar (rulmanlar) (kafes ve iğne makara montajları dahil)";"-";15
+"null";"8482.50.00.00.00";" - Diğer silindirik makaralı yataklar (rulmanlar) (kafes ve makara montajları dahil)";"-";15
+"null";"8482.80.00.00.00";" - Diğerleri [kombine haldeki bilyalı ve makaralı yataklar (rulmanlar) dahil] ";"-";15
+"null";;" - Aksam ve parçalar:";;
+"null";"8482.91";" - - Bilyalar, iğneler ve makaralar:";;
+"null";"8482.91.10.00.00";" - - - Konik makaralar";"-";15
+"null";" ";" - - - Diğerleri";" ";
+"null";"8482.91.90.00.11";" - - - - Yatak (Rulman) bilyaları";"-";15
+"null";"8482.91.90.00.12";" - - - - Yatak (Rulman) iğneleri";"-";15
+"null";"8482.91.90.00.19";" - - - - Diğer yatak (Rulman) makaraları";"-";15
+"null";"8482.99";" - - Diğerleri";" ";
+"null";"8482.99.00.00.11";" - - - Yatak (Rulman) bilezikleri";"-";15
+"null";"8482.99.00.00.12";" - - - Yatak (Rulman) kafesleri";"-";15
+"null";"8482.99.00.00.19";" - - - Diğerleri";"-";15
+"null";;;;
+"null";"84.83";"Transmisyon milleri (kam milleri ve krank milleri dahil) ve kranklar;";;
+"null";;"yatak kovanları ve mil yatakları; dişliler ve dişli sistemleri; bilyalı ve";;
+"null";;"makaralı vidalar; dişli kutuları ve diğer hız değiştiriciler (tork ""torque""";;
+"null";;"değiştiricileri dahil) volanlar ve kasnaklar (kasnak blokları dahil);";;
+"null";;"kavramalar ve kaplinler (üniversal kaplinler dahil):";;
+"null";"8483.10";" - Transmisyon milleri (kam milleri ve krank milleri dahil) ve kranklar:";;
+"null";;" - - Kranklar ve krank milleri:";;
+"null";;" - - - Demir dökümden veya çelik dökümden olanlar:";;
+"null";"8483.10.21.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.10.21.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Açık kalıpta dövülmüş çelikten olanlar:";;
+"null";"8483.10.25.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.10.25.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8483.10.29.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.10.29.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - Eklemli miller: ";;
+"null";"8483.10.50.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.10.50.90.00";" - - - Diğerleri";"-";30
+"null";" ";" - - Diğerleri:";" ";
+"null";"8483.10.95.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8483.10.95.90.11";" - - - - Kam milleri";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"8483.10.95.90.21";" - - - - - Metal dökümden olanlar";"-";30
+"null";"8483.10.95.90.29";" - - - - - Diğerleri";"-";30
+"null";"8483.20.00.00.00";" - Yatak kovanları [bilyalı veya makaralı yatak (rulman) içerenler]";"-";30
+"null";"8483.30";" - Yatak kovanları [bilyalı veya makaralı yatak (rulman) içermeyenler]; mil yatakları:";" ";
+"null";;" - - Yatak kovanları:";;
+"null";;" - - - Bilyalı veya makaralı yataklar (rulmanlar) için olanlar:";;
+"null";"8483.30.32.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.30.32.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8483.30.38.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.30.38.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - Mil yatakları:";;
+"null";"8483.30.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8483.30.80.90.11";" - - - - Metal dökümden olanlar";"-";30
+"null";"8483.30.80.90.19";" - - - - Diğerleri";"-";30
+"null";"8483.40";" - Dişliler ve dişli sistemleri (ayrı olarak getirilen dişli çarklar,zincir";;
+"null";;"   dişliler ve diğer transmisyon elemanları hariç); bilyalı ve makaralı";;
+"null";;"   vidalar; dişli kutuları ve diğer hız değiştiriciler (tork ""torque"" ";;
+"null";;"   değiştiricileri dahil):";;
+"null";" ";" - - Dişliler ve dişli sistemleri (sürtünme dişlileri hariç):";;
+"null";;" - - - Düz ve helezoni olanlar:";;
+"null";"8483.40.21.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.40.21.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Konik ve konik/düz olanlar:";;
+"null";"8483.40.23.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.40.23.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Vida dişliler:";;
+"null";"8483.40.25.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.40.25.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8483.40.29.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.40.29.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - Bilyalı ve makaralı vidalar:";" ";
+"null";"8483.40.30.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.40.30.20.00";" - - - Bilyalı vidalar";"-";30
+"null";"8483.40.30.30.00";" - - - Makaralı vidalar";"-";30
+"null";" ";" - - Dişli kutuları ve diğer hız değiştiriciler:";" ";
+"null";;" - - - Dişli kutuları:";;
+"null";"8483.40.51.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"8483.40.51.90.22";" - - - - - Sonsuz vidalı redüktörler";"-";30
+"null";"8483.40.51.90.29";" - - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8483.40.59.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.40.59.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"8483.40.90.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.40.90.90.00";" - - - Diğerleri";"-";30
+"null";"8483.50";" - Volanlar ve kasnaklar (kasnak blokları dahil):";" ";
+"null";;" - - Demir dökümden veya çelik dökümden olanlar:";" ";
+"null";"8483.50.20.00.11";" - - - Volanlar";"-";30
+"null";"8483.50.20.00.12";" - - - Kasnaklar";"-";30
+"null";" ";" - - Diğerleri:";" ";
+"null";"8483.50.80.00.11";" - - - Volanlar";"-";30
+"null";"8483.50.80.00.12";" - - - Kasnaklar";"-";30
+"null";"8483.60";" - Kavramalar ve kaplinler (üniversal kaplinler dahil):";" ";
+"null";" ";" - - Demir dökümden veya çelik dökümden olanlar:";;
+"null";"8483.60.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8483.60.20.90.11";" - - - - Kavramalar";"-";30
+"null";"8483.60.20.90.12";" - - - - Kaplinler (kardan mafsallar ve diğer mafsallar)";"-";30
+"null";" ";" - - Diğerleri:";" ";
+"null";"8483.60.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8483.60.80.90.11";" - - - - Kavramalar";"-";30
+"null";"8483.60.80.90.12";" - - - - Kaplinler (kardan mafsallar ve diğer mafsallar)";"-";30
+"null";"8483.90";" - Ayrı olarak getirilen dişli çarklar, zincir dişliler ve diğer transmisyon ";" ";
+"null";;"   elemanları; aksam ve parçalar :";;
+"null";;" - - Yatak kovanlarına ait aksam ve parçalar:  ";;
+"null";"8483.90.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";"8483.90.20.90.00";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";" ";" - - - Demir dökümden veya çelik dökümden olanlar:";;
+"null";"8483.90.81.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"8483.90.81.90.11";" - - - - - Kavrama ve kaplinlere ait olanlar";"-";30
+"null";"8483.90.81.90.19";" - - - - - Diğerleri";"-";30
+"null";" ";" - - - Diğerleri:";" ";
+"null";"8483.90.89.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"8483.90.89.90.11";" - - - - - Kavrama ve kaplinlere ait olanlar";"-";30
+"null";"8483.90.89.90.19";" - - - - - Diğerleri";"-";30
+"null";;;;
+"null";"84.84";"Diğer maddeler ile birleştirilmiş metal tabakalardan veya iki yada";;
+"null";;"daha fazla metal tabakalardan yapılmış contalar; poşet, zarf veya";;
+"null";;"benzeri ambalajlara farklı kompozisyonlarda takım veya grup halin-";;
+"null";;"de tertiplenmiş contalar; mekanik salmastralar:";;
+"null";"8484.10";" - Diğer maddelerle birleştirilmiş metal tabakalardan veya iki yada";;
+"null";;"   daha fazla metal tabakalardan yapılmış contalar:";;
+"null";"8484.10.00.00.11";" - -  İki metal tabaka arasında sıkıştırılmış amyantlı contalar";"-";30
+"null";"8484.10.00.00.19";" - -  Diğerleri";"-";30
+"null";"8484.20.00.00.00";" - Mekanik salmastralar";"-";30
+"null";"8484.90.00.00.00";" - Diğerleri";"-";30
+"null";;;;
+"null";"84.85";"Katmanlı üretim için makineler:";;
+"null";"8485.10.00.00.00";" - Metal katmanlı";"adet";30
+"null";"8485.20.00.00.00";" - Plastik veya kauçuk katmanlı";"adet";30
+"null";"8485.30";" - Alçı, çimento, seramik veya cam katmanlı";;
+"null";"8485.30.10.00.00";" - - Alçı, çimento veya seramik katmanlı";"-";30
+"null";"8485.30.90.00.00";" - - Diğerleri";"adet";30
+"null";"8485.80.00.00.00";" - Diğerleri";"adet";30
+"null";"8485.90";" - Aksam-parça";;
+"null";"8485.90.10.00.00";" - - 8485.30.10 alt pozisyonundaki makinelere ait olanlar";"-";30
+"null";"8485.90.90.00.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"84.86";"Sadece ve esas itibariyle yarı iletken disklerin veya külçelerin, yarı ";;
+"null";;" iletken tertibatın,elektronik entegre devrelerin veya düz panel ";;
+"null";;"göstergelerinin imalatında kullanılan türdeki makine ve cihazlar; ";;
+"null";;" bu faslın 11 (c) nolu notunda belirtilen makine ve cihazlar; aksam,";;
+"null";;" parça ve aksesuar";;
+"null";"8486.10.00.00.00";" - Disklerin veya külçelerin imaline mahsus makine ve cihazlar";"-";50
+"null";"8486.20.00.00.00";" - Yarı iletken tertibatın veya elektronik entegre devrelerin imaline";;
+"null";;"   mahsus makine ve cihazlar";"-";50
+"null";"8486.30.00.00.00";" - Düz panel göstergelerinin imaline mahsus makine ve cihazlar";"-";50
+"null";"8486.40";" - Bu faslın 11 (c) nolu notunda belirtilen makine ve cihazlar:";;
+"null";"8486.40.00.10.00";" - - Işığa dayanıklı kaplanmış alt tabakadan maske veya ağ elde etmede";;
+"null";;"        kullanılan türde model üretim cihazları";"-";50
+"null";"8486.40.00.90.00";" - - Diğerleri";"-";50
+"null";"8486.90.00.00.00";" - Aksam, parça ve aksesuar";"-";50
+"null";;;;
+"null";"84.87";"Bu fasılın başka pozisyonlarında belirtilmeyen veya yer almayan";;
+"null";;"makinaların aksam ve parçaları (elektrik konnektörleri, izolatörler,";;
+"null";;"bobinler, kontaklar ve diğer elektrikli aksam ve parçalar hariç):";;
+"null";"8487.10";" - Gemi pervaneleri ve bunların kanatları:";;
+"null";"8487.10.10.00.00";" - - Bronzdan olanlar";"Adet";30
+"null";"8487.10.90.00.00";" - - Diğerleri";"Adet";30
+"null";"8487.90";" - Diğerleri:";;
+"null";"8487.90.40.00.00";" - - Demir dökümden olanlar";"-";30
+"null";;" - - Demir veya çelikten olanlar:";;
+"null";"8487.90.51.00.00";" - - - Çelik döküm olanlar";"-";30
+"null";"8487.90.57.00.00";" - - - Açık veya kapalı kalıpta dövülmüş demir veya çelikten olanlar";"-";30
+"null";"8487.90.59.00.00";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri";;
+"null";"8487.90.90.00.11";" - - - Yağ sızdırmazlık halkaları (Yağ keçeleri)";"-";30
+"null";"8487.90.90.00.19";" - - - Diğerleri";"-";30

@@ -1,0 +1,285 @@
+﻿"null";"07.01";"Patates (taze veya soğutulmuş):";;
+"null";"0701.10.00.00.00";" - Tohumluk";"-";25
+"null";"0701.90";" - Diğerleri:";;
+"null";"0701.90.10.00.00";" - - Nişasta imalinde kullanılanlar";"-";25
+"null";;" - - Diğerleri:";" ";
+"null";"0701.90.50.00.00";" - - - Taze (1 Ocak'tan 30 Haziran'a kadar olanlar)";"-";25
+"null";"0701.90.90.00.00";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"0702.00.00.00.00";"Domates (taze veya soğutulmuş) ";"-";54
+"null";;;;
+"null";"07.03";"Soğanlar, şalotlar, sarımsaklar, pırasalar ve diğer soğanımsı";;
+"null";;"sebzeler (taze veya soğutulmuş):";;
+"null";"0703.10";" - Soğanlar ve şalotlar:";;
+"null";;" - - Soğanlar:";;
+"null";"0703.10.11.00.00";" - - - Arpacık soğanı";"-";55
+"null";;" - - - Diğerleri";;
+"null";"0703.10.19.00.11";" - - - - Kuru soğan";"-";55
+"null";"0703.10.19.00.12";" - - - - Taze (yeşil) soğan";"-";55
+"null";"0703.10.90.00.00";" - - Şalotlar";"-";55
+"null";"0703.20";" - Sarımsaklar:";;
+"null";"0703.20.00.00.11";" - - Taze (yeşil) sarımsak";"-";55
+"null";"0703.20.00.00.12";" - - Kuru sarımsak";"-";55
+"null";"0703.90";" - Pırasa ve diğer soğanımsı sebzeler:";;
+"null";"0703.90.00.00.11";" - - Pırasa ";"-";55
+"null";"0703.90.00.00.12";" - - Soğanımsı sebzeler";"-";55
+"null";;;;
+"null";"07.04";"Lahanalar, karnabaharlar, alabaşlar, yaprak lahanalar ve benzeri";;
+"null";;"yenilen brassikalar (taze veya soğutulmuş):";;
+"null";"0704.10";" - Karnabaharlar ve brokoli";;
+"null";;" - - Karnabaharlar ve başlı brokoli";;
+"null";"0704.10.10.00.11";" - - -  Karnabahar";"-";25
+"null";"0704.10.10.00.12";" - - -  Brokoli";"-";25
+"null";"0704.10.90.00.00";" - - Diğerleri";"-";25
+"null";"0704.20.00.00.00";" - Brüksel lahanası";"-";25
+"null";"0704.90";" - Diğerleri:";;
+"null";;" - - Beyaz lahana ve kırmızı lahana";;
+"null";"0704.90.10.00.11";" - - - Beyaz lahana ";"-";25
+"null";"0704.90.10.00.12";" - - - Kırmızı lahana";"-";25
+"null";"0704.90.90.00.00";" - - Diğerleri";"-";25
+"null";;;;
+"null";"07.05";"Marul ( Lactuca sativa) ve hindiba (Cichorium spp.)";;
+"null";;"(taze veya soğutulmuş) :";;
+"null";;" - Marul :";;
+"null";"0705.11.00.00.00";" - - Baş marul";"-";25
+"null";"0705.19.00.00.00";" - -  Diğerleri ";"-";25
+"null";;" - Hindiba:";;
+"null";"0705.21.00.00.00";" - - Başlı hindiba (Cichorium intybus var. folioeum)";"-";25
+"null";"0705.29.00.00.00";" - - Diğerleri";"-";25
+"null";;;;
+"null";"07.06";"Havuçlar, şalgamlar, kırmızı pancar, teke sakalı (salsifis), kök ";;
+"null";;"kerevizi, turplar ve benzeri yenilen kökler (taze veya soğutulmuş):";;
+"null";"0706.10";" - Havuçlar ve şalgamlar";;" "
+"null";"0706.10.00.00.11";" - - Havuçlar ";"-";41
+"null";"0706.10.00.00.12";" - - Şalgamlar";"-";41
+"null";"0706.90";" - Diğerleri :";;
+"null";"0706.90.10.00.00";" - - Kök kerevizi ";"-";41
+"null";"0706.90.30.00.00";" - - Bayır turbu (Cochlearia armoracia)";"-";41
+"null";"0706.90.90.00.00";" - - Diğerleri";"-";41
+"null";;;;
+"null";"0707.00";"Hıyarlar ve kornişonlar (taze veya soğutulmuş) :";;
+"null";"0707.00.05.00.00";" - Hıyarlar ";"-";"33 "
+"null";"0707.00.90.00.00";" - Kornişonlar";"-";"33 "
+"null";;;;
+"null";"07.08";"Baklagiller (kabuklu veya kabuksuz) (taze veya soğutulmuş):";;
+"null";"0708.10";" - Bezelye (Pisum sativum) ";;
+"null";"0708.10.00.00.11";" - -  Kabuklu";"-";25
+"null";"0708.10.00.00.12";" - -  Kabuksuz";"-";25
+"null";"0708.20";" - Fasulye (Vigna spp., Phaseotus spp.) ";;
+"null";"0708.20.00.00.11";" - -  Fasulye ";"-";25
+"null";"0708.20.00.00.12";" - -  Barbunya (kabuklu)";"-";25
+"null";"0708.20.00.00.13";" - -  Barbunya (kabuksuz)";"-";25
+"null";"0708.90";" - Diğer baklagiller";;" "
+"null";"0708.90.00.00.11";" - - Kabuklu baklagiller";"-";25
+"null";"0708.90.00.00.12";" - - Kabuksuz baklagiller";"-";25
+"null";;;;
+"null";"07.09";"Diğer sebzeler(taze veya soğutulmuş):";;
+"null";"0709.20.00.00.00";" - Kuşkonmazlar";"-";25
+"null";"0709.30.00.00.00";" - Patlıcanlar";"-";25
+"null";"0709.40.00.00.00";" - Yaprak kerevizleri (kök kerevizleri hariç)";"-";25
+"null";;" - Mantarlar ve domalanlar:";;
+"null";"0709.51.00.00.00";" - - Agaricus cinsi mantarlar";"-";25
+"null";"0709.52.00.00.00";" - - Boletus cinsi mantarlar";"-";25
+"null";"0709.53.00.00.00";" - - Cantharellus cinsi mantarlar";"-";25
+"null";"0709.54.00.00.00";" - - Shiitake (Lentinus edodes)";"-";25
+"null";"0709.55.00.00.00";" - - Matsutake (Tricholoma matsutake, Tricholoma magnivelare, ";;
+"null";;"     Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)";"-";25
+"null";"0709.56.00.00.00";" - - Domalanlar (Tuber spp.)";"-";25
+"null";"0709.59.00.00.00";" - - Diğerleri ";"-";25
+"null";"0709.60";" - Capsicum veya Pimenta cinsi meyveler:";;
+"null";;" - - Tatlı (Capsicum grossum) biberler  ";;" "
+"null";"0709.60.10.00.11";" - - - Sivri biber";"-";100
+"null";"0709.60.10.00.12";" - - - Dolmalık biber";"-";100
+"null";"0709.60.10.00.13";" - - - Çarliston biber";"-";100
+"null";"0709.60.10.00.14";" - - - Kırmızı biber (paprika)";"-";100
+"null";"0709.60.10.00.19";" - - - Diğerleri";"-";100
+"null";;" - - Diğerleri:";;
+"null";"0709.60.91.00.00";" - - - Capsicum oleoresin boyaları ve Capsisin imalinde kullanılan ";;
+"null";;"        Capsicum cinsi biberler";"-";100
+"null";"0709.60.95.00.00";" - - - Rezinoit veya uçucu yağların imalinde kullanılanlar";"-";100
+"null";"0709.60.99.00.00";" - - - Diğerleri";"-";100
+"null";"0709.70";" - Ispanak,Yeni Zelanda ıspanağı ve bahçe ıspanağı ";;" "
+"null";"0709.70.00.00.11";" - - Ispanak";"-";25
+"null";"0709.70.00.00.12";" - - Yeni Zelanda ıspanağı ";"-";25
+"null";"0709.70.00.00.13";" - - Bahçe ıspanağı ( kara pazı )";"-";25
+"null";;" - Diğerleri:";;
+"null";"0709.91.00.00.00";" - - Enginarlar";"-";25
+"null";"0709.92";" - - Zeytin:";;
+"null";"0709.92.10.00.00";" - - - Yağ üretiminde kullanılmayanlar";"-";25
+"null";"0709.92.90.00.00";" - - - Diğerleri";"-";25
+"null";"0709.93";" - - Balkabağı, kabak, su kabağı (Cucurbita spp.):";;
+"null";"0709.93.10.00.00";" - - - Dolmalık kabak";"-";25
+"null";"0709.93.90.00.00";" - - - Diğerleri";"-";25
+"null";"0709.99";" - - Diğerleri:";;
+"null";"0709.99.10.00.00";" - - - Salatalık sebzeler, (marul (Lactuca sativa) ve hindiba (Cichorium spp.) ";;
+"null";;"      hariç)";"-";25
+"null";"0709.99.20.00.00";" - - - Pazı ve yaban enginarı";"-";25
+"null";"0709.99.40.00.00";" - - - Kebere";"-";25
+"null";"0709.99.50.00.00";" - - - Rezene";"-";25
+"null";"0709.99.60.00.00";" - - - Tatlı mısır";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"0709.99.90.00.11";" - - - - Bamya";"-";25
+"null";"0709.99.90.00.12";" - - - - Semizotu";"-";25
+"null";"0709.99.90.00.13";" - - - - Maydanoz";"-";25
+"null";"0709.99.90.00.14";" - - - - Asma yaprağı";"-";25
+"null";"0709.99.90.00.18";" - - - - Diğerleri";"-";25
+"null";;;;
+"null";"07.10";"Sebzeler (pişirilmemiş veya buharda veya suda kaynatılarak";;
+"null";;"pişirilmiş) (dondurulmuş): ";;
+"null";"0710.10.00.00.00";" - Patates";"-";25
+"null";;" - Baklagil sebzeler (kabuklu veya kabuksuz):";;
+"null";"0710.21.00.00.00";" - - Bezelye (Pisum sativum)";"-";25
+"null";"0710.22.00.00.00";" - - Fasulye (Phaseolus spp., Vigna spp.)";"-";25
+"null";"0710.29.00.00.00";" - - Diğerleri";"-";25
+"null";"0710.30.00.00.00";" - Ispanak, Yeni Zelanda ıspanağı ve orache ıspanağı (bahçe ıspanağı)";"-";25
+"null";"0710.40.00.00.00";" - Tatlı mısır";"-";75
+"null";"0710.80";" - Diğer sebzeler:";;
+"null";"0710.80.10.00.00";" - - Zeytinler";"-";25
+"null";;" - - Capsicum veya Pimenta cinsi meyvalar :";;
+"null";"0710.80.51.00.00";" - - - Tatlı biberler";"-";25
+"null";"0710.80.59.00.00";" - - - Diğerleri";"-";25
+"null";" ";" - - Mantarlar";;
+"null";"0710.80.61.00.00";" - - - Agaricus cinsi mantarlar";"-";25
+"null";"0710.80.69.00.00";" - - - Diğerleri";"-";25
+"null";"0710.80.70.00.00";" - - Domatesler";"-";25
+"null";"0710.80.80.00.00";" - - Enginarlar";"-";25
+"null";"0710.80.85.00.00";" - - Kuşkonmazlar";"-";25
+"null";;" - - Diğerleri";;
+"null";"0710.80.95.00.11";" - - - Soğan";"-";25
+"null";"0710.80.95.00.12";" - - - Havuç";"-";25
+"null";"0710.80.95.00.13";" - - - Pırasa";"-";25
+"null";"0710.80.95.00.14";" - - - Karnabahar";"-";25
+"null";"0710.80.95.00.15";" - - - Lahana";"-";25
+"null";"0710.80.95.00.19";" - - - Diğerleri";"-";25
+"null";"0710.90.00.00.00";" - Sebze karışımları";"-";25
+"null";;;;
+"null";"07.11";"Geçici olarak konserve edilmiş fakat bu halleriyle derhal yenilmeye ";;
+"null";;"elverişli olmayan sebzeler:";;
+"null";"0711.20";" - Zeytinler :";;
+"null";"0711.20.10.00.00";" - - Zeytinyağı imalinde kullanılmayanlar";"-";25
+"null";"0711.20.90.00.00";" - - Diğerleri";"-";25
+"null";"0711.40.00.00.00";" - Hıyarlar ve kornişonlar";"-";40
+"null";;" - Mantarlar ve domalanlar:";;
+"null";"0711.51.00.00.00";" - - Agaricus cinsi mantarlar";"Kg/net eda";40
+"null";"0711.59.00.00.00";" - - Diğerleri";"-";40
+"null";"0711.90";" - Diğer sebzeler; sebze karışımları:";;
+"null";;" - - Sebzeler:";;
+"null";"0711.90.10.00.00";" - - - Capsicum ve Pimenta cinsi meyvalar (tatlı biberler hariç)";"-";100
+"null";"0711.90.30.00.00";" - - - Tatlı mısır";"-";75
+"null";"0711.90.50.00.00";" - - - Soğanlar";"-";40
+"null";"0711.90.70.00.00";" - - - Kebere";"-";40
+"null";"0711.90.80.00.00";" - - - Diğerleri";"-";40
+"null";"0711.90.90.00.00";" - - Sebze karışımları";"-";40
+"null";;;;
+"null";"07.12";"Kurutulmuş sebzeler (bütün halde, kesilmiş, dilimlenmiş ,kırılmış";;
+"null";;"veya toz halinde, fakat başka şekilde hazırlanmamış):";;
+"null";"0712.20.00.00.00";" - Soğanlar";"-";25
+"null";;" - Mantarlar, yahudi kulağı (Auricularia spp.), jöle mantarı ";;
+"null";;"(Tremella spp.) ve domalanlar:";;
+"null";"0712.31.00.00.00";" - - Agaricus cinsi mantarlar";"-";25
+"null";"0712.32.00.00.00";" - - Yahudi kulağı  (Auricularia spp.)";"-";25
+"null";"0712.33.00.00.00";" - - Jöle mantarı (Tremella spp.) ";"-";25
+"null";"0712.34.00.00.00";" - - Shiitake (Lentinus edodes)";"-";25
+"null";"0712.39.00.00.00";" - - Diğerleri";"-";25
+"null";"0712.90";" - Diğer sebzeler; sebze karışımları :";;
+"null";"0712.90.05.00.00";" - - Patates (kesilmiş veya dilimlenmiş olsun olmasın, fakat başka ";;
+"null";;"      şekilde hazırlanmamış) ";"-";25
+"null";;" - - Tatlı mısır (Zea Mays var. Saccharata):";;
+"null";"0712.90.11.00.00";" - - - Tohumluk (melez)";"-";15
+"null";"0712.90.19.00.00";" - - - Diğerleri";"-";15
+"null";"0712.90.30.00.00";" - - Domates";"-";25
+"null";"0712.90.50.00.00";" - - Havuç";"-";25
+"null";" ";" - - Diğerleri";;
+"null";"0712.90.90.00.11";" - - - Sarımsak";"-";25
+"null";"0712.90.90.00.12";" - - - Pırasa";"-";25
+"null";"0712.90.90.00.13";" - - - Ispanak";"-";25
+"null";"0712.90.90.00.14";" - - - Kuşkonmaz";"-";25
+"null";"0712.90.90.00.15";" - - - Bamya";"-";25
+"null";"0712.90.90.00.16";" - - - Bezelye ";"-";25
+"null";"0712.90.90.00.17";" - - - Kabak";"-";25
+"null";"0712.90.90.00.18";" - - - Karnabahar";"-";25
+"null";"0712.90.90.00.21";" - - - Lahana";"-";25
+"null";"0712.90.90.00.22";" - - - Patlıcan";"-";25
+"null";"0712.90.90.00.29";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"07.13";"Kuru baklagiller (kabuksuz) (taneleri ikiye ayrılmış,tane kabukları";;
+"null";;"çıkarılmış olsun olmasın):";;
+"null";"0713.10";" - Bezelye (Pisum sativum):";;
+"null";;" - - Tohumluk olanlar";;
+"null";"0713.10.10.00.11";" - - - Yem bezelyesi";"-";25
+"null";"0713.10.10.00.19";" - - - Diğerleri";"-";25
+"null";;" - - Diğerleri";;
+"null";"0713.10.90.00.11";" - - - Yem bezelyesi";"-";25
+"null";"0713.10.90.00.19";" - - - Diğerleri";"-";25
+"null";"0713.20";" - Nohut (garbanzos):";;
+"null";"0713.20.00.00.11";" - - Tohumluk olanlar";"-";25
+"null";"0713.20.00.00.19";" - - Diğerleri";"-";25
+"null";;" - Fasulye (Vigna spp., Phaseolus spp.):";;
+"null";"0713.31";" - - Vigna mungo (L.) Hepper veya vignaradiata (L.) wilczek";;
+"null";;"      türü fasulyeler";;
+"null";"0713.31.00.00.11";" - - - Tohumluk olanlar";"-";25
+"null";"0713.31.00.00.19";" - - - Diğerleri";"-";25
+"null";"0713.32";" - - Küçük kırmızı (Adzuki) fasulye (Phaseolus veya Vigna ";;
+"null";;"     angularis)";;
+"null";"0713.32.00.00.11";" - - - Tohumluk olanlar";"-";25
+"null";"0713.32.00.00.19";" - - - Diğerleri";"-";25
+"null";"0713.33";" - - Adi fasulye (beyaz fasulye dahil) (Phaseolus vulgaris):";;
+"null";;" - - - Tohumluk olanlar:";;
+"null";"0713.33.10.00.11";" - - - - Barbunya";"-";25
+"null";"0713.33.10.00.19";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"0713.33.90.00.11";" - - - - Barbunya";"-";25
+"null";"0713.33.90.00.19";" - - - - Diğerleri";"-";25
+"null";"0713.34";" - - Bambara Fasulyesi (Vigna subterranea or Voandzeia subterranea):";;
+"null";"0713.34.00.00.11";" - - - Tohumluk olanlar";"-";25
+"null";"0713.34.00.00.19";" - - - Diğerleri";"-";25
+"null";"0713.35";" - - Börülce (Vigna unguiculata):";;
+"null";"0713.35.00.00.11";" - - - Tohumluk olanlar";"-";25
+"null";"0713.35.00.00.19";" - - - Diğerleri";"-";25
+"null";"0713.39";" - - Diğerleri";;
+"null";"0713.39.00.00.11";" - - - Tohumluk olanlar";"-";25
+"null";"0713.39.00.00.19";" - - - Diğerleri";"-";25
+"null";"0713.40";" - Mercimekler";;
+"null";"0713.40.00.00.11";" - - Tohumluk olanlar";"-";25
+"null";"0713.40.00.00.12";" - - Yeşil mercimek";"-";25
+"null";"0713.40.00.00.13";" - - Kırmızı mercimek";"-";25
+"null";"0713.40.00.00.19";" - - Diğerleri";"-";25
+"null";"0713.50";" - Baklalar (Vicia faba var. Major) ve at baklası (Vicia faba var.";;
+"null";;"   equina, Vicia faba var. minor)";;
+"null";"0713.50.00.00.11";" - - Tohumluk olanlar";"-";25
+"null";"0713.50.00.00.19";" - - Diğerleri";"-";25
+"null";"0713.60";" - Güvercin bezelye (Cajanus cajan):";;
+"null";"0713.60.00.00.11";" - - Tohumluk olanlar";"-";25
+"null";"0713.60.00.00.12";" - - Diğerleri";"-";25
+"null";"0713.90";" - Diğerleri:";;
+"null";"0713.90.00.00.13";" - - Tohumluk olanlar";"-";25
+"null";"0713.90.00.00.19";" - - Diğerleri";"-";25
+"null";;;;
+"null";;;;
+"null";"07.14";"Manyok, ararot ,salep, yer elması ,tatlı patates ve yüksek oranda";;
+"null";;"nişasta veya inülin içeren benzeri kök ve yumrular (taze , soğu-";;
+"null";;"tulmuş, dondurulmuş veya kurutulmuş) (dilimlere ayrılmış veya";;
+"null";;"""pellet"" şeklinde olsun olmasın); sagu özü: ";;
+"null";"0714.10";" - Manyok (cassava): ";;
+"null";"0714.10.00.00.11";" - - İnsan gıdası olarak kullanılmaya elverişli,net muhtevası 28 kg.ı";;
+"null";;"        geçmeyen ambalajlarda olanlar (taze ve bütün halde veya kabuk-";;
+"null";;"        suz ve dondurulmuş) (dilimlenmiş olsun olmasın) ";"-";25
+"null";"0714.10.00.00.19";" - - Diğerleri";"-";25
+"null";"0714.20";" - Tatlı patates:";;
+"null";"0714.20.10.00.00";" - - Taze, bütün halde (insan gıdası olarak kullanılmaya elverişli hale";;
+"null";;"      getirilmiş)";"-";25
+"null";;" - - Diğerleri :";;
+"null";"0714.20.90.10.00";" - - - Dondurulmuş";"-";75
+"null";"0714.20.90.90.00";" - - - Diğerleri";"-";25
+"null";"0714.30.00.00.00";" - Hint Patatesi (Dioscorea spp.)";"-";25
+"null";"0714.40.00.00.00";" - Kulkas Kökü (Taro) (Colocasia spp.)";"-";25
+"null";"0714.50.00.00.00";" - Yautiya (Xanthosoma spp.)";"-";25
+"null";"0714.90";" - Diğerleri:";;
+"null";;" - - Ararot ve salep kökleri ve yüksek oranda nişasta içeren benzeri kök ";;
+"null";;"      ve yumrular:";;
+"null";"0714.90.20.00.11";" - - - Ararot";"-";25
+"null";"0714.90.20.00.12";" - - - Salep";"-";25
+"null";"0714.90.20.00.19";" - - - Diğerleri";"-";25
+"null";;" - - Diğerleri :";;
+"null";"0714.90.90.10.00";" - - - Dondurulmuş";"-";75
+"null";"0714.90.90.90.00";" - - - Diğerleri";"-";25

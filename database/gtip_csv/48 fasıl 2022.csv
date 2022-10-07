@@ -1,0 +1,568 @@
+﻿"null";"4801.00";"Gazete kağıdı (rulo veya tabaka halinde):";;
+"null";"4801.00.00.10.00";" - % 70'den fazla odun hamuru içeren m² .ağırlığı 50-55gr. (dahil) arasında";;
+"null";;"   olan kağıtlar";"-";25
+"null";"4801.00.00.90.00";" - Diğerleri";"-";60
+"null";;;;
+"null";"48.02";"Sıvanmamış kağıt ve karton (yazma, basma ve diğer grafik işlerinde";;
+"null";;"kullanılan türden) ve her boyutta perfore edilmemiş delikli kart ve ";;
+"null";;"delikli şerit kağıt (rulo veya dikdörtgen (kare dahil) tabaka halinde) ";;
+"null";;"(48.01 ve 48.03 pozisyonundaki kağıt hariç); el yapısı kağıt ve karton:";;
+"null";"4802.10.00.00.00";" - El yapısı kağıt ve karton";"-";70
+"null";"4802.20.00.00.00";" - Işığa, ısıya ve elektriğe karşı hassaslaştırılmış kağıt veya karton";;
+"null";;"   imaline mahsus kağıt ve karton";"-";50
+"null";"4802.40";" - Duvar kağıdı imaline mahsus kağıt:";;
+"null";"4802.40.10.00.00";" - - Elyafı mekanik işlemle elde edilmeyenler veya mekanik işlemle elde";;
+"null";;"     edilen elyaf miktarı toplam elyaf miktarının ağırlık itibariyle % 10'undan";;
+"null";;"     fazla olmayanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";"4802.40.90.10.00";" - - - Ölçüsüne ve şekline göre kesilmiş";"-";60
+"null";"4802.40.90.90.00";" - - - Diğerleri";"-";50
+"null";;" - Diğer kağıt ve kartonlar (elyafı mekanik işlemle veya kimyasal-mekanik ";;
+"null";;"   işlemle elde edilmeyenler veya bu şekillerde  elde edilen elyaf";;
+"null";;"   miktarı, toplam elyaf miktarının ağırlık itibariyle % 10'undan fazla";;
+"null";;"   olmayanlar):";;
+"null";"4802.54.00.00.00";" - - m² ağırlığı 40 gr. dan az olanlar";"-";50
+"null";"4802.55";" - - m². ağırlığı 40 gr. veya daha fazla olanlar, fakat 150 gr.ı (150 gr.dahil)";;
+"null";;"     geçmeyenler, rulo halinde :";;
+"null";;" - - - m². ağırlığı 40 gr veya daha fazla olanlar fakat 60 gr.ı geçmeyenler ";;
+"null";"4802.55.15.10.00";" - - - - Baskı ve yazı kağıtları";"-";60
+"null";"4802.55.15.30.00";" - - - - Resim kağıdı";"-";50
+"null";;" - - - - Kartonlar";;
+"null";"4802.55.15.50.11";" - - - - - Bristol karton ";"-";50
+"null";"4802.55.15.50.19";" - - - - - Diğerleri ";"-";50
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.55.15.61.00";" - - - - - - Mekanik işlemle elde edilmiş olanlar";"-";25
+"null";"4802.55.15.62.00";" - - - - - - Ölçüsüne ve şekline göre kesilmiş";"-";60
+"null";;" - - - - - Diğerleri";;
+"null";"4802.55.15.99.11";" - - - - - - Banknot ve benzeri kıymetli evraka mahsus kağıtlar";"-";50
+"null";"4802.55.15.99.12";" - - - - - - Dekor kağıdı imaline mahsus kağıtlar";"-";50
+"null";"4802.55.15.99.19";" - - - - - - Diğerleri";"-";50
+"null";;" - - - m². ağırlığı 60 gr veya daha fazla olanlar fakat 75 gr.ı geçmeyenler ";;
+"null";"4802.55.25.10.00";" - - - - Baskı ve yazı kağıtları";"-";60
+"null";"4802.55.25.30.00";" - - - - Resim kağıdı";"-";50
+"null";;" - - - - Kartonlar";;
+"null";"4802.55.25.50.11";" - - - - - Bristol karton ";"-";50
+"null";"4802.55.25.50.19";" - - - - - Diğerleri ";"-";50
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.55.25.61.00";" - - - - - - Mekanik işlemle elde edilmiş olanlar";"-";50
+"null";"4802.55.25.62.00";" - - - - - - Ölçüsüne ve şekline göre kesilmiş";"-";50
+"null";;" - - - - - Diğerleri";;
+"null";"4802.55.25.99.11";" - - - - - - Banknot ve benzeri kıymetli evraka mahsus kağıtlar";"-";50
+"null";"4802.55.25.99.12";" - - - - - - Dekor kağıdı imaline mahsus kağıtlar";"-";50
+"null";"4802.55.25.99.19";" - - - - - - Diğerleri";"-";50
+"null";;" - - - m². ağırlığı 75 gr veya daha fazla olanlar fakat 80 gr.ı geçmeyenler ";;
+"null";"4802.55.30.10.00";" - - - - Baskı ve yazı kağıtları";"-";60
+"null";"4802.55.30.30.00";" - - - - Resim kağıdı";"-";50
+"null";;" - - - - Kartonlar";;
+"null";"4802.55.30.50.11";" - - - - - Bristol karton ";"-";50
+"null";"4802.55.30.50.19";" - - - - - Diğerleri ";"-";50
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.55.30.61.00";" - - - - - - Mekanik işlemle elde edilmiş olanlar";"-";25
+"null";"4802.55.30.62.00";" - - - - - - Ölçüsüne ve şekline göre kesilmiş";"-";60
+"null";;" - - - - - Diğerleri";;
+"null";"4802.55.30.99.11";" - - - - - - Banknot ve benzeri kıymetli evraka mahsus kağıtlar";"-";50
+"null";"4802.55.30.99.12";" - - - - - - Dekor kağıdı imaline mahsus kağıtlar";"-";50
+"null";"4802.55.30.99.19";" - - - - - - Diğerleri";"-";50
+"null";;" - - - m² ağırlığı 80 gr veya daha fazla olanlar ";;
+"null";"4802.55.90.10.00";" - - - - Baskı ve yazı kağıtları";"-";60
+"null";"4802.55.90.30.00";" - - - - Resim kağıdı";"-";50
+"null";;" - - - - Kartonlar";;
+"null";"4802.55.90.50.11";" - - - - - Bristol karton ";"-";50
+"null";"4802.55.90.50.19";" - - - - - Diğerleri ";"-";50
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.55.90.61.00";" - - - - - - Mekanik işlemle elde edilmiş olanlar";"-";25
+"null";"4802.55.90.62.00";" - - - - - - Ölçüsüne ve şekline göre kesilmiş";"-";60
+"null";;" - - - - - Diğerleri";;
+"null";"4802.55.90.99.11";" - - - - - - Banknot ve benzeri kıymetli evraka mahsus kağıtlar";"-";50
+"null";"4802.55.90.99.12";" - - - - - - Dekor kağıdı imaline mahsus kağıtlar";"-";50
+"null";"4802.55.90.99.19";" - - - - - - Diğerleri";"-";50
+"null";"4802.56";" - - m2. ağırlığı 40 gr. veya daha fazla olanlar, fakat 150 gr.ı  (150 gr.dahil)";;
+"null";;"     geçmeyenler (katlanmamış olarak bir kenarı 435 mm.yi, diğer kenarı";;
+"null";;"     297 mm.yi geçmeyen, tabakalar halinde):";;
+"null";;" - - - Bir kenarı 297 mm. ve diğer kenarı 210 mm. ölçüsünde olanlar (A4 boyutu):";;
+"null";"4802.56.20.10.00";" - - - - Yazı makinaları için kağıt ve pelür kağıdı";"-";60
+"null";"4802.56.20.20.00";" - - - - Fotokopi kağıdı";"-";50
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - -Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.56.20.31.00";" - - - - - -Mekanik işlemle elde edilmiş olanlar";"-";"25"
+"null";"4802.56.20.39.00";" - - - - - -Diğerleri";"-";50
+"null";"4802.56.20.99.00";" - - - - - Diğerleri";"-";"60"
+"null";;" - - -Diğerleri";;
+"null";"4802.56.80.10.00";" - - - - Baskı ve yazı kağıtları";"-";60
+"null";"4802.56.80.30.00";" - - - - Resim kağıdı";"-";50
+"null";;" - - - - Kartonlar";;
+"null";"4802.56.80.50.11";" - - - - - Bristol karton ";"-";50
+"null";"4802.56.80.50.19";" - - - - - Diğerleri ";"-";50
+"null";" ";" - - - - Diğerleri";;
+"null";;" - - - - - Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.56.80.61.00";" - - - - - - Mekanik işlemle elde edilmiş olanlar";"-";25
+"null";"4802.56.80.62.00";" - - - - - - Ölçüsüne ve şekline göre kesilmiş";"-";60
+"null";;" - - - - -Diğerleri";;
+"null";"4802.56.80.99.11";" - - - - - - Banknot ve benzeri kıymetli evraka mahsus kağıtlar";"-";50
+"null";"4802.56.80.99.12";" - - - - - - Dekor kağıdı imaline mahsus kağıtlar";"-";50
+"null";"4802.56.80.99.19";" - - - - - - Diğerleri";"-";50
+"null";"4802.57";" - - Diğerleri, m2. ağırlığı 40 gr. veya daha fazla olanlar, fakat 150 gr.ı ";;
+"null";;"      (150 gr. dahil) geçmeyenler:";;
+"null";"4802.57.00.10.00";" - - - Baskı ve yazı kağıtları ";"-";60
+"null";"4802.57.00.30.00";" - - - Resim kağıdı";"-";50
+"null";"4802.57.00.50.00";" - - - Kartonlar";"-";50
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.57.00.61.00";" - - - - - Mekanik işlemle elde edilmiş olanlar";"-";25
+"null";"4802.57.00.62.00";" - - - - - Ölçüsüne ve şekline göre kesilmiş";"-";60
+"null";"4802.57.00.99.00";" - - - -  Diğerleri";"-";50
+"null";"4802.58";" - - m2. ağırlığı 150 gr. dan fazla olanlar:";;
+"null";;" - - - Rulo halinde:";;
+"null";"4802.58.10.10.00";" - - - - Baskı ve yazı kağıtları";"-";60
+"null";"4802.58.10.30.00";" - - - - Resim kağıdı";"-";50
+"null";;" - - - - Kartonlar";;
+"null";"4802.58.10.50.11";" - - - - - Bristol karton ";"-";50
+"null";"4802.58.10.50.19";" - - - - - Diğerleri ";"-";50
+"null";;" - - - -Diğerleri";;
+"null";;" - - - - - Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.58.10.61.00";" - - - - - - Mekanik işlemle elde edilmiş olanlar";"-";25
+"null";"4802.58.10.62.00";" - - - - - - Ölçüsüne ve şekline göre kesilmiş";"-";60
+"null";"4802.58.10.99.00";" - - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"4802.58.90.10.00";" - - - - Baskı ve yazı kağıtları";"-";60
+"null";"4802.58.90.30.00";" - - - - Resim kağıdı";"-";50
+"null";" ";" - - - - Kartonlar";;
+"null";"4802.58.90.50.11";" - - - - - Bristol karton ";"-";50
+"null";"4802.58.90.50.19";" - - - - - Diğerleri ";"-";50
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Karbon kağıdı imaline mahsus kağıtlar";;
+"null";"4802.58.90.61.00";" - - - - - - Mekanik işlemle elde edilmiş olanlar";"-";25
+"null";"4802.58.90.62.00";" - - - - - - Ölçüsüne ve şekline göre kesilmiş";"-";60
+"null";"4802.58.90.99.00";" - - - - - Diğerleri";"-";50
+"null";;" - Diğer kağıt ve kartonlar (ağırlık itibariyle toplam elyaf miktarının";;
+"null";;"   % 10'undan fazlası mekanik veya kimyasal-mekanik işlemle";;
+"null";;"   elde edilen elyaftan olanlar):";;
+"null";"4802.61";" - - Rulo halinde:";;
+"null";"4802.61.15.00.00";" - - - m2 .ağırlığı 72 gr.dan az olan ve ağırlık itibariyle toplam elyaf miktarının";;
+"null";;"       % 50'den fazlası mekanik işlemle elde edilen elyaftan olanlar";"-";60
+"null";"4802.61.80.00.00";" - - - Diğerleri";"-";60
+"null";"4802.62.00.00.00";" - - Tabakalar  halinde, (katlanmamış halde bir kenarı 435 mm.yi, diğer";;
+"null";;"      kenarı 297 mm.yi geçmeyenler)";"-";60
+"null";"4802.69.00.00.00";" - - Diğerleri";"-";60
+"null";;;;
+"null";"4803.00";"Tuvalet ve yüz temizliği için ince kağıt, havlu veya kağıt peçete ve";;
+"null";;"ev işlerinde veya sağlık amaçlarıyla kullanılan benzeri kağıtlar,";;
+"null";;"selüloz vatka ve selüloz elyaf tabakaları ( krepe edilmiş, kıvrımlı,";;
+"null";;"kabartılmış, perfore edilmiş, yüzeyleri boyanmış, yüzleri dekore ";;
+"null";;"edilmiş veya basılmış olsun olmasın)(rulo veya tabaka halinde):";;
+"null";"4803.00.10.00.00";" - Selüloz vatka";"-";50
+"null";;" - Krepe edilmiş kağıtlar ve selüloz elyaf tabakaları:";;
+"null";"4803.00.31.00.00";" - - Her bir katının m2. ağırlığı 25 gr. veya daha az olanlar";"-";60
+"null";"4803.00.39.00.00";" - - Her bir katının m2. ağırlığı 25 gr'dan fazla olanlar";"-";60
+"null";"4803.00.90.00.00";" - Diğerleri";"-";60
+"null";;;;
+"null";"48.04";"Birincil elyaf (kraft) kağıt ve kartonları (kuşe edilmemiş, sıvanmamış,";;
+"null";;"rulo veya tabakalar halinde) (48.02 ve 48.03 pozisyonundakiler hariç):";;
+"null";;" - Birincil elyaf yüzey kağıdı (kraftlayner):";;
+"null";"4804.11";" - - Beyazlatılmamış:";;
+"null";;" - - - Toplam Iif miktarının ağırlık itibariyle en az % 80'i kimyasal sülfat";;
+"null";;"        veya soda işlemleri iIe elde edilen iğne yapraklı ağaç Iiflerinden olanlar:";;
+"null";"4804.11.11.00.00";" - - - - m2. ağırlığı 150 gr. dan az olanlar";"-";35
+"null";"4804.11.15.00.00";" - - - - m2 .ağırlığı 150 gr. veya daha fazla,fakat 175 gr. dan az olanlar";"-";35
+"null";"4804.11.19.00.00";" - - - - m2. ağırlığı 175 gr. ve daha fazla olanlar";"-";35
+"null";;" - - - Diğerleri:";;
+"null";"4804.11.90.00.11";" - - - - m2. ağırlığı 150 gr. dan az olanlar";"-";35
+"null";"4804.11.90.00.12";" - - - - m2 .ağırlığı 150 gr. veya daha fazla,fakat 175 gr. dan az olanlar";"-";35
+"null";"4804.11.90.00.13";" - - - - m2. ağırlığı 175 gr. ve daha fazla olanlar";"-";35
+"null";"4804.19";" - - Diğerleri:";;
+"null";;" - - - Toplam lif miktarının ağırlık itibariyle en az % 80' i kimyasal sülfat";;
+"null";;"        veya soda işlemleri ile elde edilen iğne yapraklı ağaç lifIerinden olanlar:";;
+"null";;" - - - - Bir dış tabakası beyazlatılmış,yarı beyazlatılmış veya renklendiril -";;
+"null";;"          miş ve bir veya daha fazla iç tabakası beyazlatılmamış olanlar:";;
+"null";"4804.19.12.00.00";" - - - - - m2. ağırlğı 175 gr. dan az olanlar";"-";35
+"null";"4804.19.19.00.00";" - - - - - m2.ağırlığı 175 gr.veya daha fazla olanlar";"-";35
+"null";"4804.19.30.00.00";" - - - - Diğerleri";"-";35
+"null";"4804.19.90.00.00";" - - - Diğerleri";"-";35
+"null";;" - Torba imali için birinci elyaf (kraft) kağıtları:";;
+"null";"4804.21";" - - Beyazlatılmamış:";;
+"null";"4804.21.10.00.00";" - - - Toplam lif miktarının ağırlık itibariyle en az % 80 ' i kimyasal sülfat";;
+"null";;"       veya soda işlemleri ile elde edilen iğne yapraklı ağaç liflerinden olanlar";"-";35
+"null";"4804.21.90.00.00";" - - - Diğerleri";"-";35
+"null";"4804.29";" - - Diğerleri:";;
+"null";"4804.29.10.00.00";" - - - Toplam lif miktarının ağırlık itibariyle en az % 80' i kimyasal sülfat";;
+"null";;"       veya soda işlemleri ile elde edilen iğne yapraklı ağaç liflerinden olanlar";"-";35
+"null";"4804.29.90.00.00";" - - - Diğerleri";"-";35
+"null";;" - Diğer birinci elyaf (kraft) kağıt ve kartonları, m2. ağırlığı 150 gr. ";;
+"null";;" veya daha az  olanlar:";;
+"null";"4804.31";" - - Beyazlatılmamış:";;
+"null";;" - - - Toplam Iif miktarının ağırlık itibariyle en az % 80' i kimyasal sülfat";;
+"null";;"          veya soda işlemleri ile elde edilen iğne yapraklı ağaç liflerinden olanlar:";;
+"null";"4804.31.51.00.00";" - - - - Elektroteknikte izolasyon için kullanılan birinci elyaf (kraft) kağıdı";"-";35
+"null";"4804.31.58.00.00";" - - - - Diğerleri";"-";35
+"null";"4804.31.80.00.00";" - - - Diğerleri";"-";35
+"null";"4804.39";" - - Diğerleri:";;
+"null";;" - - - Toplam Iif miktarının ağırlık itibariyle en az % 80 ' i kimyasal sülfat";;
+"null";;"          veya soda işlemleri ile elde edilen iğne yapraklı ağac liflerinden olanlar:";;
+"null";"4804.39.51.00.00";" - - - - Kütle halinde tekdüze beyazlatılmış";"-";35
+"null";"4804.39.58.00.00";" - - - - Diğerleri";"-";35
+"null";"4804.39.80.00.00";" - - - Diğerleri";"-";35
+"null";;" - Diğer birincil elyaf (kraft) kağıt ve kartonlar, m2. ağırlığı 150 gr. Dan";;
+"null";;"    fazla, fakat 225 gr.dan az olanlar:";;
+"null";"4804.41";" - - Beyazlatılmamış:";;
+"null";"4804.41.91.00.00";" - - - Dolgu maddeli (saturating) birincil elyaf ( kraft)";"-";50
+"null";"4804.41.98.00.00";" - - - Diğerleri";"-";"35"
+"null";"4804.42.00.00.00";" - - Kütle halinde tekdüze beyazlatılmış ve toplam lif miktarının ";;
+"null";;"     ağırlık itibariyle % 95'inden fazlası kimyasal işlemle elde edilen ";;
+"null";;"     odun liflerinden olanlar";"-";35
+"null";"4804.49.00.00.00";" - - Diğerleri";"-";35
+"null";;" - Diğer birincil elyaf (kraft) kağıt ve kartonları, m². ağırlığı 225 gr. veya ";;
+"null";;"   daha fazla olanlar:";;
+"null";"4804.51.00.00.00";" - - Beyazlatılmamış";"-";35
+"null";"4804.52.00.00.00";" - - Kütle halinde tek düze beyazlatılmış ve toplam lif miktarının";;
+"null";;"     ağırlık itibariyle %95'inden fazlası kimyasal işlemle elde edilen ";;
+"null";;"     odun liflerinden olanlar";"-";35
+"null";"4804.59";" - - Diğerleri:";;
+"null";"4804.59.10.00.00";" - - - Toplam lif miktarının ağırlık itibariyle en az % 80' i kimyasal sülfat";;
+"null";;"        veya soda işlemleri ile elde edilen iğne yapraklı ağaç liflerinden olanlar";"-";50
+"null";"4804.59.90.00.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"48.05";"Diğer kağıt ve kartonlar (kuşe edilmemiş veya sıvanmamış, rulo";;
+"null";;"veya tabakalar halinde)(bu fasılın 3 no.lu notunda belirtilen işçilik";;
+"null";;"veya işlemlerden daha fazlasına tabi tutulmamış):";;
+"null";;" - Birincil elyaf ondüle (fluting) kağıdı:";;
+"null";"4805.11.00.00.00";" - - Yarı kimyasal odun selülozlu ondüle (fluting ) kağıdı";"-";50
+"null";"4805.12.00.00.00";" - - Yarı kimyasal saman selülozlu ondüle (fluting) kağıdı";"-";50
+"null";"4805.19";" - - Diğerleri:";;
+"null";"4805.19.10.00.00";" - - - İkincil elyaf (Wellenstoff)";"-";50
+"null";"4805.19.90.00.00";" - - - Diğerleri";"-";50
+"null";;" - İkincil elyaf yüzey kağıdı (testlayner) ";;
+"null";"4805.24.00.00.00";" - - m2 ağırlığı 150 gr.veya daha az olanlar";"-";50
+"null";"4805.25.00.00.00";" - - m2 ağırlığı 150 gr. dan fazla olanlar ";"-";50
+"null";"4805.30.00.00.00";" - Sülfitli ambalaj kağıdı";"-";50
+"null";"4805.40.00.00.00";" - Filtre kağıt ve kartonu";"-";30
+"null";"4805.50.00.00.00";" - Keçe kağıdı ve kartonu";"-";50
+"null";;" - Diğerleri:";;
+"null";"4805.91.00.00.00";" - - m2. ağırlığı 150 gr. ve daha az olanlar";"-";50
+"null";"4805.92.00.00.00";" - - m2. ağırlığı 150 gr.dan fazla fakat 225 gr.dan az olanlar";"-";50
+"null";"4805.93";" - -  m². ağırIığı 225 gr. veya daha fazla olanlar:";;
+"null";"4805.93.20.00.00";" - - - Kullanılmış kağıtlardan yapılmış olanlar";"-";50
+"null";"4805.93.80.00.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"48.06";"Bitkisel parşömen, yağ geçirmez kağıtlar, çizim kağıtları ve";;
+"null";;"""kristal"" denilen kağıt ve diğer saydam veya yarı saydam kağıtlar ";;
+"null";;"(rulolar veya tabakalar halinde) :";;
+"null";"4806.10.00.00.00";" - Bitkisel parşömen";"-";50
+"null";"4806.20.00.00.00";" - Yağ geçirmez kağıtlar";"-";50
+"null";"4806.30";" - Çizim kağıtları:";;
+"null";"4806.30.00.10.00";" - - Aydınger kağıdı";"-";50
+"null";"4806.30.00.90.00";" - - Diğerleri";"-";50
+"null";"4806.40";" -""Kristal"" denilen kağıt ve diğer saydam ve yarı saydam kağıtlar:";;
+"null";"4806.40.10.00.00";" - - ""Kristal"" denilen kağıt";"-";50
+"null";;" - - Diğerleri";;
+"null";"4806.40.90.00.11";" - - - Diğer saydam kağıtlar (alassine) ";"-";50
+"null";"4806.40.90.00.19";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"4807.00";"Yapıştırma suretiyle elde edilen kağıt ve karton (kağıt veya kartonun";;
+"null";;"düz tabakaları birbirine bir yapıştırıcı ile birleştirilmiş) (yüzeyi ";;
+"null";;"sıvanmamış veya emdirilmemiş) (araları takviye edilmiş olsun ";;
+"null";;"olmasın) rulo veya tabaka halinde:";;
+"null";"4807.00.30.00.00";" - Kullanılmış kağıtlardan yapılmış olanlar (kağıt ile kaplanmış olsun olmasın) ";"-";50
+"null";"4807.00.80.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"48.08";"Oluklu kağıt ve kartonlar (yüzeylerine düz tabakalar yapıştırılmış";;
+"null";;"olsun olmasın) (krepe edilmiş, kıvrımlı, kabartılmış veya perfore ";;
+"null";;"edilmiş), rulo veya tabakalar halinde (48.03  pozisyonunda tanımlanan";;
+"null";;"türdeki kağıtlar hariç):";;
+"null";"4808.10.00.00.00";" - Oluklu kağıt ve kartonlar (perfore edilmiş olsun olmasın)";"-";60
+"null";"4808.40.00.00.00";" - Birincil elyaf (kraft) kağıtlar, krepe edilmiş veya kıvrımlı (kabartma";;
+"null";;"   yapılmış veya perfore edilmiş olsun olmasın)";"-";60
+"null";"4808.90";" - Diğerleri";;
+"null";"4808.90.00.00.11";" - - Krepe edilmiş filtre kağıdı";"-";60
+"null";"4808.90.00.00.19";" - - Diğerleri";"-";60
+"null";;;;
+"null";"48.09";"Karbon kağıdı, kendinden kopya eden kağıt ve diğer kopya veya ";;
+"null";;"transfer kağıtları (mumlu teksir kağıtları ve ofset levhalar için sıvanmış";;
+"null";;"veya emdirilmiş kağıt dahil) (baskılı olsun olmasın)rulo veya tabakalar";;
+"null";;"halinde:";;
+"null";"4809.20.00.00.00";" - Kendinden kopya eden kağıt";"-";60
+"null";"4809.90.00.00.00";" - Diğerleri";"-";60
+"null";;;;
+"null";"48.10";"Bir veya iki yüzü kaolin (porselen kili) veya diğer inorganik maddeler ile ";;
+"null";;"sıvanmış kağıt veya kartonlar (bir bağlayıcı ile birlikte olsun olmasın ";;
+"null";;"ve başka bir sıvama maddesi ile sıvanmamış), (yüzeyleri boyanmış, ";;
+"null";;"yüzeyleri dekore edilmiş veya baskı yapılmış olsun olmasın) rulo ";;
+"null";;"veya dikdörtgen (kare dahil) tabakalar halinde (her boyutta):";;
+"null";;" - Yazı, baskı veya diğer grafik amaçlarda kullanılan kağıt ve kartonlar";;
+"null";;"   (lifleri mekanik veya kimyasal mekanik işlemle elde edilmeyenler  ";;
+"null";;"   veya bu şekillerde elde edilen lif miktarı toplam lif miktarının ağırlık ";;
+"null";;"  itibariyle % 10'undan fazla olmayanlar):";;
+"null";"4810.13";" - - Rulolar halinde:";;
+"null";"4810.13.00.10.00";" - - - Kaydedici cihazlara mahsus diyagram kağıtları";"-";20
+"null";"4810.13.00.90.00";" - - - Diğerleri";"-";60
+"null";"4810.14";" - - Katlanmamış halde bir kenarı 435 mm.yi, diğer kenarı  297 mm.yi ";;
+"null";;"      geçmeyen tabakalar halinde:";;
+"null";"4810.14.00.10.00";" - - - Kaydedici cihazlara mahsus diyagram kağıtları";"-";20
+"null";"4810.14.00.90.00";" - - - Diğerleri";"-";60
+"null";"4810.19";" - - Diğerleri:";;
+"null";"4810.19.00.10.00";" - - - Kaydedici cihazlara mahsus diyagram kağıtları";"-";20
+"null";"4810.19.00.90.00";" - - - Diğerleri";"-";60
+"null";;" - Yazım, baskı veya diğer grafik amaçlarla kullanılan kağıt ve kartonlar";;
+"null";;"   (mekanik işlemle veya kimyasal-mekanik işlemle elde edilen lif";;
+"null";;"    miktarı toplam lif miktarının ağırlık itibariyle % 10'undan fazla olanlar):";;
+"null";"4810.22";" - - Hafif kuşe kağıt:";;
+"null";"4810.22.00.10.00";" - - - Kaydedici cihazlara mahsus diyagram kağıtları";"-";20
+"null";"4810.22.00.90.00";" - - - Diğerleri";"-";60
+"null";"4810.29";" - - Diğerleri:";;
+"null";"4810.29.30.00.00";" - - - Rulo halinde";"-";60
+"null";;" - - - Diğerleri";;
+"null";"4810.29.80.10.00";" - - - - Kaydedici cihazlara mahsus diyagram kağıtları";"-";20
+"null";"4810.29.80.90.00";" - - - - Diğerleri";"-";60
+"null";;" - Birincil elyaf (kraft) kağıt ve kartonlar (yazı, baskı veya diğer grafik ";;
+"null";;"   amaçlarda kullanılanlar hariç):";;
+"null";"4810.31.00.00.00";" - - Kütle halinde tek düze beyazlatılmış ve ağırlık itibariyle toplam";;
+"null";;"     lif miktarının % 95' den fazlası kimyasal işlemle elde edilen odun";;
+"null";;"     lifinden olup m2. ağırlığı 150 gr. veya daha az olanlar";"-";60
+"null";"4810.32";" - - Kütle halinde tek düze beyazlatılmış ve ağırlık itibariyle toplam";;
+"null";;"     lif miktarının % 95 'den fazlası kimyasal işlemle elde edilen ";;
+"null";;"     odun lifinden olup m2. ağırlığı 150 gr. dan fazla olanlar:";;
+"null";"4810.32.10.00.00";" - - - Kaolin iIe sıvanmış olanlar";"-";60
+"null";"4810.32.90.00.00";" - - - Diğerleri";"-";60
+"null";"4810.39.00.00.00";" - - Diğerleri";"-";60
+"null";;" - Diğer kağıt ve kartonlar:";;
+"null";"4810.92";" - - Çok katlı:";;
+"null";"4810.92.10.00.00";" - - - Her tabakası beyazlatılmış";"-";60
+"null";"4810.92.30.00.00";" - - - Sadece bir dış tabakası beyazlatılmış";"-";60
+"null";"4810.92.90.00.00";" - - - Diğerleri";"-";60
+"null";"4810.99";" - - Diğerleri:";;
+"null";"4810.99.10.00.00";" - - - Beyazlatılmış kağıt ve karton (kaolin ile sıvanmış)";"-";60
+"null";;" - - - Diğerleri:";;
+"null";"4810.99.80.10.00";" - - - - Bir yüzü boyanmış altın veya gümüş yaldızlanmış veya krome edilmiş";"-";60
+"null";"4810.99.80.90.00";" - - - - Diğerleri";"-";60
+"null";;;;
+"null";"48.11";"Kağıt, karton, selüloz vatka ve selüloz liften tabakalar (sıvanmış,";;
+"null";;"emdirilmiş, kaplanmış, yüzeyleri boyanmış, yüzeyleri dekore edilmiş";;
+"null";;"veya baskı yapılmış) (her boyutta rulo veya dikdörtgen (kare dahil)";;
+"null";;" tabaka halinde) (48.03, 48.09, 48.10  pozisyonundakiler hariç) :";;
+"null";"4811.10";" - Katranlı, bitümenli veya asfaltlı kağıt ve kartonlar";;
+"null";"4811.10.00.10.00";"- - Kağıt veya karton esaslı yer kaplamaları(ölçüsüne göre kesilmiş olsun olmasın)";"-";50
+"null";"4811.10.00.90.00";"- - Diğerleri";"-";60
+"null";;" - Zamklı veya yapışkan kağıt ve kartonlar:";;
+"null";"4811.41";" - - Kendinden yapışkan olanlar:";;
+"null";"4811.41.20.00.00";" - - - Üzeri vulkanize edilmemiş tabii veya sentetik kauçukla sıvanmış";;
+"null";;"           genişliği 10 cm.yi geçmeyenler";"-";50
+"null";;" - - - Diğerleri";;
+"null";"4811.41.90.10.00";" - - - - Genişliği 15 cm.yi geçen rulo halinde veya katlanmamış olarak bir";;
+"null";;"         kenarı 36 cm.yi diğer kenarı 15 cm.yi geçen tabaka halinde";"-";60
+"null";"4811.41.90.90.00";" - - - - Diğerleri";"-";50
+"null";"4811.49";" - - Diğerleri:";;
+"null";"4811.49.00.10.00";" - - - Genişliği 15 cm.yi geçen rulo halinde veya katlanmamış olarak bir";;
+"null";;"         kenarı 36 cm.yi diğer kenarı 15 cm.yi geçen tabaka halinde";"-";60
+"null";"4811.49.00.90.00";" - - - Diğerleri";"-";50
+"null";;" - Plastik sıvanmış, emdirilmiş veya kaplanmış kağıt ve kartonlar ";;
+"null";;"   (yapışkan olanlar hariç):";;
+"null";"4811.51";" - - Beyazlatılmış, m². ağırlığı 150 gr. dan fazla olanlar";;
+"null";"4811.51.00.10.00";" - - -Kağıt veya karton esaslı yer kaplamaları(ölçüsüne göre kesilmiş olsun olmasın)";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"4811.51.00.90.11";" - - - - Gıda ile temas edecek olanlar";"-";60
+"null";"4811.51.00.90.19";" - - - - Diğerleri";"-";60
+"null";"4811.59";" - - Diğerleri";;
+"null";"4811.59.00.10.00";" - - - Kağıt veya karton esaslı yer kaplamaları(ölçüsüne göre kesilmiş olsun olmasın)";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"4811.59.00.90.21";" - - - - Gıda ile temas edecek olanlar";"-";60
+"null";"4811.59.00.90.29";" - - - - Diğerleri";"-";60
+"null";"4811.60";" - Mum, parafin mumu, stearin, yağ veya gliserol sıvanmış, emdirilmiş";;
+"null";;"   veya kaplanmış kağıt ve kartonlar";;
+"null";"4811.60.00.10.00";" - - Kağıt veya karton esaslı yer kaplamaları (ölçüsüne göre kesilmiş olsun olmasın)";"-";50
+"null";"4811.60.00.90.00";" - - Diğerleri";"-";60
+"null";"4811.90";" - Diğer kağıt, karton, selüloz vatka ve selüloz lif tabakaları:";;
+"null";"4811.90.00.10.00";" - - Deri taklidi kartonlar";"-";60
+"null";"4811.90.00.20.00";" - - Kağıt veya karton esaslı yer kaplamaları (ölçüsüne göre kesilmiş olsun olmasın)";"-";50
+"null";"4811.90.00.90.00";" - - Diğerleri";"-";60
+"null";"4812.00";"Kağıt hamurundan filtre edici blok ve levhalar";;
+"null";"4812.00.00.10.00";" - Filtre cihazları için amyant lif içeren kağıt hamurundan levhalar ";"-";35
+"null";"4812.00.00.90.00";" - Diğerleri";"-";35
+"null";;;;
+"null";"48.13";"Sigara kağıdı (ölçüsüne göre kesilmiş, defter veya boru haline geti-";;
+"null";;"rilmiş olsun olmasın):";;
+"null";"4813.10";" - Defter veya boru halinde:";;
+"null";"4813.10.00.10.00";" - - Yaprak halinde olanlar";"-";80
+"null";"4813.10.00.80.00";" - - Diğerleri";"-";80
+"null";"4813.20.00.00.00";" - Genişliği 5 cm. yi geçmeyen rulolar halinde olanlar";"-";80
+"null";"4813.90";" - Diğerleri:";;
+"null";"4813.90.10.00.00";" - - Genişliği 5 cm.yi geçen fakat 15 cm.yi geçmeyen rulolar halinde olanlar";"-";60
+"null";;" - - Diğerleri";;
+"null";"4813.90.90.10.00";" - - - Emdirilmemiş, genişliği 15 cm.yi geçen rulolar halinde veya bir kenarı ";;
+"null";" ";"        36 cm.yi geçen dikdörtgen (kare dahil) şeklindeki yapraklar halinde olanlar";"-";50
+"null";"4813.90.90.90.00";" - - - Diğerleri";"-";60
+"null";;;;
+"null";"48.14";"Duvar kağıtları ve benzeri duvar kaplamaları; cam kağıtları:";;
+"null";"4814.20.00.00.00";" - Duvar kağıtları ve benzeri duvar kaplamaları (ön yüzü pürtüklü";;
+"null";;"   kabartmalı, boyalı, desen baskılı veya başka şekilde dekore edil -";;
+"null";;"   miş bir kat plastikle sıvanmış veya kaplanmış kağıttan meydana";;
+"null";;"   gelmiş olanlar)";"-";50
+"null";"4814.90";" - Diğerleri:";;
+"null";"4814.90.10.00.00";" - - Duvar kağıtları ve benzeri duvar kaplamaları, pürtüklenmiş,";;
+"null";;"      kabartılmış, yüzeyi boyanmış, motif baskılı veya yüzeyi başka şekil-";;
+"null";;"      de dekore edilmiş koruyucu şeffaf plastik maddeIerle sıvanmış veya";;
+"null";;"      kaplanmış kağıtlardan yapılmış olanlar";"-";50
+"null";;" - - Diğerleri :";;
+"null";"4814.90.70.10.00";" - - - Duvar kağıtları ve benzeri duvar kaplamaları (ön yüzü örmeye";;
+"null";;"      elverişli maddelerle (bu maddeler birbirine paralel telIer ";;
+"null";;"      halinde birleştirilmiş veya düz dokunmuş olsun olmasın) kap-";;
+"null";;"      lanmış kağıttan meydana gelmiş olanlar)";"-";50
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - İşlenmeden boyanmış kağıtlar ""ingrain"":";;
+"null";"4814.90.70.20.00";" - - - - - Emdirilmiş,genişliği 60 cm.yi geçen fakat 160 cm.yi geçmeyenler";"-";60
+"null";"4814.90.70.30.00";" - - - - - Diğerleri";"-";50
+"null";"4814.90.70.90.00";" - - - - Diğerleri";"-";60
+"null";"(48.15)";;;
+"null";;;;
+"null";"48.16";"Karbon kağıdı, kendinden kopya eden kağıt ve diğer kopya veya";;
+"null";;"transfer kağıtları (48.09 pozisyonundakiler hariç), mumlu teksir ";;
+"null";;"kağıdı ve ofset levhalar (kutulara konularak perakende satılacak ";;
+"null";;"hale getirilmiş olsun olmasın) :";;
+"null";"4816.20";" - Kendinden kopya eden kağıt:";" ";
+"null";"4816.20.00.10.00";" - - Emdirilmiş ve boyanmış olanlar";"-";60
+"null";"4816.20.00.90.00";" - - Diğerleri";"-";50
+"null";"4816.90";" - Diğerleri";;
+"null";;" - - Karbon kağıtları ve benzeri kopya kağıtları :";;
+"null";"4816.90.00.11.00";" - - - Emdirilmiş veya boyanmış olanlar";"-";50
+"null";"4816.90.00.19.00";" - - - Diğerleri";"-";50
+"null";"4816.90.00.20.00";" - - Mumlu teksir kağıdı(stensil)";"-";50
+"null";"4816.90.00.90.00";" - - Diğerleri";"-";60
+"null";;;;
+"null";"48.17";"Mektup zarfları, mektup kartları, resimsiz kartpostallar ve haberleşme";;
+"null";;"kartları; bunların kağıt veya kartondan kutuları, poşetler ve benzeri";;
+"null";;"zarflar içine takım halinde yerleştirilmiş olanlar:";;
+"null";"4817.10.00.00.00";" - Zarflar";"-";60
+"null";"4817.20.00.00.00";" - Mektup kartları, resimsiz kartpostallar ve haberleşme kartları";"-";60
+"null";"4817.30.00.00.00";" - Kağıt veya kartondan kutular, poşetler ve benzeri diğer zarflar ";" ";
+"null";;"   içine takım halinde yerleştirilmiş olanlar";"-";60
+"null";;;;
+"null";"48.18";"Tuvalet kağıtları ve ev işlerinde veya sağlık amacıyla kullanılan";;
+"null";;"türden benzeri kağıt, selüloz vatka veya selüloz liflerden tabaka-";;
+"null";;"lar (genişliği 36 cm.yi geçmeyen rulolar halinde veya ölçüsüne";;
+"null";;"göre kesilmiş); kağıt hamurundan, kağıttan, selüloz vatkadan veya";;
+"null";;"selüloz lif tabakalardan kağıt mendiller, kurutma kağıtları, havlular,";;
+"null";;"masa örtüleri, sofra peçeteleri, yatak çarşafları ve benzeri ev eşyası,";;
+"null";;"hijyenik ve hastane eşyası, giyim eşyası ve aksesuarı :";;
+"null";"4818.10";" - Tuvalet kağıtları:";;
+"null";;" - - Bir katının m2. ağırlığı 25 gr. veya daha az olanlar:";;
+"null";"4818.10.10.10.00";" - - - Kraft kağıdından";"-";35
+"null";"4818.10.10.90.00";" - - - Diğerleri";"-";60
+"null";;" - - Bir katının m2. ağırlığı 25 gr. dan fazla olanlar:";" ";
+"null";"4818.10.90.10.00";" - - - Kraft kağıdından";"-";35
+"null";"4818.10.90.90.00";" - - - Diğerleri";"-";60
+"null";"4818.20";" - Mendiller, kurulama veya yüz silme kağıt ve havluları:";" ";
+"null";"4818.20.10.00.00";" - - Mendiller, kurulama veya yüz silme kağıtları";"-";100
+"null";;" - - EI havluları:";" ";
+"null";"4818.20.91.00.00";" - - - Rulo halinde olanlar";"-";100
+"null";"4818.20.99.00.00";" - - - Diğerleri";"-";100
+"null";"4818.30.00.00.00";" - Masa örtüleri ve sofra peçeteleri";"-";100
+"null";"4818.50.00.00.00";" - Giyim eşyası ve aksesuarı";"-";100
+"null";"4818.90";" - Diğerleri:";" ";
+"null";"4818.90.10.00.00";" - - Tıbbi, cerrahi veya hijyenik amaçlarla kullanılmaya mahsus eşya";" ";
+"null";;"     (perakende satılacak hale getirilmemiş)";"-";50
+"null";"4818.90.90.00.00";" - - Diğerleri";"-";50
+"null";;;" ";
+"null";"48.19";"Kağıttan, kartondan, selüloz vatkadan veya selüloz lif tabakalarından";;
+"null";;"kutular, mahfazalar, torbalar ve diğer ambalaj kutuları; bürolarda,";;
+"null";;"dükkanlarda ve benzeri yerlerde kullanılan kağıttan veya ";;
+"null";;"kartondan evrak tasnif kutuları, mektup kutuları ve benzeri eşya:";;
+"null";"4819.10.00.00.00";" - Oluklu kağıt veya kartondan kutu ve mahfazalar";"-";75
+"null";"4819.20";" - Oluklu olmayan kağıt veya kartondan katlanabilir kutular ve";" ";
+"null";;"   mahfazalar:";" ";
+"null";"4819.20.00.00.11";" - - Kağıt veya kartonun m2. ağırlığı 600 gr. dan az olanlar";"-";75
+"null";"4819.20.00.00.19";" - - Kağıt veya kartonun m2. ağırlığı 600 gr. veya daha fazla olanlar";"-";75
+"null";"4819.30";" - Taban genişliği 40 cm. veya daha fazla olan torba ve çantalar:";" ";
+"null";"4819.30.00.10.00";" - - Kağıt veya kartondan olanlar";"-";75
+"null";"4819.30.00.90.00";" - - Diğerleri";"-";100
+"null";"4819.40";" - Diğer torba veya çantalar (külahlar dahil):";" ";
+"null";;" - - Kağıt veya kartondan olanlar:";" ";
+"null";"4819.40.00.11.00";" - - - Çimento ve gübre torbaları";"-";75
+"null";"4819.40.00.19.00";" - - - Diğerleri  ";"-";75
+"null";"4819.40.00.90.00";" - - Diğerleri";"-";100
+"null";"4819.50";" - Diğer ambalaj kutuları (plak poşetleri dahil):";" ";
+"null";"4819.50.00.10.00";" - - Kağıt veya kartondan olanlar";"-";75
+"null";"4819.50.00.90.00";" - - Diğerleri";"-";100
+"null";"4819.60";" - Bürolarda, dükkanlarda ve benzeri yerlerde kullanılan türden ";" ";
+"null";;"   evrak tasnif kutuIarı, mektup kutuları ve benzeri eşya:";" ";
+"null";"4819.60.00.10.00";" - - Kağıt veya kartondan olanlar";"-";75
+"null";"4819.60.00.90.00";" - - Diğerleri";"-";100
+"null";;;" ";
+"null";"48.20";"Kağıt veya kartondan kayıt defterleri, hesap defterleri, sipariş defter-";" ";
+"null";;"leri, makbuz defterleri, not defterleri, mektupluk bloknotlar, hatıra def-";" ";
+"null";;"terleri, ajandalar ve benzeri eşya, müsvedde defterleri, sümen,";" ";
+"null";;"klasörler, ciltler (sayfaları takılıp çıkarılabilen veya diğerleri), dosya ";" ";
+"null";;"gömlekleri ve kapakları, diğer okul, büro veya kırtasiye eşyası, çok ";" ";
+"null";;"yüzlü iş formları ve karbon kağıdı ile ikinci kopyası çıkarılan defterler";" ";
+"null";;"(içinde karbon kağıtları olsun olmasın), kolleksiyon ve numunelerin";;
+"null";;"konduğu albümler ve kitap kapakları:";;
+"null";"4820.10";" - Kayıt defterleri, hesap defterleri, sipariş defterleri, makbuz defterleri,";;
+"null";;"   not defterleri, mektupluk bloknotlar, hatıra defterleri, ajandalar";;
+"null";;"   ve benzeri eşya:";;
+"null";"4820.10.10.00.00";" - - Kayıt defterleri, hesap defterleri, sipariş ve makbuz defterleri";"-";60
+"null";"4820.10.30.00.00";" - - Not defterleri, mektupluk bloknotlar, hatıra defterleri";"-";60
+"null";"4820.10.50.00.00";" - - Ajandalar";"-";60
+"null";;" - - Diğerleri";;
+"null";"4820.10.90.00.11";" - - - Okul defterleri";"-";60
+"null";"4820.10.90.00.19";" - - - Diğerleri";"-";60
+"null";"4820.20.00.00.00";" - Müsvedde defterleri";"-";60
+"null";"4820.30.00.00.00";" - Klasörler, ciltler (kitap kapakları hariç), dosya gömlekleri ve kapakları";"-";60
+"null";"4820.40.00.00.00";" - Çok yüzlü iş formları ve karbon kağıdı ile ikinci kopyası çıkarılan";" ";
+"null";;"   defterler (içinde karbon kağıtları olsun olmasın)";"-";60
+"null";"4820.50.00.00.00";" - Kolleksiyon ve numunelerin konduğu albümler";"-";60
+"null";"4820.90.00.00.00";" - Diğerleri";"-";60
+"null";;;;
+"null";"48.21";"Kağıt veya kartondan her cins etiketler (baskılı olsun olmasın) :";" ";
+"null";"4821.10";" - Baskılı olanlar:";" ";
+"null";"4821.10.10.00.00";" - - Kendinden yapışkan olanlar";"-";60
+"null";"4821.10.90.00.00";" - - Diğerleri";"-";60
+"null";"4821.90";" - Diğerleri:";" ";
+"null";"4821.90.10.00.00";" - - Kendinden yapışkan olanlar";"-";60
+"null";"4821.90.90.00.00";" - - Diğerleri";"-";60
+"null";;;" ";
+"null";"48.22";"Kağıt hamurundan, kağıttan veya kartondan bobinler, masuralar,";" ";
+"null";;"makaralar ve benzeri mesnetler (perfore edilmiş veya ";;
+"null";;"sertleştirilmiş olsun olmasın):";;
+"null";"4822.10";" - Dokumaya elverişli ipliklerin sarılmasına mahsus olanlar";" ";" "
+"null";"4822.10.00.00.11";" - - Endüstriyel ipliklerin sarılmasına mahsus, yüzeyi silikonlu parşömenle";;
+"null";" ";"     kaplanmış, iç çapı 7 cm'yi ve uzunluğu 28 cm'yi geçen bobinler";"-";60
+"null";"4822.10.00.00.19";" - - Diğerleri";"-";60
+"null";"4822.90.00.00.00";" - Diğerleri";"-";60
+"null";;;" ";
+"null";"48.23";"Diğer kağıt, karton, selüloz vatka ve selüloz lif tabakaları (ölçüsüne";" ";
+"null";;"veya şekline göre kesilmiş); kağıt hamurundan, kağıt, karton, selüloz";" ";
+"null";;"vatka veya selüloz liflerden diğer eşya:";" ";
+"null";"4823.20.00.00.00";" - Filtre kağıt ve kartonu";"-";30
+"null";"4823.40.00.00.00";" - Kaydedici cihazlara mahsus diyagram kağıtları (bobin , tabaka";" ";
+"null";;"   veya disk halinde)";"-";20
+"null";;" - Kağıt ve kartondan tepsiler, tabaklar, bardaklar ve benzerleri:";;
+"null";"4823.61.00.00.00";" - - Bambudan olanlar";"-";100
+"null";"4823.69";" - - Diğerleri:";;
+"null";"4823.69.10.00.00";" - - - Tepsiler ve tabaklar";"-";100
+"null";"4823.69.90.00.00";" - - -  Diğerleri";"-";100
+"null";"4823.70";" - Kağıt hamurundan kalıplanmış veya preslenmiş eşya:";;
+"null";"4823.70.10.00.00";" - - Yumurta ambalajlamada kullanılan kalıplanmış tepsiler ve kutular";"-";100
+"null";"4823.70.90.00.00";" - - Diğerleri";"-";100
+"null";"4823.90";" - Diğerleri:";;
+"null";;" - - Yazım, baskı veya diğer grafik amaçlarla kullanılan türden kağıt ve kartonlar: ";" ";
+"null";"4823.90.40.10.00";" - - - Yazı makinaları için kağıt ve pelür kağıdı";"-";60
+"null";"4823.90.40.20.00";" - - - Fotokopi kağıdı";"-";50
+"null";;" - - - Diğerleri";;
+"null";"4823.90.40.90.11";" - - - - Şeritli kağıtlar";"-";60
+"null";"4823.90.40.90.12";" - - - - Mikrofilm kartı";"-";60
+"null";"4823.90.40.90.19";" - - - - Diğerleri";"-";60
+"null";;" - - Diğerleri:";;
+"null";" ";" - - - Ölçüsüne ve şekline göre kesilmiş";;
+"null";"4823.90.85.10.11";" - - - - Mumlu ve difenilli sargılık kağıt";"-";60
+"null";"4823.90.85.10.19";" - - - - Diğerleri";"-";60
+"null";"4823.90.85.20.00";" - - - Contalar ve rondelalar";"-";15
+"null";"4823.90.85.30.00";" - - - Kağıt veya karton esaslı yer kaplamaları (ölçüsüne göre kesilmiş olsun olmasın)";"-";50
+"null";;" - - - Diğerleri";;
+"null";;" - - - -Zamklı veya yapışkan kağıt";;
+"null";;" - - - - -Kendinden yapışkan olanlar";;
+"null";"4823.90.85.91.00";" - - - - - - Üzeri vulkanize edilmemiş tabii veya sentetik kauçukla sıvanmış genişliği ";;
+"null";;"             10 cm.yi geçmeyenler";"-";50
+"null";"4823.90.85.92.00";" - - - - - - Diğerleri";"-";50
+"null";"4823.90.85.93.00";" - - - - - Diğerleri";"-";50
+"null";"4823.90.85.99.00";" - - - -Diğerleri";"-";100

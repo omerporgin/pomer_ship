@@ -1,0 +1,236 @@
+#content_div {
+    font-size: 0.8em;
+}
+
+.table_container {
+    overflow-x: auto;
+    padding: 15px;
+}
+
+.sorted_table tr.placeholder {
+    display: block;
+    background: red;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+/* line 103, /Users/jonasvonandrian/jquery-sortable/source/css/application.css.sass */
+.sorted_table tr.placeholder:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: 5px solid transparent;
+    border-left-color: red;
+    margin-top: -5px;
+    left: -5px;
+    border-right: none;
+}
+
+.order_satus {
+    border-radius: 3px;
+    font-size: 0.8em;
+    padding: 5px 15px;
+    color: #fff;
+    margin: 1px;
+    white-space: nowrap !important;
+}
+
+#entegration_list .img_th {
+    width: 65px;
+    height: 50px;
+    padding-right: 15px;
+}
+
+.vendor-img-sm {
+    width: 50px;
+    padding-right: 10px;
+}
+
+/* Order table */
+#modal_theme_primary .modal-body,
+#modal_theme_primary .modal-body .form-control
+#modal_theme_primary .input-group-text {
+    font-size: 0.9em !important;
+}
+
+#modal_theme_primary .modal-body .package {
+    border: 1px solid;
+    border-spacing: 0px;
+}
+
+#modal_theme_primary .modal-body .package td,
+#modal_theme_primary .modal-body .package th {
+    padding: 5px !important;
+}
+
+
+.tab-content {
+    border-left: 1px solid #dddfeb;
+    border-right: 1px solid #dddfeb;
+    border-bottom: 1px solid #dddfeb;
+    padding: 35px 15px 15px 15px;
+}
+
+/* fix tooltip */
+.tooltip {
+    z-index: 100000000;
+}
+
+/* Fix for datatable paginate button */
+.paginate_button {
+    padding: 0px !important;
+}
+
+.errorMessage {
+    color: #900;
+    display: block;
+    font-size: 0.8em;
+    position: absolute;
+    z-index: 100;
+    top: -17px;
+    background: #900;
+    color: #fff;
+    padding: 0px 10px;
+    white-space: nowrap;
+}
+
+.errorMessage .fa-sort-down {
+    padding-right: 10px;
+    font-size: 1.5em;
+    color: #900;
+    position: absolute;
+    bottom: -8px;
+}
+
+.alert_container {
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.modal-title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.modal-body,
+.modal-body .container-fluid {
+    overflow: visible !important;
+}
+
+button.close:hover {
+    color: Red
+}
+
+/*
+Placeholder opacity@
+*/
+input.form-control::placeholder {
+    opacity: .4;
+}
+
+.pretty_json .close {
+    all: unset
+}
+
+
+.menu-divider {
+    margin: 1rem;
+    border-top: 1px dotted rgba(0, 0, 0, 0.2);
+}
+
+.select2-new-item {
+    background: #eee;
+    padding: 6px;
+    height: 2.5em;
+    display: block;
+    cursor: pointer;
+}
+
+.select2-new-item i {
+    padding-right: 15px
+}
+
+.select2-new-item:hover {
+    background: #333;
+    color: #fff;
+}
+
+.label_msg_container td {
+    background: #800;
+    color: #fff;
+}
+
+.empty_div {
+    text-align: center;
+    border: 1px dotted #ccc;
+    padding: 30px;
+}
+
+table img {
+    width: 100px;
+    height: auto;
+}
+
+.dataTables_processing {
+    background: rgba(255, 76, 48, 0.7) !important;
+    color: #fff !important;
+    height: 5em !important;
+    border: 0px !important;
+}
+
+#component_shipping_prices .currency {
+    color: #bbb;
+    font-size: 0.8em;
+    padding-left: 5px;
+}
+
+.nav-tabs .nav-item {
+    margin-right: 10px;
+}
+
+#shipping-price-table td,
+#shipping-price-table th {
+    text-align: center;
+    width: 100px;
+    border: 1px solid #ddd;
+    white-space: nowrap;
+}
+
+#shipping-price-table td:first-child {
+    font-weight: bold;
+    width: 50px !important;
+}
+
+.order_document {
+    width: 100%;
+    height: 400px;
+}
+
+.bootstrap-datetimepicker-widget {
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    border-radius: 0px;
+    padding:0px
+}
+.bootstrap-datetimepicker-widget.dropdown-menu {
+    display: block;
+    margin: 0px 0;
+    padding: 0px;
+    width: 14rem;
+}
+.datepicker thead tr:first-child{
+    background: #eee !important;
+}
+.datepicker thead tr:nth-child(2){
+    background: #ddd !important;
+}
+
+.datepicker-days table th,
+.datepicker-days table td{
+    padding:3px !important;
+    border-radius: 0px;
+}

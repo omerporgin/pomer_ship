@@ -1,0 +1,203 @@
+﻿"null";"56.01";"Dokumaya elverişli maddelerden vatka ve vatkadan mamul eşya; ";;
+"null";;"uzunluğu 5 mm. yi geçmeyen dokumaya elverişli lifler (kırpıntılar),";;
+"null";;"dokumaya elverişli maddelerin toz ve tarazları:";;
+"null";;" - Dokumaya elverişli maddelerden vatkalar ve bunlardan mamul eşya:  ";" ";
+"null";"5601.21";" - - Pamuktan:";" ";
+"null";"5601.21.10.00.00";" - - - Hidrofil ";"-";50
+"null";;" - - - Diğerleri ";;
+"null";"5601.21.90.00.11";" - - - - Kimyasal madde emdirilmemiş kulak çubukları ";"-";50
+"null";"5601.21.90.00.19";" - - - - Diğerleri";"-";50
+"null";"5601.22";" - - Dokumaya elverişli sentetik ve suni liflerden:";" ";
+"null";" ";" - - - Çapı 8 mm. veya daha az olan rulolar :";" ";
+"null";"5601.22.10.00.11";" - - - - Sigara filtresi";"-";50
+"null";"5601.22.10.00.19";" - - - - Diğerleri ";"-";50
+"null";"5601.22.90.00.00";" - - - Diğerleri";"-";50
+"null";"5601.29.00.00.00";" - - Diğerleri ";"-";50
+"null";"5601.30";" - Dokumaya elverişli maddelerin kırpıntı, toz ve tarazları";" ";
+"null";"5601.30.00.00.11";" - - Dokumaya elverişli sentetik veya suni maddelerden olanlar ";"-";50
+"null";"5601.30.00.00.19";" - - Dokumaya elverişli diğer maddelerden olanlar ";"-";50
+"null";;;" ";
+"null";"56.02";"Keçeler (emdirilmiş, sıvanmış, kaplanmış veya lamine edilmiş";" ";
+"null";;"olsun olmasın):";" ";
+"null";"5602.10";" - İğne işi keçe ve dikiş-trikotaj usulüyle elde edilen lif mensucat:";" ";
+"null";;" - - Emdirilmemiş, sıvanmamış, kaplanmamış veya lamine edilmemiş:";;
+"null";;" - - - İğne işi keçeler:";;
+"null";"5602.10.11.00.00";" - - - - 53.03 Pozisyonundaki jüt ve bitki iç kabuklarının dokumaya elverişli";;
+"null";;"         diğer liflerinden ";"-";50
+"null";"5602.10.19.00.00";" - - - - Dokumaya elverişli diğer maddelerden ";"-";50
+"null";;" - - - Dikiş -trikotaj usulüyle elde edilmiş lif mensucat:";" ";
+"null";"5602.10.31.00.00";" - - - - Yünden veya ince hayvan kıllarından ";"-";50
+"null";"5602.10.38.00.00";" - - - - Dokumaya elverişli diğer maddelerden ";"-";50
+"null";"5602.10.90.00.00";" - - Emdirilmiş, sıvanmış, kaplanmış veya lamine edilmiş ";"-";50
+"null";;" - Diğer keçeler (emdirilmemiş, sıvanmamış, kaplanmamış veya";" ";
+"null";;"   lamine edilmemiş):";" ";
+"null";"5602.21.00.00.00";" - - Yünden veya ince hayvan kıllarından ";"-";50
+"null";"5602.29";" - - Dokumaya elverişli diğer maddelerden:";" ";
+"null";"5602.29.00.00.11";" - - - Kaba hayvan kıllarından ";"-";50
+"null";"5602.29.00.00.19";" - - - Dokumaya elverişli diğer maddelerden";"-";50
+"null";"5602.90.00.00.00";" - Diğerleri";"-";50
+"null";;;" ";
+"null";"56.03";"Dokunmamış mensucat (emdirilmiş, sıvanmış, kaplanmış veya";" ";
+"null";;"lamine edilmiş olsun olmasın):";;
+"null";;" - Dokumaya elverişli sentetik ve suni filamentlerden:";;
+"null";"5603.11";" - -  m2 ağırlığı 25 gr. veya daha az:";;
+"null";"5603.11.10.00.00";" - - - Sıvanmış veya kaplanmış olanlar ";"-";60
+"null";;" - - - Diğerleri: ";;
+"null";"5603.11.90.00.11";" - - - - Dış yüzleri spunbond merkezi tabakası melt blown olan, üç tabakalı ";;
+"null";;"         dokunmamış mensucat (SMS)  ";"-";60
+"null";"5603.11.90.00.12";" - - - - Melt blown dokunmamış mensucat";"-";60
+"null";"5603.11.90.00.13";" - - - - Spunbond dokunmamış mensucat";"-";60
+"null";"5603.11.90.00.19";" - - - - Diğerleri";"-";60
+"null";"5603.12";" - - m2 ağırlığı 25 gr.ı geçen fakat 70 gr.ı geçmeyenler:";" ";
+"null";"5603.12.10.00.00";" - - - Sıvanmış veya kaplanmış olanlar ";"-";60
+"null";" ";" - - - Diğerleri: ";" ";
+"null";"5603.12.90.00.11";" - - - - Dış yüzleri spunbond merkezi tabakası melt blown olan, üç tabakalı ";" ";
+"null";;"         dokunmamış mensucat (SMS)  ";"-";60
+"null";"5603.12.90.00.12";" - - - - Melt blown dokunmamış mensucat";"-";60
+"null";"5603.12.90.00.13";" - - - - Spunbond dokunmamış mensucat";"-";60
+"null";"5603.12.90.00.19";" - - - - Diğerleri ";"-";60
+"null";"5603.13";" - -  m2 ağırlığı 70 gr.ı geçen fakat 150 gr.ı geçmeyenler:";" ";
+"null";"5603.13.10.00.00";" - - - Sıvanmış veya kaplanmış olanlar";"-";60
+"null";" ";" - - - Diğerleri: ";" ";
+"null";"5603.13.90.00.11";" - - - - Dış yüzleri spunbond merkezi tabakası melt blown olan, üç tabakalı ";" ";
+"null";;"         dokunmamış mensucat (SMS)  ";"-";60
+"null";"5603.13.90.00.12";" - - - - Melt blown dokunmamış mensucat";"-";60
+"null";"5603.13.90.00.13";" - - - - Spunbond dokunmamış mensucat";"-";60
+"null";"5603.13.90.00.19";" - - - - Diğerleri ";"-";60
+"null";"5603.14";" - -  m2 ağırlığı 150 gr.ı geçenler:";" ";
+"null";"5603.14.10.00.00";" - - - Sıvanmış veya kaplanmış olanlar ";"-";60
+"null";;" - - - Diğerleri: ";;
+"null";"5603.14.90.00.11";" - - - - Dış yüzleri spunbond merkezi tabakası melt blown olan, üç tabakalı ";" ";
+"null";;"         dokunmamış mensucat (SMS)  ";"-";60
+"null";"5603.14.90.00.12";" - - - - Melt blown dokunmamış mensucat";"-";60
+"null";"5603.14.90.00.13";" - - - - Spunbond dokunmamış mensucat";"-";60
+"null";"5603.14.90.00.19";" - - - - Diğerleri ";"-";60
+"null";;" - Diğerleri :";" ";
+"null";"5603.91";" - -  m2 ağırlığı 25 gr. veya daha az:";" ";
+"null";"5603.91.10.00.00";" - - - Sıvanmış veya kaplanmış olanlar";"-";60
+"null";;" - - - Diğerleri: ";;
+"null";"5603.91.90.00.11";" - - - - Dış yüzleri spunbond merkezi tabakası melt blown olan, üç tabakalı ";" ";
+"null";;"         dokunmamış mensucat (SMS)  ";"-";60
+"null";"5603.91.90.00.12";" - - - - Melt blown dokunmamış mensucat";"-";60
+"null";"5603.91.90.00.13";" - - - - Spunbond dokunmamış mensucat";"-";60
+"null";"5603.91.90.00.19";" - - - - Diğerleri ";"-";60
+"null";"5603.92";" - -  m2 ağırlığı 25 gr.ı geçen fakat 70 gr.ı geçmeyenler:";" ";
+"null";"5603.92.10.00.00";" - - - Sıvanmış veya kaplanmış olanlar ";"-";60
+"null";" ";" - - - Diğerleri: ";;
+"null";"5603.92.90.00.11";" - - - - Dış yüzleri spunbond merkezi tabakası melt blown olan, üç tabakalı ";" ";
+"null";;"         dokunmamış mensucat (SMS)  ";"-";60
+"null";"5603.92.90.00.12";" - - - - Melt blown dokunmamış mensucat";"-";60
+"null";"5603.92.90.00.13";" - - - - Spunbond dokunmamış mensucat";"-";60
+"null";"5603.92.90.00.19";" - - - - Diğerleri ";"-";60
+"null";"5603.93";" - -  m2 ağırlığı 70 gr.ı geçen fakat 150 gr.ı geçmeyenler:";" ";
+"null";"5603.93.10.00.00";" - - - Sıvanmış veya kaplanmış olanlar";"-";60
+"null";" ";" - - - Diğerleri: ";" ";
+"null";"5603.93.90.00.11";" - - - - Dış yüzleri spunbond merkezi tabakası melt blown olan, üç tabakalı ";" ";
+"null";;"         dokunmamış mensucat (SMS)  ";"-";60
+"null";"5603.93.90.00.12";" - - - - Melt blown dokunmamış mensucat";"-";60
+"null";"5603.93.90.00.13";" - - - - Spunbond dokunmamış mensucat";"-";60
+"null";"5603.93.90.00.19";" - - - - Diğerleri ";"-";60
+"null";"5603.94";" - -  m2 ağırlığı 150 gr.ı geçenler:";" ";
+"null";"5603.94.10.00.00";" - - - Sıvanmış veya kaplanmış olanlar ";"-";60
+"null";;" - - - Diğerleri: ";"-";60
+"null";"5603.94.90.00.11";" - - - - Dış yüzleri spunbond merkezi tabakası melt blown olan, üç tabakalı ";" ";
+"null";;"         dokunmamış mensucat (SMS)  ";"-";60
+"null";"5603.94.90.00.12";" - - - - Melt blown dokunmamış mensucat";"-";60
+"null";"5603.94.90.00.13";" - - - - Spunbond dokunmamış mensucat";"-";60
+"null";"5603.94.90.00.19";" - - - - Diğerleri ";"-";60
+"null";;;" ";
+"null";"56.04";"Dokumaya elverişli maddelerle kaplanmış kauçuk ip ve halatlar; ";;
+"null";;"dokumaya elverişli iplik ve 54.04 ve 54.05 pozisyonlarındaki şerit ve";;
+"null";;"benzerleri (kauçuk veya plastik emdirilmiş, kaplanmış, sıvanmış):";;
+"null";"5604.10.00.00.00";" - Dokumaya elverişli maddelerle kaplanmış kauçuk ip ve ";;
+"null";;"   halatlar";"-";50
+"null";"5604.90";" - Diğerleri :";" ";
+"null";;" - - Poliesterden,naylondan veya diğer poliamidlerden veya viskoz ipeğinden";;
+"null";;"      yüksek mukavemetli iplikler ( emdirilmiş veya kaplanmış)";;
+"null";;" - - - Poliamid ve poliester esaslı sentetik filamentlerden:";;
+"null";"5604.90.10.11.00";" - - - - 67 Desitekse kadar";"-";50
+"null";"5604.90.10.12.00";" - - - - 67 Desiteksten yukarı";"-";90
+"null";;" - - - Viskoz ipeğinden:";;
+"null";"5604.90.10.21.00";" - - - - 67 Desitekse kadar";"-";50
+"null";"5604.90.10.22.00";" - - - - 67 Desiteksten yukarı";"-";90
+"null";;" - - Diğerleri:";;
+"null";"5604.90.90.10.00";" - - - Vulkanize edilmemiş kauçuk emdirilmiş dokumaya elverişli iplikler";"-";50
+"null";"5604.90.90.20.00";" - - - İpek döküntülerinden elde edilen iplikler";"-";65
+"null";"5604.90.90.30.00";" - - - Jüt iplikleri veya dokumaya elverişli bitkilerden ve ağaç iç kabuğundan elde ";" ";
+"null";;"       edilmiş liflerden iplikler";"-";40
+"null";" ";" - - - Diğerleri ";" ";
+"null";"5604.90.90.90.11";" - - - - İpek ipliğinden katgüt taklitleri; ipek böceği guddesinden elde edilen";" ";
+"null";;"         iplikler (misina) ";"-";50
+"null";"5604.90.90.90.12";" - - - - Perakende olarak satılacak hale getirilmemiş pamuk ipliği";"-";50
+"null";"5604.90.90.90.13";" - - - - Dokumaya elverişli sentetik maddelerden monofiller, şeritler ve benzerleri";" ";
+"null";;"          (suni saman dahil) ve katgüt taklitleri";"-";50
+"null";"5604.90.90.90.14";" - - - - Suni monofiller ";"-";50
+"null";"5604.90.90.90.19";" - - - - Diğerleri";"-";50
+"null";;;" ";
+"null";"5605.00";"Dokumaya elverişli ipliklerden metalize iplikler (gipe edilmiş olsun ";" ";
+"null";;"olmasın),ip, şerit veya toz şeklindeki metalle birleştirilmiş veya";" ";
+"null";;"metalle kaplanmış 54.04 veya 54.05 pozisyonundaki şerit ve";" ";
+"null";;"benzerleri:";" ";
+"null";"5605.00.00.10.00";" - Kordonlar, sırmalar ve diğer şeritçi ve kaytancı eşyası ";"-";100
+"null";"5605.00.00.20.00";" - Üzerine bakır teller sarılarak yapılmış dokumaya elverişli iplikler ";"-";100
+"null";"5605.00.00.90.00";" - Diğerleri ";"-";100
+"null";;;" ";
+"null";"5606.00";"Gipe iplikler, 54.04 ve 54.05 pozisyonundaki şerit ve benzerleri";" ";
+"null";;" (gipe edilmiş) (56.05 pozisyonundaki eşya ile gipe edilmiş at kılından iplikler";;
+"null";;" hariç); tırtıl iplik (kıtık, şenil iplikler dahil); şenet iplik (chainette):";;
+"null";"5606.00.10.00.00";" - Şenet iplik";"-";100
+"null";;" - Diğerleri:";" ";
+"null";;" - - Gipe iplikler ";;
+"null";"5606.00.91.00.11";" - - - Nep iplikler";"-";100
+"null";"5606.00.91.00.19";" - - - Diğerleri";"-";100
+"null";"5606.00.99.00.00";" - - Diğerleri ";"-";100
+"null";;;" ";
+"null";"56.07";"Sicimler, kordonlar, ip ve halatlar (örülmüş olsun olmasın) (kauçuk";" ";
+"null";;"veya plastik emdirilmiş, sıvanmış veya kaplanmış olsun olmasın):";" ";
+"null";;" - Sisalden veya Agave cinsi dokumaya elverişli diğer liflerden:";" ";
+"null";"5607.21";" - - Biçer-bağlar ipleri";" ";
+"null";"5607.21.00.00.11";" - - - Tarım makinaları için olanlar ";"-";30
+"null";"5607.21.00.00.19";" - - - Diğerleri ";"-";30
+"null";"5607.29.00.00.00";" - - Diğerleri";"-";60
+"null";;" - Polietilen veya polipropilenden:";" ";
+"null";"5607.41.00.00.00";" - - Biçer -bağlar ipleri ";"-";30
+"null";"5607.49";" - - Diğerleri:";;
+"null";;" - - - 50 000 Desiteksten fazla (5 gr/m):";;
+"null";"5607.49.11.00.00";" - - - - Örülmüş olanlar";"-";60
+"null";"5607.49.19.00.00";" - - - - Diğerleri ";"-";60
+"null";"5607.49.90.00.00";" - - - 50 000 Desiteks veya daha az (5 gr/m)";"-";60
+"null";"5607.50";" - Diğer sentetik liflerden:";" ";
+"null";;" - - Naylonlardan veya diğer poliamidlerden veya poliesterlerden:";" ";
+"null";;" - - - 50 000 Desiteksten fazla olanlar (5 gr/m) :";;
+"null";"5607.50.11.00.00";" - - - - Örülmüş";"-";60
+"null";"5607.50.19.00.00";" - - - - Diğerleri";"-";60
+"null";"5607.50.30.00.00";" - - -  50 000 Desiteks veya daha az (5 gr/m)";"-";60
+"null";"5607.50.90.00.00";" - - Diğer sentetik liflerden";"-";60
+"null";"5607.90";" - Diğerleri:";" ";
+"null";;" - - Abakadan (Manila kendiri veya Musa textilis Nee) veya diğer sert";;
+"null";;"     liflerden (yapraklardan); 53.03 pozisyonundaki jütten veya diğer bitki iç kabuk";;
+"null";;"      larından olanlar:";;
+"null";"5607.90.20.10.00";" - - - Çapı 5 mm.den yukarı olan ipler";"-";60
+"null";"5607.90.20.90.00";" - - - Diğerleri";"-";60
+"null";" ";" - - Diğerleri:";;
+"null";"5607.90.90.10.00";" - - - Çapı 5 mm.den yukarı olan ipler";"-";60
+"null";"5607.90.90.90.00";" - - - Diğerleri";"-";60
+"null";;;" ";
+"null";"56.08";"Sicim, ip veya halatdan düğümlü ağlar; dokumaya elverişli";" ";
+"null";;"maddelerden hazır balık ağları ve diğer hazır ağ ve fileler:";;
+"null";;" - Dokumaya elverişli sentetik ve suni maddelerden:";;
+"null";"5608.11";" - - Hazır balık ağları:";;
+"null";"5608.11.20.00.00";" - - - Sicim, ip ve halattan ";"-";50
+"null";"5608.11.80.00.00";" - - - Diğerleri";"-";50
+"null";"5608.19";" - - Diğerleri:";" ";
+"null";;" - - - Hazır ağ ve fileler:";" ";
+"null";;" - - - - Naylondan veya diğer poliamidlerden olanlar:";" ";
+"null";"5608.19.11.00.00";" - - - - - Sicim, ip ve halattan";"-";75
+"null";"5608.19.19.00.00";" - - - - - Diğerleri";"-";75
+"null";"5608.19.30.00.00";" - - - - Diğerleri ";"-";75
+"null";"5608.19.90.00.00";" - - - Diğerleri ";"-";75
+"null";"5608.90.00.00.00";" - Diğerleri ";"-";75
+"null";;;" ";
+"null";"5609.00.00.00.00";"Tarifenin başka yerinde yer almayan veya belirtilmeyen, 54.04 veya";" ";
+"null";;"54.05 pozisyonlarındaki iplikten, şeritten veya benzerIerinden,";" ";
+"null";;"sicimIerden, kordonlardan, iplerden veya halatlardan eşya ";"-";75

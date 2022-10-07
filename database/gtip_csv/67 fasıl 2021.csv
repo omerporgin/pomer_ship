@@ -1,0 +1,40 @@
+﻿"null";"6701.00";"Kuşların tüylü derileri ve tüylü diğer kısımları, kalın tüyler,ince ";;
+"null";;"tüyler ve bu maddelerden mamul eşya (05.05 pozisyonuna giren ";;
+"null";;"eşya ile işlenmiş kalem tüyler ve uçlar hariç)";;
+"null";"6701.00.00.00.11";"- Kuşların tüylü derileri ve tüylü diğer kısımları";"-";100
+"null";"6701.00.00.00.12";"- Kalın veya ince tüyler";"-";100
+"null";"6701.00.00.00.13";"- Bunlardan mamul eşya";"-";100
+"null";;;" ";
+"null";"67.02";"Yapma çicekler, yapraklı dallar, meyvalar ve bunların aksamı; ";" ";
+"null";;"yapma çiçekler, yapraklı dallar ve meyvalardan mamul eşya:";" ";
+"null";"6702.10";" - Plastikten olanlar";" ";
+"null";"6702.10.00.00.11";" - - Yapma çiçekler, yapraklı dallar, meyvalar";"-";100
+"null";"6702.10.00.00.12";" - - Yapma çiçekler, yapraklı dallar, meyvalardan mamul eşya";"-";100
+"null";"6702.10.00.00.15";" - - Aksamı";"-";100
+"null";"6702.90";" - Diğer maddelerden olanlar";" ";
+"null";"6702.90.00.00.11";" - - Yapma çiçekler, yapraklı dallar, meyvalar";"-";100
+"null";"6702.90.00.00.12";" - - Yapma çiçekler, yapraklı dallar, meyvalardan mamul eşya";"-";100
+"null";"6702.90.00.00.15";" - - Aksamı";"-";100
+"null";;;" ";
+"null";"6703.00";"İnsan saçı (kök uçları bir tarafa getirilerek birbirine paralel şekil-";" ";
+"null";;"de tertiplenmiş, inceltilmiş, beyazlatılmış veya diğer surette hazır-";;
+"null";;"lanmış); peruk veya benzeri eşya imalinde kullanılmak üzere";;
+"null";;"hazırlanmış yün,  diğer hayvan kılları veya dokumaya elverişli ";;
+"null";;"diğer maddeler";;
+"null";"6703.00.00.00.11";"- Sadece kök uçları bir araya getirilerek birbirine paralel şekilde ";;
+"null";" ";"   tertiplenmiş insan saçları";"-";100
+"null";"6703.00.00.00.19";"- Diğerleri";"-";100
+"null";;;;
+"null";"67.04";"İnsan saçından, hayvan kıllarından veya dokumaya elverişli diğer";;
+"null";;"maddelerden peruklar, sakallar, kaşlar, kirpikler, perçemler ve";;
+"null";;"benzerleri; tarifenin başka yerinde belirtilmeyen veya yer alma-";;
+"null";;"yan insan saçından diğer eşya:";;
+"null";;" - Dokumaya elverişli sentetik maddelerden:";;
+"null";"6704.11.00.00.00";" - - Peruklar";"-";100
+"null";"6704.19.00.00.00";" - - Diğerleri";"-";100
+"null";"6704.20";" - İnsan saçından";" ";
+"null";"6704.20.00.00.11";" - - Peruklar";"-";100
+"null";"6704.20.00.00.19";" - - Diğerleri";"-";100
+"null";"6704.90";" - Diğer maddelerden";" ";
+"null";"6704.90.00.00.11";" - - Peruklar";"-";100
+"null";"6704.90.00.00.19";" - - Diğerleri";"-";100

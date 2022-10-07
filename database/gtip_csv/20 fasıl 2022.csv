@@ -1,0 +1,731 @@
+﻿"null";"20.01";"Sebzeler, meyvalar, sert kabuklu meyvalar ve yenilen diğer bitki";;
+"null";;"parçaları (sirke veya asetik asitle hazırlanmış veya konserve ";;
+"null";;"edilmiş) :";;
+"null";"2001.10.00.00.00";" - Hıyarlar ve kornişonlar";"Kg/net eda";50
+"null";"2001.90";" - Diğerleri:";;
+"null";"2001.90.10.00.00";" - - Mango çetnisi";"-";50
+"null";"2001.90.20.00.00";" - - Capsicum cinsi biberler (tatlı veya dolmalık biberler hariç)";"-";50
+"null";"2001.90.30.00.00";" - - Tatlı mısır (Zea mays var. Saccharata)";"-";75
+"null";"2001.90.40.00.00";" - - Hint patatesi, tatlı patates ve ağırlık olarak % 5 veya daha fazla";;
+"null";;"      nişasta içeren yenilen benzeri diğer bitki parçaları";"-";75
+"null";"2001.90.50.00.00";" - - Mantarlar";"-";50
+"null";;" - - Zeytinler";;" "
+"null";;" - - - Siyah zeytin";;
+"null";"2001.90.65.00.13";" - - - - Net ağırlığı 1 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2001.90.65.00.14";" - - - - Net ağırlığı 1 kg. geçen fakat 2 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2001.90.65.00.15";" - - - - Net ağırlığı 2 kg. geçen fakat 5 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2001.90.65.00.19";" - - - - Diğerleri";"-";50
+"null";;" - - - Yeşil zeytin";;
+"null";"2001.90.65.00.23";" - - - - Net ağırlığı 1 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2001.90.65.00.24";" - - - - Net ağırlığı 1 kg. geçen fakat 2 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2001.90.65.00.25";" - - - - Net ağırlığı 2 kg. geçen fakat 5 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2001.90.65.00.29";" - - - - Diğerleri";"-";50
+"null";"2001.90.70.00.00";" - - Tatlı biberler";"-";50
+"null";;" - - Tropikal meyvalar ve sert kabuklu tropikal meyvalar; Palm meyvesi içi:";;
+"null";"2001.90.92.00.11";" - - - Palm meyvesi içi";"-";50
+"null";"2001.90.92.00.19";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri";;
+"null";"2001.90.97.00.11";" - - - Salata pancarı (Beta vulgaris var.candiva)";"-";50
+"null";"2001.90.97.00.12";" - - - Kırmızı lahana";"-";50
+"null";"2001.90.97.00.13";" - - - Diğer meyvalar ve sert kabuklu meyvalar";"-";50
+"null";"2001.90.97.00.14";" - - - Soğanlar";"-";50
+"null";"2001.90.97.00.18";" - - - Diğer sebzeler ve yenilen diğer bitki parçaları";"-";50
+"null";;;;
+"null";"20.02";"Domatesler (sirke veya asetik asitten başka usullerle hazırlanmış veya";;
+"null";;"konserve edilmiş) :";;
+"null";"2002.10";" - Domatesler (tüm veya parça halinde):";;
+"null";"2002.10.10.00.00";" - - Kabuğu soyulmuş domatesler";"-";151
+"null";"2002.10.90.00.00";" - - Diğerleri";"-";151
+"null";"2002.90";" - Diğerleri:";;
+"null";;" - - Ağırlık itibariyle % 12'den az kuru madde içerenler :";;
+"null";"2002.90.11.00.00";" - - - Net muhtevası 1 kg.ı geçen hazır ambalajlarda olanlar";"-";151
+"null";"2002.90.19.00.00";" - - -  Net muhtevası 1 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";151
+"null";;" - - Ağırlık itibariyle % 12 veya daha fazla, fakat % 30 veya daha";;
+"null";;"     az kuru madde içerenler :";;
+"null";"2002.90.31.00.00";" - - - Net muhtevası 1 kg.ı geçen hazır ambalajlarda olanlar";"-";151
+"null";"2002.90.39.00.00";" - - - Net muhtevası 1 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";151
+"null";;" - - Ağırlık itibariyle % 30'dan fazla kuru madde içerenler :";;
+"null";"2002.90.91.00.00";" - - - Net muhtevası 1 kg.ı geçen hazır ambalajlarda olanlar";"-";151
+"null";"2002.90.99.00.00";" - - - Net muhtevası 1 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";151
+"null";;;;
+"null";"20.03";"Mantarlar ve domalan (sirke veya asetik asitten başka usullerle";;
+"null";;"hazırlanmış veya konserve edilmiş):";;
+"null";"2003.10";" - Agaricus cinsi mantarlar:";;
+"null";"2003.10.20.00.00";" - -  Geçici olarak konserve edilmiş, tamamen pişirilmiş olanlar";"Kg/net eda";50
+"null";"2003.10.30.00.00";" - -  Diğerleri";"Kg/net eda";50
+"null";"2003.90";" - Diğerleri:";;
+"null";"2003.90.10.00.00";" - - Domalan";"-";50
+"null";"2003.90.90.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"20.04";"Diğer sebzeler (sirke veya asetik asitten başka usullerle hazırlan -";;
+"null";;"mış  veya konserve edilmiş, dondurulmuş) (20.06 pozisyonundaki";;
+"null";;"ürünler hariç ) :";;
+"null";"2004.10";" - Patatesler:";;
+"null";"2004.10.10.00.00";" - - Sadece pişirilmiş";"-";25
+"null";;" - - Diğerleri:";;
+"null";;" - - - Un, ezme veya flokon halinde:";;
+"null";"2004.10.91.10.00";" - - - - Un ve ezme halindeki müstahzarlar";"-";60
+"null";"2004.10.91.20.00";" - - - - Flokon halindeki müstahzarlar";"-";75
+"null";"2004.10.99.00.00";" - - -  Diğerleri";"-";50
+"null";"2004.90";" - Diğer sebzeler ve sebze karışımları:";;
+"null";"2004.90.10.00.00";" - - Tatlı mısır (zea mays var. Saccharata)";"-";75
+"null";;" - - Turşuluk lahana, kebereler ve zeytinler ";;" "
+"null";"2004.90.30.00.11";" - - - Turşuluk lahana";"-";50
+"null";"2004.90.30.00.12";" - - - Kebereler";"-";50
+"null";;" - - - Siyah zeytin";;
+"null";"2004.90.30.00.15";" - - - - Net ağırlığı 1 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2004.90.30.00.16";" - - - - Net ağırlığı 1 kg. geçen fakat 2 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2004.90.30.00.17";" - - - - Net ağırlığı 2 kg. geçen fakat 5 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2004.90.30.00.19";" - - - - Diğerleri";"-";50
+"null";;" - - - Yeşil zeytin";;
+"null";"2004.90.30.00.25";" - - - - Net ağırlığı 1 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2004.90.30.00.26";" - - - - Net ağırlığı 1 kg. geçen fakat 2 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2004.90.30.00.27";" - - - - Net ağırlığı 2 kg. geçen fakat 5 kg. geçmeyen hazır ambalajda olanlar ";"-";50
+"null";"2004.90.30.00.29";" - - - - Diğerleri";"-";50
+"null";;" - - Bezelye (Pisum sativum) ve taze fasulyeler (Phaseolus türü)";;" "
+"null";"2004.90.50.00.11";" - - - Bezelye";"-";50
+"null";"2004.90.50.00.12";" - - - Taze fasulyeler ";"-";50
+"null";;" - - Diğerleri (karışımlar dahil):";;
+"null";"2004.90.91.00.00";" - - - Soğanlar (sadece pişirilmiş)";"-";25
+"null";;" - - - Diğerleri";;" "
+"null";"2004.90.98.00.26";" - - - - Sebze karışımları";"-";50
+"null";"2004.90.98.00.28";" - - - - Diğerleri";"-";50
+"null";;;;
+"null";"20.05";"Diğer sebzeler (sirke veya asetik asitten başka usullerle hazır -";;
+"null";;"lanmış veya  konserve edilmiş ,dondurulmamış) (20.06 pozis-";;
+"null";;"yonundaki ürünler hariç ) :";;
+"null";"2005.10.00.00.00";" - Homojenize sebzeler";"-";50
+"null";"2005.20";" - Patates :";;
+"null";;" - - Un, ezme veya flokon halinde:";;
+"null";"2005.20.10.10.00";" - - - Un ve ezme halindeki müstahzarlar";"-";60
+"null";"2005.20.10.20.00";" - - - Flokon halindeki müstahzarlar";"-";75
+"null";;" - - Diğerleri :";;
+"null";"2005.20.20.00.00";" - - - İnce dilimler halinde, kızartılmış veya fırında pişirilmiş (tuzlanmış ";;
+"null";;"        olsun olmasın  veya lezzet ve çeşni verici maddeler ihtiva etsin ";;
+"null";;"        etmesin) (hava almayan kaplarda, hemen tüketilmeye hazır halde)";"-";50
+"null";"2005.20.80.00.00";" - - - Diğerleri";"-";50
+"null";"2005.40";" - Bezelye (Pisum sativum):";;
+"null";"2005.40.00.10.00";" - - Esası bezelye unu olan müstahzarlar";"-";60
+"null";"2005.40.00.90.00";" - - Diğerleri";"-";50
+"null";;" - Fasulye (Vigna spp., Phaseolus spp.):";;
+"null";"2005.51.00.00.00";" - - Fasulye (kabuksuz)";"-";50
+"null";"2005.59";" - - Diğerleri:";;
+"null";"2005.59.00.10.00";" - - - Esası fasulye unu olan müstahzarlar";"-";60
+"null";"2005.59.00.90.00";" - - - Diğerleri";"-";50
+"null";"2005.60.00.00.00";" - Kuşkonmaz";"-";50
+"null";"2005.70";" - Zeytinler :";;
+"null";;" - - Siyah zeytin";;
+"null";"2005.70.00.00.13";" - - - Net ağırlığı 1 kg. geçmeyen hazır ambalajda olanlar ";"Kg-net eda";50
+"null";"2005.70.00.00.14";" - - - Net ağırlığı 1 kg. geçen fakat 2 kg. geçmeyen hazır ambalajda olanlar ";"Kg-net eda";50
+"null";"2005.70.00.00.15";" - - - Net ağırlığı 2 kg. geçen fakat 5 kg. geçmeyen hazır ambalajda olanlar ";"Kg-net eda";50
+"null";"2005.70.00.00.19";" - - - Diğerleri";"Kg-net eda";50
+"null";;" - - Yeşil zeytin";;
+"null";"2005.70.00.00.23";" - - - Net ağırlığı 1 kg. geçmeyen hazır ambalajda olanlar ";"Kg-net eda";50
+"null";"2005.70.00.00.24";" - - - Net ağırlığı 1 kg. geçen fakat 2 kg. geçmeyen hazır ambalajda olanlar ";"Kg-net eda";50
+"null";"2005.70.00.00.25";" - - - Net ağırlığı 2 kg. geçen fakat 5 kg. geçmeyen hazır ambalajda olanlar ";"Kg-net eda";50
+"null";"2005.70.00.00.29";" - - - Diğerleri";"Kg-net eda";50
+"null";"2005.80.00.00.00";" - Tatlı mısır (Zea mays var. Saccharata)";"-";75
+"null";;" - Diğer sebzeler ve sebze karışımları:";;
+"null";"2005.91.00.00.00";" - - Bambu filizi";"-";50
+"null";"2005.99";" - - Diğerleri:";;
+"null";"2005.99.10.00.00";" - - - ""Capsicum""cinsi meyvalar (tatlı biberler ve dolmalık biber hariç)";"-";50
+"null";"2005.99.20.00.00";" - - - Kebereler";"-";50
+"null";"2005.99.30.00.00";" - - - Enginarlar";"-";50
+"null";;" - - - Sebze karışımları";;
+"null";"2005.99.50.00.11";" - - - - Havuç ve fasulye karışımları ";"-";50
+"null";"2005.99.50.00.19";" - - - - Diğerleri";"-";50
+"null";"2005.99.60.00.00";" - - - Lahana turşusu";"-";50
+"null";"2005.99.80.00.00";" - - - Diğerleri";"-";50
+"null";;;;
+"null";"2006.00";"Sebzeler, meyvalar, sert kabuklu meyvalar, meyva kabukları ve";;
+"null";;"diğer bitki parçaları (şekerle konserve edilmiş) (suyu alınmış, üstü";;
+"null";;"şekerle kaplanmış veya kristalleşmiş):";;
+"null";"2006.00.10.00.00";" - Zencefil";"-";75
+"null";;" -  Diğerleri:";;
+"null";;" - -  Şeker oranı ağırlık itibariyle % 13'ü geçenler:";;
+"null";"2006.00.31.00.00";" - - - Kirazlar (vişne dahil)";"-";75
+"null";"2006.00.35.00.00";" - - - Tropikal meyvalar ve sert kabuklu tropikal meyvalar";"-";75
+"null";"2006.00.38.00.00";" - - - Diğerleri";"-";75
+"null";;" - - Diğerleri :";;
+"null";"2006.00.91.00.00";" - - - Tropikal meyvalar ve sert kabuklu tropikal meyvalar";"-";75
+"null";"2006.00.99.00.00";" - - - Diğerleri ";"-";75
+"null";;;;
+"null";"20.07";"Reçeller, jöleler, marmelatlar, meyva veya sert kabuklu meyva";;
+"null";;"püresi, meyva veya sert kabuklu meyva pastları (pişirilerek hazır -";;
+"null";;"lanmış) (ilave şeker veya diğer tatlandırıcı maddeleri içersin ";;
+"null";;"içermesin) :";;
+"null";"2007.10";" - Homojenize müstahzarlar:";;
+"null";"2007.10.10.00.00";" - - Şeker oranı ağırlık itibariyle % 13'ü geçenler";"-";75
+"null";;" - - Diğerleri :";;
+"null";"2007.10.91.00.00";" - - - Tropikal meyvalar ";"-";75
+"null";"2007.10.99.00.00";" - - - Diğerleri";"-";75
+"null";;" - Diğerleri:";;
+"null";"2007.91";" - - Turunçgiller:";;
+"null";;" - - - Şeker oranı ağırlık itibariyle % 30'u geçenler";;" "
+"null";"2007.91.10.00.11";" - - - - Turunçgil reçelleri";"-";75
+"null";"2007.91.10.00.12";" - - - - Turunçgil marmelatları";"-";75
+"null";"2007.91.10.00.19";" - - - - Diğerleri";"-";75
+"null";"2007.91.30.00.00";" - - - Şeker oranı ağırlık itibariyle % 13'ü geçen,fakat % 30'u geçmeyenler";"-";75
+"null";;" - - - Diğerleri";;
+"null";"2007.91.90.00.11";" - - - - Diabetik olanlar";"-";75
+"null";"2007.91.90.00.19";" - - - - Diğerleri";"-";75
+"null";"2007.99";" - - Diğerleri:";;
+"null";;" - - - Şeker oranı ağırlık itibariyle % 30'u geçenler:";;
+"null";"2007.99.10.00.00";" - - - - Sınai işlemler için net muhtevası 100 kg.ı geçen hazır ambalaj -";;
+"null";;"           larda erik püresi ve pastları";"-";75
+"null";;" - - - - Kestane püresi ve pastları";;" "
+"null";"2007.99.20.00.11";" - - - - - Kestane püresi ";"-";75
+"null";"2007.99.20.00.12";" - - - - - Kestane pastları";"-";75
+"null";;" - - - - Diğerleri :";;
+"null";"2007.99.31.00.00";" - - - - - Kirazdan (vişne dahil) olanlar";"-";75
+"null";"2007.99.33.00.00";" - - - - - Çilekden olanlar";"-";75
+"null";"2007.99.35.00.00";" - - - - - Ahudududan olanlar";"-";75
+"null";;" - - - - - Diğerleri";;"  "
+"null";"2007.99.39.00.11";" - - - - - - Pekmezler";"-";75
+"null";"2007.99.39.00.19";" - - - - - - Diğerleri";"-";75
+"null";;" - - - Şeker oranı ağırlık itibariyle % 13'ü geçen fakat % 30'u geçmeyenler :";;
+"null";"2007.99.50.00.11";" - - - - Elma püresi (komposto dahil)";"-";75
+"null";"2007.99.50.00.19";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri :";;
+"null";"2007.99.93.00.00";" - - - - Tropikal meyvalar ve sert kabuklu tropikal meyvalardan olanlar";"-";75
+"null";;" - - - - Diğerleri :";;" "
+"null";"2007.99.97.00.13";" - - - - - Diabetik olanlar";"-";75
+"null";"2007.99.97.00.14";" - - - - - Fındık püresi (füre) ";"-";75
+"null";"2007.99.97.00.15";" - - - - - Elma püresi (komposto dahil)";"-";75
+"null";"2007.99.97.00.16";" - - - - - Kayısı püresi ";"-";75
+"null";"2007.99.97.00.17";" - - - - - Erik püresi";"-";75
+"null";"2007.99.97.00.18";" - - - - - Diğerleri";"-";75
+"null";;;;
+"null";"20.08";"Tarifenin başka yerinde belirtilmeyen veya yer almayan";;
+"null";;"meyvalar, sert kabuklu meyvalar ve yenilen diğer bitki parçaları";;
+"null";;"(başka surette hazırlanmış veya konserve edilmiş) (ilave şeker";;
+"null";;"veya diğer tatlandırıcı maddeler veya alkol katılmış olsun";;
+"null";;"olmasın) :";;
+"null";;" - Sert kabuklu meyvalar, yer fıstığı ve diğer tohumlar (birbir -";;
+"null";;"    leriyle karışık olsun olmasın):";;
+"null";"2008.11";" - - Yer fıstığı:";;
+"null";"2008.11.10.00.00";" - - - Yer fıstığı ezmesi (hamur halinde)";"-";75
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar:";;
+"null";"2008.11.91.00.10";" - - - - - İnce zarı alınmış olanlar";"-";75
+"null";"2008.11.91.00.90";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar :";;
+"null";;" - - - - - Kavrulmuş:";;
+"null";"2008.11.96.00.10";" - - - - - - İnce zarı alınmış olanlar";"-";75
+"null";"2008.11.96.00.90";" - - - - - - Diğerleri";"-";75
+"null";;" - - - - - Diğerleri:";;
+"null";"2008.11.98.00.10";" - - - - - - İnce zarı alınmış olanlar";"-";75
+"null";"2008.11.98.00.90";" - - - - - - Diğerleri";"-";75
+"null";"2008.19";" - - Diğerleri (karışımlar dahil):";;
+"null";;" - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar :";;
+"null";"2008.19.12.00.00";" - - - - Sert kabuklu tropikal meyvalar; ağırlık itibariyle % 50 veya daha";;
+"null";;"          fazla  sert kabuklu tropikal meyva içeren karışımlar";"-";75
+"null";;" - - - - Diğerleri :";;
+"null";" ";" - - - - - Kavrulmuş bademler ve Antep Fıstıkları";" ";" "
+"null";"2008.19.13.00.11";" - - - - - - Bademler ";"-";75
+"null";"2008.19.13.00.12";" - - - - - - Antep fıstıkları";"-";75
+"null";;" - - - - - Diğerleri";;" "
+"null";"2008.19.19.00.11";" - - - - - - Kıyılmış fındık (beyazlatılmış, kavrulmuş kabuksuz fındıktan ";;
+"null";;"              mamul )";"-";75
+"null";"2008.19.19.00.12";" - - - - - - Dilinmiş fındık (beyazlatılmış, kavrulmuş kabuksuz fındıktan ";;
+"null";;"              mamul )";"-";75
+"null";"2008.19.19.00.13";" - - - - - - Kavrulmuş, bütün haldeki kabuksuz fındık";"-";75
+"null";"2008.19.19.00.14";" - - - - - - Kavrulmuş, kabuklu  fındık (tuzlu ve tuzsuz)";"-";75
+"null";"2008.19.19.00.15";" - - - - - - Yağda kavrulmuş tuzlu kabuksuz fındık";"-";75
+"null";"2008.19.19.00.16";" - - - - - - Beyazlatılmış kabuksuz fındık";"-";75
+"null";"2008.19.19.00.17";" - - - - - - Diğer kavrulmuş kabuksuz fındık ";"-";75
+"null";"2008.19.19.00.18";" - - - - - - Kavrulmuş, bütün haldeki kabuksuz fındık (çıkıntısı ayrılmamış)";"-";75
+"null";"2008.19.19.00.21";" - - - - - - Beyazlatılmış ve kavrulmuş fındıkların çıkıntıları";"-";75
+"null";"2008.19.19.00.29";" - - - - - - Diğer işlenmiş kabuksuz fındıklar";"-";75
+"null";"2008.19.19.00.31";" - - - - - - Leblebi";"-";75
+"null";"2008.19.19.00.32";" - - - - - - Fındık krokan";"-";75
+"null";"2008.19.19.00.39";" - - - - - - Diğer krokanlar";"-";75
+"null";"2008.19.19.00.41";" - - - - - - Tahin";"-";75
+"null";"2008.19.19.00.49";" - - - - - - Diğerleri";"-";75
+"null";;" - - - Net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar :";;
+"null";"2008.19.92.00.00";" - - - - Sert kabuklu tropikal meyvalar; ağırlık itibariyle % 50 veya daha";;
+"null";;"          fazla  sert kabuklu tropikal meyva içeren karışımlar";"-";75
+"null";;" - - - - Diğerleri :";;
+"null";;" - - - - - Kavrulmuş sert kabuklu meyvalar :";;
+"null";" ";" - - - - - - Bademler ve Antep fıstıkları";" ";" "
+"null";"2008.19.93.00.11";" - - - - - - - Bademler ";"-";75
+"null";"2008.19.93.00.12";" - - - - - - - Antep fıstıkları";"-";75
+"null";;" - - - - - - Diğerleri:";;" "
+"null";"2008.19.95.00.11";" - - - - - - - Kıyılmış fındık (beyazlatılmış, kavrulmuş kabuksuz fındıktan ";;
+"null";;"              mamul )";"-";75
+"null";"2008.19.95.00.12";" - - - - - - - Dilinmiş fındık (beyazlatılmış, kavrulmuş kabuksuz fındıktan ";;
+"null";;"              mamul )";"-";75
+"null";"2008.19.95.00.13";" - - - - - - - Kavrulmuş, bütün haldeki kabuksuz fındık";"-";75
+"null";"2008.19.95.00.14";" - - - - - - - Kavrulmuş, kabuklu  fındık (tuzlu ve tuzsuz)";"-";75
+"null";"2008.19.95.00.15";" - - - - - - - Yağda kavrulmuş tuzlu kabuksuz fındık";"-";75
+"null";"2008.19.95.00.16";" - - - - - - - Beyazlatılmış kabuksuz fındık";"-";75
+"null";"2008.19.95.00.17";" - - - - - - - Diğer kavrulmuş kabuksuz fındık ";"-";75
+"null";"2008.19.95.00.18";" - - - - - - - Kavrulmuş, bütün haldeki kabuksuz fındık (çıkıntısı ayrılmamış)";"-";75
+"null";"2008.19.95.00.21";" - - - - - - - Beyazlatılmış ve kavrulmuş fındıkların çıkıntıları";"-";75
+"null";"2008.19.95.00.29";" - - - - - - - Diğer işlenmiş kabuksuz fındıklar";"-";75
+"null";"2008.19.95.00.32";" - - - - - - - Fındık krokan";"-";75
+"null";"2008.19.95.00.39";" - - - - - - - Diğer krokanlar";"-";75
+"null";"2008.19.95.00.49";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - Diğerleri:";;
+"null";"2008.19.99.00.11";" - - - - - - Leblebi";"-";75
+"null";"2008.19.99.00.12";" - - - - - - Tahin";"-";75
+"null";"2008.19.99.00.19";" - - - - - - Diğerleri";"-";75
+"null";"2008.20";" - Ananas:";;
+"null";;" - - İlave alkol içerenler:";;
+"null";;" - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar:";;
+"null";"2008.20.11.00.00";" - - - - Şeker oranı ağırlık itibariyle % 17'yi geçenler";"-";75
+"null";"2008.20.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar:";;
+"null";"2008.20.31.00.00";" - - - - Şeker oranı ağırlık itibariyle % 19'u geçenler";"-";75
+"null";"2008.20.39.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - İlave alkol içermeyenler:";;
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçen ambalajlarda";;
+"null";;"        olanlar:";;
+"null";"2008.20.51.00.00";" - - - - Şeker oranı ağırlık itibariyle % 17'yi geçenler";"-";75
+"null";"2008.20.59.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - -  İlave şeker içeren ve net muhtevası 1 kg.ı geçmeyen ambalajlarda";;
+"null";;"         olanlar:";;
+"null";"2008.20.71.00.00";" - - - - Şeker oranı ağırlık itibariyle % 19'u geçenler";"-";75
+"null";"2008.20.79.00.00";" - - - - Diğerleri";"-";75
+"null";"2008.20.90.00.00";" - - - İlave şeker içermeyenler";"-";75
+"null";"2008.30";" - Turunçgiller:";;
+"null";;" - - İlave alkol içerenler:";;
+"null";;" - - - Şeker oranı ağırlık itibariyle % 9'u geçenler:";;
+"null";"2008.30.11.00.00";" - - - - Alkol derecesi % 11,85 'i geçmeyenler";"-";75
+"null";"2008.30.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri:";;
+"null";"2008.30.31.00.00";" - - - - Alkol derecesi % 11,85' i geçmeyenler";"-";75
+"null";"2008.30.39.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - İlave alkol içermeyenler:";;
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçen ambalajlarda";;
+"null";;"        olanlar:";;
+"null";"2008.30.51.00.00";" - - - - Greyfurt dilimleri";"-";75
+"null";"2008.30.55.00.00";" - - - - Mandarinler (tanjerin ve satsuma dahil); klemantinler, vilkingler";;
+"null";;"           ve diğer benzeri turunçgil melezleri";"-";75
+"null";"2008.30.59.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçmeyen ambalajlarda";;
+"null";;"       olanlar:";;
+"null";"2008.30.71.00.00";" - - - - Greyfurt dilimleri";"-";75
+"null";"2008.30.75.00.00";" - - - - Mandarinler (tanjerin ve satsuma dahil); klemantinler, vilkingler";;
+"null";;"          ve diğer benzeri turunçgil melezleri";"-";75
+"null";"2008.30.79.00.00";" - - - - Diğerleri";"-";75
+"null";"2008.30.90.00.00";" - - - İlave şeker içermeyenler";"-";75
+"null";"2008.40";" - Armutlar:";;
+"null";;" - - İlave alkol içerenler :";;
+"null";;" - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar:";;
+"null";;" - - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler:";;
+"null";"2008.40.11.00.00";" - - - - - Alkol derecesi % 11,85' i geçmeyenler";"-";75
+"null";"2008.40.19.00.00";" - - - - - Diğerleri ";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";"2008.40.21.00.00";" - - - - - Alkol derecesi % 11,85' i geçmeyenler";"-";75
+"null";"2008.40.29.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - Net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar:";;
+"null";"2008.40.31.00.00";" - - - - Şeker oranı ağırlık itibariyle % 15'i geçenler";"-";75
+"null";"2008.40.39.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - İlave alkol içermeyenler:";;
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçen ambalajlarda";;
+"null";;"        olanlar:";;
+"null";"2008.40.51.00.00";" - - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler";"-";75
+"null";"2008.40.59.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçmeyen ambalajlarda";;
+"null";;"        olanlar:";;
+"null";"2008.40.71.00.00";" - - - - Şeker oranı ağırlık itibariyle % 15'i geçenler";"-";75
+"null";"2008.40.79.00.00";" - - - - Diğerleri";"-";75
+"null";"2008.40.90.00.00";" - - - İlave şeker içermeyenler";"-";75
+"null";"2008.50";" - Kayısılar (zerdali dahil):";;
+"null";;" - - İlave alkol içerenler:";;
+"null";;" - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar:";;
+"null";;" - - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler:";;
+"null";"2008.50.11.00.00";" - - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.50.19.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";"2008.50.31.00.00";" - - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.50.39.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - Net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar:";;
+"null";"2008.50.51.00.00";" - - - - Şeker oranı ağırlık itibariyle % 15'i geçenler";"-";75
+"null";"2008.50.59.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - İlave alkol içermeyenler:";;
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçen ambalajlarda ";;
+"null";;"        olanlar:";;
+"null";"2008.50.61.00.00";" - - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler";"-";75
+"null";"2008.50.69.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçmeyen ambalajlarda ";;
+"null";;"        olanlar:";;
+"null";"2008.50.71.00.00";" - - - - Şeker oranı ağırlık itibariyle % 15'i geçenler";"-";75
+"null";"2008.50.79.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - İlave şeker içermeyenler, ambalajlı :";;
+"null";"2008.50.92.00.00";" - - - - Net muhtevası 5 kg. veya daha fazla  olanlar";"-";75
+"null";"2008.50.98.00.00";" - - - - Net muhtevası 5 kg.dan az olanlar";"-";75
+"null";"2008.60";" - Kirazlar (vişne dahil):";;
+"null";;" - - İlave alkol içerenler:";;
+"null";;" - - - Şeker oranı ağırlık itibariyle % 9'u geçenler:";;
+"null";"2008.60.11.00.00";" - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.60.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri:";;
+"null";"2008.60.31.00.00";" - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.60.39.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - İlave alkol içermeyenler:";;
+"null";;" - - - İlave şeker içerenler:";;
+"null";"2008.60.50.00.00";" - - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar";"-";75
+"null";"2008.60.60.00.00";" - - - - Net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar";"-";75
+"null";;" - - - İlave şeker içermeyenler:";;
+"null";"2008.60.70.00.00";" - - - - Net muhtevası 4,5 kg. veya daha fazla ambalajlarda olanlar";"-";75
+"null";"2008.60.90.00.00";" - - - - Net muhtevası 4,5 kg.dan az ambalajlarda olanlar";"-";75
+"null";"2008.70";" - Şeftaliler (nektarinler dahil):";;
+"null";;" - - İlave alkol içerenler:";;
+"null";;" - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar :";;
+"null";;" - - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler:";;
+"null";"2008.70.11.00.00";" - - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.70.19.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";"2008.70.31.00.00";" - - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.70.39.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - Net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar:";;
+"null";"2008.70.51.00.00";" - - - - Şeker oranı ağırlık itibariyle % 15'i geçenler";"-";75
+"null";"2008.70.59.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - İlave alkol içermeyenler:";;
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçen ambalajlarda";;
+"null";;"        olanlar:";;
+"null";"2008.70.61.00.00";" - - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler";"-";75
+"null";"2008.70.69.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçmeyen";;
+"null";;"        ambalajlarda olanlar:";;
+"null";"2008.70.71.00.00";" - - - - Şeker oranı ağırlık itibariyle % 15'i geçenler";"-";75
+"null";"2008.70.79.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - İlave şeker içermeyenler, ambalajlı :";;
+"null";"2008.70.92.00.00";" - - - - Net muhtevası 5 kg. veya daha fazla  olanlar";"-";75
+"null";"2008.70.98.00.00";" - - - - Net muhtevası 5 kg.dan az  olanlar";"-";75
+"null";"2008.80";" - Çilekler :";;
+"null";;" - - İlave alkol içerenler:";;
+"null";;" - - - Şeker oranı ağırlık itibariyle % 9'u geçenler:";;
+"null";"2008.80.11.00.00";" - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.80.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri:";;
+"null";"2008.80.31.00.00";" - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.80.39.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - İlave alkol içermeyenler:";;
+"null";"2008.80.50.00.00";" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçen ambalajlarda olanlar";"-";75
+"null";"2008.80.70.00.00";" - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçmeyen";;
+"null";;"        ambalajlarda olanlar";"-";75
+"null";"2008.80.90.00.00";" - - - İlave şeker içermeyenler";"-";75
+"null";;" - Diğerleri (2008.19 alt pozisyonu dışındaki karışımlar dahil):";;
+"null";"2008.91.00.00.00";" - - Palm meyvası içi";"-";75
+"null";"2008.93";" - - Yaban Mersini (Vaccinium macrocarpon, Vaccinium oxycoccos); ";;
+"null";;"     Kekreyemiş (Vaccinium vitis-idaea):";;
+"null";;" - - - İlave alkol içerenler:";;
+"null";;" - - - - Şeker oranı ağırlık itibariyle % 9'u geçenler:";;
+"null";"2008.93.11.00.00 ";" - - - - - Alkol derecesi % 11,85'i geçmeyenler ";"-";75
+"null";"2008.93.19.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";"2008.93.21.00.00";" - - - - - Alkol derecesi % 11,85'i geçmeyenler ";"-";75
+"null";"2008.93.29.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - İlave alkol içermeyenler:";;
+"null";"2008.93.91.00.00";" - - - - İlave şeker içeren, net muhtevası 1 kg.ı geçen ambalajlarda olanlar ";"-";75
+"null";"2008.93.93.00.00";" - - - - İlave şeker içeren, net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar ";"-";75
+"null";"2008.93.99.00.00";" - - - - İlave şeker içermeyenler";"-";75
+"null";"2008.97";" - - Karışımlar:";;
+"null";;" - - - Ağırlık itibariyle % 50 veya daha fazla  sert kabuklu tropikal meyva içeren";;
+"null";;"sert kabuklu tropikal meyva ve tropikal meyve karışımları :";;
+"null";"2008.97.03.00.00";" - - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar";"-";75
+"null";"2008.97.05.00.00";" - - - - Net muhtevası 1 kg.ı geçmeyen ambalajlarda olanlar";"-";75
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - İlave alkol içerenler:";;
+"null";;" - - - - - Şeker oranı ağırlık itibariyle % 9'u geçenler:";;
+"null";;" - - - - - - Alkol derecesi % 11,85'i geçmeyenler :";;
+"null";"2008.97.12.00.00";" - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya daha";;
+"null";;"               fazla tropikal meyva veya sert kabuklu tropikal meyva içeren";;
+"null";;"               karışımlar dahil)";"-";75
+"null";"2008.97.14.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Diğerleri :";;
+"null";"2008.97.16.00.00";" - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya daha";;
+"null";;"               fazla tropikal meyva veya sert kabuklu tropikal meyva içeren";;
+"null";;"               karışımlar dahil)";"-";75
+"null";"2008.97.18.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - Diğerleri:";;
+"null";;" - - - - - - Alkol derecesi % 11,85'i geçmeyenler :";;
+"null";"2008.97.32.00.00";" - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya daha";;
+"null";;"               fazla tropikal meyva veya sert kabuklu tropikal meyva içeren";;
+"null";;"               karışımlar dahil)";"-";75
+"null";"2008.97.34.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Diğerleri :";;
+"null";"2008.97.36.00.00";" - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya daha";;
+"null";;"               fazla tropikal meyva veya sert kabuklu tropikal meyva içeren";;
+"null";;"               karışımlar dahil)";"-";75
+"null";"2008.97.38.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - İlave alkol içermeyenler:";;
+"null";;" - - - - - İlave şeker içerenler:";;
+"null";;" - - - - - - Net muhtevası 1 kg.ı geçen ambalajlarda olanlar :";;
+"null";"2008.97.51.00.00";" - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya ";;
+"null";;"               daha fazla tropikal meyva veya sert kabuklu tropikal meyva ";;
+"null";;"               içeren karışımlar dahil)";"-";75
+"null";"2008.97.59.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Diğerleri:";;
+"null";;" - - - - - - - Ağırlık itibariyle bir cins meyvanın ağırlığı toplam meyva";;
+"null";;"              ağırlığının % 50'sinden az olan meyva karışımları :";;
+"null";"2008.97.72.00.00";" - - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya ";;
+"null";;"                 daha fazla tropikal meyva veya sert kabuklu tropikal meyva ";;
+"null";;"                 içeren karışımlar dahil)";"-";75
+"null";"2008.97.74.00.00";" - - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - - Diğerleri :";;
+"null";"2008.97.76.00.00";" - - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya ";;
+"null";;"                daha fazla tropikal meyva veya sert kabuklu tropikal meyva ";;
+"null";;"                içeren karışımlar dahil)";"-";75
+"null";"2008.97.78.00.00";" - - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - İlave şeker içermeyenler, ambalajlı :";;
+"null";;" - - - - - - Net muhtevası 5 kg. veya daha fazla  olanlar :";;
+"null";"2008.97.92.00.00";" - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya ";;
+"null";;"              daha fazla tropikal meyva veya sert kabuklu tropikal meyva ";;
+"null";;"               içeren karışımlar dahil)";"-";75
+"null";"2008.97.93.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Net muhtevası 4,5 kg.veya daha fazla fakat 5 kg.dan az olanlar:";;
+"null";"2008.97.94.00.00";" - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya ";;
+"null";;"              daha fazla tropikal meyva veya sert kabuklu tropikal meyva ";;
+"null";;"              içeren karışımlar dahil)";"-";75
+"null";"2008.97.96.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Net muhtevası 4,5 kg.dan az olanlar :";;
+"null";"2008.97.97.00.00";" - - - - - - - Tropikal meyvalardan olanlar ( ağırlık itibariyle % 50 veya ";;
+"null";;"              daha fazla tropikal meyva veya sert kabuklu tropikal meyva ";;
+"null";;"              içeren karışımlar dahil)";"-";75
+"null";"2008.97.98.00.00";" - - - - - - - Diğerleri";"-";75
+"null";"2008.99";" - - Diğerleri:";;
+"null";;" - - - İlave alkol içerenler:";;
+"null";;" - - - - Zencefil:";;
+"null";"2008.99.11.00.00";" - - - - - Alkol derecesi % 11,85'i geçmeyenler";"-";75
+"null";"2008.99.19.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Üzümler:";;
+"null";"2008.99.21.00.00";" - - - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler";"-";75
+"null";"2008.99.23.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Şeker oranı ağırlık itibariyle % 9'u geçenler:";;
+"null";;" - - - - - - Alkol derecesi % 11,85'i geçmeyenler :";;
+"null";"2008.99.24.00.00";" - - - - - - - Tropikal meyvalar";"-";75
+"null";"2008.99.28.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Diğerleri:";;
+"null";"2008.99.31.00.00";" - - - - - - - Tropikal meyvalar";"-";75
+"null";"2008.99.34.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - Diğerleri:";;
+"null";;" - - - - - - Alkol derecesi % 11,85'i geçmeyenler :";;
+"null";"2008.99.36.00.00";" - - - - - - - Tropikal meyvalar";"-";75
+"null";"2008.99.37.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Diğerleri :";;
+"null";"2008.99.38.00.00";" - - - - - - - Tropikal meyvalar";"-";75
+"null";"2008.99.40.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - İlave alkol içermeyenler:";;
+"null";;" - - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçen";;
+"null";;"          ambalajlarda olanlar:";;
+"null";"2008.99.41.00.00";" - - - - - Zencefil";"-";75
+"null";"2008.99.43.00.00";" - - - - - Üzümler";"-";75
+"null";"2008.99.45.00.00";" - - - - - Erikler";"-";75
+"null";"2008.99.48.00.00";" - - - - - Tropikal meyveler";"-";75
+"null";"2008.99.49.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - İlave şeker içeren ve net muhtevası 1 kg.ı geçmeyen";;
+"null";;"          ambalajlarda olanlar:";;
+"null";"2008.99.51.00.00";" - - - - - Zencefil";"-";75
+"null";"2008.99.63.00.00";" - - - - - Tropikal meyveler";"-";75
+"null";"2008.99.67.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - İlave şeker içermeyenler:";;
+"null";;" - - - - - Erikler, ambalajlı :";;
+"null";"2008.99.72.00.00";" - - - - - - Net muhtevası 5 kg.veya daha fazla olanlar";"-";75
+"null";"2008.99.78.00.00";" - - - - - - Net muhtevası 5 kg.dan az olanlar";"-";75
+"null";"2008.99.85.00.00";" - - - - - Mısır [tatlı mısır (Zea mays var.saccharata) hariç]";"-";75
+"null";"2008.99.91.00.00";" - - - - - Ağırlık itibariyle % 5 veya daha fazla nişasta içeren yer elması,";;
+"null";;"             tatlı patates ve benzeri yenilen bitki parçaları";"-";75
+"null";"2008.99.99.00.00";" - - - - - Diğerleri";"-";75
+"null";;;;
+"null";"20.09";"Meyva veya sert kabuklu meyva suları (üzüm şırası ve hindistan cevizi ";;
+"null";;"suyu dahil) ve sebze suları (fermente edilmemiş ve alkol katılmamış),";;
+"null";;" ilave şeker veya diğer tatlandırıcı maddeler katılmış olsun olmasın :";;
+"null";;" - Portakal suyu:";;
+"null";"2009.11";" - - Dondurulmuş:";;
+"null";;" - - - Brix değeri 67'yi geçenler:";;
+"null";"2009.11.11.00.00";" - - - - Net 100 kg. ağırlık başına kıymeti 30 Euro' yu geçmeyenler";"-";75
+"null";"2009.11.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Brix değeri 67'yi  geçmeyenler :";;
+"null";"2009.11.91.00.00";" - - - - Net 100 kg. ağırlık başına  kıymeti 30 Euro' yu geçmeyen";;
+"null";;"           ve ilave şeker oranı ağırlık itibariyle % 30' u geçenler";"-";75
+"null";"2009.11.99.00.00";" - - - - Diğerleri";"-";75
+"null";"2009.12.00.00.00";" - - Dondurulmamış, Brix değeri 20'yi geçmeyenler";"-";75
+"null";"2009.19";" - - Diğerleri:";;
+"null";;" - - -  Brix değeri 67'yi geçenler: :";;
+"null";"2009.19.11.00.00";" - - - - Net 100 kg. ağırlık başına kıymeti 30 Euro' yu geçmeyenler";"-";75
+"null";"2009.19.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - -  Brix değeri 20'yi geçen fakat 67'yi geçmeyenler :";;
+"null";"2009.19.91.00.00";" - - - - Net 100 kg. ağırlık başına  kıymeti 30 Euro' yu geçmeyen";;
+"null";;"           ve ilave şeker oranı ağırlık itibariyle % 30' u geçenler";"-";75
+"null";"2009.19.98.00.00";" - - - - Diğerleri";"-";75
+"null";;" - Greyfurt suyu; pomelo suyu:";;
+"null";"2009.21.00.00.00";" - - Brix değeri 20'yi geçmeyenler";"-";75
+"null";"2009.29";" - - Diğerleri:";;
+"null";;" - - -  Brix değeri 67'yi geçenler: :";;
+"null";"2009.29.11.00.00";" - - - - Net 100 kg. ağırlık başına kıymeti 30 Euro' yu geçmeyenler";"-";75
+"null";"2009.29.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - -  Brix değeri 20'yi geçen fakat 67'yi geçmeyenler :";;
+"null";"2009.29.91.00.00";" - - - - Net 100 kg. ağırlık başına  kıymeti 30 Euro' yu geçmeyen";;
+"null";;"           ve ilave şeker oranı ağırlık itibariyle % 30' u geçenler";"-";75
+"null";"2009.29.99.00.00";" - - - - Diğerleri";"-";75
+"null";;" - Diğer herhangi bir turunçgilin suyu:";;
+"null";"2009.31";" - - Brix değeri 20'yi geçmeyenler:";;
+"null";;" - - - Net 100 kg. ağırlık başına kıymeti 30 Euro' yu geçenler";;
+"null";"2009.31.11.00.00";" - - - - İlave şeker içerenler";"-";75
+"null";"2009.31.19.00.00";" - - - - İlave şeker içermeyenler";"-";75
+"null";;" - - - Net 100 kg. ağırlık başına kıymeti 30 Euro' yu geçmeyenler";;
+"null";;" - - - - Limon suyu :";;
+"null";"2009.31.51.00.00";" - - - - - İlave şeker içerenler";"-";75
+"null";"2009.31.59.00.00";" - - - - - İlave şeker içermeyenler";"-";75
+"null";;" - - - - Diğer turunçgil suları :";;
+"null";"2009.31.91.00.00";" - - - - - İlave şeker içerenler";"-";75
+"null";"2009.31.99.00.00";" - - - - - İlave şeker içermeyenler";"-";75
+"null";"2009.39";" - - Diğerleri:";;
+"null";;" - - - Brix değeri 67'yi geçenler:";;
+"null";"2009.39.11.00.00";" - - - - Net 100 kg. ağırlık başına kıymeti 30 Euro' yu geçmeyenler ";"-";75
+"null";"2009.39.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Brix değeri 20'yi geçen fakat 67'yi geçmeyenler:";;
+"null";;" - - - - Net 100 kg ağırlık başına kıymeti 30 Euro' yu geçenler ";;
+"null";"2009.39.31.00.00";" - - - - - İlave şeker içerenler";"-";75
+"null";"2009.39.39.00.00";" - - - - -  İlave şeker içermeyenler";"-";75
+"null";;" - - - - Net 100 kg ağırlık başına kıymeti 30 Euro' yu geçmeyenler ";;
+"null";;" - - - - - Limon suyu :";;
+"null";"2009.39.51.00.00";" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler";"-";75
+"null";"2009.39.55.00.00";" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçmeyenler";"-";75
+"null";"2009.39.59.00.00";" - - - - - -  İlave şeker içermeyenler";"-";75
+"null";;" - - - - - Diğer turunçgil suları :";;
+"null";"2009.39.91.00.00";" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler";"-";75
+"null";"2009.39.95.00.00";" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçmeyenler";"-";75
+"null";"2009.39.99.00.00";" - - - - - - İlave şeker içermeyenler";"-";75
+"null";;" -  Ananas suyu :";;
+"null";"2009.41";" - - Brix değeri 20'yi geçmeyenler:";;
+"null";"2009.41.92.00.00";" - - - İlave şeker içerenler";"-";75
+"null";"2009.41.99.00.00";" - - - İlave şeker içermeyenler";"-";75
+"null";"2009.49";" - - Diğerleri:";;
+"null";;" - - - Brix değeri 67'yi geçenler:";;
+"null";"2009.49.11.00.00";" - - - - Net 100 kg. ağırlık başına kıymeti 30 Euro' yu geçmeyenler ";"-";75
+"null";"2009.49.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Brix değeri 20'yi geçen fakat 67'yi geçmeyenler:";;
+"null";"2009.49.30.00.00";" - - - - Net  100 kg. ağırlık başına kıymeti 30 Euro' yu geçen ve ";;
+"null";;"          ilave şeker içerenler";"-";75
+"null";;" - - - -Diğerleri : ";;
+"null";"2009.49.91.00.00";" - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler";"-";75
+"null";"2009.49.93.00.00";" - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçmeyenler";"-";75
+"null";"2009.49.99.00.00";" - - - - - İlave şeker içermeyenler";"-";75
+"null";"2009.50";" - Domates suyu:";;
+"null";"2009.50.10.00.00";" - - İlave şeker içerenler";"-";75
+"null";"2009.50.90.00.00";" - - Diğerleri";"-";75
+"null";;" - Üzüm suyu (üzüm şırası dahil):";;
+"null";"2009.61";" - - Brix değeri 30'u geçmeyenler:";;
+"null";"2009.61.10.00.00";" - - - Net  100 kg ağırlık başına kıymeti 18 Euro' yu geçenler";"-";75
+"null";"2009.61.90.00.00";" - - - Net 100 kg ağırlık başına kıymeti 18 Euro' yu geçmeyenler ";"-";75
+"null";"2009.69";" - - Diğerleri:";;
+"null";;" - - - Brix değeri 67'yi geçenler:";;
+"null";"2009.69.11.00.00";" - - - - Net 100 kg ağırlık başına kıymeti 22 Euro' yu geçmeyenler";"-";75
+"null";"2009.69.19.00.00";" - - - -Diğerleri";"-";75
+"null";;" - - - Brix değeri 30'u geçen fakat 67'yi geçmeyenler:";;
+"null";;" - - - - Net  100 kg ağırlık başına kıymeti 18 Euro' yu geçenler :";;
+"null";"2009.69.51.00.00";" - - - - - Konsantre edilmiş";"-";75
+"null";"2009.69.59.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Net  100 kg ağırlık başına kıymeti 18 Euro' yu geçmeyenler :";;
+"null";" ";" - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler:";;
+"null";"2009.69.71.00.00";" - - - - - - Konsantre edilmiş";"-";75
+"null";"2009.69.79.00.00";" - - - - - - Diğerleri";"-";75
+"null";"2009.69.90.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - Elma suyu:";;
+"null";"2009.71";" - - Brix değeri 20'yi geçmeyenler:";;
+"null";"2009.71.20.00.00";" - - - İlave şeker içerenler";"-";75
+"null";"2009.71.99.00.00";" - - - İlave şeker içermeyenler";"-";75
+"null";"2009.79";" - - Diğerleri:";;
+"null";;" - - - Brix değeri 67'yi geçenler:";;
+"null";"2009.79.11.00.00";" - - - - Net 100 kg. ağırlık başına kıymeti 22 Euro'yu geçmeyenler";"-";75
+"null";"2009.79.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Brix değeri 20'yi geçenler fakat 67'yi geçmeyenler:";;
+"null";"2009.79.30.00.00";" - - - - Net 100 kg. ağırlık başına kıymeti 18 Euro' yu geçen ve ";;
+"null";;"        ilave şeker içerenler";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";"2009.79.91.00.00";" - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler";"-";75
+"null";"2009.79.98.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - Diğer herhangi bir meyvanın, sert kabuklu meyvanın veya sebzenin suyu:";;
+"null";"2009.81";" - - Yaban Mersini Suyu (Vaccinium macrocarpon, Vaccinium oxycoccos); ";;
+"null";;"     Kekreyemiş suyu (Vaccinium vitis-idaea):";;
+"null";;" - - -  Brix değeri 67'yi geçenler:";;
+"null";"2009.81.11.00.00";" - - - - Net 100 kg ağırlık başına kıymeti 30 Euro'yu geçmeyenler";"-";75
+"null";"2009.81.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Brix değeri 67'yi geçmeyenler:";;
+"null";"2009.81.31.00.00";" - - - - Net 100 kg ağırlık başına kıymeti 30 Euro'yu geçen ve";;
+"null";;"          ilave şeker içerenler ";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";"2009.81.51.00.00";" - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler";"-";75
+"null";"2009.81.59.00.00";" - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçmeyenler";"-";75
+"null";;" - - - - - İlave şeker içermeyenler:";;
+"null";"2009.81.95.00.00";" - - - - - - Vaccinium macrocarpon türü meyvaların suları";"-";75
+"null";"2009.81.99.00.00";" - - - - - - Diğerleri";"-";75
+"null";"2009.89";" - - Diğerleri:";;
+"null";;" - - -  Brix değeri 67'yi geçenler:";;
+"null";;" - - - - Armut suyu :";;
+"null";"2009.89.11.00.00";" - - - - - Net 100 kg ağırlık başına kıymeti 22 Euro'yu geçmeyenler";"-";75
+"null";"2009.89.19.00.00";" - - - - - Diğerleri";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Net 100 kg ağırlık başına kıymeti 30 Euro'yu geçmeyenler";;
+"null";"2009.89.34.00.00";" - - - - - - Tropikal meyvaların suyu";"-";75
+"null";"2009.89.35.00.00";" - - - - - - Diğerleri";"-";75
+"null";;" - - - - - Diğerleri :";;
+"null";"2009.89.36.00.00";" - - - - - - Tropikal meyvaların suyu";"-";75
+"null";"2009.89.38.00.00";" - - - - - - Diğerleri";"-";75
+"null";;" - - - Brix değeri 67'yi geçmeyenler:";;
+"null";;" - - - - Armut suyu :";;
+"null";"2009.89.50.00.00";" - - - - - Net 100 kg ağırlık başına kıymeti 18 Euro'yu geçenler ";;
+"null";;"          ve ilave şeker içerenler";"-";75
+"null";;" - - - - - Diğerleri:";;
+"null";"2009.89.61.00.00";" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler";"-";75
+"null";"2009.89.63.00.00";" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçmeyenler";"-";75
+"null";"2009.89.69.00.00";" - - - - - - İlave şeker içermeyenler";"-";75
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Net 100 kg ağırlık başına kıymeti 30 Euro'yu geçen ve";;
+"null";;"          ilave şeker içerenler :";;
+"null";"2009.89.71.00.00";" - - - - - - Kiraz suyu";"-";75
+"null";"2009.89.73.00.00";" - - - - - - Tropikal meyvaların suyu";"-";75
+"null";"2009.89.79.00.00";" - - - - - - Diğerleri";"-";75
+"null";;" - - - - - Diğerleri:";;
+"null";;" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler:";;
+"null";"2009.89.85.00.00";" - - - - - - - Tropikal meyvaların suyu";"-";75
+"null";"2009.89.86.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçmeyenler :";;
+"null";"2009.89.88.00.00";" - - - - - - - Tropikal meyvaların suyu";"-";75
+"null";"2009.89.89.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - İlave şeker içermeyenler:";;
+"null";"2009.89.96.00.00";" - - - - - - - Kiraz suyu";"-";75
+"null";"2009.89.97.00.00";" - - - - - - - Tropikal meyvaların suyu";"-";75
+"null";"2009.89.99.00.00";" - - - - - - - Diğerleri";"-";75
+"null";"2009.90";" - Karışık haldeki meyva ve sebze suları:";;
+"null";;" - - Brix değeri 67'yi geçenler:";;
+"null";;" - - - Elma ve armut suyu karışımları:";;
+"null";"2009.90.11.00.00";" - - - - Net 100 kg ağırlık başına kıymeti 22 Euro'yu geçmeyenler";"-";75
+"null";"2009.90.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri:";;
+"null";"2009.90.21.00.00";" - - - - Net 100 kg ağırlık başına kıymeti 30 Euro'yu geçmeyenler";"-";75
+"null";"2009.90.29.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - Brix değeri 67'yi geçmeyenler:";;
+"null";;" - - - Elma ve armut suyu karışımları:";;
+"null";"2009.90.31.00.00";" - - - - Net 100 kg ağırlık başına kıymeti 18 Euro'yu geçmeyen ";;
+"null";;"           ve ağırlık itibariyle ilave şeker oranı % 30' u geçenler";"-";75
+"null";"2009.90.39.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Net 100 kg ağırlık başına kıymeti 30 Euro'yu geçenler:";;
+"null";;" - - - - - Turunçgil suları ve ananas suyu karışımları:";;
+"null";"2009.90.41.00.00";" - - - - - - İlave şeker içerenler";"-";75
+"null";"2009.90.49.00.00";" - - - - - - Diğerleri";"-";75
+"null";;" - - - - - Diğerleri:";;
+"null";"2009.90.51.00.00";" - - - - - - İlave şeker içerenler";"-";75
+"null";"2009.90.59.00.00";" - - - - - - Diğerleri";"-";75
+"null";;" - - - - Net 100 kg ağırlık başına kıymeti 30 Euro'yu geçmeyenler";;
+"null";;" - - - - - Turunçgil suları ve ananas suyu karışımları:";;
+"null";"2009.90.71.00.00";" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler";"-";75
+"null";"2009.90.73.00.00";" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçmeyenler";"-";75
+"null";"2009.90.79.00.00";" - - - - - - İlave şeker içermeyenler";"-";75
+"null";;" - - - - - Diğerleri:";;
+"null";;" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçenler :";;
+"null";"2009.90.92.00.00";" - - - - - - - Tropikal meyva sularının karışımları";"-";75
+"null";"2009.90.94.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - Ağırlık itibariyle ilave şeker oranı % 30' u geçmeyenler :";;
+"null";"2009.90.95.00.00";" - - - - - - - Tropikal meyva sularının karışımları";"-";75
+"null";"2009.90.96.00.00";" - - - - - - - Diğerleri";"-";75
+"null";;" - - - - - - İlave şeker içermeyenler :";;
+"null";"2009.90.97.00.00";" - - - - - - - Tropikal meyva sularının karışımları";"-";75
+"null";"2009.90.98.00.00";" - - - - - - - Diğerleri";"-";75

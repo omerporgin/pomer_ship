@@ -1,0 +1,70 @@
+﻿"null";"92.01";"Piyanolar (otomatik olsun olmasın); klavsenler ve klavyeli diğer";;
+"null";;"telli aletler:";;
+"null";"9201.10";" - Düz piyanolar:";;
+"null";"9201.10.10.00.00";" - - Yeni olanlar";"   Adet";50
+"null";"9201.10.90.00.00";" - - Kullanılmış olanlar";"   Adet";50
+"null";"9201.20.00.00.00";" - Kuyruklu piyanolar";"   Adet";50
+"null";"9201.90.00.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"92.02";"Telli diğer müzik aletleri (gitar, keman, harb gibi) :";;
+"null";"9202.10";" - Yayla çalınanlar :";;
+"null";"9202.10.10.00.00";" - - Kemanlar";"   Adet";50
+"null";"9202.10.90.00.00";" - - Diğerleri";"   Adet";50
+"null";"9202.90";" - Diğerleri:";;
+"null";"9202.90.30.00.00";" - - Gitarlar";"   Adet";50
+"null";"9202.90.80.00.00";" - - Diğerleri";"   Adet";50
+"null";;;;
+"null";"[92.03]";;;
+"null";;;;
+"null";"[92.04]";;;
+"null";;;;
+"null";"92.05";"Nefesli diğer müzik aletleri ( klarnetler, trompetler, gaydalar, tu-";;
+"null";;"lumlar gibi) :";;
+"null";"9205.10.00.00.00";" - Ağızları huni gibi genişleyen neviden olan boru esaslı müzik ";;
+"null";;"   aletleri";"   Adet";50
+"null";"9205.90";" - Diğerleri";;
+"null";"9205.90.10.00.00";" - - Akordeonlar ve benzeri aletler:";"   Adet";50
+"null";"9205.90.30.00.00";" - - Ağız armonikaları";"   Adet";50
+"null";"9205.90.50.00.00";" - - Borulu ve klavyeli orglar; armonyumlar ve klavyeli ve metal dilli";;
+"null";;"     benzeri aletler";"-";50
+"null";"9205.90.90.00.00";" - - Diğerleri:";"-";50
+"null";;;;
+"null";"9206.00.00.00.00";"Vurularak çalınan müzik aletleri (davullar, ksilofonlar, ziller, kas -";;
+"null";;"tanyetler, marakkalar gibi) ";"-";50
+"null";;;;
+"null";"92.07";"Sesin elektrikle üretildiği veya yükseltildiği müzik aletleri (orglar,";;
+"null";;"gitarlar, akordeonlar gibi) :";;
+"null";"9207.10";" - Klavyeli aletler (akordeonlar hariç):";;
+"null";"9207.10.10.00.00";" - - Orglar";"   Adet";50
+"null";"9207.10.30.00.00";" - - Dijital-piyanolar";"   Adet";50
+"null";"9207.10.50.00.00";" - - Sıntizayzır'lar";"   Adet";50
+"null";"9207.10.80.00.00";" - - Diğerleri";"-";50
+"null";"9207.90";" - Diğerleri:";;
+"null";"9207.90.10.00.00";" - - Gitarlar";"   Adet";50
+"null";"9207.90.90.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"92.08";"Müzik kutuları, orkestriyonlar, laternalar, makinalı öten kuşlar,";;
+"null";;"müzikli testereler ve bu fasılın herhangi bir pozisyonunda belirtil-";;
+"null";;"meyen veya yer almayan diğer müzik aletleri; av hayvanlarını ve ";;
+"null";;"kuşları çağırmaya mahsus her tür düdük ve aletler; düdükler, çağ -";;
+"null";;"rı boruları ve diğer çağrı veya ağızla işaret verme aletleri:";;
+"null";"9208.10.00.00.00";" - Müzik kutuları";"-";50
+"null";"9208.90.00.00.00";" - Diğerleri";"-";50
+"null";;;;
+"null";"92.09";"Müzik aletlerinin aksam ve parçaları (örneğin; müzik kutuları için ";;
+"null";;"mekanizmalar) ve aksesuarı (örneğin; mekanik olarak çalınan";;
+"null";;"kardlar, diskler ve rulolar); her tür metronomlar, akort düdükleri ve ";;
+"null";;"diyapazonlar:";;
+"null";"9209.30.00.00.00";" - Müzik aletlerinin telleri";"-";50
+"null";;" - Diğerleri:";" ";
+"null";"9209.91.00.00.00";" - - Piyanolara ait aksam, parça ve aksesuar";"-";50
+"null";"9209.92.00.00.00";" - - 92.02 Pozisyonundaki müzik aletlerinin aksam, parça ve ";" ";
+"null";;"     aksesuarı";"-";50
+"null";"9209.94.00.00.00";" - - 92.07 Pozisyonundaki müzik aletlerinin aksam, parça ve";" ";
+"null";;"     aksesuarı";"-";50
+"null";"9209.99";" - - Diğerleri:";" ";
+"null";"9209.99.20.00.00";" - - - 92.05 Pozisyonundaki müzik aletlerinin aksam, parça ve aksesuarı";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"9209.99.40.00.00";" - - - - Metronomlar, akort düdükleri ve diyapazonlar";"-";50
+"null";"9209.99.50.00.00";" - - - - Müzik kutuları için mekanizmalar";"-";50
+"null";"9209.99.70.00.00";" - - - - Diğerleri";"-";50

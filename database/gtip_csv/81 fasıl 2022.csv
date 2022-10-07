@@ -1,0 +1,237 @@
+﻿"null";"81.01";"Tungsten (volfram) ve tungstenden eşya (döküntü ve hurdalar dahil) :";;
+"null";"8101.10.00.00.00";" - Tozlar";"-";30
+"null";;" - Diğerleri:";;
+"null";"8101.94.00.00.00";" - - İşlenmemiş tungsten (sadece sinterleme yoluyla elde edilen";;
+"null";;"     çubuklar dahil)";"-";10
+"null";"8101.96.00.00.00";" - - Teller";"-";30
+"null";"8101.97";" - -  Döküntü ve hurdalar:";;
+"null";"8101.97.00.10.00";" - - - Döküntüler";"-";10
+"null";"8101.97.00.90.00";" - - - Hurdalar";"-";30
+"null";"8101.99";" - - Diğerleri:";" ";
+"null";"8101.99.10.00.00";" - - - Çubuklar ve miller  (sadece sinterlenme yoluyla elde edilenler hariç), profiller,";;
+"null";;"       saclar, şeritler ve yapraklar";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"8101.99.90.10.00";" - - - - Tungstenden mamul eşya";"-";30
+"null";;" - - - - Diğerleri :";;
+"null";"8101.99.90.90.11";" - - - - - Tungstenden mamul flamanlar ";"-";30
+"null";"8101.99.90.90.19";" - - - - - Diğerleri";"-";30
+"null";;;;
+"null";"81.02";"Molibden ve molibdenden eşya (döküntü ve hurdalar dahil) :";;
+"null";"8102.10.00.00.00";" - Tozlar";"-";10
+"null";;" - Diğerleri:";" ";
+"null";"8102.94.00.00.00";" - - İşlenmemiş molibden (sadece sinterleme yoluyla elde edilen çu-";" ";
+"null";;"     buklar dahil)";"-";10
+"null";"8102.95";" - - Çubuklar (sadece sinterleme yoluyla elde edilenler hariç), profil-";;
+"null";;"      ler, saclar, şeritler ve yapraklar :";;
+"null";"8102.95.00.00.11";" - - - Çubuklar";"-";10
+"null";"8102.95.00.00.12";" - - - Profiller";"-";10
+"null";"8102.95.00.00.13";" - - - Saclar";"-";10
+"null";"8102.95.00.00.14";" - - - Şeritler";"-";10
+"null";"8102.95.00.00.15";" - - - Yapraklar";"-";10
+"null";"8102.96.00.00.00";" - - Teller";"-";10
+"null";"8102.97";" - - Döküntü ve hurdalar :";;
+"null";"8102.97.00.10.00";" - - - Döküntüler";"-";30
+"null";"8102.97.00.90.00";" - - - Hurdalar";"-";30
+"null";"8102.99";" - - Diğerleri :";;
+"null";"8102.99.00.00.11";" - - - Molibdenden mamul flamanlar";"-";30
+"null";"8102.99.00.00.19";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"81.03";"Tantal ve tantaldan eşya (döküntü ve hurdalar dahil):";;
+"null";"8103.20";" - İşlenmemiş tantal (sadece sinterleme yoluyla elde edilen çubuk-";;
+"null";;"   lar dahil); tozlar:";;
+"null";"8103.20.00.10.00";" - - İşlenmemiş tantal (sadece sinterleme yoluyla elde edilen çubuklar";;
+"null";;"     dahil)";"-";10
+"null";"8103.20.00.90.00";" - - Tozlar";"-";30
+"null";"8103.30";" - Döküntü ve hurdalar : ";" ";
+"null";"8103.30.00.10.00";" - - Döküntüler";"-";10
+"null";"8103.30.00.90.00";" - - Hurdalar";"-";30
+"null";;" - Diğerleri:";;
+"null";"8103.91.00.00.00";" - - Potalar";"-";30
+"null";"8103.99";" - - Diğerleri:";;
+"null";"8103.99.10.00.00";" - - - Çubuklar (sadece sinterleme yoluyla elde edilen çubuklar hariç),";;
+"null";;"      profiller, teller, saclar, şeritler ve yapraklar";"-";30
+"null";"8103.99.90.00.00";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"81.04";"Magnezyum ve magnezyumdan eşya (döküntü ve hurdalar dahil) :";;
+"null";;" - İşlenmemiş magnezyum:";;
+"null";"8104.11.00.00.00";" - - Ağırlık itibariyle en az % 99,8 magnezyum içerenler";"-";5
+"null";"8104.19.00.00.00";" - - Diğerleri";"-";5
+"null";"8104.20";" - Döküntü ve hurdalar :";" ";
+"null";"8104.20.00.00.11";" - - Döküntüler";"-";5
+"null";"8104.20.00.00.12";" - - Hurdalar";"-";5
+"null";"8104.30.00.00.00";" - Kalibrelenmiş torna döküntüleri ve granüller; tozlar";"-";5
+"null";"8104.90";" - Diğerleri :";" ";
+"null";"8104.90.00.00.11";" - - Çubuklar";"-";5
+"null";"8104.90.00.00.12";" - - Profiller";"-";5
+"null";"8104.90.00.00.13";" - - Teller";"-";5
+"null";"8104.90.00.00.19";" - - Diğerleri";"-";5
+"null";;;;
+"null";"81.05";"Kobalt matları ve kobalt metalurjisinin diğer ara ürünleri; kobalt";;
+"null";;"ve kobalttan eşya (döküntü ve hurdalar dahil):";;
+"null";"8105.20";" - Kobalt matları ve kobalt metalurjisinin diğer ara ürünleri; işlen-";;
+"null";;"   memiş kobalt; tozlar:";;
+"null";"8105.20.00.00.11";" - - İşlenmemiş kobalt";"-";10
+"null";"8105.20.00.00.12";" - - Kobalt tozları";"-";10
+"null";"8105.20.00.00.19";" - - Diğerleri";"-";10
+"null";"8105.30";" - Döküntü ve hurdalar :";" ";" "
+"null";"8105.30.00.00.11";" - - Kobalt döküntüleri";"-";10
+"null";"8105.30.00.00.12";" - - Kobalt hurdaları";"-";10
+"null";"8105.90.00.00.00";" - Diğerleri";"-";10
+"null";;;;
+"null";"81.06";"Bizmut ve bizmuttan eşya (döküntü ve hurdalar dahil):";;
+"null";"8106.10";" - Ağırlıkça %99,99' dan fazla bizmut içerenler: ";;
+"null";" ";" - - İşlenmemiş bizmut; döküntü ve hurdalar; tozlar :";;
+"null";"8106.10.10.00.11";" - - - İşlenmemiş bizmut";"-";10
+"null";"8106.10.10.00.12";" - - - Bizmut döküntüleri";"-";10
+"null";"8106.10.10.00.13";" - - - Bizmut hurdaları";"-";10
+"null";"8106.10.10.00.14";" - - - Bizmut tozları";"-";10
+"null";"8106.10.90.00.00";" - - Diğerleri";"-";10
+"null";"8106.90";" - Diğerleri";;
+"null";;" - - İşlenmemiş bizmut; döküntü ve hurdalar; tozlar";"-";10
+"null";"8106.90.10.00.11";" - - - İşlenmemiş bizmut";"-";10
+"null";"8106.90.10.00.12";" - - - Bizmut döküntüleri";"-";10
+"null";"8106.90.10.00.13";" - - - Bizmut hurdaları";"-";10
+"null";"8106.90.10.00.14";" - - - Bizmut tozları";"-";10
+"null";"8106.90.90.00.00";" - - Diğerleri";"-";10
+"null";;;;
+"null";"[81.07]";;;
+"null";;;;
+"null";"81.08";"Titanyum ve titanyumdan eşya (döküntü ve hurdalar dahil) :";;
+"null";"8108.20";" - İşlenmemiş titanyum; tozlar:";;
+"null";"8108.20.00.00.11";" - - İşlenmemiş titanyum";"-";10
+"null";"8108.20.00.00.12";" - - Titanyum tozları";"-";10
+"null";"8108.30";" - Döküntü ve hurdalar :";" ";
+"null";"8108.30.00.00.11";" - - Titanyum döküntüleri";"-";10
+"null";"8108.30.00.00.12";" - - Titanyum hurdaları";"-";10
+"null";"8108.90";" - Diğerleri:";;
+"null";"8108.90.30.00.00";" - - Çubuklar, profiller ve teller";"-";10
+"null";"8108.90.50.00.00";" - - Saclar, şeritler ve yapraklar";"-";10
+"null";"8108.90.60.00.00";" - - İnce ve kalın borular";"-";10
+"null";"8108.90.90.00.00";" - - Diğerleri";"-";10
+"null";;;;
+"null";"81.09";"Zirkonyum ve zirkonyumdan eşya (döküntü ve hurdalar dahil) :";;
+"null";;" - İşlenmemiş zirkonyum; tozlar:";;
+"null";"8109.21";" - - Ağırlıkça 1 parça hafniyuma 500 parça zirkonyumdan az içeriğe sahip olanlar: ";;
+"null";"8109.21.00.00.11";" - - - İşlenmemiş zirkonyum";"-";10
+"null";"8109.21.00.00.12";" - - - Zirkonyum tozları";"-";10
+"null";"8109.29";" - - Diğerleri:";;
+"null";"8109.29.00.00.11";" - - - İşlenmemiş zirkonyum";"-";10
+"null";"8109.29.00.00.12";" - - - Zirkonyum tozları";"-";10
+"null";;" - Döküntü ve hurdalar :";" ";
+"null";"8109.31";" - - Ağırlıkça 1 parça hafniyuma 500 parça zirkonyumdan az içeriğe sahip olanlar: ";;
+"null";"8109.31.00.00.11";" - - - Zirkonyum döküntüleri";"-";10
+"null";"8109.31.00.00.12";" - - - Zirkonyum hurdaları";"-";10
+"null";"8109.39";" - - Diğerleri:";;
+"null";"8109.39.00.00.11";" - - - Zirkonyum döküntüleri";"-";10
+"null";"8109.39.00.00.12";" - - - Zirkonyum hurdaları";"-";10
+"null";;" - Diğerleri:";;
+"null";"8109.91.00.00.00";" - - Ağırlıkça 1 parça hafniyuma 500 parça zirkonyumdan az içeriğe sahip olanlar";"-";10
+"null";"8109.99.00.00.00";" - - Diğerleri";"-";10
+"null";;;;
+"null";"81.10";"Antimon ve antimondan eşya (döküntü ve hurdalar dahil) :";;
+"null";"8110.10";" - İşlenmemiş antimon; tozlar:";;
+"null";"8110.10.00.00.11";" - - İşlenmemiş antimon";"-";25
+"null";"8110.10.00.00.12";" - - Antimon tozları";"-";25
+"null";"8110.20";" - Döküntü ve hurdalar :";" ";
+"null";"8110.20.00.00.11";" - - Antimon döküntüleri";"-";25
+"null";"8110.20.00.00.12";" - - Antimon hurdaları";"-";25
+"null";"8110.90.00.00.00";" - Diğerleri";"-";25
+"null";;;;
+"null";"8111.00";"Manganez ve manganezden eşya (döküntü ve hurdalar dahil) :";;
+"null";;" - İşlenmemiş manganez; döküntü ve hurdalar; tozlar:";;
+"null";" ";" - - İşlenmemiş manganez; tozlar :";;
+"null";"8111.00.11.00.11";" - - - İşlenmemiş manganez";"-";10
+"null";"8111.00.11.00.12";" - - - Manganez tozları";"-";10
+"null";" ";" - - Döküntü ve hurdalar :";" ";
+"null";"8111.00.19.00.11";" - - - Manganez döküntüleri";"-";10
+"null";"8111.00.19.00.12";" - - - Manganez hurdaları";"-";10
+"null";"8111.00.90.00.00";" - Diğerleri";"-";10
+"null";;;;
+"null";"81.12";"Berilyum, krom, hafniyum (seltiyum), renyum, talyum, kadmiyum,";;
+"null";;" germanyum, vanadyum, galliyum, indiyum ve niobyum (kolombiyum), ve bu";;
+"null";;"metallerden eşya (döküntü ve hurdalar dahil):";;
+"null";;" - Berilyum:";;
+"null";"8112.12";" - - İşlenmemiş berilyum; tozlar:";;
+"null";"8112.12.00.00.11";" - - - İşlenmemiş berilyum";"-";25
+"null";"8112.12.00.00.12";" - - - Berilyum tozları";"-";25
+"null";"8112.13";" - - Döküntü ve hurdalar :";" ";
+"null";"8112.13.00.00.11";" - - - Berilyum döküntüleri";"-";25
+"null";"8112.13.00.00.12";" - - - Berilyum hurdaları";"-";25
+"null";"8112.19";" - - Diğerleri :";" ";
+"null";"8112.19.00.00.11";" - - - İşlenmiş berilyum";"-";25
+"null";"8112.19.00.00.12";" - - - Berilyumdan eşya";"-";25
+"null";"8112.19.00.00.19";" - - - Diğerleri";"-";25
+"null";;" - Krom:";;
+"null";"8112.21";" - - İşlenmemiş krom; tozlar:";;
+"null";"8112.21.10.00.00";" - - - Ağırlık itibariyle % 10'dan fazla nikel içeren krom alaşımları";"-";10
+"null";;" - - - Diğerleri:";;
+"null";"8112.21.90.00.11";" - - - - İşlenmemiş krom";"-";10
+"null";"8112.21.90.00.12";" - - - - Krom tozları";"-";10
+"null";"8112.22";" - - Döküntü ve hurdalar :";" ";
+"null";"8112.22.00.00.11";" - - - Krom döküntüleri";"-";10
+"null";"8112.22.00.00.12";" - - - Krom hurdaları";"-";10
+"null";"8112.29.00.00.00";" - - Diğerleri";"-";10
+"null";;" - Hafniyum:";;
+"null";"8112.31";" - - İşlenmemiş; döküntü ve hurdalar; tozlar";;
+"null";"8112.31.00.00.11";" - - - İşlenmemiş; tozlar";"-";10
+"null";"8112.31.00.00.12";" - - - Döküntü ve hurdalar";"-";10
+"null";"8112.39.00.00.00";" - - Diğerleri";"-";10
+"null";;" - Renyum:";;
+"null";"8112.41";" - - İşlenmemiş; döküntü ve hurdalar; tozlar";;
+"null";"8112.41.10.00.00";" - - - Döküntü ve hurdalar";"-";10
+"null";"8112.41.90.00.00";" - - - Diğerleri";"-";10
+"null";"8112.49.00.00.00";" - - Diğerleri";"-";10
+"null";;" - Talyum";;
+"null";"8112.51";" - - İşlenmemiş ; tozlar :";;
+"null";"8112.51.00.00.11";" - - - İşlenmemiş talyum";"-";10
+"null";"8112.51.00.00.12";" - - - Talyum tozları";"-";10
+"null";"8112.52";" - - Döküntü ve hurdalar :";;
+"null";"8112.52.00.00.11";" - - - Talyum döküntüleri";"-";10
+"null";"8112.52.00.00.12";" - - - Talyum hurdaları";"-";10
+"null";"8112.59.00.00.00";" - - Diğerleri";"-";10
+"null";;" - Kadmiyum:";;
+"null";"8112.61.00.00.00";" - - Döküntü ve hurdalar";"-";10
+"null";"8112.69";" - - Diğerleri:";;
+"null";"8112.69.10.00.00";" - - - İşlenmemiş kadmiyum; tozlar";"-";10
+"null";"8112.69.90.00.00";" - - - Diğerleri";"-";10
+"null";;" - Diğerleri:";;
+"null";"8112.92";" - - İşlenmemiş; döküntü ve hurdalar; tozlar:";;
+"null";;" - - - Niobyum (kolombiyum); galyum;indiyum;vanadyum;germanyum :";;
+"null";;" - - - - Döküntü ve hurdalar :";;
+"null";"8112.92.21.00.11";" - - - - - Niobyum döküntüleri";"-";10
+"null";"8112.92.21.00.12";" - - - - - Niobyum hurdaları";"-";10
+"null";"8112.92.21.00.15";" - - - - - Galyum döküntüleri";"-";10
+"null";"8112.92.21.00.16";" - - - - - Galyum hurdaları";"-";10
+"null";"8112.92.21.00.17";" - - - - - İndiyum döküntüleri";"-";10
+"null";"8112.92.21.00.18";" - - - - - İndiyum hurdaları";"-";10
+"null";"8112.92.21.00.21";" - - - - - Vanadyum döküntüleri";"-";10
+"null";"8112.92.21.00.22";" - - - - - Vanadyum hurdaları";"-";10
+"null";"8112.92.21.00.23";" - - - - - Germanyum döküntüleri";"-";10
+"null";"8112.92.21.00.24";" - - - - - Germanyum hurdaları";"-";10
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Niobyum (kolombiyum) :";;
+"null";"8112.92.40.00.11";" - - - - - - İşlenmemiş Niobyum";"-";10
+"null";"8112.92.40.00.12";" - - - - - - Niobyum tozları";"-";10
+"null";;" - - - - - İndiyum :";;
+"null";"8112.92.81.00.11";" - - - - - - İşlenmemiş İndiyum";"-";10
+"null";"8112.92.81.00.12";" - - - - - - İndiyum tozları";"-";10
+"null";;" - - - - -Galyum:";;
+"null";"8112.92.89.00.11";" - - - - - - İşlenmemiş Galyum";"-";10
+"null";"8112.92.89.00.12";" - - - - - - Galyum tozları";"-";10
+"null";;" - - - - - Vanadyum :";;
+"null";"8112.92.91.00.11";" - - - - - - İşlenmemiş Vanadyum";"-";10
+"null";"8112.92.91.00.12";" - - - - - - Vanadyum tozları";"-";10
+"null";;" - - - - -Germanyum :";;
+"null";"8112.92.95.00.11";" - - - - - - İşlenmemiş Germanyum";"-";10
+"null";"8112.92.95.00.12";" - - - - - - Germanyum tozları";"-";10
+"null";"8112.99";" - - Diğerleri:";;
+"null";"8112.99.40.00.00";" - - - Germanyum";"-";10
+"null";"8112.99.50.00.00";" - - - Niobyum (kolombiyum)";"-";10
+"null";"8112.99.70.00.00";" - - - Galyum, indiyum;vanadyum";"-";10
+"null";;;;
+"null";"8113.00";"Sermet ve sermetten eşya (döküntü ve hurdalar dahil):";" ";
+"null";"8113.00.20.00.00";" - İşlenmemiş ";"-";10
+"null";" ";" - Döküntü ve hurdalar :";" ";
+"null";"8113.00.40.00.11";" - - Sermet döküntüleri";"-";10
+"null";"8113.00.40.00.12";" - - Sermet hurdaları";"-";10
+"null";"8113.00.90.00.00";" - Diğerleri";"-";10

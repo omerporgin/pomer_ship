@@ -1,0 +1,429 @@
+﻿"null";"04.01";"Süt ve krema (konsantre edilmemiş, ilave şeker veya diğer ";;
+"null";;"tatlandırıcı maddeleri içermeyenler):";;
+"null";"0401.10";" - Ağırlık itibariyle içerdiği katı yağ oranı % 1'i geçmeyenler:";" ";
+"null";"0401.10.10.00.00";" - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0401.10.90.00.00";" - - Diğerleri ";"-";200
+"null";"0401.20";" - Ağırlık itibariyle içerdiği katı yağ oranı % 1 'i geçen, fakat ";;
+"null";;"   % 6' yı geçmeyenler:";;
+"null";;" - - Ağırlık itibariyle içerdiği katı yağ oranı % 3 'ü geçmeyenler :";;
+"null";"0401.20.11.00.00";" - - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0401.20.19.00.00";" - - - Diğerleri";"-";200
+"null";;" - - Ağırlık itibariyle içerdiği katı yağ oranı % 3 'ü geçenler :";;
+"null";"0401.20.91.00.00";" - - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0401.20.99.00.00";" - - - Diğerleri";"-";200
+"null";"0401.40";" - İçerdiği katı yağ oranı, ağırlık itibariyle, % 6' yı geçen fakat";;
+"null";;"   %10'u geçmeyenler :";;
+"null";;" - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar";;
+"null";"0401.40.10.00.11";" - - - Süt";"-";200
+"null";"0401.40.10.00.12";" - - - Krema";"-";200
+"null";;" - - Diğerleri";;
+"null";"0401.40.90.00.11";" - - - Süt";"-";200
+"null";"0401.40.90.00.12";" - - - Krema";"-";200
+"null";"0401.50";" - İçerdiği katı yağ oranı, ağırlık itibariyle, % 10'u geçenler:";;
+"null";;" - - İçerdiği katı yağ oranı, ağırlık itibariyle, % 21'i geçmeyenler:";;
+"null";"0401.50.11.00.00";" - - - Net muhteviyatı 2 lt.yi geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0401.50.19.00.00";" - - - Diğerleri";"-";200
+"null";;" - - Ağırlık itibariyle içerdiği katı yağ oranı % 21'i geçen fakat ";;
+"null";;"      % 45 'i geçmeyenler :";;
+"null";"0401.50.31.00.00";" - - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0401.50.39.00.00";" - - - Diğerleri";"-";200
+"null";;" - - Ağırlık itibariyle içerdiği katı yağ oranı % 45 'i geçenler :";;
+"null";"0401.50.91.00.00";" - - - Net muhteviyatı 2 lt.yi geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0401.50.99.00.00";" - - - Diğerleri";"-";200
+"null";;;;
+"null";"04.02";"Süt ve krema (konsantre edilmiş veya ilave şeker ya da diğer";;
+"null";;"tatlandırıcı maddeleri içerenler) :";;
+"null";"0402.10";" - Toz, granül veya diğer katı şekillerde olup, ağırlık itibariyle  ";;
+"null";;"    içerdiği katı yağ oranı, % 1,5 'i geçmeyenler:";;
+"null";;" - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :";;
+"null";"0402.10.11.00.00";" - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.10.19.00.00";" - - - Diğerleri";"-";200
+"null";;" - - Diğerleri:";;
+"null";"0402.10.91.00.00";" - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.10.99.00.00";" - - - Diğerleri";"-";200
+"null";;" - Toz, granül veya diğer katı şekillerde olup, ağırlık itibariyle, ";;
+"null";;"    içerdiği katı yağ oranı, %1,5' i geçenler:";;
+"null";"0402.21";" - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :";;
+"null";;" - - - Ağırlık itibariyle, içerdiği katı yağ oranı, % 27'yi geçmeyenler:";;
+"null";"0402.21.11.00.00";" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.21.18.00.00";" - - - - Diğerleri";"-";200
+"null";;" - - -  İçerdiği katı yağ oranı, ağırlık itibariyle, % 27'yi geçenler:";;
+"null";"0402.21.91.00.00";" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.21.99.00.00";" - - - - Diğerleri";"-";200
+"null";"0402.29";" - - Diğerleri:";;
+"null";;" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçmeyenler :";;
+"null";"0402.29.11.00.00";" - - - - Süt çocukları için net muhteviyatı 500 gr.ı geçmeyen hava ";;
+"null";;"          almayacak şekilde kapatılmış kaplarda bulunan ve ağırlık";;
+"null";;"          itibariyle içerdiği katı yağ oranı, % 10 'u geçen özel sütler";"-";200
+"null";;" - - - - Diğerleri:";;
+"null";"0402.29.15.00.00";" - - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.29.19.00.00";" - - - - - Diğerleri";"-";200
+"null";;" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27 'yi geçenler :";;
+"null";"0402.29.91.00.00";" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.29.99.00.00";" - - - - Diğerleri";"-";200
+"null";;" - Diğerleri:";;
+"null";"0402.91";" - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:";;
+"null";"0402.91.10.00.00";" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 8' i geçmeyenler ";"-";200
+"null";"0402.91.30.00.00";" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 8' i geçen fakat % 10'u";;
+"null";;"        geçmeyenler ";"-";200
+"null";;" - - - Ağırlık itibariyle içerdiği katı yağ oranı %10 'u geçen fakat ";;
+"null";;"        % 45'i geçmeyenler:";;
+"null";"0402.91.51.00.00";" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.91.59.00.00";" - - - - Diğerleri";"-";200
+"null";;" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 45 'i geçenler :";;
+"null";"0402.91.91.00.00";" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.91.99.00.00";" - - - - Diğerleri";"-";200
+"null";"0402.99";" - - Diğerleri:";;
+"null";"0402.99.10.00.00";" - - -  İçerdiği katı yağ oranı ağırlık itibariyle % 9,5' i geçmeyenler ";"-";200
+"null";;" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 9,5 'i geçen fakat % 45'i";;
+"null";;"        geçmeyenler :";;
+"null";"0402.99.31.00.00";" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.99.39.00.00";" - - - - Diğerleri";"-";200
+"null";;" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 45'i geçenler:";;
+"null";"0402.99.91.00.00";" - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0402.99.99.00.00";" - - - - Diğerleri";"-";200
+"null";;;;
+"null";"04.03";"Yoğurt; yayıkaItı, pıhtılaştırılmış süt ve krema, kefir ve diğer";;
+"null";;" fermente ediImiş veya asitIiği artırıImış süt ve krema (konsantre";;
+"null";;" edilmiş veya iIave şeker veya diğer tatlandırıcı maddeIer ";;
+"null";;" katılmış oIsun olmasın veya aroma veya ilave meyva, sert ";;
+"null";;" kabukIu meyva veya kakao içersin içermesin):";;
+"null";"0403.20";" - Yoğurt:";;
+"null";;" - - Aromalandırılmamış, ilave meyva, sert kabuklu meyvalar, kakao, çikolata,  ";;
+"null";;"     baharat, kahve veya kahve hülasası, biltki, bitki parçaları, hububat veya ";;
+"null";;"     ekmekçi mamulleri içermeyenler:";;
+"null";;" - - - İlave şeker veya diğer tatlandırıcı maddeler içermeyenler:";;
+"null";"";" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler";;
+"null";"0403.20.11.00.11";" - - - - - Yoğurt";"-";200
+"null";"0403.20.11.00.12";" - - - - - Ayran";"-";200
+"null";"0403.20.13.00.00";" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat ";;
+"null";;"           % 6'yı geçmeyenler";"-";200
+"null";"0403.20.19.00.00";" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler";"-";200
+"null";;" - - - Diğerleri:";;
+"null";"";" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler";;
+"null";"0403.20.31.00.11";" - - - - - Yoğurt";"-";200
+"null";"0403.20.31.00.12";" - - - - - Ayran";"-";200
+"null";"0403.20.33.00.00";" - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat";;
+"null";;"          % 6'yı geçmeyenler";"-";200
+"null";"0403.20.39.00.00";" - - - - İçerdiği katı yağ oranı ağırlık itibariyle %  6 'yı geçenler";"-";200
+"null";;" - - İlave çikolata, baharat, kahve veya kahve hülasası, bitki, bitki parçaları,";;
+"null";;"     hububat veya ekmekçilik mamulü içerenler:";;
+"null";"0403.20.41.00.00";" - - - Ağırlıkça % 1,5'dan az katı süt yağı, % 5 sukroz (invert şeker dahil) veya";;
+"null";;"      izoglikoz, % 5 glikoz veya nişasta içerenler";"-";200
+"null";"0403.20.49.00.00";" - - - Diğerleri";"-";200
+"null";;" - - Diğerleri, aromalandırılmış veya ilave meyva, sert kabuklu meyvalar veya";;
+"null";;"      kakao içerenler:";;
+"null";;" - - - Toz, granül veya diğer katı şekillerde olanlar:";;
+"null";"0403.20.51.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle %  1,5'i geçmeyenler";"-";200
+"null";"0403.20.53.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5' i geçen fakat ";;
+"null";" ";"          % 27'yi geçmeyenler";"-";200
+"null";"0403.20.59.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - Diğerleri:";;
+"null";"0403.20.91.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçmeyenler";"-";200
+"null";"0403.20.93.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçen fakat ";;
+"null";" ";"          % 6'yı geçmeyenler";"-";200
+"null";"0403.20.99.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 6'yı geçenler";"-";200
+"null";"0403.90";" - Diğerleri:";;
+"null";;" - - Aromalandırılmamış, ilave meyva, sert kabuklu meyvalar veya";;
+"null";;"      kakao içermeyenler:";;
+"null";;" - - - Toz, granül veya diğer katı şekillerde olanlar:";;
+"null";;" - - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:";;
+"null";"0403.90.11.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler";"-";200
+"null";"0403.90.13.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0403.90.19.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - - Diğerleri:";;
+"null";"0403.90.31.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler";"-";200
+"null";"0403.90.33.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0403.90.39.00.00";" - - - - -  İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:";;
+"null";"0403.90.51.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler";"-";200
+"null";"0403.90.53.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat ";;
+"null";;"            % 6' yı geçmeyenler";"-";200
+"null";"0403.90.59.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler";"-";200
+"null";;" - - - - Diğerleri:";;
+"null";"0403.90.61.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler";"-";200
+"null";"0403.90.63.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat ";;
+"null";;"            % 6' yı geçmeyenler";"-";200
+"null";"0403.90.69.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler";"-";200
+"null";;" - - Aromalandırılmış veya ilave meyva, sert kabuklu meyvalar veya ";;
+"null";;"      kakao içerenler:";;
+"null";;" - - - Toz, granül veya diğer katı şekillerde olanlar:";;
+"null";"0403.90.71.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5'i geçmeyenler";"-";200
+"null";"0403.90.73.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"          % 27'yi geçmeyenler";"-";200
+"null";"0403.90.79.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - Diğerleri:";;
+"null";"0403.90.91.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçmeyenler";"-";200
+"null";"0403.90.93.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçen fakat ";;
+"null";;"          % 6'yı geçmeyenler";"-";200
+"null";"0403.90.99.00.00";" - - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 6'yı geçenler";"-";200
+"null";;;;
+"null";"04.04";"Peyniraltı suyu (konsantre edilmiş olsun olmasın veya ilave şeker ";;
+"null";;"veya diğer tatlandırıcı maddeleri içersin içermesin) ; tarifenin";;
+"null";;"başka yerinde belirtilmeyen veya yer almayan tabii süt ";;
+"null";;"bileşenlerinden ibaret olan ürünler (ilave şeker veya diğer ";;
+"null";;"tatlandırıcı maddeleri içersin içermesin) :";;
+"null";"0404.10";" - Peyniraltı suyu ve modifiye peyniraltı suyu (konsantre ";;
+"null";;"   edilmiş olsun olmasın veya ilave şeker veya diğer tatlandırıcı";;
+"null";;"   maddeleri içersin içermesin); ";;
+"null";;" - - Toz, granül veya diğer katı şekillerde olanlar:";;
+"null";;" - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :";;
+"null";;" - - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i ";;
+"null";;"          geçmeyenler :";;
+"null";"0404.10.02.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ";"-";200
+"null";"0404.10.04.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0404.10.06.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - -  Protein oranı (azot oranı x 6,38),ağırlık itibariyle % 15' i geçenler:";;
+"null";"0404.10.12.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ";"-";200
+"null";"0404.10.14.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0404.10.16.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - Diğerleri :";;
+"null";;" - - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i ";;
+"null";;"          geçmeyenler :";;
+"null";"0404.10.26.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ";"-";200
+"null";"0404.10.28.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0404.10.32.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:";;
+"null";"0404.10.34.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ";"-";200
+"null";"0404.10.36.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0404.10.38.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - Diğerleri:";;
+"null";;" - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:";;
+"null";;" - - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i ";;
+"null";;"            geçmeyenler :";;
+"null";"0404.10.48.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ";"-";200
+"null";"0404.10.52.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0404.10.54.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:";;
+"null";"0404.10.56.00.00";" - - - - - İçerdiği katı yağı oranı ağırlık itibariyle % 1,5'i geçmeyenler ";"-";200
+"null";"0404.10.58.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0404.10.62.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - Diğerleri:";;
+"null";;" - - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i ";;
+"null";;"           geçmeyenler :";;
+"null";"0404.10.72.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ";"-";200
+"null";"0404.10.74.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0404.10.76.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;" - - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:";;
+"null";"0404.10.78.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler ";"-";200
+"null";"0404.10.82.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"            % 27'yi geçmeyenler";"-";200
+"null";"0404.10.84.00.00";" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;;;
+"null";"0404.90";" - Diğerleri :";;
+"null";;" - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:";;
+"null";"0404.90.21.00.00";" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler";"-";200
+"null";"0404.90.23.00.00";" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"        % 27' yi geçmeyenler";"-";200
+"null";"0404.90.29.00.00";" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27' yi geçenler";"-";200
+"null";;" - -  Diğerleri:";;
+"null";"0404.90.81.00.00";" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler";"-";200
+"null";"0404.90.83.00.00";" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat ";;
+"null";;"        % 27'yi geçmeyenler";"-";200
+"null";"0404.90.89.00.00";" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler";"-";200
+"null";;;;
+"null";"04.05";"Sütten elde ediIen tereyağı ve diğer katı ve sıvı yağIar; sürülerek";;
+"null";;"yenilen süt ürünleri :";;
+"null";"0405.10";" - Tereyağı :";;
+"null";;" - - İçerdiği katı yağ oranı ağırlık itibariyle % 85'i geçmeyenler :";;
+"null";;" - - - Tabii tereyağ";;
+"null";"0405.10.11.00.00";" - - - - Net muhteviyatı 1 kg.'ı geçmeyen hazır ambalajlarda olanlar";"-";200
+"null";"0405.10.19.00.00";" - - - - Diğerleri";"-";200
+"null";"0405.10.30.00.00";" - - - Rekombine tereyağı";"-";200
+"null";"0405.10.50.00.00";" - - - Peynir altı suyundan elde edilen tereyağı";"-";200
+"null";"0405.10.90.00.00";" - - Diğerleri";"-";200
+"null";"0405.20";" - Sürülerek yenilen süt ürünleri: ";;
+"null";"0405.20.10.00.00";" - - İçerdiği katı yağ oranı ağırlık itibariyle %39 veya daha fazla fakat %60'dan";;
+"null";" ";"      az olanlar";"-";200
+"null";"0405.20.30.00.00";" - - İçerdiği katı yağ oranı ağırlık itibariyle %60 veya daha fazla fakat %75' den";;
+"null";" ";"      az olanlar";"-";200
+"null";"0405.20.90.00.00";" - - İçerdiği katı yağ oranı ağırlık itibariyle %75' den fazla fakat %80' den  ";;
+"null";" ";"      az olanlar";"-";200
+"null";"0405.90";" - Diğerleri :";;
+"null";"0405.90.10.00.00";" - - İçerdiği katı yağ oranı ağırlık itibariyle %99,3 veya daha fazla ve içerdiği su ";;
+"null";" ";"     miktarı ağırlık itibariyle %0,5'i geçmeyenler";"-";200
+"null";"0405.90.90.00.00";" - - Diğerleri";"-";200
+"null";;;;
+"null";"04.06";"Peynir ve pıhtılaştırılmış ürünler:";;
+"null";"0406.10";" - Taze peynir (olgunlaştırılmamış veya preslenmemiş) (peyniraltı ";;
+"null";;"   suyundan yapılmış peynirler dahil)  ve pıhtılaştırılmış ürünler:";;
+"null";;" - - İçerdiği katı yağ oranı, ağırlık itibariyle % 40'ı geçmeyenler";;
+"null";"0406.10.30.00.00";" - - - Mozerella (sıvı içinde olsun olmasın)";"-";200
+"null";;" - - - Diğerleri:";;
+"null";"0406.10.50.00.11";" - - - - Taze peynir";"-";200
+"null";"0406.10.50.00.12";" - - - - Çökelek";"-";200
+"null";"0406.10.50.00.13";" - - - - Lor";"-";200
+"null";"0406.10.50.00.18";" - - - - Diğerleri";"-";200
+"null";"0406.10.80.00.00";" - - Diğerleri";"-";200
+"null";"0406.20";" - Rendelenmiş veya toz haline getirilmiş her cins peynir:";;
+"null";"0406.20.00.10.00";" - - Gravyer";"-";50
+"null";"0406.20.00.20.00";" - - Çester, Parmezan, Dutch (Felemenk) ve benzeri peynirler";"-";50
+"null";"0406.20.00.90.00";" - - Diğerleri";"-";200
+"null";"0406.30";" - Eritme peynirler (rendelenmemiş veya toz haline getirilmemiş):";;
+"null";"0406.30.10.00.00";" - - Üretiminde sadece Emmentaler, Gravyer ve Appenzell peynirlerinin ";;
+"null";;"      kullanıldığı ve   Glarus otlu peynirinin (Schabziger) katkı maddesi olarak";;
+"null";;"      kullanılabildiği; kuru maddedeki katı yağ oranı ağırlık itibariyle";;
+"null";;"      % 56' yı geçmeyen, perakende satılacak hale getirilmiş olanlar";"-";200
+"null";;" - - Diğerleri:";;
+"null";;" - - - İçerdiği katı yağ oranı ağırlık itibariyle % 36' yı geçmeyenlerden:";;
+"null";"0406.30.31.00.00";" - - - - Kuru maddedeki yağ oranı, ağırlık itibariyle,  % 48'i geçmeyenler";"-";200
+"null";"0406.30.39.00.00";" - - - - Kuru maddedeki yağ oranı, ağırlık itibariyle,  % 48'i geçenler";"-";200
+"null";"0406.30.90.00.00";" - - - İçerdiği katı yağ oranı, ağırlık itibariyle, % 36' yı geçenler";"-";200
+"null";"0406.40";" - Mavi küflü peynirler ve Penicillium roqueforti ile elde edilen";;
+"null";;"küf içeren diğer peynirler :";;
+"null";"0406.40.10.00.00";" - - Rokfor";"-";50
+"null";"0406.40.50.00.00";" - - Gorgonzola";"-";50
+"null";"0406.40.90.00.00";" - - Diğerleri";"-";50
+"null";"0406.90";" - Diğer peynirler:";;
+"null";"0406.90.01.00.00";" - - İşleme tabi tutulacak olanlar";"-";200
+"null";;" - - Diğerleri:";;
+"null";"0406.90.13.00.00";" - - -  Emmentaler ";"-";200
+"null";;" - - -  Gravyer, Sbrinz";;" "
+"null";"0406.90.15.00.11";" - - - - Gravyer";"-";50
+"null";"0406.90.15.00.12";" - - - - Sbrinz";"-";50
+"null";"0406.90.17.00.00";" - - - Bergkaese, Appenzell";"-";200
+"null";"0406.90.18.00.00";" - - - Fromage Fribourgeois (fribourg peyniri), Vacherin Mont d'or ve ";;
+"null";;"        téte de Moine";"-";200
+"null";"0406.90.21.00.00";" - - - Çedar";"-";50
+"null";"0406.90.23.00.00";" - - - Edam";"-";200
+"null";"0406.90.25.00.00";" - - - Tilsit";"-";200
+"null";"0406.90.29.00.00";" - - - Kaşkaval ";"-";200
+"null";;" - - - Feta";;
+"null";;" - - - - Koyun veya manda sütünden olanlar (salamura içeren kaplarda veya koyun";;
+"null";;"ve keçi derisinden tulumlarda)";;
+"null";"0406.90.32.00.11";" - - - - - Tulum peyniri";"-";200
+"null";"0406.90.32.00.12";" - - - - - Beyaz peynir";"-";200
+"null";;" - - - - Diğerleri ";;
+"null";"0406.90.32.00.91";" - - - - - Tulum peyniri";"-";200
+"null";"0406.90.32.00.92";" - - - - - Beyaz peynir";"-";200
+"null";"0406.90.35.00.00";" - - - Kefalo -Tyri";"-";200
+"null";"0406.90.37.00.00";" - - - Finlandiya";"-";200
+"null";"0406.90.39.00.00";" - - - Jarlsberg";"-";200
+"null";;" - - - Diğerleri:";;
+"null";"0406.90.50.00.00";" - - - - Koyun veya manda sütünden yapılan ve salamura içeren kaplarda";;
+"null";;"         veya koyun veya keçi derisinden yapılan tulumlar içerisinde bulunanlar ";"-";200
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 40' ı geçmeyenler:";;
+"null";;" - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su";;
+"null";;"               oranı % 47'yi geçmeyenler:";;
+"null";"0406.90.61.00.00";" - - - - - - - Grana Padano, Parmigiano Reggiano";"-";50
+"null";"0406.90.63.00.00";" - - - - - - - Fiore sardo, pecorino";"-";200
+"null";"0406.90.69.00.00";" - - - - - - - Diğerleri";"-";200
+"null";;" - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su";;
+"null";;"               oranı % 47'yi geçen fakat % 72'yi geçmeyenler:";;
+"null";"0406.90.73.00.00";" - - - - - - - Provolone";"-";200
+"null";"0406.90.74.00.00";" - - - - - - - Maasdam";"-";200
+"null";"0406.90.75.00.00";" - - - - - - - Asiago, Caciocavallo, Montasio, Ragusano";"-";200
+"null";"0406.90.76.00.00";" - - - - - - - Danbo, Fontal, Fontina, Fynbo, Havarti, Maribo, Samsö";"-";200
+"null";"0406.90.78.00.00";" - - - - - - - Gouda";"-";50
+"null";"0406.90.79.00.00";" - - - - - - - Esrom, İtalıco, Kernhem, Saint Nectaire, Saint Paulin, ";;
+"null";;"                 Taleggio";"-";200
+"null";"0406.90.81.00.00";" - - - - - - - Cantal, Cheshire, Wensleydale, Lancashire, Double ";;
+"null";;"                 Gloucester, Blarney, Colby, Monterey";"-";200
+"null";"0406.90.82.00.00";" - - - - - - - Camembert";"-";200
+"null";"0406.90.84.00.00";" - - - - - - - Brie";"-";200
+"null";"0406.90.85.00.00";" - - - - - - - Kefalograviera,Kasseri";"-";200
+"null";"";" - - - - - - - Diğer peynirler:";;
+"null";"0406.90.86.00.00";" - - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle ";;
+"null";;"                   su oranı % 47'yi geçen fakat % 52'yi geçmeyenler ";"-";200
+"null";"0406.90.89.00.00";" - - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle ";;
+"null";;"                   su oranı % 52'yi geçen  fakat % 62 ' yi geçmeyenler";"-";200
+"null";"0406.90.92.00.00";" - - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle ";;
+"null";;"                    su oranı % 62'yi geçen fakat % 72'yi geçmeyenler ";"-";200
+"null";"0406.90.93.00.00";" - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle ";;
+"null";;"               su oranı % 72'yi geçenler   ";"-";200
+"null";;" - - - - - Diğerleri";;
+"null";"0406.90.99.00.11";" - - - - - - Cester, Parmezan, Felemenk ve benzeri peynirler";"-";200
+"null";"0406.90.99.00.12";" - - - - - - Dil peyniri";"-";200
+"null";"0406.90.99.00.19";" - - - - - - Diğerleri";"-";200
+"null";;;;
+"null";"0407.00";"Kuş ve kümes hayvanlarının yumurtaları (kabuklu,taze,dayanıklı";;
+"null";"";"hale getirilmiş veya pişirilmiş):";;
+"null";;" - Kuluçkalık yumurtalar:";;
+"null";"0407.11";" - - Tavuk yumurtaları (Gallus domesticus türü):";;
+"null";;" - - - Damızlık olanlar:";;
+"null";"0407.11.00.10.11";" - - - - Yumurtalık ebeveyn yumurtalar";"Adet";30
+"null";"0407.11.00.10.12";" - - - - Etlik ebeveyn yumurtalar";"Adet";30
+"null";"0407.11.00.10.19";" - - - - Diğerleri";"Adet";30
+"null";;" - - - Damızlık olmayanlar:";;
+"null";"0407.11.00.90.11";" - - - - Yumurtalık yumurtalar";"Adet";85
+"null";"0407.11.00.90.12";" - - - - Etlik yumurtalar";"Adet";85
+"null";"0407.11.00.90.19";" - - - - Diğerleri";"Adet";85
+"null";"0407.19";" - - Diğerleri:";;
+"null";;" - - - Tavuk (Gallus domesticus türü) haricinde kalan ";;
+"null";;"        kümes hayvanlarının yumurtaları:";;
+"null";;" - - - - Hindi veya kazlara ait olanlar:";;
+"null";;" - - - - - Damızlık olanlar";;
+"null";"0407.19.11.10.11";" - - - - - - Hindi yumurtası";"Adet";30
+"null";"0407.19.11.10.19";" - - - - - - Diğerleri";"Adet";30
+"null";;" - - - - - Damızlık olmayanlar";;
+"null";"0407.19.11.90.11";" - - - - - - Hindi yumurtası";"Adet";30
+"null";"0407.19.11.90.19";" - - - - - - Diğerleri";"Adet";85
+"null";;" - - - - Diğerleri:";;
+"null";"0407.19.19.00.11";" - - - - - Damızlık olanlar";"Adet";30
+"null";"0407.19.19.00.19";" - - - - - Damızlık olmayanlar";"Adet";85
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Damızlk olanlar:";;
+"null";"0407.19.90.10.11";" - - - - - Devekuşu yumurtaları";" Adet";30
+"null";"0407.19.90.10.19";" - - - - - Diğerleri";" Adet";30
+"null";;" - - - - Damızlk olmayanlar:";;
+"null";"0407.19.90.90.11";" - - - - - Devekuşu yumurtaları";"Adet";85
+"null";"0407.19.90.90.19";" - - - - - Diğerleri";"Adet";85
+"null";;" - Diğer taze yumurtalar:";;
+"null";"0407.21.00.00.00";" - - Tavuk yumurtaları (Gallus domesticus türü)";"1000 Adet";85
+"null";;" - - Diğerleri:";;
+"null";"0407.29.10.00.00";" - - - Tavuk (Gallus domesticus türü) haricinde kalan ";;
+"null";;"        kümes hayvanlarının yumurtaları:";"1000 Adet";85
+"null";"0407.29.90.00.00";" - - - Diğerleri";"Adet";85
+"null";"0407.90";" - Diğerleri:";;
+"null";"0407.90.10.00.00";" - - Kümes hayvanlarının yumurtaları";"1000 Adet";85
+"null";"0407.90.90.00.00";" - - Diğerleri";"Adet";85
+"null";;;;
+"null";;;;
+"null";"04.08";"Kuş ve kümes hayvanlarının kabuksuz yumurtaları ve yumurta ";;
+"null";"";"sarıları (taze,kurutulmuş,buharla veya kaynar su ile pişirilmiş,ka-";;
+"null";;"lıplanmış,dondurulmuş veya diğer bir şekilde dayanıklılığı artırıl-";;
+"null";;"mış) (ilave şeker veya diğer tatlandırıcı maddeler içersin içermesin):";;
+"null";;" - Yumurta sarıları:";;
+"null";"0408.11";" - - Kurutulmuş:";;
+"null";"0408.11.20.00.00";" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar";"-";59
+"null";"0408.11.80.00.00";" - - - Diğerleri";"-";59
+"null";"0408.19";" - - Diğerleri:";;
+"null";"0408.19.20.00.00";" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar";"-";59
+"null";;" - - - Diğerleri:";;
+"null";"0408.19.81.00.00";" - - - - Sıvı halde";"-";59
+"null";"0408.19.89.00.00";" - - - - Dondurulmuş";"-";59
+"null";;" - Diğerleri:";;
+"null";"0408.91";" - - Kurutulmuş:";;
+"null";"0408.91.20.00.00";" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar";"-";59
+"null";"0408.91.80.00.00";" - - - Diğerleri";"-";59
+"null";"0408.99";" - - Diğerleri:";;
+"null";"0408.99.20.00.00";" - - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar";"-";59
+"null";"0408.99.80.00.00";" - - - Diğerleri";"-";59
+"null";;" ";;
+"null";"0409.00";"Tabii bal :";;" "
+"null";"0409.00.00.00.11";"- Petek bal";"-";50
+"null";"0409.00.00.00.12";"- Süzme bal";"-";50
+"null";;;;
+"null";"04.10";"Böcekler ve tarifenin başka yerinde belirtilmeyen veya yer almayan ";;
+"null";;"hayvansal menşeli yenilen diğer ürünler";;" "
+"null";"0410.10";" - Böcekler:";;
+"null";"0410.10.10.00.00";" - - Taze, soğutulmuş veya dondurulmuş";"-";30
+"null";;" - - Diğerleri:";;
+"null";"0410.10.91.00.00";" - - - Et veya sakatatın yenilebilen un ve kaba unları";"-";30
+"null";"0410.10.99.00.00";" - - - Diğerleri";"-";30
+"null";"0410.90";" - Diğerleri:";;
+"null";"0410.90.00.00.11";"- - Kablumbağa yumurtaları";"-";30
+"null";"0410.90.00.00.12";"- - Salyangoz kabuğu unu";"-";30
+"null";"0410.90.00.00.13";"- - Arı sütü";"-";30
+"null";"0410.90.00.00.19";"- - Diğerleri";"-";30

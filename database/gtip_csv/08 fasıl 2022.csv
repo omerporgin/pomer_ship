@@ -1,0 +1,267 @@
+﻿"null";"08.01";"Hindistan cevizi, Brezilya cevizi ve Kaju cevizi ( taze veya kuru -";;
+"null";;" tulmuş) (kabuğu çıkarılmış veya kabuğu soyulmuş olsun olmasın):";;
+"null";;" - Hindistan cevizi:";;
+"null";"0801.11.00.00.00";" - - Kurutulmuş";"-";75
+"null";"0801.12.00.00.00";" - - İç kabuklu (endokarp)";"-";75
+"null";"0801.19.00.00.00";" - - Diğerleri";"-";75
+"null";;" - Brezilya cevizi :";;
+"null";"0801.21.00.00.00";" - - Kabuklu";"-";75
+"null";"0801.22.00.00.00";" - - Kabuksuz ";"-";75
+"null";;" - Kaju cevizi :";;
+"null";"0801.31.00.00.00";" - - Kabuklu ";"-";75
+"null";"0801.32.00.00.00";" - - Kabuksuz";"-";75
+"null";;;;
+"null";"08.02";"Diğer sert kabuklu meyvalar (taze veya kurutulmuş)(kabuğu çıkarıl -";;
+"null";;"mış veya soyulmuş olsun olmasın): ";;
+"null";;" - Bademler:";;
+"null";"0802.11";" - - Kabuklu:";;
+"null";"0802.11.10.00.00";" - - - Acı bademler";"-";48
+"null";"0802.11.90.00.00";" - - - Diğerleri";"-";48
+"null";"0802.12";" - - Kabuksuz:";;
+"null";"0802.12.10.00.00";" - - - Acı bademler";"-";48
+"null";"0802.12.90.00.00";" - - - Diğerleri";"-";48
+"null";;" - Fındıklar veya filbert (Corylus spp.):";;
+"null";"0802.21.00.00.00";" - - Kabuklu";"-";48
+"null";"0802.22.00.00.00";" - - Kabuksuz";"-";48
+"null";;" - Cevizler:";;
+"null";"0802.31.00.00.00";" - - Kabuklu";"-";48
+"null";"0802.32.00.00.00";" - - Kabuksuz";"-";48
+"null";;" - Kestane (Castanea Spp.):";;
+"null";"0802.41.00.00.00";" - - Kabuklu";"-";48
+"null";"0802.42.00.00.00";" - - Kabuksuz";"-";48
+"null";;" - Antep fıstığı:";;
+"null";"0802.51.00.00.00";" - - Kabuklu";"-";48
+"null";"0802.52.00.00.00";" - - Kabuksuz";"-";48
+"null";;" - Avustralya fındığı (Makadamya cevizi):";;
+"null";"0802.61.00.00.00";" - - Kabuklu";"-";48
+"null";"0802.62.00.00.00";" - - Kabuksuz";"-";48
+"null";"0802.70.00.00.00";" - Kola Cevizi (Cola spp.)";"-";48
+"null";"0802.80.00.00.00";" - Arek cevizi";"-";48
+"null";;" - Diğerleri:";;
+"null";"0802.91.00.00.00";" - - Çam fıstığı (kabuklu)";"-";48
+"null";"0802.92.00.00.00";" - - Çam fıstığı (kabuksuz)";"-";48
+"null";"0802.99";" - - Diğerleri:";;
+"null";"0802.99.10.00.00";" - - - Pekan cevizi";"-";48
+"null";"0802.99.90.00.00";" - - - Diğerleri";"-";48
+"null";;;;
+"null";"08.03";"Muz (plantain dahil) (taze veya kurutulmuş):";;
+"null";"0803.10";" - Plantain:";;
+"null";"0803.10.10.00.00";" - - Taze";"-";162
+"null";"0803.10.90.00.00";" - - Kurutulmuş";"-";162
+"null";"0803.90";" - Diğerleri:";;
+"null";"0803.90.10.00.00";" - - Taze";"-";162
+"null";"0803.90.90.00.00";" - - Kurutulmuş";"-";162
+"null";"08.04";"Hurma, incir, ananas, Avokado armudu, Guava armudu,mango ";;
+"null";;"ve mangost (taze veya kurutulmuş):";;
+"null";"0804.10.00.00.00";" - Hurma";"-";75
+"null";"0804.20";" - İncir:";;
+"null";"0804.20.10.00.00";" - - Taze";"-";51
+"null";;" - - Kurutulmuş:";;
+"null";"0804.20.90.00.11";" - - - Ezme";"-";51
+"null";"0804.20.90.00.19";" - - - Diğerleri";"-";51
+"null";"0804.30.00.00.00";" - Ananas";"-";75
+"null";"0804.40.00.00.00";" - Avokado armudu ";"-";75
+"null";"0804.50";" - Guava armudu, mango ve mangost";;
+"null";"0804.50.00.00.11";" - - Mango";"-";75
+"null";"0804.50.00.00.19";" - - Diğerleri";"-";75
+"null";;;;
+"null";"08.05";"Turunçgiller (taze veya kurutulmuş) :";;
+"null";"0805.10";" - Portakal:";;
+"null";;" - - Tatlı, taze:";;
+"null";"0805.10.22.00.00";" - - - Navel (göbekli) portakallar";"-";60
+"null";"0805.10.24.00.00";" - - - Beyaz portakallar";"-";60
+"null";"0805.10.28.00.00";" - - - Diğerleri";"-";60
+"null";"0805.10.80.00.00";" - - Diğerleri ";"-";60
+"null";;" - Mandarin (tanjerin ve satsuma dahil); klemantin,vilking ve";;
+"null";;"   benzeri turunçgil melezleri:";;
+"null";"0805.21";" - - Mandarinler (Tanjerin ve Satsumalar dahil): ";;
+"null";"0805.21.10.00.00";" - - - Satsuma";"-";60
+"null";"0805.21.90.00.00";" - - - Diğerleri";"-";60
+"null";"0805.22.00.00.00";" - - Klemantin";"-";60
+"null";"0805.29.00.00.00";" - - Diğerleri";"-";60
+"null";"0805.40.00.00.00";" - Greyfurt ve pomelolar";"-";60
+"null";;;;
+"null";"0805.50";" - Limon (Citrus limon, Citrus limonum) ve tatlı limonlar";;
+"null";;"   (Citrus aurantifolia, Citrus latifolia):";;
+"null";"0805.50.10.00.00";" - - Limon (Citrus limon, Citrus limonum)";"-";60
+"null";"0805.50.90.00.00";" - - Tatlı limonlar (Citrus aurantifolia, Citrus latifolia)";"-";60
+"null";"0805.90";" - Diğerleri";;
+"null";"0805.90.00.00.11";" - - Diğer taze turunçgiller";"-";60
+"null";"0805.90.00.00.12";" - - Diğer kurutulmuş turunçgiller";"-";60
+"null";;;;
+"null";"08.06";"Üzümler (taze veya kurutulmuş):";;
+"null";"0806.10";" - Taze";;
+"null";"0806.10.10.00.00";" - - Sofralık";"-";61
+"null";"0806.10.90.00.00";" - - Diğerleri";"-";61
+"null";"0806.20";" - Kurutulmuş:";;" "
+"null";"0806.20.10.00.00";" - - Korint üzümü";"-";61
+"null";"0806.20.30.00.00";" - - Sultani üzümü";"-";61
+"null";"0806.20.90.00.00";" - - Diğerleri";"-";61
+"null";;;;
+"null";"08.07";"Kavunlar (karpuzlar dahil) ve papaya (taze):";;
+"null";;" - Kavunlar (karpuzlar dahil):";;
+"null";"0807.11.00.00.00";" - - Karpuzlar";"-";96
+"null";"0807.19.00.00.00";" - - Diğerleri";"-";96
+"null";"0807.20.00.00.00";" - Papaya";"-";96
+"null";;;;
+"null";"08.08";"Elma, armut ve ayva (taze):";;
+"null";"0808.10";" - Elma :";;
+"null";"0808.10.10.00.00";" - - Şaraplık elmalar, yığın halinde, 16 Eylül'den 15 Aralık'a kadar";"-";67
+"null";;" - - Diğerleri : ";;
+"null";"0808.10.80.00.11";" - - - Golden cinsi";"-";67
+"null";"0808.10.80.00.13";" - - - Starking elma";"-";67
+"null";"0808.10.80.00.14";" - - - Starkrimson elma";"-";67
+"null";"0808.10.80.00.19";" - - - Diğerleri";"-";67
+"null";"0808.30";" - Armut:";;
+"null";"0808.30.10.00.00";" - - Şaraplık armut, yığın halinde, 1 Ağustos'tan 31 Aralık'a kadar";"-";67
+"null";"0808.30.90.00.00";" - - Diğerleri";"-";67
+"null";"0808.40.00.00.00";" - Ayva";"-";67
+"null";;;;
+"null";"08.09";"Kayısı, kiraz, şeftali (nektarin dahil), erik ve çakal eriği (taze):";;
+"null";"0809.10.00.00.00";" - Kayısı (zerdali dahil)";"-";62
+"null";;" - Kiraz (vişne dahil) :";;
+"null";"0809.21.00.00.00";" - - Vişne (Prunus cerasus)";"-";62
+"null";"0809.29.00.00.00";" - - Diğerleri";"-";62
+"null";"0809.30";" - Şeftali (nektarin dahil) :";;
+"null";"0809.30.10.00.00";" - - Nektarinler";"-";62
+"null";"0809.30.90.00.00";" - - Diğerleri";"-";62
+"null";"0809.40";" - Erik ve çakal eriği:";;
+"null";;" - - Erik ";;
+"null";"0809.40.05.00.11";" - - -  Can eriği";"-";62
+"null";"0809.40.05.00.12";" - - -  Malta eriği (yeni dünya)";"-";62
+"null";"0809.40.05.00.13";" - - -  Mürdüm eriği";"-";62
+"null";"0809.40.05.00.19";" - - -  Diğer erikler";"-";62
+"null";"0809.40.90.00.00";" - - Çakal eriği";"-";62
+"null";;;;
+"null";"08.10";"Diğer meyveler (taze):";;
+"null";"0810.10.00.00.00";" - Çilek ";"-";62
+"null";"0810.20";" - Ahududu, böğürtlen, dut, loganberiler:";;
+"null";"0810.20.10.00.00";" - - Ahududu";"-";62
+"null";"0810.20.90.00.00";" - - Diğerleri";"-";62
+"null";"0810.30";" - Siyah, beyaz veya kırmızı Frenk üzümü ve Bektaşi üzümü :";;
+"null";"0810.30.10.00.00";" - - Siyah Frenk üzümü";"-";62
+"null";"0810.30.30.00.00";" - - Kırmızı Frenk üzümü";"-";62
+"null";"0810.30.90.00.00";" - - Diğerleri";"-";62
+"null";"0810.40";" - Yaban mersini ve yaban mersinin diğer kültür cinsleri :";;
+"null";"0810.40.10.00.00";" - - Noktalı kırmızı yaban mersinleri (Vaccinium  vitis-idea türü meyve)";"-";62
+"null";"0810.40.30.00.00";" - - Adi yaban mersini (Vaccinium myrtillus)";"-";62
+"null";"0810.40.50.00.00";" - - İri meyvalı bataklık yaban mersini ( Vaccinium macrocarpan)";;
+"null";;"      ve bataklık yaban mersini (Vaccinium corymbosum)";"-";62
+"null";"0810.40.90.00.00";" - - Diğerleri";"-";62
+"null";"0810.50.00.00.00";" - Kivi";"-";62
+"null";"0810.60.00.00.00";" - Durian";"-";62
+"null";"0810.70.00.00.00";" -  Persimmon (Trabzon hurması)";"-";62
+"null";"0810.90";" - Diğerleri:";;
+"null";;" - - Demirhindi, mahun elması,  ""lychees"", ekmek ağacı meyvesi,";;
+"null";;"      sapodillo meyvesi, çarkıfelek meyvesi, karambola ve pitahaya";;
+"null";"0810.90.20.00.11";" - - - Demirhindi, mahun elması,  ""lychees"", ekmek ağacı meyvesi, sapodillo meyvesi";"-";62
+"null";"0810.90.20.00.12";" - - - Çarkıfelek meyvesi, karambola ve pitahaya";"-";62
+"null";;" - - Diğerleri";;
+"null";"0810.90.75.00.11";" - - - Nar";"-";62
+"null";"0810.90.75.00.12";" - - - Muşmula";"-";62
+"null";"0810.90.75.00.13";" - - - Kuşburnu";"-";62
+"null";"0810.90.75.00.17";" - - - Diğerleri";"-";62
+"null";;;;
+"null";"08.11";"Meyveler ve sert kabuklu meyveler (pişirilmemiş veya buharda ";;
+"null";;"veya suda kaynatılarak pişirilmiş, dondurulmuş) (ilave şeker veya ";;
+"null";;"diğer tatlandırıcı maddeler katılmış olsun olmasın):";;
+"null";"0811.10";" - Çilek:";;
+"null";;" - - İlave şeker veya diğer tatlandırıcı maddeleri içerenler :";;
+"null";"0811.10.11.00.00";" - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler";"-";75
+"null";"0811.10.19.00.00";" - - - Diğerleri";"-";75
+"null";"0811.10.90.00.00";" - - Diğerleri";"-";20
+"null";"0811.20";" - Ahududu, böğürtlen, dut, loganberrier(bir çeşit böğürtlen), siyah, beyaz ve kırmızı";;
+"null";;"   Frenk üzümü ve Bektaşi üzümü:";;
+"null";;" - - İlave şeker veya diğer tatlandırıcı maddeleri içerenler :";;
+"null";"0811.20.11.00.00";" - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler";"-";75
+"null";"0811.20.19.00.00";" - - - Diğerleri";"-";75
+"null";;" - - Diğerleri:";;
+"null";"0811.20.31.00.00";" - - - Ahududu";"-";20
+"null";"0811.20.39.00.00";" - - - Siyah Frenk üzümü";"-";20
+"null";"0811.20.51.00.00";" - - - Kırmızı Frenk üzümü";"-";20
+"null";"0811.20.59.00.00";" - - - Böğürtlen, dut ve loganberrier";"-";20
+"null";"0811.20.90.00.00";" - - - Diğerleri";"-";20
+"null";"0811.90";" - Diğerleri :";;
+"null";;" - - İlave şeker veya diğer tatlandırıcı maddeleri içerenler:";;
+"null";;" - - - Şeker oranı ağırlık itibariyle % 13'ü geçenler :";;
+"null";"0811.90.11.00.00";" - - - - Tropikal meyveler ve sert kabuklu tropikal meyveler";"-";75
+"null";"0811.90.19.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - - Diğerleri :";;
+"null";"0811.90.31.00.00";" - - - - Tropikal meyveler ve sert kabuklu tropikal meyveler";"-";75
+"null";"0811.90.39.00.00";" - - - - Diğerleri";"-";75
+"null";;" - - Diğerleri:";;
+"null";"0811.90.50.00.00";" - - - Adi yaban mersini";"-";20
+"null";"0811.90.70.00.00";" - - - Vaccinium myrtilloides ve Vaccinium angustifolium türü meyvalar";"-";20
+"null";;" - - - Kiraz (vişne dahil) :";;
+"null";"0811.90.75.00.00";" - - - - Vişne (Prunus cerasus)";"-";20
+"null";"0811.90.80.00.00";" - - - - Diğerleri";"-";20
+"null";"0811.90.85.00.00";" - - - Tropikal meyveler ve sert kabuklu tropikal meyveler";"-";20
+"null";;" - - - Diğerleri";;" "
+"null";"0811.90.95.00.11";" - - - - Erik";"-";20
+"null";"0811.90.95.00.12";" - - - - Kayısı (zerdali dahil)";"-";20
+"null";"0811.90.95.00.13";" - - - - Şeftali";"-";20
+"null";"0811.90.95.00.14";" - - - - Elma";"-";20
+"null";"0811.90.95.00.15";" - - - - Üzüm";"-";20
+"null";"0811.90.95.00.19";" - - - - Diğerleri";"-";20
+"null";;;;
+"null";"08.12";"Geçici olarak konserve edilmiş fakat bu halleri ile derhal yenilmeye elverişli";;
+"null";;"olmayan meyveler ve sert kabuklu meyveler";;
+"null";"0812.10.00.00.00";" - Kiraz (vişne dahil)";"-";20
+"null";"0812.90";" - Diğerleri:";;
+"null";"0812.90.25.00.00";" - - Kayısı (zerdali dahil), Portakal";"-";20
+"null";"0812.90.30.00.00";" - - Papaya";"-";20
+"null";"0812.90.40.00.00";" - - Adi yaban mersini";"-";20
+"null";"0812.90.70.00.00";" - - Guava, mango, mangost, demirhindi, mahun elması, ''lychees'',ekmek ";;
+"null";;"      ağacı meyvesi, sapodillo eriği, çarkıfelek meyvesi, Karambola, pitaha-";;
+"null";;"      ya ve sert kabuklu tropikal meyveler";"-";20
+"null";;" - - Diğerleri";;
+"null";"0812.90.98.00.11";" - - - Şeftali";"-";20
+"null";"0812.90.98.00.12";" - - - Erik";"-";20
+"null";"0812.90.98.00.13";" - - - Elma";"-";20
+"null";"0812.90.98.00.14";" - - - Turunç";"-";20
+"null";"0812.90.98.00.15";" - - - Çilek";"-";20
+"null";"0812.90.98.00.16";" - - - Siyah Frenk üzümü";"-";20
+"null";"0812.90.98.00.17";" - - - Ahududu";"-";20
+"null";"0812.90.98.00.18";" - - - Diğerleri";"-";20
+"null";;;;
+"null";"08.13";"Meyveler (kurutulmuş) (08.01 ila 08.06 pozisyonlarındakiler hariç); bu fasıldaki sert";;
+"null";;"kabuklu meyvaların veya kurutulmuş meyvaların birbirleriyle olan karışımları:";;
+"null";"0813.10.00.00.00";" - Kayısı (zerdali dahil)";"-";48
+"null";"0813.20.00.00.00";" - Erik";"-";48
+"null";"0813.30.00.00.00";" - Elma";"-";48
+"null";"0813.40";" - Diğer meyveler:";;
+"null";"0813.40.10.00.00";" - - Şeftali (nektarinler dahil)";"-";20
+"null";"0813.40.30.00.00";" - - Armut";"-";20
+"null";"0813.40.50.00.00";" - - Papaya";"-";20
+"null";"0813.40.65.00.00";" - - Demir hindi, mahun elması, ''lychees'', ekmek ağacı meyvesi, sapadillo eriği, çarkıfelek";;
+"null";;"      meyvesi, karambola ve pitahaya";"-";20
+"null";;" - - Diğerleri";;
+"null";"0813.40.95.00.11";" - - - Dut";"-";20
+"null";"0813.40.95.00.12";" - - - Ayva";"-";20
+"null";"0813.40.95.00.19";" - - - Diğerleri";"-";20
+"null";"0813.50";" - Bu fasıldaki sert kabuklu meyvaların veya kurutulmuş meyva-";;
+"null";;"   lerin birbirleriyle olan karışımları:";;
+"null";;" - - Kurutulmuş meyvaların karışımları (08.01 ila 08.06 pozisyonların-";;
+"null";;"      dakiler hariç):";;
+"null";;" - - - Eriksiz olanlar :";;
+"null";"0813.50.12.00.00";" - - - - Papaya, demirhindi,mahun elması,''lychees'', ekmek ağacı mey -";;
+"null";;"          vesi, sapadillo eriği ,çarkıfelek meyvesi, Karambola ve pitahaya ";;
+"null";;"          içerenler";"-";42
+"null";"0813.50.15.00.00";" - - - - Diğerleri";"-";42
+"null";"0813.50.19.00.00";" - - - Erikli olanlar";"-";42
+"null";;" - - Sadece 08.01 ve 08.02 pozisyonlarındaki kabuklu kurutulmuş mey-";;
+"null";;"      vaların karışımları:";;
+"null";;" - - - Sert kabuklu tropikal meyvelerden:";;
+"null";"0813.50.31.10.00";" - - - - Hindistan cevizi, Brezilya cevizi ve Kaju cevizi içerenler";"-";75
+"null";"0813.50.31.90.00";" - - - - Diğerleri";"-";42
+"null";"0813.50.39.00.00";" - - - Diğerleri";"-";42
+"null";" ";" - - Diğer karışımlar:";" ";
+"null";"0813.50.91.00.00";" - - - Erik veya incir içermeyenler";"-";42
+"null";;" - - - Diğerleri:";;
+"null";"0813.50.99.10.00";" - - - - Hurma, muz, ananas, Avakado armudu, mango, mangost içerenler";"-";75
+"null";"0813.50.99.90.00";" - - - -Diğerleri";"-";42
+"null";;;;
+"null";"0814.00.00.00.00";"Turunçgillerin veya kavunların (karpuzlar dahil) kabukları (taze,";;
+"null";;"dondurulmuş, kurutulmuş veya salamurada, kükürtlü su içinde";;
+"null";;"veya diğer koruyucu eriyikler  içinde geçici olarak konserve ";;
+"null";;"edilmiş)";"-";20

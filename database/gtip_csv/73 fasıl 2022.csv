@@ -1,0 +1,694 @@
+﻿"null";"73.01";"Demir veya çelikten palplanşlar (delinmiş veya birleştirilmiş parçalardan";;
+"null";;"yapılmış olsun olmasın); demir veya çelikten kaynak yapılmış profiller:";;
+"null";"7301.10";" - Palplanşlar";;
+"null";"7301.10.00.00.11";" - - Çatılmış palplanşlar";"-";30
+"null";"7301.10.00.00.12";" - - Çatılmamış palplanşlar";"-";30
+"null";"7301.20.00.00.00";" - Profiller";"-";40
+"null";;;;
+"null";"73.02";"Demir veya çelikten demiryolu ve tramvay hattı malzemesi; raylar,";;
+"null";;"kontrraylar, makas dilleri, makas göbekleri, kruvazman ve makaslar,";;
+"null";;"gergi çubukları, dişli raylar, traversler, cebireler, yastık ve köşelikler,";;
+"null";;"seletler, sıkıştırma levhaları ve kramponlar, rayların döşenmesi, eklen-";;
+"null";;"mesi veya sabitleştirilmesi için bağlantı levha ve çubukları ile özel ";;
+"null";;"olarak imal edilmiş diğer parçalar:";;
+"null";"7302.10";" - Raylar:";;
+"null";"7302.10.10.00.00";" - - Elektrik iletici raylar (demirli olmayan metal aksamı ile birlikte)";"-";25
+"null";;" - - Diğerleri: ";;
+"null";;" - - - Yeni olanlar:";;
+"null";;" - - - - Yassı tabanlı simetrik demiryolu rayları:";;
+"null";"7302.10.22.00.00";" - - - - - Bir metresinin ağırlığı 36 kg. veya daha fazla olanlar ";"-";25
+"null";"7302.10.28.00.00";" - - - - - Bir metresinin ağırlığı 36 kg. dan az olanlar ";"-";25
+"null";"7302.10.40.00.00";" - - - - Oluklu raylar";"-";25
+"null";"7302.10.50.00.00";" - - - - Diğerleri";"-";25
+"null";"7302.10.90.00.00";" - - - Kullanılmış olanlar ";"-";25
+"null";"7302.30.00.00.00";" - Makas dilleri, makas göbeği, diğer kruvazman ve makas elemanları";"-";25
+"null";"7302.40";" - Cebireler ve seletler:";;
+"null";"7302.40.00.00.11";" - - Haddelenmiş ";"-";25
+"null";"7302.40.00.00.19";" - - Diğerleri";"-";25
+"null";"7302.90";" - Diğerleri:";;
+"null";"7302.90.00.10.00";" - -Kontr -raylar";"-";25
+"null";"7302.90.00.20.00";" - -Traversler ";"-";25
+"null";;" - - Diğerleri";;
+"null";"7302.90.00.90.11";" - - - Dişli raylar";"-";25
+"null";"7302.90.00.90.19";" - - - Diğer raylar";"-";25
+"null";"7302.90.00.90.29";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"7303.00";"Demir dökümden ince ve kalın borular, içi boş profiller:";;
+"null";;" - Basınç sistemlerinde kullanılacak türde olan ince ve kalın borular";;
+"null";"7303.00.10.00.11";" - - Çapı 200 mm. yi geçmeyen ince ve kalın borular";"-";30
+"null";"7303.00.10.00.12";" - - Çapı 200 mm. yi geçen ince ve kalın borular";"-";30
+"null";;" - Diğerleri";;
+"null";;" - - Çapı 200 mm. yi geçmeyen ince ve kalın borular";;
+"null";"7303.00.90.00.13";" - - - Lamel grafitli gri pik döküm borular";"-";30
+"null";"7303.00.90.00.14";" - - - Diğerleri";"-";30
+"null";;" - - Çapı 200 mm. yi geçen ince ve kalın borular";;
+"null";"7303.00.90.00.15";" - - - Lamel grafitli gri pik döküm borular";"-";30
+"null";"7303.00.90.00.16";" - - - Diğerleri";"-";30
+"null";"7303.00.90.00.19";" - - Diğerleri";"-";30
+"null";;;;
+"null";"73.04";"Demir (döküm demir hariç) ve çelikten ince ve kalın borular ve içi boş";;
+"null";;"profiller (dikişsiz):";;
+"null";;" - Gaz veya petrol boru hatlarında kullanılan ince ve kalın borular:";;
+"null";"7304.11.00.00.00";" - - Paslanmaz çelikten olanlar";"-";30
+"null";;" - - Diğerleri";;
+"null";;" - - - Dış capı 168,3 mm.yi geçmeyenler";;
+"null";"7304.19.10.00.11";" - - - - Dış çapı 73 mm. yi geçmeyenler";"-";30
+"null";"7304.19.10.00.12";" - - - - Dış çapı 73 mm. yi geçen, fakat 168,3 mm. yi geçmeyenler";"-";30
+"null";;" - - - Dış çapı 168,3 mm. yi geçen fakat 406,4 mm.yi geçmeyenler";;
+"null";"7304.19.30.00.11";" - - - - Dış çapı 168,3 mm. yi geçen, fakat 219 mm. yi geçmeyenler";"-";30
+"null";"7304.19.30.00.12";" - - - - Dış çapı 219 mm. yi geçen, fakat 406,4 mm. yi geçmeyenler";"-";30
+"null";"7304.19.90.00.00";" - - - Dış çapı 406,4 mm. yi geçenler";"-";30
+"null";;" - Gaz veya petrol sondajında, mahfaza veya üretiminde kullanılan";;
+"null";;"   boruIar:";;
+"null";"7304.22";" - - Paslanmaz çelikten sondaj boruları :";;
+"null";"7304.22.00.10.00";" - - - Borular";"-";30
+"null";"7304.22.00.90.00";" - - - Aksam ve parçalar";"-";15
+"null";"7304.23";" - - Diğer sondaj boruları :";;
+"null";"7304.23.00.10.00";" - - - Borular";"-";30
+"null";"7304.23.00.90.00";" - - - Aksam ve parçalar";"-";15
+"null";"7304.24";" - - Diğerleri, paslanmaz çelikten olanlar:";;
+"null";"7304.24.00.10.00";" - - - Borular";"-";30
+"null";"7304.24.00.90.00";" - - - Aksam ve parçalar";"-";15
+"null";"7304.29";" - - Diğerleri:";;
+"null";;" - - - Dış çapı 168,3 mm. yi geçmeyenler:";;
+"null";"7304.29.10.10.00";" - - - - Borular";"-";30
+"null";"7304.29.10.90.00";" - - - - Aksam ve parçalar";"-";15
+"null";;" - - - Dış çapı 168,3mm.yi geçen, fakat 406,4 mm.yi geçmeyenler:";;
+"null";;" - - - - Borular";;
+"null";"7304.29.30.10.11";" - - - - - Dış çapı 244,5 mm.yi geçmeyenler ";"-";30
+"null";"7304.29.30.10.12";" - - - - - Dış çapı 244,5 mm.yi geçen, fakat 406,4 mm.yi geçmeyenler";"-";30
+"null";"7304.29.30.90.00";" - - - - Aksam ve parçalar";"-";15
+"null";;" - - - Dış çapı 406,4 mm. yi geçenler:";;
+"null";"7304.29.90.10.00";" - - - - Borular";"-";30
+"null";"7304.29.90.90.00";" - - - - Aksam ve parçalar";"-";15
+"null";;" - Diğerleri (demirden veya alaşımsız çelikten, kesiti daire şeklinde";;
+"null";;"   olanlar):";;
+"null";"7304.31";" - - Soğuk çekilmiş veya soğuk haddelenmiş:";;
+"null";;" - - - Hassas borular";;
+"null";"7304.31.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların";;
+"null";;"        naklinde kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.31.20.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri ";;
+"null";"7304.31.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların";;
+"null";;"        naklinde kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.31.80.90.00";" - - - - Diğerleri:";"-";30
+"null";"7304.39";" - - Diğerleri:";;
+"null";;" - - - Diş açılmış veya diş açılabilen borular (gaz borusu)";;
+"null";"7304.39.50.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"       kullanılan türde olanlar (bağlantı parçası takılmış)";"-";30
+"null";"7304.39.50.90.00";" - - - - Diğerleri ";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Dış çapı 168,3 mm. yi geçmeyenler:";;
+"null";"7304.39.82.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"       kullanılan türde olanlar (bağlantı parçası takılmış)";"-";30
+"null";"7304.39.82.90.00";" - - - - - Diğerleri ";"-";30
+"null";;" - - - - Dış çapı 168,3 mm.yi geçen fakat 406,4 mm.yi geçmeyenler:";;
+"null";"7304.39.83.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"       kullanılan türde olanlar (bağlantı parçası takılmış)";"-";30
+"null";"7304.39.83.90.00";" - - - - - Diğerleri ";"-";30
+"null";;" - - - - Dış çapı 406,4 mm. yi geçenler:";;
+"null";"7304.39.88.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"       kullanılan türde olanlar (bağlantı parçası takılmış)";"-";30
+"null";;" - - - - - Diğerleri:";;
+"null";"7304.39.88.91.00";" - - - - - - Dış çapı 421 mm.yi ve et kalınlığı 10,5 mm.yi geçenler";"-";30
+"null";"7304.39.88.99.00";" - - - - - - Diğerleri";"-";30
+"null";;" - Diğerleri (paslanmaz çelikten, kesiti daire şeklinde olanlar):";;
+"null";"7304.41";" - - Soğuk çekilmiş veya soğuk haddelenmiş:";;
+"null";"7304.41.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde ";;
+"null";;"        kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.41.00.90.00";" - - - Diğerleri";"-";30
+"null";"7304.49";" - - Diğerleri:";;
+"null";"7304.49.83.00.00";" - - - Dış çapı 168,3 mm.yi geçmeyenler";"-";30
+"null";;" - - - Dış çapı 168,3 mm.yi geçen fakat 406,4 mm. yi geçmeyenler:";;
+"null";"7304.49.85.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7304.49.85.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Dış çapı 406,4 mm. yi geçenler:";;
+"null";"7304.49.89.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7304.49.89.90.00";" - - - - Diğerleri";"-";30
+"null";;" - Diğerleri (diğer alaşımlı çelikten kesiti daire şeklinde olanlar):";;
+"null";"7304.51";" - - Soğuk çekilmiş veya soğuk haddelenmiş:";;
+"null";"7304.51.10.00.00";" - - - Ağırlık itibariyle % 0,9 ila  % 1,15 karbon,  % 0,5 ila % 2 krom ve";;
+"null";;"        en fazla % 0,5 molibden içeren, düz ve et kalınlığı her yerinde aynı";;
+"null";;"        olan borular";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Hassas borular :";;
+"null";"7304.51.81.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"          kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.51.81.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"7304.51.89.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"          kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.51.89.90.00";" - - - - - Diğerleri";"-";30
+"null";"7304.59";" - - Diğerleri:";;
+"null";"7304.59.30.00.00";" - - - Ağırlık itibariyle % 0,9 ila % 1,15 karbon, % 0,5 ila % 2";;
+"null";;"        krom ve en fazla % 0,5 molibden içeren düz ve et kalınlığı her yerinde";;
+"null";;"        aynı olan borular";"-";30
+"null";;" - - -  Diğerleri:";;
+"null";;" - - - - Dış çapı 168,3 mm. yi geçmeyenler :";;
+"null";"7304.59.82.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.59.82.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Dış çapı 168,3 mm. yi geçen fakat 406,4 mm. yi geçmeyenler :";;
+"null";"7304.59.83.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.59.83.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Dış çapı 406,4 mm. yi geçenler :";;
+"null";"7304.59.89.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.59.89.90.00";" - - - - - Diğerleri";"-";30
+"null";"7304.90";" - Diğerleri:";;
+"null";"7304.90.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"      kullanılan türde olanlar (bağlantı parçaları takılmış) ";"-";30
+"null";"7304.90.00.90.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"73.05";"Demir veya çelikten diğer ince ve kalın borular (kaynaklı, perçinli veya";;
+"null";;"benzeri şekillerde kapatılmış) (iç ve dış kesitleri daire şeklinde olup,dış ";;
+"null";;"çapı 406,4 mm.yi geçenler):";;
+"null";;" - Gaz veya petrol boru hatlarında kullanılan ince ve kalın borular:";;
+"null";"7305.11.00.00.00";" - - Uzunlamasına toz altı ark kaynağı yapılmış olanlar";"-";30
+"null";"7305.12.00.00.00";" - - Diğerleri (uzunlamasına kaynak yapılmış olanlar)";"-";30
+"null";"7305.19.00.00.00";" - - Diğerleri";"-";30
+"null";"7305.20.00.00.00";" - Gaz veya petrol sondajında kullanılan mahfaza boruları";"-";30
+"null";;" - Diğerleri (kaynaklı):";;
+"null";"7305.31";" - - Uzunlamasına kaynak yapılmış olanlar:";;
+"null";"7305.31.00.10.00";" - - - Hidroelektrik tesislerde kullanılan basınca dayanıklı borular";"-";30
+"null";"7305.31.00.90.00";" - - - Diğerleri";"-";30
+"null";"7305.39";" - - Diğerleri:";;
+"null";"7305.39.00.10.00";" - - - Hidroelektrik tesislerde kullanılan basınca dayanıklı borular";"-";30
+"null";"7305.39.00.90.00";" - - - Diğerleri";"-";30
+"null";"7305.90";" - Diğerleri:";;
+"null";"7305.90.00.10.00";" - - Hidroelektrik tesislerde kullanılan basınca dayanıklı borular";"-";30
+"null";"7305.90.00.90.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"73.06";"Demir veya çelikten diğer ince ve kalın borular ve içi boş profiller";;
+"null";;"(örneğin açık dikiş veya kaynak yapılmış, perçin yapılmış veya benzeri";;
+"null";;"şekilleri kapatılmış) :";;
+"null";;" - Gaz veya petrol boru hatlarında kullanılan borular:";;
+"null";"7306.11.00.00.00";" - - Kaynaklı olanlar (paslanmaz çelikten)";"-";30
+"null";"7306.19.00.00.00";" - - Diğerleri";"-";30
+"null";;" - Gaz veya petrol sondajında kullanılan mahfaza veya üretim boruları";;
+"null";"7306.21.00.00.00";" - - Kaynaklı olanlar (paslanmaz çelikten)";"-";30
+"null";"7306.29.00.00.00";" - - Diğerleri";"-";30
+"null";"7306.30";" - Demir veya alaşımsız çelikten kesiti daire şeklinde olan diğerleri";;
+"null";;"   (kaynaklı):";;
+"null";;" - - Hassas borular:";;
+"null";;" - - - Soğuk çekilmiş veya soğuk haddelenmiş:";;
+"null";"7306.30.12.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde ";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.30.12.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7306.30.18.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde ";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.30.18.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Diş açılmış veya diş açılabilir borular (gaz boruları):";;
+"null";;" - - - - Çinko ile kaplanmış olanlar:";;
+"null";"7306.30.41.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde ";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.30.41.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"7306.30.49.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde ";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.30.49.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Dış çapı 168,3 mm. yi geçmeyenler:";;
+"null";;" - - - - - Çinko ile kaplanmış olanlar:";;
+"null";"7306.30.72.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde ";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.30.72.90.00";" - - - - - - Diğerleri";"-";30
+"null";;" - - - - - Diğerleri:";;
+"null";"7306.30.77.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde ";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.30.77.90.00";" - - - - - - Diğerleri";"-";30
+"null";;" - - - - Dış çapı 168,3 mm. yi geçen fakat 406,4 mm. yi geçmeyenler:";;
+"null";"7306.30.80.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde ";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.30.80.90.00";" - - - - - Diğerleri";"-";30
+"null";"7306.40";" - Paslanmaz çelikten kesiti daire şeklinde olan diğerleri (kaynaklı):";;
+"null";;" - - Soğuk çekilmiş veya soğuk haddelenmiş:";;
+"null";"7306.40.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"      kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.40.20.90.00";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7306.40.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"      kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.40.80.90.00";" - - - Diğerleri";"-";30
+"null";"7306.50";" - Diğer alaşımlı çeliklerden kesiti daire şeklinde olan diğerleri (kaynaklı):";;
+"null";;" - - Hassas borular:";;
+"null";;" - - - Soğuk çekilmiş veya soğuk haddelenmiş:";;
+"null";"7306.50.21.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"      kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.50.21.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7306.50.29.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"      kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.50.29.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7306.50.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"      kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.50.80.90.00";" - - - Diğerleri";"-";30
+"null";;" - Diğerleri, kesiti daire şeklinde olmayanlar (kaynaklı):";;
+"null";"7306.61";" - - Kesiti kare veya dikdörtgen şeklinde olanlar:";;
+"null";"7306.61.10.00.00";" - - - Paslanmaz çelikten olanlar";"-";30
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Et kalınlığı 2 mm. yi geçmeyenler:";;
+"null";"7306.61.92.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"          kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.61.92.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Et kalınlığı 2 mm. yi geçenler:";;
+"null";"7306.61.99.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"           kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.61.99.90.00";" - - - - - Diğerleri";"-";30
+"null";"7306.69";" - - Kesiti daire şeklinde olmayan diğerleri:";;
+"null";;" - - - Paslanmaz çelikten olanlar:";;
+"null";"7306.69.10.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"      kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.69.10.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7306.69.90.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus, gaz ve sıvıların naklinde";;
+"null";;"      kullanılan türde olanlar (bağlantı parçaları takılmış)";"-";30
+"null";"7306.69.90.90.00";" - - - - Diğerleri";"-";30
+"null";"7306.90";" - Diğerleri:";;
+"null";"7306.90.00.00.11";" - - Hava kanalı";"-";30
+"null";"7306.90.00.00.12";" - - Tıbbi iğne yapımında kullanılanlar (Çapı 0,2 mm ila 3 mm)";"-";30
+"null";"7306.90.00.00.19";" - - Diğerleri";"-";30
+"null";;;;
+"null";"73.07";"Demir veya çelikten boru bağlantı parçaları (rakorlar, dirsekler ve";;
+"null";;"manşonlar gibi) :";;
+"null";;" - Döküm bağlantı parçaları:";;
+"null";"7307.11";" - - Dövülemeyen demir dökümden olanlar:";;
+"null";"7307.11.10.00.00";" - - - Basınç sistemlerinde kullanılan türde olanlar ";"-";30
+"null";"7307.11.90.00.00";" - - - Diğerleri ";"-";30
+"null";"7307.19";" - - Diğerleri:";;
+"null";"7307.19.10.00.00";" - - - Demir dökümden olanlar ";"-";30
+"null";"7307.19.90.00.00";" - - - Diğerleri ";"-";30
+"null";;" - Diğer (paslanmaz çelikten olanlar):";;
+"null";"7307.21.00.00.00";" - - Flanşlar";"-";30
+"null";"7307.22";" - - Dirsekler, kavisler ve manşonlar (diş açılmış):";;
+"null";"7307.22.10.00.00";" - - - Manşonlar";"-";30
+"null";" ";" - - - Dirsekler ve kavisler :";;
+"null";"7307.22.90.00.11";" - - - - Dirsekler";"-";30
+"null";"7307.22.90.00.12";" - - - - Kavisler";"-";30
+"null";"7307.23";" - - Uç uca kaynak yapılacak bağlantı parçaları:";;
+"null";;" - - - Dirsekler ve kavisler :";;
+"null";"7307.23.10.00.11";" - - - - Dirsekler ";"-";30
+"null";"7307.23.10.00.12";" - - - - Kavisler";"-";30
+"null";"7307.23.90.00.00";" - - - Diğerleri";"-";30
+"null";"7307.29";" - - Diğerleri:";;
+"null";"7307.29.10.00.00";" - - - Diş açılmış";"-";30
+"null";;" - - - Diğerleri :";;
+"null";"7307.29.80.00.11";" - - - - Rakorlar";"-";30
+"null";"7307.29.80.00.12";" - - - - Contalar";"-";30
+"null";"7307.29.80.00.19";" - - - - Diğerleri";"-";30
+"null";;" - Diğerleri:";;
+"null";"7307.91.00.00.00";" - - Flanşlar";"-";30
+"null";"7307.92";" - - Dirsek, kavis ve manşonlar (diş açılmış):";;
+"null";"7307.92.10.00.00";" - - - Manşonlar";"-";30
+"null";" ";" - - - Dirsekler ve kavisler :";;
+"null";"7307.92.90.00.11";" - - - - Dirsekler";"-";30
+"null";"7307.92.90.00.12";" - - - - Kavisler";"-";30
+"null";"7307.93";" - - Uç uca kaynak yapılacak bağlantı parçaları:";;
+"null";;" - - - En büyük dış çapı 609,6 mm. yi geçmeyenler:";;
+"null";" ";" - - - - Dirsek ve kavisler :";;
+"null";"7307.93.11.00.11";" - - - - - Dirsekler";"-";30
+"null";"7307.93.11.00.12";" - - - - - Kavisler";"-";30
+"null";"7307.93.19.00.00";" - - - - Diğerleri";"-";30
+"null";;" - - - En büyük dış çapı 609,6 mm. yi geçenler:";;
+"null";;" - - - - Dirsek ve kavisler :";;
+"null";"7307.93.91.00.11";" - - - - - Dirsekler";"-";30
+"null";"7307.93.91.00.12";" - - - - - Kavisler";"-";30
+"null";"7307.93.99.00.00";" - - - - Diğerleri";"-";30
+"null";"7307.99";" - - Diğerleri:";;
+"null";"7307.99.10.00.00";" - - - Diş açılmış";"-";30
+"null";" ";" - - - Diğerleri :";;
+"null";"7307.99.80.00.11";" - - - - Rakorlar";"-";30
+"null";"7307.99.80.00.12";" - - - - Contalar";"-";30
+"null";"7307.99.80.00.19";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"73.08";"Demir veya çelikten inşaat (94.06 pozisyonundaki prefabrik yapılar";;
+"null";;"hariç) ve inşaat aksamı (köprüler, köprü aksamı, bent kapakları, kuleler,";;
+"null";;"pilonlar, ayaklar, sütunlar, inşaat iskeleleri, çatılar, kapılar,";;
+"null";;"pencereler ve bunların çerçeveleri ve kapı eşikleri, kepenkler,";;
+"null";;"korkuluklar, parmaklıklar gibi); inşaatta kullanılmak üzere";;
+"null";;"hazırlanmış demir veya çelikten saclar, çubuklar, profiller, borular ve";;
+"null";;"benzerleri:";;
+"null";"7308.10.00.00.00";" - Köprüler ve köprü aksamı";"-";40
+"null";"7308.20.00.00.00";" - Kuleler ve pilonlar";"-";40
+"null";"7308.30";" - Kapılar, pencereler ve bunların çerçeveleri ile kapı eşikleri:";;
+"null";"7308.30.00.00.11";" - - Soğuk hava depolarına mahsus olanlar";"Adet (1)";40
+"null";"7308.30.00.00.19";" - - Diğerleri";"Adet (1)";40
+"null";"7308.40.00.00.00";" - İskele kurmaya ve kepenkle kapatmaya, destek vurmaya veya maden direkleri ";;
+"null";" ";"   yapmaya mahsus benzeri malzeme";"-";40
+"null";"7308.90";" - Diğerleri:";;
+"null";;" - - Sadece veya esasen sac halinde olanlar:";;
+"null";"7308.90.51.00.00";" - - - İzole edilmiş iki oluklu sacdan müteşekkil kaplamalıklar";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"7308.90.59.00.11";" - - - - İnşaat aksamı";"-";40
+"null";"7308.90.59.00.19";" - - - - Diğerleri";"-";40
+"null";;" - - Diğerleri:";;
+"null";"7308.90.98.00.12";" - - - İzole edilmiş tek veya çift cidarlı metalik doğalgaz baca sistemi  ";"-";40
+"null";"7308.90.98.00.13";" - - - Perfore Profiller";"-";40
+"null";"7308.90.98.00.15";" - - - Tek yönlü yaylı klape";"-";40
+"null";"7308.90.98.00.16";" - - - Sandviç panel";"-";40
+"null";"7308.90.98.00.18";" - - - Diğerleri";"-";40
+"null";;;;
+"null";"7309.00";"Her türlü madde için (sıkıştırılmış veya sıvılaştırılmış gaz hariç)";;
+"null";;"hacmi 300 litreyi geçen ve mekanik veya termik tertibatı olmayan demir";;
+"null";;"veya çelikten depolar, sarnıçlar, küvler ve benzeri kaplar (ısıyı izole";;
+"null";;"edici veya iç yüzeyleri kaplanmış olsun olmasın):";;
+"null";" ";" - Gazlar için (sıkıştırılmış veya sıvılaştırılmış gaz hariç) :";;
+"null";"7309.00.10.00.11";" - - Demir dökümden olanlar";"-";40
+"null";"7309.00.10.00.12";" - - Demir veya çelikten olanlar";"-";40
+"null";;" - Sıvılar için :";;
+"null";" ";" - - Isıyı izole edici veya iç yüzeyleri kaplanmış :";;
+"null";"7309.00.30.00.11";" - - - Demir dökümden olanlar";"-";40
+"null";"7309.00.30.00.12";" - - - Demir veya çelikten olanlar";"-";40
+"null";;" - - Diğerleri:";;
+"null";"7309.00.51.00.00";" - - - Hacmi 100.000 litreyi geçenler";"-";40
+"null";;" - - - Hacmi 100.000 litreyi geçmeyenler";;
+"null";"7309.00.59.00.11";" - - - - Demir dökümden olanlar";"-";40
+"null";"7309.00.59.00.12";" - - - - Demir veya çelikten olanlar";"-";40
+"null";" ";" - Katı maddeler için";;
+"null";"7309.00.90.00.11";" - - Demir dökümden olanlar";"-";40
+"null";"7309.00.90.00.12";" - - Demir veya çelikten olanlar";"-";40
+"null";;;;
+"null";"73.10";"Her türlü madde için (sıkıştırılmış veya sıvılaştırılmış gaz hariç)";;
+"null";;"hacmi 300 litreyi geçmeyen ve mekanik veya termik tertibatı olmayan";;
+"null";;"demir veya çelikten depolar, sarnıçlar, variller, fıçılar, kutular ve benzeri";;
+"null";;"kaplar (ısıyı izole edici veya iç yüzeyleri kaplanmış olsun olmasın):";;
+"null";"7310.10";" - Hacmi 50 litre veya daha fazla olanlar:";;
+"null";"7310.10.00.10.00";" - - Eşyanın naklinde veya ambalajlanmasında kullanılan kaplar";;
+"null";;"      (dökümle elde edilmiş)";"-";50
+"null";"7310.10.00.90.00";" - - Diğerleri";"-";40
+"null";;" - Hacmi 50 litreden az olanlar:";;
+"null";"7310.21";" - - Lehimlenerek veya kenarları kıvrılarak kapatılacak kutular:";;
+"null";"7310.21.11.00.00";" - - - Gıda için konserve kutuları";"-";40
+"null";"7310.21.19.00.00";" - - - İçecekler için konserve kutuları";"-";40
+"null";;" - - - Diğerleri:";;
+"null";"7310.21.91.00.00";" - - - - Sac ve levha kalınlığı 0,5 mm. den az olanlar";"-";40
+"null";"7310.21.99.00.00";" - - - - Sac ve levha kalınlığı 0,5 mm. veya daha fazla olanlar";"-";40
+"null";"7310.29";" - - Diğerleri:";;
+"null";"7310.29.10.00.00";" - - - Sac ve levha kalınlığı 0,5 mm. den az olanlar";"-";40
+"null";;" - - - Sac ve levha kalınlığı 0,5 mm. veya daha fazla olanlar:";;
+"null";"7310.29.90.10.00";" - - - - Eşyanın naklinde veya ambalajlanmasında kullanılan kaplar";;
+"null";;"          (dökümle elde edilmiş)";"-";50
+"null";"7310.29.90.90.00";" - - - - Diğerleri";"-";40
+"null";;;;
+"null";"7311.00";"Demir veya çelikten sıkıştırılmış veya sıvı hale getirilmiş gazlar için";;
+"null";;"kaplar:";;
+"null";;" - Dikişsiz:";;
+"null";;" - - 165 veya daha fazla atmosfer basıncına dayanıklı olanlar:";;
+"null";;" - - - 20 l'den az olanlar:";;
+"null";"7311.00.11.10.00";" - - - - 250 ve daha fazla atmosfer basıncına dayanıklı olanlar";"Adet";15
+"null";"7311.00.11.90.00";" - - - - Diğerleri";"Adet";30
+"null";;" - - - 20 l veya daha fazla ama, 50 l'den fazla olmayanlar:";;
+"null";"7311.00.13.10.00";" - - - - 250 ve daha fazla atmosfer basıncına dayanıklı olanlar";"Adet";15
+"null";"7311.00.13.90.00";" - - - - Diğerleri";"Adet";30
+"null";;" - - - 50 l'den fazla olanlar:";;
+"null";"7311.00.19.10.00";" - - - - 250 ve daha fazla atmosfer basıncına dayanıklı olanlar";"Adet";15
+"null";"7311.00.19.90.00";" - - - - Diğerleri";"Adet";30
+"null";"7311.00.30.00.00";" - - Diğerleri";"Adet";30
+"null";;" - Diğerleri:";;
+"null";;" - - Hacmi 1000 litreden az olanlar:";;
+"null";"7311.00.91.10.00";" - - - 250 ve daha fazla atmosfer basıncına dayanıklı olanlar";"-";15
+"null";"7311.00.91.90.00";" - - - Diğerleri";"-";30
+"null";;" - - Hacmi 1000 litre veya daha fazla olanlar:";;
+"null";"7311.00.99.10.00";" - - - 250 ve daha fazla atmosfer basıncına dayanıklı olanlar";"-";15
+"null";"7311.00.99.90.00";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"73.12";"Demir veya çelikten demetlenmiş teller (toron), halat ve kablolar,";;
+"null";;"örme halatlar, bucurgat halatları ve benzerleri (elektrik işlerinde";;
+"null";;"kullanılmak üzere izole edilmemiş):";;
+"null";"7312.10";" - Demir veya çelikten demetlenmiş teller (toron), halat ve kablolar:";;
+"null";"7312.10.20.00.00";" - - Paslanmaz çelikten";"-";35
+"null";;" - - Diğerleri:";;
+"null";;" - - - Enine kesitinin en geniş yeri 3 mm. yi geçmeyenler:";;
+"null";"7312.10.41.00.00";" - - - - Bakır-çinko alaşımları (pirinç) ile kaplanmış olanlar ";"-";35
+"null";"7312.10.49.00.00";" - - - - Diğerleri";"-";35
+"null";;" - - - Enine kesitinin en geniş yeri 3 mm. yi geçenler:";;
+"null";;" - - - - Demetlenmiş teller (toron):";;
+"null";"7312.10.61.00.00";" - - - - - Kaplanmamış";"-";35
+"null";;" - - - - - Kaplanmış:";;
+"null";"7312.10.65.00.00";" - - - - - - Çinko ile kaplanmış";"-";35
+"null";"7312.10.69.00.00";" - - - - - - Diğerleri";"-";35
+"null";;" - - - - Halatlar ve kablolar (kapalı halatlar dahil):";;
+"null";;" - - - - - Kaplanmamış veya sadece çinko ile kaplanmış:";;
+"null";"7312.10.81.00.00";" - - - - - - Enine kesitinin en geniş yeri 3 mm. yi geçen fakat 12 mm.yi ";;
+"null";;"                 geçmeyenler";"-";35
+"null";"7312.10.83.00.00";" - - - - - - Enine kesitinin en geniş yeri 12 mm. yi geçen fakat 24 mm.yi ";;
+"null";;"                 geçmeyenler";"-";35
+"null";"7312.10.85.00.00";" - - - - - - Enine kesitinin en geniş yeri 24 mm. yi geçen fakat 48 mm.yi ";;
+"null";;"                 geçmeyenler";"-";35
+"null";"7312.10.89.00.00";" - - - - - - Enine kesitinin en geniş yeri 48 mm. yi geçenler";"-";35
+"null";"7312.10.98.00.00";" - - - - - Diğerleri";"-";35
+"null";"7312.90.00.00.00";" - Diğerleri";"-";35
+"null";;;;
+"null";"7313.00";"Demir veya çelikten dikenli teller; demir veya çelikten çit yapmada";;
+"null";;"kullanılacak türde burulmuş çember veya yalınkat düz tel (dikenli olsun";;
+"null";;"olmasın) ve gevşekçe burulmuş çift katlı teller";;
+"null";"7313.00.00.00.11";"- Dikenli teller";"-";40
+"null";"7313.00.00.00.19";"- Diğerleri";"-";40
+"null";;;;
+"null";"73.14";"Demir veya çelik tellerden mensucat (sonsuz veya devamlı bantlar";;
+"null";;"dahil), ızgara, ağ ve kafeslikler; demir veya çelikten metal depluvayye:";;
+"null";;" - Dokunmuş mensucat (metal mensucat):";;
+"null";"7314.12.00.00.00";" - - Makinalar için paslanmaz çelikten sonsuz bandlar";"-";50
+"null";"7314.14.00.00.00";" - - Paslanmaz çelikten diğer dokunmuş mensucat";"-";50
+"null";"7314.19.00.00.00";" - - Diğerleri";"-";50
+"null";"7314.20";" - Izgara, ağ ve kafeslikler (kesişme noktalarına kaynak yapılmış) (enine";;
+"null";;"   kesitinin en geniş yeri 3 mm. veya daha fazla göz aralığı 100 cm2";;
+"null";;"   veya daha fazla olan tellerden):";;
+"null";;" - - Nervürlü telden olanlar :";;
+"null";"7314.20.10.00.11";" - - - Demir veya çelik tellerden örgüler";"-";50
+"null";"7314.20.10.00.12";" - - - Demir veya çelik tellerden kafeslikler";"-";50
+"null";"7314.20.10.00.19";" - - - Diğerleri";"-";50
+"null";"7314.20.90.00.00";" - - Diğerleri";"-";50
+"null";;" - Diğer ızgara, ağ ve kafeslikler (kesişme noktalarına kaynak yapılmış):";" ";
+"null";"7314.31.00.00.00";" - - Çinko ile kaplanmış olanlar";"-";50
+"null";"7314.39.00.00.00";" - - Diğerleri";"-";50
+"null";;" - Diğer metal mensucat, ızgara, ağ ve kafeslikler:";" ";
+"null";"7314.41.00.00.00";" - - Çinko ile kaplanmış olanlar";"-";50
+"null";"7314.42.00.00.00";" - - Plastik maddelerle kaplanmış olanlar";"-";50
+"null";"7314.49.00.00.00";" - - Diğerleri";"-";50
+"null";"7314.50.00.00.00";" - Metal depluvayye";"-";40
+"null";;;" ";
+"null";"73.15";"Demir veya çelikten zincirler ve aksamı:";" ";
+"null";;" - Mafsal halkalı zincirler ve aksamı:";" ";
+"null";"7315.11";" - - Makaralı zincirler:";" ";
+"null";"7315.11.10.00.00";" - - - Bisiklet ve motosikletler için transmisyon zincirleri";"-";50
+"null";" ";" - - - Diğerleri :";" ";" "
+"null";"7315.11.90.00.11";" - - - - Transmisyon zincirleri";"-";50
+"null";"7315.11.90.00.19";" - - - - Diğerleri";"-";50
+"null";"7315.12";" - - Diğer zincirler";" ";" "
+"null";"7315.12.00.00.11";" - - - Transmisyon zincirleri";"-";50
+"null";"7315.12.00.00.19";" - - - Diğerleri";"-";50
+"null";"7315.19.00.00.00";" - - Aksamlar";"-";50
+"null";"7315.20.00.00.00";" - Patinaj zincirleri";"-";50
+"null";;" - Diğer zincirler:";" ";
+"null";"7315.81.00.00.00";" - - Destekli halkalı zincirler";"-";50
+"null";"7315.82.00.00.00";" - - Diğerleri (kaynaklı halkalı)";"-";50
+"null";"7315.89.00.00.00";" - - Diğerleri";"-";50
+"null";"7315.90.00.00.00";" - Diğer aksamlar";"-";50
+"null";;;" ";
+"null";"7316.00";"Demir veya çelikten çapalar, filika demirleri ve bunların aksamları";" ";
+"null";"7316.00.00.00.11";"- Çapalar";"-";50
+"null";"7316.00.00.00.12";"- Filika demirleri";"-";50
+"null";"7316.00.00.00.13";"- Çapa ve filika demir aksamı";"-";50
+"null";;;" ";
+"null";"7317.00";"Demir veya çelikten küçük ve büyük çiviler, pünezler, oluklu ve yivli çivi-";" ";
+"null";;"ler (83.05 pozisyonundakiler hariç) ve benzeri eşya (başları diğer madde-";;
+"null";;"lerden olsun olmasın fakat başları bakırdan olanlar hariç):";;
+"null";;" - Tellerden soğuk presle elde edilmiş olanlar:";" ";
+"null";"7317.00.20.00.00";" - - Şerit veya rulo halinde küçük ve büyük çiviler";"-";60
+"null";"7317.00.60.00.00";" - - Diğerleri ";"-";60
+"null";" ";" - Diğerleri:";" ";
+"null";"7317.00.80.10.00";" - - Nal çivileri";"-";35
+"null";;" - - Diğerleri:";;
+"null";"7317.00.80.90.11";" - - - Karde makinaları teçhizatı için kard iğneleri";"-";60
+"null";"7317.00.80.90.12";" - - - Adi inşaat çivileri";"-";60
+"null";"7317.00.80.90.13";" - - - Oluklu ve yivli çiviler";"-";60
+"null";"7317.00.80.90.14";" - - - Çengelli çiviler";"-";60
+"null";"7317.00.80.90.19";" - - - Diğerleri";"-";60
+"null";;;" ";
+"null";"73.18";"Demir veya çelikten vidalar, civatalar, somunlar, tirfonlar, çengelli";" ";
+"null";;"vidalar, perçin çivileri, pimler, kamalar, rondelalar (yaylanmayı sağlayıcı";;
+"null";;"rondelalar dahil) ve benzeri eşya:";;
+"null";;" - Diş açılmış olanlar:";;
+"null";"7318.11.00.00.00";" - - Tirfonlar";"-";50
+"null";"7318.12";" - - Diğer ahşap vidaları:";" ";
+"null";"7318.12.10.00.00";" - - - Paslanmaz çelikten olanlar";"-";50
+"null";"7318.12.90.00.00";" - - - Diğerleri";"-";50
+"null";"7318.13.00.00.00";" - - Çengelli ve halkalı vidalar";"-";50
+"null";"7318.14";" - - Ototaradöz vidalar:";" ";
+"null";"7318.14.10.00.00";" - - - Paslanmaz çelikten olanlar";"-";50
+"null";;" - - - Diğerleri:";" ";
+"null";"7318.14.91.00.00";" - - - - Sac vidaları";"-";50
+"null";"7318.14.99.00.00";" - - - - Diğerleri";"-";50
+"null";"7318.15";" - - Diğer vida ve civatalar (somunlu veya rondelalı olsun olmasın):";" ";
+"null";"7318.15.20.00.00";" - - - Demiryolu yapım malzemesinin tesbitinde kullanılanlar";"-";50
+"null";;" - - - Diğerleri:";" ";
+"null";;" - - - - Başsız olanlar:";" ";
+"null";" ";" - - - - - Paslanmaz çelikten:";" ";
+"null";"7318.15.35.00.11";" - - - - - - Vidalar";"-";50
+"null";"7318.15.35.00.12";" - - - - - - Civatalar";"-";50
+"null";;" - - - - - Diğerleri:";" ";
+"null";" ";" - - - - - - Çekme direnci mm2. de 800 N.dan az olanlar";" ";
+"null";"7318.15.42.00.11";" - - - - - - - Vidalar";"-";50
+"null";"7318.15.42.00.12";" - - - - - - - Civatalar";"-";50
+"null";" ";" - - - - - - Çekme direnci mm2. de 800 N. veya daha fazla olanlar";" ";
+"null";"7318.15.48.00.11";" - - - - - - - Vidalar";"-";50
+"null";"7318.15.48.00.12";" - - - - - - - Civatalar";"-";50
+"null";;" - - - - Başlı olanlar:";" ";
+"null";;" - - - - - Yarılmış veya haç şeklinde iz yapılmış:";" ";
+"null";"7318.15.52.00.00";" - - - - - - Paslanmaz çelikten";"-";50
+"null";"7318.15.58.00.00";" - - - - - - Diğerleri";"-";50
+"null";;" - - - - - Altı köşeli soket başlı:";" ";
+"null";"7318.15.62.00.00";" - - - - - - Paslanmaz çelikten";"-";50
+"null";"7318.15.68.00.00";" - - - - - - Diğerleri";"-";50
+"null";;" - - - - - Altı köşeli başlı:";" ";
+"null";"7318.15.75.00.00";" - - - - - - Paslanmaz çelikten";"-";50
+"null";;" - - - - - - Diğerleri:";" ";
+"null";"7318.15.82.00.00";" - - - - - - - Çekme direnci mm2.de 800 N.dan az olanlar";"-";50
+"null";"7318.15.88.00.00";" - - - - - - - Çekme direnci mm2.de 800 N. veya daha fazla olanlar";"-";50
+"null";" ";" - - - - - Diğerleri:";" ";
+"null";"7318.15.95.00.11";" - - - - - - Vidalar";"-";50
+"null";"7318.15.95.00.12";" - - - - - - Civatalar";"-";50
+"null";"7318.16";" - - Somunlar:";" ";
+"null";;" - - - Paslanmaz çelikten:";;
+"null";"7318.16.31.00.00";" - - - - Kör perçin somunu";"-";50
+"null";"7318.16.39.00.00";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri:";" ";
+"null";"7318.16.40.00.00";" - - - - Kör perçin somunu";"-";50
+"null";"7318.16.60.00.00";" - - - - Emniyet somunları";"-";50
+"null";;" - - - - Diğerleri:";" ";
+"null";"7318.16.92.00.00";" - - - - - İç çapı 12 mm. yi geçmeyenler";"-";50
+"null";"7318.16.99.00.00";" - - - - - İç çapı 12 mm. yi geçenler";"-";50
+"null";"7318.19.00.00.00";" - - Diğerleri";"-";50
+"null";;" - Diş açılmamış olanlar:";" ";
+"null";"7318.21.00.00.00";" - - Yaylanmayı sağlayıcı rondelalar ve diğer sıkıştırma rondelaları";"-";50
+"null";"7318.22.00.00.00";" - - Diğer rondelalar";"-";50
+"null";"7318.23.00.00.00";" - - Perçin çivileri";"-";50
+"null";"7318.24.00.00.00";" - - Kamalar ve kamalı pimler";"-";50
+"null";"7318.29.00.00.00";" - - Diğerleri";"-";50
+"null";;;" ";
+"null";"73.19";"Demir veya çelikten el ile kullanmaya mahsus dikiş iğneleri, örgü şişleri,";" ";
+"null";;"çuvaldızlar, tığlar, işleme bızları ve benzeri eşya; tarifenin başka yerinde";;
+"null";;"belirtilmeyen veya yer almayan demir veya çelikten çengelli iğneler ve";;
+"null";;"diğer iğneler:";;
+"null";"7319.40";" - Çengelli iğneler ve diğer iğneler:";;
+"null";"7319.40.00.00.11";" - - Toplu iğneler";"-";60
+"null";"7319.40.00.00.19";" - - Diğerleri";"-";60
+"null";"7319.90";" - Diğerleri";" ";
+"null";"7319.90.10.00.00";" - - Dikiş iğnesi, örücü iğnesi, işleme ve nakış iğnesi";"-";40
+"null";;" - - Diğerleri";;
+"null";"7319.90.90.00.11";" - - - Örgü şişleri";"-";40
+"null";"7319.90.90.00.12";" - - - Tığlar";"-";40
+"null";"7319.90.90.00.19";" - - - Diğerleri";"-";40
+"null";;;" ";
+"null";"73.20";"Demir veya çelikten yaylar ve yay yaprakları:";" ";
+"null";"7320.10";" - Yaprak yaylar ve bunların yaprakları:";" ";
+"null";;" - - Sıcak işlenmiş:";" ";
+"null";"7320.10.11.00.00";" - - - Levha yaylar ve bunların yaprakları";"-";45
+"null";"7320.10.19.00.00";" - - - Diğerleri";"-";45
+"null";"7320.10.90.00.00";" - - Diğerleri";"-";45
+"null";"7320.20";" - Helezoni yaylar:";" ";
+"null";"7320.20.20.00.00";" - - Sıcak işlenmiş";"-";45
+"null";;" - - Diğerleri:";" ";
+"null";"7320.20.81.00.00";" - - - Basma yaylar";"-";45
+"null";"7320.20.85.00.00";" - - - Çekme yaylar";"-";45
+"null";"7320.20.89.00.00";" - - - Diğerleri";"-";45
+"null";"7320.90";" - Diğerleri:";" ";
+"null";"7320.90.10.00.00";" - - Yassı spiral yaylar";"-";45
+"null";"7320.90.30.00.00";" - - Disk yaylar";"-";45
+"null";"7320.90.90.00.00";" - - Diğerleri";"-";45
+"null";;;;
+"null";"73.21";"Demir veya çelikten sobalar, mutfak soba ve ocakları (merkezi ısıtmada";;
+"null";;"yardımcı kazanlarla birlikte kullanılanlar dahil), barbeküler, mangallar,";;
+"null";;"gaz ocakları, tabak ısıtmaya mahsus ocaklar ile ev işlerinde kullanılan";;
+"null";;"elektrikli olmayan benzeri her türlü cihazlar ile bunların aksam ve";;
+"null";;"parçaları:";;
+"null";;" - Yemek pişirme cihazları ve tabak ısıtma ocakları:";;
+"null";"7321.11";" - - Gaz yakıtlı veya hem gaz hem diğer yakıtlı olanlar:";;
+"null";" ";" - - - Fırınlı olanlar (fırınları ayrı olanlar dahil):";;
+"null";"7321.11.10.00.11";" - - - - Gaz yakıtlı olanlar";"Adet";50
+"null";"7321.11.10.00.12";" - - - - Hem gaz ve hem diğer yakıtlı olanlar";"Adet";50
+"null";" ";" - - - Diğerleri";" ";
+"null";"7321.11.90.00.11";" - - - - Gaz yakıtlı olanlar";"Adet";50
+"null";"7321.11.90.00.12";" - - - - Hem gaz ve hem diğer yakıtlı olanlar";"Adet";50
+"null";"7321.12.00.00.00";" - - Sıvı yakıtlı";"Adet";50
+"null";"7321.19.00.00.00";" - - Diğerleri, ( Katı yakıtlı cihazlar dahil)";"Adet";50
+"null";;" - Diğer cihazlar:";;
+"null";"7321.81";" - - Gaz yakıtlı ve hem gaz hem diğer yakıtlı olanlar:";;
+"null";"7321.81.00.00.11";" - - - Gaz yakıtlı olanlar";"Adet";50
+"null";"7321.81.00.00.12";" - - - Hem gaz ve hem diğer yakıtlı olanlar";"Adet";50
+"null";"7321.82.00.00.00";" - - Sıvı yakıtlı";"Adet";50
+"null";"7321.89.00.00.00";" - - Diğerleri, ( Katı yakıtlı cihazlar dahil)";"Adet";50
+"null";"7321.90";" - Aksam ve parçalar";;
+"null";"7321.90.00.00.11";" - - Ocaklar için demir dökümden ızgaralar";"-";50
+"null";"7321.90.00.00.19";" - - Diğerleri ";"-";50
+"null";;;;
+"null";"73.22";"Demir veya çelikten ısıtması elektrikli olmayan merkezi ısıtmaya mahsus";;
+"null";;"radyatörler, aksam ve parçaları; demir veya çelikten ısıtması elektrikli";;
+"null";;"olmayan, motorlu bir hava püskürtücüsü veya vantilatörü olan sıcak hava";;
+"null";;"jeneratörleri ve distribütörleri (aynı zamanda soğuk hava veya kondisyo-";;
+"null";;"ne hava verebilen distribütörler dahil) ve bunların aksam ve parçaları:";;
+"null";;" - Radyatörler, aksam ve parçaları:";;
+"null";"7322.11";" - - Demir dökümden olanlar:";;
+"null";"7322.11.00.00.11";" - - - Radyatörler";"-";50
+"null";"7322.11.00.00.12";" - - - Aksam ve parçalar";"-";50
+"null";"7322.19";" - - Diğerleri";" ";
+"null";"7322.19.00.00.11";" - - - Demir veya çelikten radyatörler";"-";50
+"null";"7322.19.00.00.12";" - - - Aksam ve parçalar";"-";50
+"null";"7322.90.00.00.00";" - Diğerleri";"-";50
+"null";;;" ";
+"null";"73.23";"Demir veya çelikten sofra, mutfak veya diğer ev işlerinde kullanılan";" ";
+"null";;"eşya ve aksamı; demir veya çelik yünü; demir veya çelikten sünger ve";" ";
+"null";;"temizleme veya parlatmada kullanılan eşya, eldivenler ve benzerleri:";;
+"null";"7323.10.00.00.00";" - Demir veya çelik yünü; sünger ve temizleme veya parlatmada kullanı-";;
+"null";;"   lan eşya, eldivenler ve benzerleri";"-";50
+"null";;" - Diğerleri:";" ";
+"null";"7323.91.00.00.00";" - - Demir dökümden olanlar (emaye yapılmamış)";"-";50
+"null";"7323.92.00.00.00";" - - Demir dökümden olanlar (emaye yapılmış)";"-";50
+"null";"7323.93.00.00.00";" - - Paslanmaz çelikten olanlar";"-";50
+"null";"7323.94.00.00.00";" - - Demirden (döküm demir hariç) veya çelikten (emaye yapılmış)";"-";50
+"null";"7323.99.00.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"73.24";"Demir veya çelikten sağlığı koruyucu eşya ve bunların aksam ve parçaları:";;
+"null";"7324.10.00.00.00";" - Paslanmaz çelikten eviyeler ve lavabolar";"-";50
+"null";;" - Küvetler:";" ";
+"null";"7324.21.00.00.00";" - - Demir dökümden (emaye yapılmış olsun olmasın)";"Adet";50
+"null";"7324.29.00.00.00";" - - Diğerleri";"Adet";50
+"null";"7324.90";" - Diğerleri (aksam ve parçalar dahil):";" ";
+"null";"7324.90.00.00.11";" - - Demir dökümden eviyeler (emaye yapılmış olsun olmasın)";"-";50
+"null";"7324.90.00.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"73.25";"Demir veya çelikten diğer dökme eşya:";;
+"null";"7325.10.00.00.00";" - Dövülmeye elverişli olmayan demir dökümden olanlar";"-";50
+"null";;" - Diğerleri :";" ";
+"null";"7325.91.00.00.00";" - - Öğütücü bilyalar ve öğütmeye mahsus benzeri eşya";"-";50
+"null";"7325.99";" - - Diğerleri:";" ";
+"null";"7325.99.10.00.00";" - - - Demir dökümden olanlar";"-";50
+"null";"7325.99.90.00.00";" - - - Diğerleri ";"-";50
+"null";;;" ";
+"null";"73.26";"Demir veya çelikten diğer eşya:";" ";
+"null";;" - Dövülmüş veya kalıpta basılmış fakat daha ileri bir işlem görmemiş:";" ";
+"null";"7326.11.00.00.00";" - - Öğütücü bilyalar ve öğütmeye mahsus diğer eşya";"-";50
+"null";"7326.19";" - - Diğerleri:";" ";
+"null";"7326.19.10.00.00";" - - - Açık kalıpta dövülmüş olanlar";"-";50
+"null";"7326.19.90.00.00";" - - - Diğerleri";"-";50
+"null";"7326.20.00.00.00";" - Demir veya çelik tellerden eşya";"-";50
+"null";"7326.90";" - Diğerleri:";" ";
+"null";"7326.90.30.00.00";" - - Merdivenler";"-";50
+"null";"7326.90.40.00.00";" - - Eşyaların kaldırılmasında kullanılan paletler ve benzeri platformlar";"-";50
+"null";"7326.90.50.00.00";" - - Kablo, boru ve benzerleri için bobinler";"-";50
+"null";"7326.90.60.00.00";" - - Mekanik olmayan havalandırma kapakları, çatı olukları, kancalar ve inşaat";" ";
+"null";;"      sanayinde kullanılan diğer eşya";"-";50
+"null";;" - - Demir veya çelikten diğer eşya:";" ";
+"null";"7326.90.92.00.00";" - - - Açık kalıpta dövülmüş";"-";50
+"null";"7326.90.94.00.00";" - - - Kapalı kalıpta dövülmüş";"-";50
+"null";"7326.90.96.00.00";" - - - Sinterlenmiş";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"7326.90.98.00.11";" - - - - Kelepçeler";"-";50
+"null";"7326.90.98.00.19";" - - - - Diğerleri";"-";50

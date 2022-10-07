@@ -1,0 +1,1598 @@
+﻿"null";"85.01";"Elektrik motorları ve jeneratörler [elektrik enerjisi üretim (elektrojen)";;
+"null";;"grupları hariç] :";;
+"null";"8501.10";" - Çıkış gücü 37,5 W.ı geçmeyen motorlar:";;
+"null";"8501.10.10.00.00";" - - Çıkış gücü 18 W.ı geçmeyen senkron motorlar";"Adet";50
+"null";;" - -  Diğerleri:";;
+"null";"8501.10.91.00.00";" - - - Üniversal alternatif akım/doğru akım (AC/DC) motorları";"Adet";50
+"null";;" - - - Alternatif akım (AC) motorları:";;
+"null";"8501.10.93.10.00";" - - - - Oyuncaklar için minyatür motorlar";"Adet";100
+"null";"8501.10.93.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Doğru akım (DC) motorları:";" ";
+"null";"8501.10.99.10.00";" - - - - Oyuncaklar için minyatür motorlar";"Adet";100
+"null";"8501.10.99.90.00";" - - - - Diğerleri";"Adet";50
+"null";"8501.20";" - Çıkış gücü 37,5 W.ı geçen üniversal alternatif akım/doğru akım";;
+"null";;"    (AC/DC) motorları:";;
+"null";;" - - Sivil hava taşıtlarında kullanılmaya mahsus, Çıkış gücü 735  W.ı geçen";;
+"null";;"      fakat 150 kW.ı geçmeyenler:";;
+"null";"8501.20.00.11.00";" - - - Çıkış gücü 7,5 kW.dan az olanlar";"Adet";50
+"null";"8501.20.00.12.00";" - - - Çıkış gücü 7,5 kW. veya daha fazla olanlar";"Adet";40
+"null";"8501.20.00.90.00";" - - Diğerleri";"Adet";50
+"null";;" - Diğer doğru akım (DC) motorları; doğru akım (DC) jeneratörleri ";;
+"null";;"   (fotovoltaik jeneratörler hariç):";;
+"null";"8501.31";" - - Çıkış gücü 750 W.ı geçmeyenler:";;
+"null";" ";" - - - Sivil hava taşıtlarında kullanılmaya mahsus, Çıkış gücü 735 W.ı geçen";;
+"null";;"        motorlar, doğru akım (DC) jeneratörleri ";;
+"null";"8501.31.00.10.11";" - - - - Motorlar";"Adet";50
+"null";"8501.31.00.10.12";" - - - - Jeneratörler";"Adet";50
+"null";" ";" - - - Diğerleri";"  ";
+"null";"8501.31.00.90.11";" - - - - Motorlar";"Adet";50
+"null";"8501.31.00.90.12";" - - - - Jeneratörler";"Adet";50
+"null";"8501.32";" - - Çıkış gücü 750 W.ı geçen fakat 75 kW.ı geçmeyenler:";;
+"null";;" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar:  ";;
+"null";"8501.32.00.11.00";" - - - - Çıkış gücü 7,5 kW. ı geçen motorlar ";"Adet";40
+"null";"8501.32.00.19.00";" - - - - Diğer motorlar ve jeneratörler";"Adet";50
+"null";"8501.32.00.90.00";" - - - Diğerleri";"Adet";50
+"null";"8501.33";" - - Çıkış gücü 75 kW.ı geçen fakat 375 kW.ı geçmeyenler:";;
+"null";;" - - - Sivil hava taşıtlarında kullanılmaya mahsus, Çıkış gücü 150 kW.ı  geçmeyen ";;
+"null";;"        motorlar ve jeneratörler:";;
+"null";"8501.33.00.10.00";" - - - - Motorlar";"Adet";40
+"null";;" - - - - Jeneratörler:";" ";
+"null";"8501.33.00.21.00";" - - - - - Çıkış gücü 75k W.ı geçen fakat 100 kW.dan az olanlar";"Adet";50
+"null";"8501.33.00.22.00";" - - - - - Çıkış gücü 100 kW. olanlar";"Adet";25
+"null";"8501.33.00.23.00";" - - - - - Çıkış gücü 100 kW.ı geçenler";"Adet";25
+"null";;" - - - Diğerleri:";" ";
+"null";"8501.33.00.31.00";" - - - - Motorlar";"Adet";40
+"null";;" - - - - Jeneratörler:";" ";
+"null";"8501.33.00.41.00";" - - - - - Çıkış gücü 75 kW.ı geçen fakat 100 kW.dan az olanlar";"Adet";50
+"null";"8501.33.00.42.00";" - - - - - Çıkış gücü 100 kW.olanlar";"Adet";25
+"null";"8501.33.00.43.00";" - - - - - Çıkış gücü 100 kW.ı geçenler";"Adet";25
+"null";"8501.34";" - - Çıkış gücü 375 kW.ı geçenler:";" ";
+"null";"8501.34.00.10.00";" - - - Motorlar (cer motorları dahil)";"Adet";40
+"null";"8501.34.00.20.00";" - - -  Sivil hava taşıtlarında kullanılan jeneratörler";"Adet";25
+"null";"8501.34.00.30.00";" - - -  Diğer jeneratörler";"Adet";25
+"null";"8501.40";" - Diğer alternatif akım motorları (AC) (tek fazlı):";;
+"null";;" - - Çıkış gücü 750 W.ı geçmeyenler:";;
+"null";;" - - -Sivil hava taşıtlarında kullanılmaya mahsus olanlar:";;
+"null";"8501.40.20.11.00";" - - - - Çıkış gücü 735 ila 750 W. arasında olanlar";"Adet";50
+"null";"8501.40.20.19.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8501.40.20.21.00";" - - - - Çıkış gücü 735 ila 750 W. arasında olanlar";"Adet";50
+"null";"8501.40.20.29.00";" - - - - Diğerleri";"Adet";40
+"null";;" - - Çıkış gücü 750 W.ı geçenler:";" ";
+"null";"8501.40.80.11.00";" - - - Çıkış gücü 7,5 kW.dan az olanlar";"Adet";50
+"null";"8501.40.80.12.00";" - - - Çıkış gücü 7,5 kW. veya daha fazla olup 150 kW.ı geçmeyenler";"Adet";40
+"null";"8501.40.80.13.00";" - - - Çıkış gücü 150 kW.ı geçenler";"Adet";40
+"null";;" - Çok fazlı diğer alternatif akım (AC)motorları:";;
+"null";"8501.51";" - - Çıkış gücü 750 W.ı geçmeyenler:";;
+"null";"8501.51.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus, Çıkış gücü 735 W.ı geçenler ";"Adet";50
+"null";"8501.51.00.90.00";" - - - Diğerleri";"Adet";50
+"null";"8501.52";" - - Çıkış gücü 750 W.ı geçen fakat 75 kW.ı geçmeyenler:";;
+"null";;" - - - Çıkış gücü 750 W.ı geçen fakat 7,5 kW.ı geçmeyenler:";;
+"null";"8501.52.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";50
+"null";;" - - - - Diğerleri:";;
+"null";"8501.52.20.90.11";" - - - - - Kontrol ünitesi ve sürücüsü ile birlikte bulunan servo motorlar";"Adet";40
+"null";"8501.52.20.90.19";" - - - - - Diğerleri";"Adet";40
+"null";;" - - - Çıkış gücü 7,5 kW.ı geçen fakat 37 kW.ı geçmeyenler:";;
+"null";"8501.52.30.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"8501.52.30.90.00";" - - - - Diğerleri";"Adet";40
+"null";;" - - - Çıkış gücü 37 kW.ı geçen fakat 75 kW.ı geçmeyenler:";;
+"null";"8501.52.90.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"8501.52.90.90.00";" - - - - Diğerleri";"Adet";40
+"null";"8501.53";" - - Çıkış gücü 75 kW.ı geçenler:";;
+"null";"8501.53.50.00.00";" - - - Cer motorları";"Adet";40
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Çıkış gücü 75 kW.yı geçen fakat 375 kW.ı geçmeyenler:";;
+"null";"8501.53.81.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus, Çıkış gücü 150 kW.ı";;
+"null";;"        geçmeyenler";"Adet";40
+"null";"8501.53.81.90.00";" - - - - - Diğerleri";"Adet";40
+"null";"8501.53.94.00.00";" - - - - Çıkış gücü 375 kW.ı geçen fakat 750 kW.ı geçmeyenler";"Adet";40
+"null";"8501.53.99.00.00";" - - - - Çıkış gücü 750 kW.yı geçenler";"Adet";40
+"null";;" - Alternatif akım (AC) jeneratörleri (alternatörler) (fotovoltaik jeneratörler hariç):";;
+"null";"8501.61";" - - Çıkış gücü 75 kVA.yı geçmeyenler:";;
+"null";;" - - - Çıkış gücü 7,5 kVA.ı geçmeyenler:";;
+"null";"8501.61.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8501.61.20.90.00";" - - - - Diğerleri";"Adet";50
+"null";" ";" - - - Çıkış gücü 7,5 kVA.yı geçen fakat 75 kVA.yı geçmeyenler:";" ";
+"null";"8501.61.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8501.61.80.90.00";" - - - - Diğerleri";"Adet";50
+"null";"8501.62";" - - Çıkış gücü 75 kVA.yı geçen fakat 375 kVA.yı geçmeyenler:";;
+"null";;" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar:";;
+"null";"8501.62.00.11.00";" - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8501.62.00.12.00";" - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8501.62.00.13.00";" - - - - Çıkış gücü 100 kVA.yı geçen fakat 375 kVA.yı geçmeyenler";"Adet";25
+"null";;" - - - Diğerleri:";" ";
+"null";"8501.62.00.91.00";" - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8501.62.00.92.00";" - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8501.62.00.93.00";" - - - - Çıkış gücü 100 kVA.yı geçen fakat 375 kVA.yı geçmeyenler";"Adet";25
+"null";"8501.63.00.00.00";" - - Çıkış gücü 375 kVA.yı geçen fakat 750 kVA.yı geçmeyenler";"Adet";25
+"null";"8501.64.00.00.00";" - - Çıkış gücü 750 kVA.yı geçenler";"Adet";25
+"null";;" - Fotovoltaik doğru akım (DC) jeneratörleri:";;
+"null";"8501.71.00.00.00";" - - Çıkış gücü 50 W geçmeyenler";"Adet";25
+"null";"8501.72.00.00.00";" - - Çıkış gücü 50 W geçenler";"Adet";25
+"null";"8501.80.00.00.00";" - Fotovoltaik alternatif akım (AC) jeneratörleri";"Adet";25
+"null";;;;
+"null";"85.02";"Elektrik enerjisi üretim (elektrojen) grupları ve rotatif elektrik";" ";
+"null";;"konvertörleri:";" ";
+"null";;" - Sıkıştırma ateşlemeli, içten yanmalı, pistonlu motorlu (dizel veya";" ";
+"null";;"    yarı dizel) elektrik enerjisi üretim (elektrojen) grupları:";" ";
+"null";"8502.11";" - - Çıkış gücü 75 kVA.yı geçmeyenler:";" ";
+"null";;" - - - Çıkış gücü 7,5 kVA.yı geçmeyenler:";;
+"null";"8502.11.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8502.11.20.90.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Çıkış gücü 7,5 kVA.yı geçen fakat 75 kVA.yı geçmeyenler:";;
+"null";"8502.11.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8502.11.80.90.00";" - - - - Diğerleri";"Adet";50
+"null";"8502.12";" - - Çıkış gücü 75 kVA.yı geçen fakat 375 kVA.yı geçmeyenler:";;
+"null";;" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar:";;
+"null";"8502.12.00.11.00";" - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8502.12.00.12.00";" - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8502.12.00.13.00";" - - - - Çıkış gücü 100 kVA.yı geçenler";"Adet";25
+"null";;" - - - Diğerleri:";" ";
+"null";"8502.12.00.21.00";" - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8502.12.00.22.00";" - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8502.12.00.23.00";" - - - - Çıkış gücü 100 kVA.yı geçenler";"Adet";25
+"null";"8502.13";" - - Çıkış gücü 375 kVA.yı geçenler:";" ";
+"null";;" - - - Çıkış gücü 375 kVA.yı geçen fakat 750 kVA.yı geçmeyenler:";;
+"null";"8502.13.20.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8502.13.20.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Çıkış gücü 750 kVA.yı geçen fakat 2000 kVA.yı geçmeyenler:";;
+"null";"8502.13.40.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8502.13.40.90.00";" - - - - Diğerleri";"Adet";25
+"null";;" - - - Çıkış gücü 2000 kVA.yı geçenler:";;
+"null";"8502.13.80.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";25
+"null";"8502.13.80.90.00";" - - - - Diğerleri";"Adet";25
+"null";"8502.20";" - Kıvılcım ateşlemeli, içten yanmalı, pistonlu motorlu elektrik";;
+"null";;"   enerjisi üretim (elektrojen) grupları:";;
+"null";;" - - Çıkış gücü 7,5 kVA.yı geçmeyenler:";;
+"null";"8502.20.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8502.20.20.90.00";" - - - Diğerleri";"Adet";50
+"null";;" - - Çıkış gücü 7,5 kVA.yı geçen fakat 375 kVA.yı geçmeyenler:";;
+"null";"8502.20.40.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8502.20.40.20.00";" - - - Çıkış gücü 7,5 kVA.yı geçen fakat 100 kVA.dan az olanlar";"Adet";50
+"null";"8502.20.40.30.00";" - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8502.20.40.40.00";" - - - Çıkış gücü 100 kVA.yı geçen fakat 375 kVA.yı geçmeyenler";"Adet";25
+"null";;" - - Çıkış gücü 375 kVA.yı geçen fakat 750 kVA.yı geçmeyenler:";;
+"null";"8502.20.60.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8502.20.60.90.00";" - - - Diğerleri";"Adet";25
+"null";;" - - Çıkış gücü 750 kVA.yı geçenler:";;
+"null";"8502.20.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8502.20.80.90.00";" - - - Diğerleri";"Adet";25
+"null";;" - Diğer elektrik enerjisi üretim (elektrojen) grupları:";" ";
+"null";"8502.31";" - - Rüzgar Çıkış gücü ile çalışanlar :";;
+"null";;" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar:";;
+"null";"8502.31.00.11.00";" - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8502.31.00.12.00";" - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8502.31.00.13.00";" - - - - Çıkış gücü 100 kVA.ı geçenler";"Adet";25
+"null";;" - - - Diğerleri :";;
+"null";"8502.31.00.21.00";" - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8502.31.00.22.00";" - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8502.31.00.23.00";" - - - - Çıkış gücü 100 kVA.ı geçenler";"Adet";25
+"null";"8502.39";" - - Diğerleri:";;
+"null";;" - - - Turbo jenaratörler:";;
+"null";"8502.39.20.11.00";" - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8502.39.20.12.00";" - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8502.39.20.13.00";" - - - - Çıkış gücü 100 kVA.yı geçenler";"Adet";25
+"null";;" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar: ";;
+"null";"8502.39.20.21.00";" - - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8502.39.20.22.00";" - - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8502.39.20.23.00";" - - - - - Çıkış gücü 100 kVA.yı geçenler";"Adet";25
+"null";;" - - - Diğerleri:";;
+"null";"8502.39.80.11.00";" - - - - Çıkış gücü 100 kVA.dan az olanlar";"Adet";50
+"null";"8502.39.80.12.00";" - - - - Çıkış gücü 100 kVA. olanlar";"Adet";25
+"null";"8502.39.80.13.00";" - - - - Çıkış gücü 100 kVA.yı geçenler";"Adet";25
+"null";"8502.40";" - Rotatif elektrik konvertörleri:";" ";
+"null";"8502.40.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";"8502.40.00.90.00";" - - Diğerleri";"Adet";40
+"null";;;;
+"null";"8503.00";"Sadece veya esas itibariyle 85.01 veya 85.02 pozisyonlarındaki";;
+"null";;"makinalarda kullanılmaya elverişli aksam ve parçalar:";;
+"null";"8503.00.10.00.00";" - Manyetik olmayan tesbit bileziği";"-";50
+"null";;" - Diğerleri:";;
+"null";;" - - Dökme demir veya çelik dökümden olanlar:";;
+"null";"8503.00.91.10.00";" - - - Oyuncaklar için minyatür motor aksam ve parçaları";"-";100
+"null";" ";" - - - Diğerleri";" ";
+"null";"8503.00.91.90.11";" - - - - Stator ve rotor paketleri";"-";50
+"null";"8503.00.91.90.12";" - - - - Kollektörler";"-";50
+"null";"8503.00.91.90.13";" - - - - Kare ve dikdörtgenden başka şekilde kesilmiş manyetik saclar";"-";50
+"null";"8503.00.91.90.19";" - - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";" ";
+"null";"8503.00.99.10.00";" - - - Oyuncaklar için minyatür motor aksam ve parçaları";"-";100
+"null";" ";" - - - Diğerleri";" ";
+"null";"8503.00.99.90.11";" - - - - Stator ve rotor paketleri";"-";50
+"null";"8503.00.99.90.12";" - - - - Kollektörler";"-";50
+"null";"8503.00.99.90.13";" - - - - Kare ve dikdörtgenden başka şekilde kesilmiş manyetik saclar";"-";50
+"null";"8503.00.99.90.19";" - - - - Diğerleri";"-";50
+"null";;;;
+"null";"85.04";"Elektrik transformatörleri, statik konvertörler (örneğin; redresörler)";;
+"null";;" ve endüktörler:";;
+"null";"8504.10";" - Deşarj ampulleri veya tüpleri için balastlar:";;
+"null";;" - - Endüktörler (bir kondensatör ile bağlanmış olsun olmasın):";;
+"null";"8504.10.20.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8504.10.20.90.00";" - - - Diğerleri";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";"8504.10.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8504.10.80.90.00";" - - - Diğerleri";"Adet";50
+"null";;" - Sıvı dielektrikli transformatörler:";" ";
+"null";"8504.21.00.00.00";" - - Gücü 650 kVA.yı geçmeyenler";"Adet";50
+"null";"8504.22";" - - Gücü 650 kVA.yı geçen fakat 10 000 kVA.yı geçmeyenler:";" ";
+"null";"8504.22.10.00.00";" - - - Gücü 650 kVA.yı geçen fakat 1600 kVA.yı geçmeyenler";"Adet";50
+"null";;" - - - Gücü 1600 kVA.yı geçen fakat 10 000 kVA.yı geçmeyenler:";" ";
+"null";"8504.22.90.10.00";" - - - - 35 000 volt ve 2000 kVA.dan az olanlar";"Adet";50
+"null";"8504.22.90.20.00";" - - - - 35 000 volt ve 2000 kVA.yı geçen fakat 10 000 kVA.yı geçmeyenler";"Adet";40
+"null";"8504.22.90.90.00";" - - - - Diğerleri";"Adet";50
+"null";"8504.23";" - - Gücü 10 000 kVA.yı geçenler";" ";
+"null";"8504.23.00.00.11";" - - - Gücü 10000 kVA.yı geçen fakat 50 000 kVA.yı geçmeyenler";"Adet";50
+"null";"8504.23.00.00.19";" - - - Diğerleri";"Adet";50
+"null";;" - Diğer transformatörler:";;
+"null";"8504.31";" - - Gücü 1 kVA.yı geçmeyenler:";;
+"null";;" - - - Ölçü transformatörleri:";" ";
+"null";"8504.31.21.00.00";" - - - - Gerilim transformatörler";"Adet";50
+"null";"8504.31.29.00.00";" - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri:";" ";
+"null";"8504.31.80.10.00";" - - - - Oyuncaklar için transformatörler";"Adet";100
+"null";;" - - - - Diğerleri:";" ";
+"null";"8504.31.80.90.11";" - - - - - Ferrit nüveli transformatörler";"Adet";50
+"null";"8504.31.80.90.19";" - - - - - Diğerleri";"Adet";50
+"null";"8504.32";" - - Gücü 1 kVA.yı geçen fakat 16 kVA.yı geçmeyenler:";;
+"null";"8504.32.00.10.00";" - - - Oyuncaklar için transformatörler";"Adet";100
+"null";"8504.32.00.80.00";" - - - Diğerleri";"Adet";50
+"null";"8504.33.00.00.00";" - - Gücü 16 kVA.yı geçen fakat 500 kVA.yı geçmeyenler";"Adet";50
+"null";"8504.34.00.00.00";" - - Gücü 500 kVA.yı geçenler";"Adet";50
+"null";"8504.40";" - Statik konvertörler :";;
+"null";;" - - Telekomünikasyon cihazları, otomatik bilgi işlem makinaları ve bunların ";;
+"null";;"         birimleri  için kullanılan türden olanlar :";;
+"null";;" - - - Güç kaynağı üniteleri otomatik bilgi işlem makineleriyle kullanılacak  ";;
+"null";;"           türden olanlar:";;
+"null";"8504.40.30.10.11";" - - - - Kesintisiz güç kaynakları";"Adet";20
+"null";"8504.40.30.10.19";" - - - - Diğerleri";"Adet";20
+"null";"8504.40.30.20.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";"8504.40.30.90.00";" - - - Diğerleri ";"Adet";40
+"null";;" - - Diğerleri:";;
+"null";;" - - - Akümülatör şarj ediciler:";;
+"null";"8504.40.55.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";40
+"null";"8504.40.55.90.00";" - - - - Diğerleri ";"Adet";40
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Redresörler:";;
+"null";"8504.40.82.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";;" - - - - - Diğerleri: ";;
+"null";"8504.40.82.90.11";" - - - - - - LED sürücüler";"-";40
+"null";"8504.40.82.90.19";" - - - - - - Diğerleri ";"-";40
+"null";;" - - - - İnvertörler :";;
+"null";;" - - - - - Gücü 7,5 kVA.yı geçmeyenler:";;
+"null";"8504.40.84.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"8504.40.84.90.00";" - - - - - - Diğerleri ";"-";40
+"null";;" - - - - - Gücü 7,5 kVA.yı geçenler:";;
+"null";"8504.40.88.10.00";" - - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"8504.40.88.90.00";" - - - - - - Diğerleri ";"-";40
+"null";;" - - - - Diğerleri: ";;
+"null";"8504.40.90.10.00";" - - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";;" - - - - - Diğerleri: ";;
+"null";"8504.40.90.90.11";" - - - - - - Kesintisiz güç kaynakları";"-";40
+"null";"8504.40.90.90.19";" - - - - - - Diğerleri ";"-";40
+"null";"8504.50";" - Diğer endüktörler :";;
+"null";"8504.50.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8504.50.00.90.00";" - - Diğerleri";"-";50
+"null";"8504.90";" - Aksam ve parçalar :";;
+"null";;" - - Transformatör ve endüktörlere mahsus olanlar :";;
+"null";"8504.90.11.00.00";" - - - Ferrit nüveler";"-";50
+"null";"8504.90.13.00.00";" - - - Çelik laminasyonlar ve nüveler (istiflenmiş veya sarılmış olsun olmasın)";"-";50
+"null";;" - - - Diğerleri :";;
+"null";"8504.90.17.10.00";" - - - - Oyuncaklara ait olanlar";"-";100
+"null";"8504.90.17.90.00";" - - - - Diğerleri";"-";50
+"null";"8504.90.90.00.00";" - - Statik konvertörlere ait olanlar";"-";50
+"null";;;;
+"null";"85.05";"Elektro mıknatıslar; daimi mıknatıslar ve mıknatıslama sonucu daimi";;
+"null";;"mıknatıslı olabilen eşya; elektromanyetik veya daimi mıknatıslı ayna-";;
+"null";;"lar, kıskaçIar ve benzeri tespit tertibatı; elektromanyetik kaplinler,";;
+"null";;"kavramalar ve frenler; elektromanyetik vinç başları:";;
+"null";;" - Daimi mıknatıslar ve mıknatıslama sonucu daimi mıknatıs";;
+"null";;"    olabilen eşya:";;
+"null";"8505.11.00.00.00";" - - Metalden olanlar";"-";25
+"null";"8505.19";" - - Diğerleri:";" ";
+"null";"8505.19.10.00.00";" - - - Aglomere edilmiş ferritten daimi mıknatıslar";"-";25
+"null";"8505.19.90.00.00";" - - - Diğerleri";"-";25
+"null";"8505.20.00.00.00";" - Elektromanyetik kaplinler, kavramalar ve frenler";"-";25
+"null";"8505.90";" - Diğerleri (aksam ve parçalar dahil):";" ";
+"null";;" - - Elektro mıknatıslar; Elektromanyetik veya daimi mıknatıslı aynalar, kıskaçlar ";" ";
+"null";;"       ve benzeri tespit tertibatı:";;
+"null";"8505.90.21.00.00";" - - - Sadece veya esas itibarıyla manyetik rezonanslı görüntüleme cihazlarında";;
+"null";;"       kullanılan türde elektro mıknatıslar (90.18 pozisyonundakiler hariç)";"-";25
+"null";"8505.90.29.00.00";" - - - Diğerleri";"-";25
+"null";"8505.90.50.00.00";" - - Elektromanyetik vinç başları";"-";25
+"null";"8505.90.90.00.00";" - - Aksam ve parçalar";"-";25
+"null";;;;
+"null";"85.06";"Primer (şarj edilemeyen) piller ve bataryalar:";;
+"null";"8506.10";" - Manganez dioksitli olanlar:";;
+"null";;" - - Alkali piller:";;
+"null";"8506.10.11.00.00";" - - - Silindirik piller";"Adet";50
+"null";"8506.10.18.00.00";" - - - Diğerleri";"Adet";50
+"null";" ";" - - Diğerleri:";;
+"null";"8506.10.91.00.00";" - - - Silindirik piller";"Adet";50
+"null";"8506.10.98.00.00";" - - - Diğerleri";"Adet";50
+"null";"8506.30.00.00.00";" - Civa oksitli olanlar";"Adet";50
+"null";"8506.40.00.00.00";" - Gümüş oksitli olanlar";"Adet";50
+"null";"8506.50";" - Lityumlu olanlar:";;
+"null";"8506.50.10.00.00";" - - Silindirik piller";"Adet";50
+"null";"8506.50.30.00.00";" - - Düğme piller";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";"8506.50.90.00.11";" - - - Kese (Pouch) piller";"Adet";50
+"null";"8506.50.90.00.12";" - - - Prizmatik piller";"Adet";50
+"null";"8506.50.90.00.19";" - - - Diğerleri";"Adet";50
+"null";"8506.60.00.00.00";" - Çinko-hava reaksiyonlu piller";"Adet";50
+"null";"8506.80";" - Diğer primer (şarj edilemeyen)  piller ve bataryalar:";;
+"null";"8506.80.05.00.00";" - - Voltajı 5,5 V. veya daha fazla fakat 6,5 V.'u geçmeyen kuru çinko-kar-";;
+"null";;"      bonlu piller";"Adet";50
+"null";"8506.80.80.00.00";" - - Diğerleri";"Adet";50
+"null";"8506.90.00.00.00";" - Aksam ve parçalar";"-";50
+"null";;;;
+"null";"85.07";"Elektrik akümülatörleri (bunIarın separatörleri dahil) (kare veya ";;
+"null";;"dikdörtgen şeklinde olsun olmasın) :";;
+"null";"8507.10";" - Pistonlu motorlar için kurşun asitli starter akümülatörler:";;
+"null";;" - - Sıvı elektrolitle çalışanlar:";;
+"null";"8507.10.20.00.11";" - - - Ağırlığı 5 kg.ı geçmeyenler";"Adet";50
+"null";"8507.10.20.00.12";" - - - Ağırlığı 5 kg.ı geçenler";"Adet";50
+"null";;" - - Diğerleri:";;
+"null";"8507.10.80.00.11";" - - - Ağırlığı 5 kg.ı geçmeyenler";"Adet";50
+"null";"8507.10.80.00.12";" - - - Ağırlığı 5 kg.ı geçenler";"Adet";50
+"null";"8507.20";" - Kurşun-asitli diğer akümülatörler:";;
+"null";;" - - Sıvı elektrolitle çalışanlar:";;
+"null";"8507.20.20.00.11";" - - - Traksiyoner akümülatörler";"hücre adet";50
+"null";"8507.20.20.00.19";" - - - Diğerleri";"hücre adet";50
+"null";"8507.20.80.00.00";" - - Diğerleri";"hücre adet";50
+"null";"8507.30";" - Nikel-kadmiyumlu akümülatörler:";;
+"null";"8507.30.20.00.00";" - - Sızdırmaz olanlar ";"Adet";50
+"null";"8507.30.80.00.00";" - - Diğerleri";"hücre adet";50
+"null";"8507.50.00.00.00";" - Nikel-metal hidrürlü akümülatörler";"Adet";50
+"null";"8507.60";" - Lityum iyonlu akümülatörler:";;
+"null";"8507.60.00.00.11";" - - Silindirik olanlar";"Adet";50
+"null";"8507.60.00.00.12";" - - Prizmatik olanlar";"Adet";50
+"null";"8507.60.00.00.13";" - - Kese (Pouch) olanlar";"Adet";50
+"null";"8507.60.00.00.19";" - - Diğerleri";"Adet";50
+"null";"8507.80.00.00.00";" - Diğer akümülatörler";"Adet";50
+"null";"8507.90";" - Aksam ve parçalar:";;
+"null";"8507.90.30.00.00";" - - Separatörler";"-";50
+"null";"8507.90.80.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"85.08 ";" Vakumlu süpürgeler : ";;
+"null";;" - Kendinden elektrik motorlu olanlar:";;
+"null";"8508.11";" - - Gücü 1500 Wattı geçmeyen ve kapasitesi 20 litreyi geçmeyen bir toz torbasına ";;
+"null";;"     veya diğer bir toplama haznesine sahip olanlar";;
+"null";"8508.11.00.00.11";" - - - Gerilimi 110 Volt veya daha fazla olanlar";"Adet";60
+"null";"8508.11.00.00.19";" - - - Diğerleri";"Adet";60
+"null";"8508.19.00.00.00";" - - Diğerleri";"Adet";60
+"null";"8508.60.00.00.00";" - Diğer vakumlu süpürgeler";"Adet";60
+"null";"8508.70.00.00.00";" - Aksam ve parçaIar";"-";60
+"null";;;;
+"null";"85.09";"Ev işlerinde kullanılmaya mahsus kendinden elektrik motorlu elektro-mekanik";;
+"null";;"cihazlar ( 85.08 pozisyonunda yer alan vakumlu süpürgeler hariç )";;
+"null";"8509.40";" - Gıda maddelerini öğütücüler ve karıştırıcılar; meyva veya sebze ";;
+"null";;"    presIeri";;
+"null";"8509.40.00.00.11";" - - Öğütücüler";"Adet";60
+"null";"8509.40.00.00.12";" - - Mikserler";"Adet";60
+"null";"8509.40.00.00.13";" - - Bilenderler";"Adet";60
+"null";"8509.40.00.00.14";" - - Meyva ve sebze presleri";"Adet";60
+"null";"8509.40.00.00.15";" - - Komple setler";"Adet";60
+"null";"8509.40.00.00.19";" - - Diğerleri";"Adet";60
+"null";"8509.80";" - Diğer cihazlar";;
+"null";"8509.80.00.00.11";" - -  Et kıyma makinaları";"-";60
+"null";"8509.80.00.00.19";" - - Diğerleri";"-";60
+"null";"8509.90.00.00.00";" - Aksam ve parçaIar";"-";60
+"null";;;;
+"null";"85.10";"Kendinden elektrik motorlu traş, saç kesme ve hayvan kırkma makinaları,epi-";;
+"null";;"lasyon cihazları:";;
+"null";"8510.10.00.00.00";" - Traş makinaIarı";"Adet";50
+"null";"8510.20";" - Saç kesme ve hayvan kırkma makinaları";;
+"null";"8510.20.00.00.11";" - - Saç kesme makinaları";"Adet";50
+"null";"8510.20.00.00.12";" - - Hayvan kırkma makinaları";"Adet";50
+"null";"8510.30.00.00.00";" - Epilasyon cihazları";"Adet";60
+"null";"8510.90";" - Aksam ve parçalar:";;
+"null";"8510.90.00.10.00";" - - Elektrikli traş makinalarının ağız, bıçak, tarak ve başları ; epilasyon";;
+"null";;"      cihazlarının aksam ve parçaları";"-";60
+"null";"8510.90.00.20.00";" - - Elektrikli saç kesme ve hayvan kırkma makinalarının baş, tarak ve ";" ";
+"null";;"      bıçakları";"-";35
+"null";"8510.90.00.90.00";" - - Diğer aksam ve parçalar";"-";50
+"null";;;;
+"null";"85.11";"Kıvılcım ateşlemeli veya sıkıştırma ateşlemeli, içten yanmalı";;
+"null";;"motorlarda kullanılmaya mahsus elektrikli ateşleme veya hareket";;
+"null";;"ettirme tertibat ve cihazları (örneğin; ateşleme manyetoları, dinamo";;
+"null";;"manyetoları, ateşleme bobinleri, ısıtma ve ateşleme bujileri, marş  ";;
+"null";;"motorları);jeneratörler (örneğin; dinamolar, alternatörler) ve bu tür ";;
+"null";;"motorlarla birlikte kullanılan konjonktörler-disjonktörler:";;
+"null";"8511.10";" - Ateşleme bujileri:";;
+"null";"8511.10.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"8511.10.00.90.00";" - - Diğerleri";"-";40
+"null";"8511.20";" - Ateşleme manyetoları; dinamo manyetoları; manyetik volanlar:";" ";
+"null";"8511.20.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"8511.20.00.90.00";" - - Diğerleri:";"-";40
+"null";"8511.30";" - Distribütörler; ateşleme bobinleri:";" ";
+"null";"8511.30.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";" ";" - - Diğerleri";" ";
+"null";"8511.30.00.90.11";" - - - Distribütörler";"-";40
+"null";"8511.30.00.90.12";" - - - Ateşleme bobinleri";"-";40
+"null";"8511.40";" - Starter (marş) motorları ve çift amaçlı starter-jeneratörler:";" ";
+"null";"8511.40.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";40
+"null";"8511.40.00.90.00";" - - Diğerleri";"-";40
+"null";"8511.50";" - Diğer jeneratörler:";" ";
+"null";"8511.50.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";40
+"null";"8511.50.00.90.00";" - - Diğerleri";"-";40
+"null";"8511.80";" - Diğer tertibat ve cihazlar:";;
+"null";"8511.80.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar: ";"-";40
+"null";" ";" - - Diğerleri:";" ";
+"null";"8511.80.00.90.11";" - - - Isıtma bujileri";"-";40
+"null";"8511.80.00.90.19";" - - - Diğerleri";"-";40
+"null";"8511.90.00.00.00";" - Aksam ve parçalar";"-";40
+"null";;;;
+"null";"85.12";"MotorIu taşıtIarda, bisikletlerde veya motosikletIerde kuIIanıIan";" ";
+"null";;"türden elektrikIi aydınIatma veya işaret cihazIarı (85.39 pozisyonun-";" ";
+"null";;"da yer alan eşya hariç), cam siliciler, buzIanma veya buğulanmayı";" ";
+"null";;"önIeyici tertibat:";"  ";
+"null";"8512.10.00.00.00";" - Bisikletlerde kullanılan türden aydınlatma veya gözle görülebilen";" ";
+"null";;"   işaret cihazları";"-";40
+"null";"8512.20";" - Diğer aydınlatma veya gözle görülebilen işaret cihazları";" ";
+"null";"8512.20.00.00.11";" - - Aydınlatma dinomoları";"-";40
+"null";"8512.20.00.00.12";" - - Her türlü farlar";"-";40
+"null";"8512.20.00.00.19";" - - Diğerleri";"-";40
+"null";"8512.30";" - Sesli işaret cihazları";" ";
+"null";"8512.30.10.00.00";" - - Motorlu araçlarda kullanılan türdeki hırsız alarmları";"Adet";40
+"null";;" - - Diğerleri";;
+"null";"8512.30.90.00.11";" - - - Elektrikli kornalar";"-";40
+"null";"8512.30.90.00.12";" - - - Sirenler";"-";40
+"null";"8512.30.90.00.19";" - - - Diğerleri";"-";40
+"null";"8512.40";" - Cam siliciler, buzlanma veya buğulanmayı önleyici tertibat";" ";
+"null";"8512.40.00.00.11";" - - Elektrik motorlu cam siliciler (tekli veya ikili)";"-";40
+"null";"8512.40.00.00.12";" - - Buzlanma veya buğulanmayı önleyici cihazlar";"-";40
+"null";"8512.90";" - Aksam ve parçalar";" ";
+"null";"8512.90.10.00.00";" - - 8512 30 10 alt pozisyonunda yer alan cihazlara ait olanlar";"-";40
+"null";;" - - Diğerleri";;
+"null";"8512.90.90.00.11";" - - - Aydınlatma cihazlarına ait olanlar";"-";40
+"null";"8512.90.90.00.12";" - - - Sesli işaret cihazlarına ait olanlar";"-";40
+"null";"8512.90.90.00.13";" - - - Cam silicilere ait olanlar";"-";40
+"null";"8512.90.90.00.19";" - - - Diğerleri";"-";40
+"null";;;" ";
+"null";"85.13";"Kendi enerji kaynakları (örneğin; kuru piller, akümülatörler, manye-";" ";
+"null";;"tolar) ile çalışan portatif elektrik lambaları (85.12 pozisyonunda";"  ";
+"null";;"yer alan aydınlatma cihazları hariç):";" ";
+"null";"8513.10";" - Lambalar:";" ";
+"null";"8513.10.00.10.00";" - - Madenciler için emniyet lambaları";"-";25
+"null";"8513.10.00.90.00";" - - Diğerleri";"-";50
+"null";"8513.90";" - Aksam ve parçalar:";" ";
+"null";"8513.90.00.10.00";" - - Madenciler için emniyet lambalarının aksam ve parçaları";"-";25
+"null";"8513.90.00.90.00";" - - Diğerleri";"-";50
+"null";;;" ";
+"null";"85.14";"Sanayi veya laboratuvarlarda kullanılan elektrik ocak ve fırınları";" ";
+"null";;"(endüksiyon veya dielektrik kaybı yoluyla çalışanlar dahil); endüksiyon";" ";
+"null";;"veya dielektrik kaybı yoluyla termik işlemlerde kullanılmaya";" ";
+"null";;"mahsus diğer sanayi veya laboratuvar cihazları:";"  ";
+"null";;" - Rezistansla ısıtılan ocak ve fırınlar:";;
+"null";"8514.11.00.00.00";" - - Sıcak izostatik presler";"Adet";25
+"null";"8514.19";" - - Diğerleri:";;
+"null";"8514.19.10.00.00";" - - - Ekmekçilik, pastacılık ve bisküvicilikte kullanılan ocak ve fırınlar  ";"Adet";25
+"null";;" - - - Diğerleri: ";;
+"null";"8514.19.80.00.11";" - - - - Sanayide kullanılan ocak ve fırınlar";"Adet";25
+"null";"8514.19.80.00.12";" - - - - Laboratuvarda kullanılan ocak ve fırınlar";"Adet";25
+"null";"8514.20";" - Endüksiyon veya dielektrik kaybı yolu ile çalışan ocak ve fırınlar:";;
+"null";;" - - Endüksiyon ocak ve fırınları";;
+"null";"8514.20.10.00.11";" - - - Sanayide kullanılan ocak ve fırınlar";"Adet";25
+"null";"8514.20.10.00.12";" - - - Laboratuvarda kullanılan ocak ve fırınlar";"Adet";25
+"null";;" - - Dielektrik kaybı yoluyla çalışan ocak ve fırınlar ";;
+"null";"8514.20.80.00.11";" - - - Sanayide kullanılan ocak ve fırınlar";"Adet";25
+"null";"8514.20.80.00.12";" - - - Laboratuvarda kullanılan ocak ve fırınlar";"Adet";25
+"null";;" - Diğer ocak ve fırınlar:";;
+"null";"8514.31";" - - Elektron ışınlı ocak ve fırınlar: ";;
+"null";"8514.31.10.00.00";" - - - Sadece veya esas itibarıyla baskılı devre veya baskılı devre montajlarının";;
+"null";;"    üretiminde kullanılan türde olanlar";"Adet";25
+"null";"8514.31.90.00.00";" - - - Diğerleri";"Adet";25
+"null";"8514.32";" - - Plazma ve vakum ark ocak ve fırınları:";;
+"null";"8514.32.10.00.00";" - - - Sadece veya esas itibarıyla baskılı devre veya baskılı devre montajlarının";;
+"null";;"    üretiminde kullanılan türde olanlar";"Adet";25
+"null";"8514.32.90.00.00";" - - - Diğerleri";"Adet";25
+"null";"8514.39";" - - Diğerleri:";;
+"null";"8514.39.10.00.00";" - - - Sadece veya esas itibarıyla baskılı devre veya baskılı devre montajlarının";;
+"null";;"    üretiminde kullanılan türde olanlar";"Adet";25
+"null";"8514.39.90.00.00";" - - - Diğerleri";"Adet";25
+"null";"8514.40.00.00.00";" - Endüksiyon veya dielektrik kaybı yoluyla termik işlemlerde";" ";
+"null";;"   kullanılmaya mahsus diğer cihazlar";"Adet";25
+"null";"8514.90";" - Aksam ve parçalar:";;
+"null";"8514.90.30.00.00";" - - 8514.31.10, 8514.32.10 veya 8514.39.10 alt pozisyonundaki ocak ve fırınlara ait olanlar";"-";30
+"null";"8514.90.70.00.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"85.15";"Elektrik (elektrikle ısıtılmış gaz dahil), lazer veya başka bir ışık veya";;
+"null";;"foton ışını, ultrasonik, elektron ışını, manyetik şok veya plazma";;
+"null";;"arkı yoluyla lehim veya kaynak yapmaya mahsus makina ve cihazlar";;
+"null";;"(kesmeye elverişli olsun olmasın); metallerin veya sermetlerin sıcak";;
+"null";;"olarak püskürtülmesine mahsus elektrikli makina ve cihazlar:";;
+"null";;" - Lehim makina ve cihazları:";;
+"null";"8515.11.00.00.00";" - - Lehim havya ve tabancaları";"-";25
+"null";"8515.19";" - - Diğerleri:";;
+"null";"8515.19.10.00.00";" - - - Sadece veya esas itibarıyla baskılı devre montajlarının üretiminde kullanılan";;
+"null";;"       türde dalga lehim makineleri ";"-";25
+"null";"8515.19.90.00.00";" - - - Diğerleri";"-";25
+"null";;" - Metallere rezistans kaynağı yapmaya mahsus makina ve cihazlar:";" ";
+"null";"8515.21.00.00.00";" - - Tamamen veya kısmen otomatik olanlar";"-";25
+"null";"8515.29.00.00.00";" - - Diğerleri";"-";25
+"null";;" - Metallere ark kaynağı (plazma arkı dahil) yapmaya mahsus";" ";
+"null";;"   makina ve cihazlar:";" ";
+"null";"8515.31.00.00.00";" - - Tamamen veya kısmen otomatik olanlar";"-";25
+"null";"8515.39";" - - Diğerleri:";" ";
+"null";;" - - - Kaynak veya kesme tertibatı bulunan, örtülü elektrotlar";;
+"null";;"        kullanılarak elle kaynak yapmaya mahsus olanlar:";" ";
+"null";"8515.39.13.00.00";" - - - - Transformatörlerle birlikte olanlar";"-";25
+"null";"8515.39.18.00.00";" - - - - Jeneratörlerle veya rotatif konvertörlerle veya statik konvertörlerle,";" ";
+"null";;"          redresörler veya redresör cihazları ile birlikte olanlar ";"-";25
+"null";"8515.39.90.00.00";" - - - Diğerleri";"-";25
+"null";"8515.80";" - Diğer makina ve cihazlar:";;
+"null";;" - - Metalleri işlemek için olanlar:";;
+"null";"8515.80.10.10.00";" - - - Ultrasonik kaynak makinaları";"Adet";50
+"null";"8515.80.10.20.00";" - - -  Sinterlenmiş metal karbürlerin veya metallerin sıcak olarak püskür-";;
+"null";;"        tülmesine mahsus elektrikli alet ve cihazlar";"Adet";50
+"null";"8515.80.10.80.00";" - - -  Diğerleri";"Adet";25
+"null";;" - - Diğerleri:";;
+"null";"8515.80.90.10.00";" - - - Ultrasonik kaynak makinaları";"Adet";50
+"null";"8515.80.90.90.00";" - - - Diğerleri";"Adet";25
+"null";"8515.90";" - Aksam ve parçalar :";;
+"null";"8515.90.20.00.00";" - - 8515.19.10 alt pozisyonundaki dalga lehim makinalarına ait olanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8515.90.80.10.00";" - - - Sinterlenmiş metal karbürlerin veya metallerin sıcak olarak püskürtül-";;
+"null";;"         mesine mahsus elektrikli alet ve cihazların ve ultrasonik kaynak";;
+"null";;"         makinalarının aksam ve parçaları";"-";50
+"null";;" - - - Diğer aksam ve parçalar:";;
+"null";"8515.90.80.90.11";" - - - - Kaynak pensleri";"-";30
+"null";"8515.90.80.90.12";" - - - - Kaynak makinalarına ait anakartlar";"-";30
+"null";"8515.90.80.90.19";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"85.16";"Elektrikli anında veya depolu su ısıtıcılar ve daldırma tipi ısıtıcılar; ";;
+"null";;"herhangi bir mahallin veya toprak ve benzeri yerlerin ısıtılmasına";;
+"null";;"mahsus elektrikli cihazlar; berber işleri için elektrotermik cihazlar";;
+"null";;"(örneğin; saç kurutucular, saç kıvırma cihazları, saç kıvırma maşala-";;
+"null";;"rını ısıtma cihazları) ve el kurutma makinaları; elektrikli ütüler; ev";;
+"null";;"işlerinde kullanılan diğer elektrotermik cihazlar; elektrikli ısıtıcı";;
+"null";;"rezistanslar (85.45 pozisyonundakiler hariç) :";;
+"null";"8516.10";" - Elektrikli anında veya depolu su ısıtıcılar ve daldırma tipi ısıtıcılar:";;
+"null";"8516.10.11.00.00";" - -  Anında su ısıtıcılar";"Adet";60
+"null";;" - -  Diğerleri:";;
+"null";"8516.10.80.00.11";" - - - Daldırma tipi ısıtıcılar";"Adet";60
+"null";"8516.10.80.00.12";" - - - Su kaynatma kapları (kettle)";"Adet";60
+"null";"8516.10.80.00.19";" - - - Diğerleri";"Adet";60
+"null";;" - Herhangi bir mahallin veya toprak ve benzeri yerlerin ısıtılmasına";;
+"null";;"   mahsus elektrikli cihazlar:";;
+"null";"8516.21.00.00.00";" - - Depolu ısıtıcı radyatörler";"Adet";60
+"null";"8516.29";" - - Diğerleri:";;
+"null";"8516.29.10.00.00";" - - - Sıvıyla doldurulmuş radyatörler";"Adet";60
+"null";"8516.29.50.00.00";" - - - Konveksiyon tipi ısıtıcılar";"Adet";60
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Bünyesinde bir fan olanlar";;
+"null";"8516.29.91.00.11";" - - - - -  Isıtmalı hava perdeleri";"Adet";60
+"null";"8516.29.91.00.19";" - - - - - Diğerleri";"Adet";60
+"null";;" - - - - Diğerleri:";;
+"null";"8516.29.99.00.12";" - - - - - Kanal tipi ısıtıcı";"Adet";60
+"null";"8516.29.99.00.13";" - - - - - Diğer ısıtıcı ve sobalar";"Adet";60
+"null";"8516.29.99.00.19";" - - - - - Diğerleri";"Adet";60
+"null";;" - Berber işleri veya el kurutmaya mahsus elektro-termik cihazlar:";;
+"null";"8516.31";" - - Saç kurutucular:";;
+"null";"8516.31.00.00.11";" - - - Kurutma başlıkları";"Adet";60
+"null";"8516.31.00.00.19";" - - - Diğerleri";"Adet";60
+"null";"8516.32";" - - Berber işlerine mahsus diğer cihazlar";;
+"null";"8516.32.00.00.11";" - - - Saç kıvırma cihazları";"-";60
+"null";"8516.32.00.00.12";" - - - Saç kıvırma maşalarını ısıtma cihazları";"-";60
+"null";"8516.32.00.00.19";" - - - Diğerleri";"-";60
+"null";"8516.33.00.00.00";" - - El kurutma cihazları";"Adet";60
+"null";"8516.40";" - Elektrikli ütüler:";;
+"null";"8516.40.00.00.11";" - - Buharlı ütüler";"Adet";60
+"null";"8516.40.00.00.19";" - - Diğerleri";"Adet";60
+"null";"8516.50.00.00.00";" - Mikro dalgalı fırınlar";"Adet";60
+"null";"8516.60";" - Diğer fırınlar; ocaklar, pişirme sacları, kaynatma halkaları, ızgara-";;
+"null";;"   lar ve kızartma cihazları:";;
+"null";"8516.60.10.00.00";" - - Ocaklar (en az bir fırını ve bir ısıtma levhası olanlar)";"Adet";60
+"null";"8516.60.50.00.00";" - - Pişirme sacları, kaynatma halkaları ve ısıtma levhaları";"Adet";60
+"null";"8516.60.70.00.00";" - - Izgaralar ve kızartma cihazları";"Adet";60
+"null";"8516.60.80.00.00";" - - Gömme fırınlar";"Adet";60
+"null";" ";" - - Diğerleri";;
+"null";"8516.60.90.00.11";" - - - Tost makinaları";"Adet";60
+"null";"8516.60.90.00.19";" - - - Diğerleri";"Adet";60
+"null";;" - Diğer elektrotermik cihazlar:";;
+"null";"8516.71";" - - Kahve veya çay yapmaya mahsus cihazlar:";;
+"null";"8516.71.00.00.11";" - - -  Sadece kahve yapmaya mahsus olanlar";"Adet";60
+"null";"8516.71.00.00.12";" - - -  Sadece çay yapmaya mahsus olanlar";"Adet";60
+"null";"8516.71.00.00.19";" - - -  Diğerleri";"Adet";60
+"null";"8516.72.00.00.00";" - - Ekmek kızartma makinaları";"Adet";60
+"null";"8516.79";" - - Diğerleri:";;
+"null";"8516.79.20.00.00";" - - - Fritözler";"Adet";60
+"null";"8516.79.70.00.00";" - - - Diğerleri";"Adet";60
+"null";"8516.80";" - Elektrikli ısıtıcı rezistanslar:";;
+"null";" ";" - - İzole edici bir mesnet üzerine monte edilmiş ";;
+"null";"8516.80.20.00.11";" - - - Taşıtlarda kullanılanlar";"-";60
+"null";"8516.80.20.00.19";" - - - Diğerleri";"-";60
+"null";" ";" - - Diğerleri:";" ";
+"null";"8516.80.80.00.11";" - - - Taşıtlarda kullanılanlar";"-";60
+"null";"8516.80.80.00.19";" - - - Diğerleri";"-";60
+"null";"8516.90";" - Aksam ve parçalar";" ";
+"null";"8516.90.00.00.11";" - - Su ısıtıcılarına ait olanlar";"-";60
+"null";"8516.90.00.00.12";" - - Herhangi bir mahallin veya benzeri yerlerin ısıtılmasına ait olanlar";"-";60
+"null";"8516.90.00.00.13";" - - Berber işlerine ait olanlar";"-";60
+"null";"8516.90.00.00.14";" - - Ütülere ait olanlar";"-";60
+"null";"8516.90.00.00.15";" - - Mikrodalga fırınlara ait olanlar";"-";60
+"null";"8516.90.00.00.19";" - - Diğerleri";"-";60
+"null";;;;
+"null";" 85.17";" Telefon cihazları (hücresel ağlar için veya diğer kablosuz ağlar için";;
+"null";;"  olan akıllı telefonlar ve diğer telefonlar dahil); ses, görüntü veya diğer bilgileri";;
+"null";;" almaya veya vermeye  mahsus diğer cihazlar (kablolu veya kablosuz ağlarda";;
+"null";;"  ( yerel veya geniş kapsamlı alan ağları gibi) iletişime mahsus cihazlar ";;
+"null";;" dahil),( 84.43, 85.25, 85.27 veya 85.28 pozisyonunda yer alan alıcı veya ";;
+"null";;" verici cihazlar hariç )";;
+"null";;" - Telefon cihazları (hücresel ağlar için veya diğer kablosuz ağlar için";;
+"null";;"    olan akıllı telefonlar ve diğer telefonlar dahil)";;
+"null";"8517.11.00.00.00";" - - Kordonsuz ahizeli telli  telefon cihazları ";"Adet";30
+"null";"8517.13.00.00.00";" - - Akıllı telefonlar";"Adet";30
+"null";"8517.14";" - - Hücresel ağlar için veya diğer kablosuz ağlar için diğer telefonlar";;
+"null";"8517.14.00.00.01";" - - - Akıllı saatler (8517.62 alt pozisyonundakiler hariç)";"Adet";50
+"null";"8517.14.00.00.12";" - - - Alıcısı bulunan verici mobil araç (Cellular) telsiz telefon cihazları";"Adet";50
+"null";"8517.14.00.00.19";" - - -  Diğerleri";"Adet";50
+"null";"8517.18";" - - Diğerleri:";;
+"null";"8517.18.00.00.15";" - - - Kart, jeton, para vb. ödeme araçlarıyla çalışanlar";"-";30
+"null";"8517.18.00.00.19";" - - - Diğerleri";"-";30
+"null";;"  - Ses, görüntü veya diğer bilgileri almaya veya vermeye mahsus";;
+"null";;"   diğer cihazlar (kablolu veya kablosuz ağlarda ( yerel veya geniş ";;
+"null";;"   kapsamlı alan ağları gibi) iletişime mahsus cihazlar dahil):";;
+"null";"8517.61.00";" - - Baz istasyonları";;
+"null";"8517.61.00.10.00";" - - - Hücresel ağ  için olanlar";"Adet";50
+"null";"8517.61.00.90.00";" - - - Diğerleri";"Adet";30
+"null";"8517.62.00";" - - Ses, görüntü veya diğer bilgileri almaya,çevirmeye ve vermeye veya ";;
+"null";;"    yeniden oluşturmaya mahsus makinalar (hatları birbirine bağlayan ";;
+"null";;"     ve yönlendiren cihazlar dahil)";;
+"null";"8517.62.00.10.00";" - - - Hücresel ağ  için olanlar";"-";50
+"null";"8517.62.00.90.00";" - - - Diğerleri:";"-";30
+"null";"8517.69";" - - Diğerleri:";;
+"null";"8517.69.10.00.00";" - - - Görüntülü telefon cihazları";"Adet";30
+"null";"8517.69.20.00.00";" - - - Kapalı devre konuşma sistemleri";"-";30
+"null";"8517.69.30.00.00";" - - - Telsiz telefon, telsiz telgraf  için alıcı cihazlar";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";"8517.69.90.10.00";" - - - - Telgraf cihazları";"-";20
+"null";;" - - - - Diğerleri";;
+"null";"8517.69.90.90.15";" - - - - - Alıcısı bulunan verici deniz ve kara telsiz telefon cihazları";"-";30
+"null";"8517.69.90.90.17";" - - - - - Alıcısı bulunan verici deniz uydu cihazları ";"-";30
+"null";"8517.69.90.90.24";" - - - - - Alıcısı bulunan verici halk bandı (CB) ve 49 MHz alçak güçlü (100 mi-";;
+"null";;"          liwatt dan küçük) telsiz cihazları ve diğer amatör telsiz cihazları ";"-";30
+"null";"8517.69.90.90.25";" - - - - - Ortak kullanımlı (Trunking) telsiz cihazları (abone telsiz alıcı-verici ci-";;
+"null";;"           hazları dahil)";"-";30
+"null";"8517.69.90.90.29";" - - - - - Diğerleri ";"-";30
+"null";;" -  Aksam ve parçalar:";;
+"null";"8517.71.00.00.00";" - - Her türlü antenler ve anten yansıtıcıları; bunların aksam-parçaları ";"-";30
+"null";"8517.79.00.00.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"85.18";"Mikrofonlar ve bunların mesnetleri; hoparlörler (kabinlerine monte ";;
+"null";;"edilmiş olsun olmasın); başa takılan kulaklıklar, kulağa takılan";;
+"null";;"kulaklıklar( bir mikrofonla kombine halde olsun olmasın), bir";;
+"null";;"mikrofon ve bir veya daha fazla hoparlör içeren setler;elektrikli";;
+"null";;" ses frekansı yükselteçleri, takım halindeki ses  amplifikatörleri:";;
+"null";"8518.10.00.00.00";" - Mikrofonlar ve bunların mesnetleri";"-";30
+"null";;" - Hoparlörler (kabinlerine monte edilmiş olsun olmasın):";" ";
+"null";"8518.21.00.00.00";" - - Kabinine monte edilmiş tek hoparlör";"Adet";40
+"null";"8518.22.00.00.00";" - - Aynı kabine monte ediImiş birden fazIa hoparlörIer";"Adet";40
+"null";"8518.29";" - - DiğerIeri:";;
+"null";"8518.29.00.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"Adet";40
+"null";"8518.29.00.90.00";" - - - Diğerleri";"Adet";40
+"null";"8518.30";" - Başa takıIan kulakIıkIar, kulağa takıIan kuIaklıklar (bir mikrofonla ";;
+"null";;"   kombine halde olsun olmasın), ve bir mikrofon ve bir veya daha";;
+"null";;"   fazla hoparlör içeren setler:";;
+"null";"8518.30.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";30
+"null";"8518.30.00.90.00";" - - Diğerleri";"-";50
+"null";"8518.40.00.00.00";" - ElektrikIi ses frekans yükseIteçIeri (amplifikatörIer)";"Adet";50
+"null";"8518.50.00.00.00";" - Takım halindeki ses yükselteçleri";"Adet";50
+"null";"8518.90";" - Aksam ve parçalar:       '";;
+"null";"8518.90.00.30.00";" - - Mikrofon ve mesnetlerine ait olanlar";"-";30
+"null";"8518.90.00.50.00";" - - Hoparlörlere ait olanlar";"-";40
+"null";"8518.90.00.60.00";" - - Telekomünikasyon cihazlarına ait olanlar";"-";30
+"null";"8518.90.00.90.00";" - - DiğerIeri";"-";50
+"null";;;;
+"null";"85.19";" Ses kaydetme veya kaydedilen sesi tekrar vermeye mahsus cihazlar";;
+"null";"8519.20";" - Madeni para,banknot, banka kartları, jetonla veya diğer ödeme araçları";;
+"null";;"   ile çalışan cihazlar";;
+"null";"8519.20.10.00.00";" - - Madeni para veya jetonla çalışan pikaplar";"Adet";60
+"null";;" - - DiğerIeri:";;
+"null";"8519.20.91.00.00";" - - - Lazer okuma sistemliler ";"Adet";60
+"null";;" - - - DiğerIeri:";;
+"null";"8519.20.99.00.11";" - - - - Makara tipi";"Adet";60
+"null";"8519.20.99.00.19";" - - - - Diğerleri";"Adet";60
+"null";"8519.30.00.00.00";" - Plak döndürücüler (pikaplar)";"Adet";60
+"null";;" - Diğer cihazlar:";;
+"null";"8519.81.00.00.00";" - - Manyetik,optik veya yarı iletken mesnetleri kullananlar";"Adet";60
+"null";"8519.89.00.00.00";" - - DiğerIeri";"Adet";60
+"null";;;;
+"null";"[85.20]";;;
+"null";;;;
+"null";"85.21";"Video kayıt veya gösterme cihazları (bir video tunerle birlikte olsun";;
+"null";;"olmasın):";;
+"null";"8521.10";" - Manyetik bantlı olanlar:";;
+"null";"8521.10.20.00.00";" - - Eni 1,3 cm.yi geçmeyen bant kullanan ve bant hızı 50 mm./ saniyeyi";;
+"null";;"       geçmeyecek bir devirde kayda veya kaydedileni tekrar göstermeye mahsus olanlar ";"Adet";60
+"null";"8521.10.95.00.00";" - - Diğerleri:";"Adet";60
+"null";"8521.90.00.00.00";" - Diğerleri";"Adet";60
+"null";;;;
+"null";"85.22";"Sadece ve esas itibariyle 85.19 veya 85.21 Pozisyonlarında yer alan";;
+"null";;"cihazların aksam, parça ve aksesuarı :";;
+"null";"8522.10.00.00.00";" - Pick-up okuyucu kafalar";"-";40
+"null";"8522.90.00.00.00";" - Diğerleri";"-";60
+"null";;;;
+"null";"85.23";" Sesleri ve diğer fenomenleri kaydetmeye mahsus diskler, bantlar, ";;
+"null";;"katı hal kalıcı depolama aygıtları, akıllı kartlar ve diğer masnetler";;
+"null";;" ( kayıt yapılmış olsun olmasın) (disklerin üretimine mahsus matris ve";;
+"null";;"  kalıplar dahil, fakat 37. fasılda yer alan ürünler hariç)";;
+"null";;" - Manyetik mesnetler:";;
+"null";"8523.21.00.00.00";" - - Manyetik şeritli kartlar";"Adet";40
+"null";"8523.29";" - - Diğerleri:";;
+"null";;" - - - Manyetik bantlar; manyetik diskler:";;
+"null";;" - - - - Kayıt yapılmamış olanlar:";;
+"null";"8523.29.15.00.18";" - - - - - Video bantları";"Adet";40
+"null";"8523.29.15.00.29";" - - - - - Diğerleri";"Adet";40
+"null";"8523.29.19.00.00";" - - - - Diğerleri";"Adet";40
+"null";"8523.29.90.00.00";" - - - Diğerleri";"-";40
+"null";;" - Optik mesnetler:";;
+"null";"8523.41";" - - Kayıt yapılmamış olanlar:";;
+"null";"8523.41.10.00.00";" - - -  Silinebilenler hariç, kayıt kapasitesi 900 megabaytı aşmayan lazer okuma  ";;
+"null";;"       sistemleri için diskler";"Adet";40
+"null";"8523.41.30.00.00";" - - - Silinebilenler hariç, kayıt kapasitesi 900 megabaytı aşan fakat 18 gigabaytı ";;
+"null";;"         aşmayan lazer okuma sistemleri için diskler";"Adet";40
+"null";"8523.41.90.00.00";" - - - Diğerleri";"-";40
+"null";"8523.49";" - - Diğerleri:";;
+"null";;" - - - Lazer okuma sistemleri için diskler:";;
+"null";"8523.49.10.00.00";" - - - - Dijital çok yönlü diskler (DVD)";"Adet";40
+"null";"8523.49.20.00.00";" - - - - Diğerleri";"Adet";40
+"null";"8523.49.90.00.00";" - - - Diğerleri";"Adet";40
+"null";;" - Yarı iletken mesnetler:";;
+"null";"8523.51";" - - Katı hal kalıcı depolama aygıtları:";;
+"null";"8523.51.10.00.00";" - - - Kayıt yapılmamış olanlar";"Adet";40
+"null";"8523.51.90.00.00";" - - - Diğerleri";"Adet";40
+"null";"8523.52";" - - Akıllı kartlar";;
+"null";"8523.52.00.10.00";" - - - İki veya daha fazla elektronik entegre devreli olanlar";"Adet";20
+"null";"8523.52.00.90.00";" - - - Diğerleri";"Adet";50
+"null";"8523.59";" - - Diğerleri:";;
+"null";"8523.59.10.00.00";" - - - Kayıt yapılmamış olanlar";"Adet";40
+"null";"8523.59.90.00.00";" - - - Diğerleri";"Adet";40
+"null";"8523.80";" - Diğerleri:";;
+"null";"8523.80.10.00.00";" - - Kayıt yapılmamış olanlar";"-";40
+"null";"8523.80.90.00.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"85.24";"Düz panel gösterge modülleri (dokunmatik ekran içersin içermesin)";;
+"null";;" - Sürücüler veya kontrol devreleri içermeyenler:";;
+"null";"8524.11.00.00.00";" - - Likit kristalden olanlar";"Adet";40
+"null";"8524.12.00.00.00";" - - Organik ışık yayan diyotlardan (OLED) olanlar";"Adet";40
+"null";"8524.19.00.00.00";" - - Diğerleri";"Adet";40
+"null";;" - Diğerleri:";;
+"null";"8524.91.00.00.00";" - - Likit kristalden olanlar";"Adet";40
+"null";"8524.92.00.00.00";" - - Organik ışık yayan diyotlardan (OLED) olanlar";"Adet";40
+"null";"8524.99.00.00.00";" - - Diğerleri";"Adet";40
+"null";;;;
+"null";"85.25";" Radyo veya televizyon yayınlarına mahsus verici cihazlar ( alıcı cihazı";;
+"null";;" veya ses kaydetme yada kaydedilen sesi tekrar vermeye  mahsus cihazı";;
+"null";;" olsun olmasın); televizyon kameraları, dijital kameralar ve görüntü";;
+"null";;"  kaydedici kameralar";;
+"null";"8525.50";" - Verici cihazlar";;
+"null";"8525.50.00.00.11";" - - Televizyon yayınlarına mahsus verici cihazlar";"Adet ";50
+"null";"8525.50.00.00.12";" - - Radyo yayınlarına mahsus verici cihazlar";"Adet ";50
+"null";"8525.50.00.00.13";" - - Radyolink ve uydu verici cihazlar (Uplink cihazları dahil)";"Adet ";50
+"null";"8525.50.00.00.19";" - - Verici diğer cihazlar ";"Adet ";50
+"null";"8525.60";" - Alıcı cihazı bulunan verici cihazlar:";;
+"null";"8525.60.00.00.15";" - - Alıcısı bulunan verici televizyon cihazları (aktarıcılar)";"Adet";50
+"null";"8525.60.00.00.17";" - - Alıcısı bulunan verici kara radyolink veya uydu cihazları (Uplink cihazları dahil)";"Adet";50
+"null";"8525.60.00.00.29";" - - Alıcısı bulunan verici diğer cihazlar";"Adet";50
+"null";;" - Televizyon kameraları, dijital kameralar ve görüntü kaydedici kameralar:";;
+"null";"8525.81.00.00.00";" - - Bu faslın 1 nolu alt pozisyon notunda belirtilen yüksek hızlı eşya";"Adet";50
+"null";"8525.82.00.00.00";" - - Diğerleri, bu faslın 2 nolu alt pozisyon notunda belirtilen radyasyona karşı ";;
+"null";;"     sertleştirilmiş veya radyasyona dayanıklı eşya ";"Adet";50
+"null";"8525.83.00.00.00";" - - Diğerleri, bu faslın 3 nolu alt pozisyonunda belirtilen gece görüş eşyaları ";"Adet";50
+"null";"8525.89.00.00.00";" - - Diğerleri";"Adet";50
+"null";;;;
+"null";"85.26";"Radar cihazları, telsiz seyrüsefer yardımcı cihazları";;
+"null";;"ve uzaktan kumanda etmeye mahsus telsiz kontrol cihazları:";;
+"null";"8526.10";" - Radar cihazları:";;
+"null";"8526.10.00.00.11";" - - Telsiz altimetreleri";"-";50
+"null";"8526.10.00.00.12";" - - Meteorolojik radarlar";"-";50
+"null";"8526.10.00.00.19";" - - Diğerleri";"-";50
+"null";;" - Diğerleri:";;
+"null";"8526.91";" - - Telsiz seyrüsefer yardımcı cihazları:";;
+"null";"8526.91.20.00.00";" - - - Telsiz seyrüsefer alıcıları";"Adet";50
+"null";" ";" - - - Diğerleri:";;
+"null";"8526.91.80.00.11";" - - - - İstikamet bulucular";"-";50
+"null";"8526.91.80.00.13";" - - - - Uydu seyrüsefer telsiz alıcıları";"-";50
+"null";"8526.91.80.00.19";" - - - - Diğerleri";"-";50
+"null";"8526.92";" - - Uzaktan kumanda etmeye mahsus telsiz cihazları:";;
+"null";"8526.92.00.20.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";50
+"null";" ";" - - - Diğerleri:";;
+"null";"8526.92.00.90.14";" - - - - Kablosuz ateşleme/tetikleme sistemleri";"-";50
+"null";"8526.92.00.90.19";" - - - - Diğerleri";"-";50
+"null";;;;
+"null";"85.27";" Radyo yayınlarını alıcı cihazlar ( aynı kabin içinde ses kayıt veya ";;
+"null";;" kayıt edilen sesi tekrar vermeye mahsus cihaz veya saatle birlikte ";;
+"null";;"olsun olmasın):";;
+"null";;" - Harici bir güç kaynağı olmaksızın çalışan radyo yayınlarını alıcı ";;
+"null";;"   cihazlar: ";;
+"null";"8527.12.00.00.00";" - - Cep tipi radyo kaset çalar";"Adet";60
+"null";"8527.13.00.00.00";" - - Ses kayıt veya kayıt edilen sesi tekrar vermeye mahsus cihaz ile ";;
+"null";;"     birlikte olan diğer cihazlar";"Adet";60
+"null";"8527.19.00.00.00";" - - Diğerleri ";"Adet";60
+"null";;" - Sadece harici bir güç kaynağı ile çalışabilen motorlu taşıtlarda";;
+"null";;"   kullanılan türde radyo yayınlarını alıcı cihazlar:";;
+"null";"8527.21";" - - Ses kayıt veya kayıt edilen sesi tekrar vermeye mahsus cihaz ile ";;
+"null";;"     birlikte olanlar:";;
+"null";;" - - - Numerik Radyo Data sistem sinyallerini alabilen ve çözebilenler:";;
+"null";"8527.21.20.00.00";" - - - - Lazer okuma sistemli olanlar";"Adet";60
+"null";;" - - - - Diğerleri :";;
+"null";"8527.21.52.00.00";" - - - - - Kaset tipi olup analog ve dijital okuma sistemli olanlar";"Adet";60
+"null";"8527.21.59.00.00";" - - - - - Diğerleri";"Adet";60
+"null";" ";" - - - Diğerleri:";;
+"null";"8527.21.70.00.00";" - - - - Lazer okuma sistemli olanlar";"Adet";60
+"null";" ";" - - - - Diğerleri:";;
+"null";"8527.21.92.00.00";" - - - - - Kaset tipi olup analog ve dijital okuma sistemli olanlar";"Adet";60
+"null";"8527.21.98.00.00";" - - - - - Diğerleri";"Adet";60
+"null";"8527.29.00.00.00";" - - Diğerleri";"Adet";60
+"null";;" - Diğerleri:";;
+"null";"8527.91.00.00.00";" - - Ses kayıt veya kayıt edilen sesi tekrar vermeye mahsus cihaz ile ";;
+"null";;"     birlikte olanlar";"Adet";60
+"null";"8527.92.00.00.00";" - - Ses kayıt ve kayıt edilen sesi tekrar vermeye mahsus cihaz ile ";;
+"null";;"     birlikte olmayıp sadece saatle birlikte bulunanlar";"Adet";60
+"null";"8527.99.00.00.00";" - - Diğerleri";"Adet";60
+"null";;" ";;
+"null";"85.28";" Monitörler ve projektörler (televizyon alıcı cihazı ile mücehhez olmayan-";;
+"null";;" lar); televizyon alıcı cihazları (radyo yayınlarını alıcı cihazı veya ses ";;
+"null";;"   veya görüntü kayıt veya tekrar verme cihazıyla birlikte olsun olmasın):";;
+"null";;" -  Katod ışını lambalı monitörler:";;
+"null";"8528.42.00.00.00";" - - 84.71 pozisyonundaki otomatik bilgi işlem makinaları ile kullanılmak üzere ";;
+"null";;"       tasarlanmış ve doğrudan bu makinalara bağlanabilen türde olanlar";"Adet";20
+"null";"8528.49.00.00.00";" - - Diğerleri";"Adet";60
+"null";;" - Diğer monitörler:";;
+"null";"8528.52";" - - 84.71 pozisyonundaki otomatik bilgi işlem makinaları ile kullanılmak üzere ";;
+"null";;"       tasarlanmış ve doğrudan bu makinalara bağlanabilen türde olanlar:";;
+"null";"8528.52.10.00.00";" - - - Sadece veya esas itibariyle 84.71 pozisyonunda yer alan otomatik";;
+"null";;"       bilgi işlem makinalarında kullanılan türde olanlar";"Adet";20
+"null";;" - - - Diğerleri:";;
+"null";"8528.52.91.00.00";" - - - - Sıvı kristal gösterge (LCD) teknoloji ekranı olanlar";"Adet";60
+"null";"8528.52.99.00.00";" - - - - Diğerleri";"Adet";60
+"null";"8528.59.00.00.00";" - - Diğerleri";"Adet";60
+"null";;" - Projektörler :";;
+"null";"8528.62.00.00.00";" - - 84.71 pozisyonundaki otomatik bilgi işlem makinaları ile kullanılmak üzere ";;
+"null";;"       tasarlanmış ve doğrudan bu makinalara bağlanabilen türde olanlar";"Adet";20
+"null";"8528.69";" - - Diğerleri:";;
+"null";"8528.69.20.00.00";" - - - Siyah beyaz veya diğer tek renkli olanlar";"Adet";60
+"null";"8528.69.80.00.00";" - - - Renkli olanlar";"Adet";60
+"null";;" - Televizyon alıcı cihazları (radyo yayınlarını alıcı cihazı veya ses ";;
+"null";;"   veya görüntü kayıt veya tekrar verme cihazıyla birlikte olsun olmasın):";;
+"null";"8528.71";" - - Video görüntü veya ekranı içerecek şekilde tasarlanmamış olanlar:";;
+"null";;" - - - Görüntü (video ) tunerleri :";;
+"null";"8528.71.11.00.00";" - - - - Otomatik bilgi işlem makinalarının içine yerleştirilmeye mahsus ";;
+"null";;"         elektronik montajlar";"Adet";50
+"null";"8528.71.15.00.00";" - - - - Internete erişim sağlayan bir modem içeren ve interaktif bilgi değişim";;
+"null";;"          fonksiyonu olan, televizyon sinyallerini alabilen bir mikro-işlemci";;
+"null";;"          esaslı aygıtı olan cihaz (iletişim fonksiyonlu set-top boxes adlandırılanlar;";;
+"null";;"          esas fonksiyonu olan iletişim fonksiyonunu koruduğu sürece, bilgileri kaydeden ";;
+"null";;"          ve kaydedilen bilgileri yeniden veren cihazları içerenler dahil)";"Adet";50
+"null";;" - - - - Diğerleri:";;
+"null";"8528.71.19.00.11";" - - - - - Uydu TV yayınlarını almaya mahsus alıcı cihazlar";"Adet";50
+"null";"8528.71.19.00.19";" - - - - - Diğerleri";"Adet";50
+"null";;" - - - Diğerleri";;
+"null";"8528.71.91.00.00";" - - - - Internete erişim sağlayan bir modem içeren ve interaktif bilgi değişim";;
+"null";;"          fonksiyonu olan, televizyon sinyallerini alabilen bir mikro-işlemci";;
+"null";;"          esaslı aygıtı olan cihaz (iletişim fonksiyonlu set-top boxes adlandırılanlar;";;
+"null";;"          esas fonksiyonu olan iletişim fonksiyonunu koruduğu sürece, bilgileri kaydeden ";;
+"null";;"          ve kaydedilen bilgileri yeniden veren cihazları içerenler dahil)";"Adet";50
+"null";"8528.71.99.00.00";" - - - - Diğerleri";"Adet";50
+"null";"8528.72";" - - Diğerleri, renkli olanlar:";;
+"null";"8528.72.10.00.00";" - - - Teleprojektörler ";"Adet";50
+"null";"8528.72.20.00.00";" - - - Video kayıt veya tekrar vermeye mahsus cihazla mücehhez olanlar";"Adet";50
+"null";;" - - - Diğerleri :";;
+"null";"8528.72.30.00.00";" - - - - İçinde resim tüpü olanlar";"Adet";50
+"null";"8528.72.40.00.00";" - - - - Sıvı kristal gösterge (LCD) teknoloji ekranı olanlar";"Adet";50
+"null";"8528.72.60.00.00";" - - - - Plazma gösterge panel (PDP) teknoloji ekranı olanlar";"Adet";50
+"null";"8528.72.80.00.00";" - - - - Diğerleri";"Adet";50
+"null";"8528.73.00.00.00";" - - Diğerleri, siyah beyaz veya diğer tek renkli olanlar";"Adet";50
+"null";;;;
+"null";"85.29";"Sadece veya esas itibariyle 85.24 ila 85.28 pozisyonlarında yer alan";;
+"null";;"cihazlara mahsus aksam ve parçalar:";;
+"null";"8529.10";" - Antenler ve her tür yansıtıcı antenler; bunlara ";;
+"null";;"   ait  aksam ve parçalar:";;
+"null";;" - - Antenler:";;
+"null";"8529.10.11.00.00";" - - - Motorlu araçlara monte edilecek cihazlar ve portatif cihazlar için ";;
+"null";;"      teleskopik veya kamçı tipi antenler";"-";50
+"null";;" - - - Harici radyo ve televizyon alıcı antenleri:";;
+"null";"8529.10.30.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"-";50
+"null";"8529.10.30.90.00";" - - - - Diğerleri ";"-";50
+"null";;" - - - Radyo ve televizyon alıcıları için dahili antenler (monte edilmişler dahil):";;
+"null";"8529.10.65.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus  olanlar";"-";50
+"null";"8529.10.65.90.00";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8529.10.69.10.00";" - - - - Sivil hava taşıtlarında kullanılmaya mahsus  olanlar";"-";50
+"null";;" - - - - Diğerleri:";;
+"null";"8529.10.69.90.11";" - - - - - Radyo-televizyon verici antenleri";"-";50
+"null";"8529.10.69.90.13";" - - - - - Uydu ve radyolink alıcı ve verici cihazlarının antenleri";"-";50
+"null";"8529.10.69.90.18";" - - - - - Diğerleri";"-";50
+"null";;" - - Anten filtreleri ve separatörler:";;
+"null";"8529.10.80.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus  olanlar";"-";50
+"null";"8529.10.80.90.00";" - - - Diğerleri";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8529.10.95.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus  olanlar";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8529.10.95.90.11";" - - - - Antenleri yönlendirmeye mahsus rotor sistemleri";"-";50
+"null";"8529.10.95.90.19";" - - - - Diğerleri";"-";50
+"null";"8529.90";" - Diğerleri:";;
+"null";"8529.90.15.00.00";" - - 8528.72 veya 8528.73 alt pozisyonlarındaki cihazlara ait organik LED modüller";;
+"null";;"     ve organik LED paneller";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8529.90.18.00.00";" - - - 8524 11 00 ve 8524 91 00 alt pozisyonlarındaki cihazlara ait olanlar";"-";50
+"null";"8529.90.20.00.00";" - - - 8525 81 00,  8525 82 00, 8525 83 00 ve 8525 89 00 alt pozisyonlarındaki dijital ";;
+"null";;"       kameraların; 8525 60 00, 8528 42 00, 8528 52 10 ve 8528 62 00 alt pozisyonlarındaki";;
+"null";;"       cihazların aksam ve parçaları";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8529.90.40.00.00";" - - - - Kabinler ve mobilyalar";"-";50
+"null";;" - - - - Birleştirilmiş elektronik aksam ve parçalar:";;
+"null";"8529.90.65.10.00";" - - - - - 85.26 pozisyonunda yer alan cihazlara mahsus iki veya daha fazla aksam ve parçanın ";;
+"null";;"biraraya  getirilerek bağlanması veya birleştirilmesiyle oluşan montaj ve yarı montajlar";"-";50
+"null";"8529.90.65.90.00";" - - - - - Diğerleri";"-";50
+"null";;" - - - - Diğerleri :";;
+"null";"8529.90.91.00.00";" - - - - - Bir baskılı devre veya diğer benzeri bir yüzeye monte edilmiş bir veya daha fazla";;
+"null";;"     LED ve bir veya daha fazla konektör ve diğer pasif komponentlerden oluşan,";;
+"null";;"     ışık kaynağı olan, LCD göstergeler için arka ışık aydınlatması olarak kullanılan ";;
+"null";;"     LED arka ışık modülleri (optik bileşenler veya koruyucu diyotlar içersin içermesin) ";"-";50
+"null";;" - - - - - Diğerleri:";;
+"null";"8529.90.92.00.00";" - - - - - - 8525.81, 8525.82, 8525.83 ve 8525.89 Alt pozisyonlarındaki televizyon kameraları ";;
+"null";;"            ve 8527 ile  85.28 pozisyonlarındaki cihazlara ait olanlar";"-";50
+"null";;" - - - - - - Diğerleri:";;
+"null";"8529.90.97.10.00";" - - - - - - - 85.26 pozisyonunda yer alan cihazlara mahsus iki veya daha fazla aksam ve parçanın ";;
+"null";;"biraraya  getirilerek bağlanması veya birleştirilmesiyle oluşan montaj ve yarı montajlar";"-";50
+"null";"8529.90.97.90.00";" - - - - - - - Diğerleri";"-";50
+"null";;;;
+"null";"85.30";"Demiryolları, tramvaylar, karayolları, dahili nehir yolları, taşıt park";" ";
+"null";;"yerleri, limanlar veya hava alanlarında kullanılmaya mahsus ";" ";
+"null";;"elektrikli işaret, emniyet veya trafik kontrol ve kumanda cihazları";"  ";
+"null";;"(86.08 pozisyonunda yer alanlar hariç) :";" ";
+"null";"8530.10.00.00.00";" - Demiryolları veya tramvaylar için cihazlar";"-";15
+"null";"8530.80";" - Diğer cihazlar";;
+"null";"8530.80.00.00.11";" - - Limanlarda ve hava meydanlarında trafiğin otomatik olarak kontrol ve ";" ";
+"null";" ";"      idaresine mahsus elektrikli cihazlar";"-";15
+"null";"8530.80.00.00.12";" - - Karayolları trafiğine mahsus cihazlar";"-";15
+"null";"8530.80.00.00.19";" - - Diğerleri";"-";15
+"null";"8530.90.00.00.00";" - Aksam ve parçalar";"-";15
+"null";;;" ";
+"null";"85.31";"Elektrikli ses veya görüntülü işaret cihazları (örneğin; ziller, sirenler,";"  ";
+"null";;"gösterge tabloları, hırsızlığa veya yangına karşı alarmlar) (85.12 ";" ";
+"null";;"veya 85.30 pozisyonlarında yer alanlar hariç):";" ";
+"null";"8531.10";" - Hırsızlığa veya yangına karşı alarmlar ve benzeri cihazlar:";" ";
+"null";;" - - Binalarda  kullanılan türde olanlar:";;
+"null";"8531.10.30.00.11";" - - - Gaz alarm cihazları";"Adet";50
+"null";"8531.10.30.00.19";" - - - Diğerleri";"Adet";50
+"null";"8531.10.95.00.00";" - - Diğerleri";"Adet";50
+"null";"8531.20";" - Gösterge tabloları [sıvı kristal tertibatlı (LCD) veya ışık veren diyod";;
+"null";;"    tertibatlı (LED) olanlar]:";;
+"null";"8531.20.20.00.00";" - - Işık veren diyod tertibatlı olanlar (LED)";"-";50
+"null";;" - - Sıvı kristal tertibatlı olanlar (LCD) :";" ";
+"null";;" - - - Aktif matris sıvı kristal tertibatlı olanlar (LCD):";;
+"null";"8531.20.40.00.11";" - - - - Renkli olanlar";"-";50
+"null";"8531.20.40.00.12";" - - - - Siyah beyaz veya diğer tek renkli olanlar";"-";50
+"null";"8531.20.95.00.00";" - - - Diğerleri";"-";50
+"null";"8531.80";" - Diğer cihazlar :";;
+"null";"8531.80.40.00.00";" - - Ziller, vızıldayıcılar, kapı çanları ve benzeri";"-";50
+"null";;" - - Diğerleri";;
+"null";"8531.80.70.10.00";" - - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar";"-";50
+"null";"8531.80.70.90.00";" - - - Diğerleri";"-";50
+"null";"8531.90.00.00.00";" - Aksam ve parçalar ";"-";50
+"null";;;;
+"null";"85.32";"Sabit, değişken veya ayarlanabilir (ön ayar yapılabilir) elektrik";;
+"null";;"kondansatörleri:";;
+"null";"8532.10";" - 50/60 Hz.lik elektrik devreleri için imal edilmiş ve 0,5 kvar veya";;
+"null";;"   daha fazla reaktif güç kapasitesi olan sabit kondansatörler (güç";;
+"null";;"   kondansatörleri)";;
+"null";"8532.10.00.00.11";" - - Kuru kondansatörler";"-";35
+"null";"8532.10.00.00.12";" - - Yağ emdirilmiş kondansatörler";"-";35
+"null";"8532.10.00.00.13";" - - Yağ içine konmuş kondansatörler";"-";35
+"null";"8532.10.00.00.19";" - - Diğerleri";"-";35
+"null";;" - Diğer sabit kondansatörler:";" ";
+"null";"8532.21";" - - Tantal kondansatörler";" ";
+"null";"8532.21.00.00.11";" - - - Bağlantı bacakları olanlar";"-";35
+"null";"8532.21.00.00.19";" - - - Diğerleri";"-";35
+"null";"8532.22";" - - Aluminyum elektrolitik kondansatörler";" ";
+"null";"8532.22.00.00.11";" - - - Bağlantı bacakları olanlar";"-";35
+"null";"8532.22.00.00.19";" - - - Diğerleri";"-";35
+"null";"8532.23";" - - Seramik dielektrikli kondansatörler (tek katlı)";" ";
+"null";"8532.23.00.00.11";" - - - Bağlantı bacakları olanlar";"-";35
+"null";"8532.23.00.00.19";" - - - Diğerleri";"-";35
+"null";"8532.24.00.00.00";" - - Seramik dielektrikli kondansatörler (çok katlı)";"-";35
+"null";"8532.25";" - - Kağıt veya plastik dielektrikli kondansatörler";" ";
+"null";"8532.25.00.00.11";" - - - Kağıt dielektrikli bağlantı bacaklı kondansatörler";"-";35
+"null";"8532.25.00.00.19";" - - - Kağıt dielektrikli diğer kondansatörler";"-";35
+"null";"8532.25.00.00.21";" - - - Plastik dielektrikli bağlantı bacaklı kondansatörler";"-";35
+"null";"8532.25.00.00.29";" - - - Plastik dielektrikli diğer kondansatörler";"-";35
+"null";"8532.25.00.00.31";" - - - Kağıt ve plastik dielektrikli kondansatörler (karma dielektrikli)";"-";35
+"null";"8532.29";" - - Diğerleri";" ";
+"null";"8532.29.00.00.11";" - - - Meksefe olarak kullanılan kondansatörler";"-";35
+"null";"8532.29.00.00.12";" - - - Antiparazit kondansatörleri";"-";35
+"null";"8532.29.00.00.13";" - - - Yüksek frekanslı (50/60 Hz'den büyük) fırın kondansatörleri ";"-";35
+"null";"8532.29.00.00.14";" - - - Çok değerli sabit kondansatörler";"-";35
+"null";"8532.29.00.00.19";" - - - Diğerleri";"-";35
+"null";"8532.30";" - Değişken veya ayarlanabilir (ön ayar yapılabilir) kondansatörler";" ";
+"null";"8532.30.00.00.11";" - - Bağlantı bacakları olanlar";"-";40
+"null";"8532.30.00.00.19";" - - Diğerleri";"-";40
+"null";"8532.90";" - Aksam ve parçalar:";" ";
+"null";"8532.90.00.10.00";" - - Sabit kondansatörlerin aksam ve parçaları";"-";35
+"null";"8532.90.00.90.00";" - - Diğerleri";"-";40
+"null";;;;
+"null";"85.33";"Elektrik rezistansları (reostalar ve potansiyometreler dahil) (ısıtıcı";;
+"null";;"rezistanslar hariç):";;
+"null";"8533.10";" - Karbonlu sabit rezistanslar (terkip veya film tipleri)";;
+"null";"8533.10.00.00.11";" - - Karbon terkipli rezistanlar (bağlantı bacaklılar)";"-";35
+"null";"8533.10.00.00.19";" - - Karbon terkipli diğer rezistanlar";"-";35
+"null";"8533.10.00.00.21";" - - Karbon film rezistanlar (bağlantı bacaklılar)";"-";35
+"null";"8533.10.00.00.29";" - - Karbon film diğer rezistanlar";"-";35
+"null";;" - Diğer sabit rezistanslar:";" ";
+"null";"8533.21";" - - Güç kapasitesi 20 W.ı geçmeyenler için";" ";
+"null";"8533.21.00.00.11";" - - - Bağlantı bacakları olanlar";"-";35
+"null";"8533.21.00.00.19";" - - - Diğerleri";"-";35
+"null";"8533.29.00.00.00";" - - Diğerleri";"-";35
+"null";;" - Tel sarımlı değişken rezistanslar (reostalar ve potansiyometreler";" ";
+"null";;"   dahil):";;
+"null";"8533.31";" - - Güç kapasitesi 20 W.ı geçmeyenler için";" ";
+"null";"8533.31.00.00.11";" - - - Reostalar";"-";35
+"null";"8533.31.00.00.12";" - - - Bacaklı potansiyometreler";"-";35
+"null";"8533.31.00.00.19";" - - - Diğer potansiyometreler";"-";35
+"null";"8533.31.00.00.29";" - - - Diğerleri";"-";35
+"null";"8533.39";" - - Diğerleri";" ";
+"null";"8533.39.00.00.11";" - - - Reostalar";"-";35
+"null";"8533.39.00.00.12";" - - - Potansiyometreler";"-";35
+"null";"8533.39.00.00.19";" - - - Diğerleri";"-";35
+"null";"8533.40";" - Diğer değişken rezistanslar (reostalar ve potansiyometreler dahil):";;
+"null";" ";" - - Güç kapasitesi 20 W.ı geçmeyenler için";;
+"null";"8533.40.10.00.11";" - - - Reostalar";"-";35
+"null";"8533.40.10.00.12";" - - - Bacaklı potansiyometreler";"-";35
+"null";"8533.40.10.00.19";" - - - Diğer potansiyometreler";"-";35
+"null";"8533.40.10.00.29";" - - - Diğerleri";"-";35
+"null";" ";" - - Diğerleri";" ";
+"null";"8533.40.90.00.11";" - - - Reostalar";"-";35
+"null";"8533.40.90.00.12";" - - - Potansiyometreler";"-";35
+"null";"8533.40.90.00.19";" - - - Diğerleri";"-";35
+"null";"8533.90.00.00.00";" - Aksam ve parçalar";"-";25
+"null";;;;
+"null";"8534.00";"Baskı devreler:";;
+"null";;" - Sadece iletken ve temas elemanlarını içerenler:";;
+"null";" ";" - - Çok katlı devreler";;
+"null";"8534.00.11.00.11";" - - - Elastiki olanlar";"-";25
+"null";"8534.00.11.00.19";" - - - Diğerleri";"-";25
+"null";" ";" - - Diğerleri";" ";
+"null";"8534.00.19.00.11";" - - - Elastiki olanlar";"-";25
+"null";"8534.00.19.00.19";" - - - Diğerleri";"-";25
+"null";" ";" - Diğer pasif elemanlılar";" ";
+"null";"8534.00.90.00.11";" - - Kalın film devreleri";"-";25
+"null";"8534.00.90.00.19";" - - Diğerleri";"-";25
+"null";;;;
+"null";"85.35";"Gerilimi 1000 voltu geçen elektrik devrelerinin anahtarlanması";;
+"null";;"(açılıp kapatılması) veya korunmasına veya elektrik devresine veya ";;
+"null";;"elektrik devresinden bağlantı yapmaya mahsus elektrik teçhizatı";;
+"null";;"(örneğin; anahtarlar, sigortalar, yıldırım önleyiciler, gerilim sınırlayı-";;
+"null";;"cılar, dalga bastırıcılar, fişler ve diğer bağlayıcılar, bağlantı kutuları):";;
+"null";"8535.10.00.00.00";" - Eriyen iletkenli sigortalar";"-";50
+"null";" ";" - Otomatik devre kesiciler:";;
+"null";"8535.21";" - - Gerilimi 72,5 kV.dan az olanlar";;
+"null";"8535.21.00.00.11";" - - - SF6 gazlı otomatik devre kesiciler";"-";50
+"null";"8535.21.00.00.12";" - - - Az yağlı otomatik devre kesiciler";"-";50
+"null";"8535.21.00.00.13";" - - - Vakumlu otomatik devre kesiciler";"-";50
+"null";"8535.21.00.00.19";" - - - Diğerleri";"-";50
+"null";"8535.29";" - - Diğerleri";" ";
+"null";"8535.29.00.00.11";" - - - SF6 gazlı otomatik devre kesiciler";"-";50
+"null";"8535.29.00.00.19";" - - - Diğerleri";"-";50
+"null";"8535.30";" - Devre ayırıcılar ve yük ayırıcılar:";;
+"null";" ";" - - Gerilimi 72,5 kV.dan az olanlar";;
+"null";"8535.30.10.00.11";" - - - Devre ayırıcıları";"-";50
+"null";"8535.30.10.00.12";" - - - Vakum kazanlı yük ayırıcıları";"-";50
+"null";"8535.30.10.00.19";" - - - Diğer yük ayırıcıları";"-";50
+"null";" ";" - - Diğerleri";" ";
+"null";"8535.30.90.00.11";" - - - Devre ayırıcıları";"-";50
+"null";"8535.30.90.00.12";" - - - Yük ayırıcıları";"-";50
+"null";"8535.40";" - Yıldırım önleyiciler, gerilim sınırlayıcılar ve dalga bastırıcılar";" ";
+"null";"8535.40.00.00.11";" - - Parafudrlar";"-";50
+"null";"8535.40.00.00.12";" - - Gerilim sınırlayıcılar";"-";50
+"null";"8535.40.00.00.13";" - - Dalga bastırıcılar";"-";50
+"null";"8535.40.00.00.19";" - - Diğerleri";"-";50
+"null";"8535.90";" - Diğerleri";" ";
+"null";"8535.90.00.00.11";" - - Bağlantı kutuları";"-";50
+"null";"8535.90.00.00.12";" - - Röleler";"-";50
+"null";"8535.90.00.00.13";" - - Komütatörler";"-";50
+"null";"8535.90.00.00.19";" - - Diğerleri";"-";50
+"null";;;" ";
+"null";"85.36";"Gerilimi 1000 voltu geçmeyen elektrik devrelerinin anahtarlanma-";" ";
+"null";;"sına veya korunmasına veya elektrik devresine veya elektrik devre-";;
+"null";;"sinden bağlantı yapmaya mahsus elektrik teçhizatı (örneğin; anah-";;
+"null";;"tarlar, röleler, sigortalar, dalga bastırıcılar, fişler, prizler ve soketler,";;
+"null";;"ampul duyları ve diğer bağlayıcılar, bağlantı kutuları); optik lifler, optik";;
+"null";;" lif demetleri veya kabloları için bağlayıcılar)";;
+"null";"8536.10";" - Eriyen iletkenli sigortalar:";;
+"null";" ";" - - 10 A.i geçmeyen akım için olanlar";;
+"null";"8536.10.10.00.11";" - - - Cam sigortalar";"-";50
+"null";"8536.10.10.00.12";" - - - Bıçaklı sigortalar";"-";50
+"null";"8536.10.10.00.13";" - - - D tipi sigortalar";"-";50
+"null";"8536.10.10.00.14";" - - - Hızlı sigortalar (güç yarı iletkenlerinin korunması için)";"-";50
+"null";"8536.10.10.00.15";" - - - Termal sigortalar";"-";50
+"null";"8536.10.10.00.19";" - - - Diğerleri";"-";50
+"null";" ";" - - 10 A .i geçen fakat 63 A.'i geçmeyen akım için olanlar";" ";
+"null";"8536.10.50.00.11";" - - - Cam sigortalar";"-";50
+"null";"8536.10.50.00.12";" - - - Bıçaklı sigortalar";"-";50
+"null";"8536.10.50.00.13";" - - - D tipi sigortalar";"-";50
+"null";"8536.10.50.00.14";" - - - Hızlı sigortalar (güç yarı iletkenlerinin korunması için)";"-";50
+"null";"8536.10.50.00.15";" - - - Termal sigortalar";"-";50
+"null";"8536.10.50.00.19";" - - - Diğerleri";"-";50
+"null";" ";" - - 63 A.i geçen akım için olanlar";" ";
+"null";"8536.10.90.00.11";" - - - Cam sigortalar";"-";50
+"null";"8536.10.90.00.12";" - - - Bıçaklı sigortalar";"-";50
+"null";"8536.10.90.00.13";" - - - D tipi sigortalar";"-";50
+"null";"8536.10.90.00.14";" - - - Hızlı sigortalar (güç yarı iletkenlerinin korunması için)";"-";50
+"null";"8536.10.90.00.15";" - - - Termal sigortalar";"-";50
+"null";"8536.10.90.00.19";" - - - Diğerleri";"-";50
+"null";"8536.20";" - Otomatik devre kesiciler:";" ";
+"null";" ";" - - 63 A.i geçmeyen akım için olanlar";" ";
+"null";"8536.20.10.00.11";" - - - Ev tipi minyatür devre kesiciler (otomatlar)";"-";50
+"null";"8536.20.10.00.19";" - - - Diğerleri";"-";50
+"null";" ";" - - 63 A.i geçen akım için olanlar";" ";
+"null";"8536.20.90.00.11";" - - - Ev tipi minyatür devre kesiciler (otomatlar)";"-";50
+"null";"8536.20.90.00.19";" - - - Diğerleri";"-";50
+"null";"8536.30";" - Elektrik devrelerinin korunmasına mahsus diğer teçhizat:";" ";
+"null";"8536.30.10.00.00";" - - 16 A.i geçmeyen akım için olanlar";"-";50
+"null";"8536.30.30.00.00";" - - 16 A.i geçen fakat 125 A.i geçmeyen akım için olanlar";"-";50
+"null";"8536.30.90.00.00";" - - 125 A.i geçen akım için olanlar";"-";50
+"null";;" - Röleler:";;
+"null";"8536.41";" - - Anma gerilimi 60 voltu geçmeyenler:";;
+"null";"8536.41.10.00.00";" - - - Anma akımı 2 A.i geçmeyenler";"-";50
+"null";"8536.41.90.00.00";" - - - Anma akımı 2 A.i geçenler";"-";50
+"null";"8536.49";" - - Diğerleri";" ";" "
+"null";"8536.49.00.00.11";" - - - Anma akımı 170 A.i (anma gücü AC 3, 380 V.da 90 kW.ı) geçmeyen";" ";
+"null";" ";"        kontaktörler";"-";50
+"null";"8536.49.00.00.12";" - - - Anma akımı 170 A.i (anma gücü AC 3, 380 V.da 90 kW.ı) geçen kon-";" ";
+"null";" ";"        taktörler";"-";50
+"null";"8536.49.00.00.13";" - - - Aşırı akım termik röleleri";"-";50
+"null";"8536.49.00.00.14";" - - - Senkron motorlu zaman röleleri";"-";50
+"null";"8536.49.00.00.19";" - - - Diğer zaman röleleri";"-";50
+"null";"8536.49.00.00.29";" - - - Diğerleri";"-";50
+"null";"8536.50";" - Diğer anahtarlar :";;
+"null";"8536.50.03.00.00";" - - Optik olarak ikili giriş ve çıkış devresi ihtiva eden elektronik AC anahtarları  ";;
+"null";;"      ( İzole edilmiş tristör AC anahtarları )    ";"-";50
+"null";"8536.50.05.00.00";" - - Bir transistör ve lojik chip (chip-on chip technology)  ihtiva eden elektronik ";;
+"null";;"     anahtarlar ( ısı korumalı elektronik anahtarlar dahil ) ";"-";50
+"null";"8536.50.07.00.00";" - - 11 A. i geçmeyen akım için olan elektromekanik ani hareketli ( snap-action ) anahtarlar ";"-";50
+"null";;" - - Diğerleri :";;
+"null";;" - - - Anma gerilimi 60 voltu geçmeyenler:";;
+"null";"8536.50.11.00.00";" - - - - Basma düğmeli olanlar";"-";50
+"null";;" - - - - Rotatif olanlar";;
+"null";"8536.50.15.00.11";" - - - - - Kontak akımı 10 A. i geçmeyen rotatif anahtarlar";"-";50
+"null";"8536.50.15.00.12";" - - - - - Kontak akımı 10 A. i geçen rotatif anahtarlar";"-";50
+"null";"8536.50.19.00.00";" - - - - Diğerleri";"-";50
+"null";;" - - - Diğerleri";;
+"null";"8536.50.80.00.11";" - - - - Floresans ampuller için komple starterler";"-";50
+"null";"8536.50.80.00.13";" - - - - Komütatörler";"-";50
+"null";"8536.50.80.00.14";" - - - - Mikro anahtarlar";"-";50
+"null";"8536.50.80.00.15";" - - - - Ev tipi anahtarlar";"-";50
+"null";"8536.50.80.00.16";" - - - - Kollu şalterler";"-";50
+"null";"8536.50.80.00.17";" - - - - Paket şalterler";"-";50
+"null";"8536.50.80.00.18";" - - - - Diğerleri";"-";50
+"null";;" - Ampul duyları, fişler ve soketler (prizler): ";" ";
+"null";"8536.61";" - - Ampul duyları:";" ";
+"null";"8536.61.10.00.00";" - - - Edison ampul duyları";"-";50
+"null";"8536.61.90.00.00";" - - - Diğerleri";"-";50
+"null";"8536.69";" - - Diğerleri:";" ";
+"null";"8536.69.10.00.00";" - - - Koaksiyal kablolar için olanlar";"-";50
+"null";"8536.69.30.00.00";" - - - Baskı devreler için olanlar";"-";50
+"null";" ";" - - - Diğerleri";" ";
+"null";"8536.69.90.00.11";" - - - - Ev tipi fişler ve soketler";"-";50
+"null";"8536.69.90.00.13";" - - - - Vidasız - lehimsiz kendinden yalıtkan sıyırmalı bağlantı modülleri";"-";50
+"null";"8536.69.90.00.18";" - - - - Diğerleri";"-";50
+"null";"8536.70";" - Optik lifler, optik lif demetleri veya kabloları için konektörler";;
+"null";"8536.70.00.10.00";" - - Plastikten olanlar";"-";150
+"null";"8536.70.00.20.00";" - - Seramikten olanlar";"-";50
+"null";"8536.70.00.30.00";" - - Bakırdan olanlar";"-";40
+"null";"8536.70.00.50.00";" - - Demir veya çelikten olanlar";"-";50
+"null";"8536.90";" - Diğer teçhizat:";" ";
+"null";"8536.90.01.00.00";" - - Elektrik devreleri için prefabrik elemanlar";"-";50
+"null";"8536.90.10.00.00";" - - Tel ve kablolar için bağlantı ve irtibat elemanları";"-";50
+"null";"8536.90.40.00.00";" - - 87.02, 87.03, 87.04 veya 87.11 pozisyonundaki motorlu araçlarda kullanılan türde";;
+"null";;"    akü kelepçeleri ";"-";50
+"null";"8536.90.95.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"85.37";"Elektriğin kontrol veya dağıtımına mahsus olup, 85.35 veya 85.36 pozis-";;
+"null";;"yonlarında yer alan iki veya daha fazla cihazla donatılmış tablolar, ";;
+"null";;"panolar, konsollar, masalar, kabinler ve diğer mesnetler (90. fasılda";;
+"null";;"yer alan alet ve cihazlarla donanmış olanlar dahil) ve sayısal kontrol";;
+"null";;"cihazları (85.17 pozisyonunda yer alan cihazlar hariç) :";;
+"null";"8537.10";" - Gerilimi 1000 voltu geçmeyenler:";;
+"null";"8537.10.10.00.00";" - - Otomatik bilgi işlem makinası ile donatılmış sayısal kumanda panoları";"-";40
+"null";;" - - Diğerleri:";" ";
+"null";"8537.10.91.00.00";" - - - Programlanabilir hafızalı kumanda cihazları";"-";40
+"null";"8537.10.95.00.00";" - - - Gösterge alanındaki dokunma hareketinin varlığını ve yerini algılayan, gösterge içeren";;
+"null";;"      bir cihaza takılmak için tasarlanmış, gösterge özelliği olmayan, dokunmatik ";;
+"null";;"     veri giriş cihazları (touch screen)";"-";40
+"null";" ";" - - - Diğerleri";" ";
+"null";"8537.10.98.00.11";" - - - - Asansörler için komple kumanda veya tevzi panoları";"-";40
+"null";"8537.10.98.00.19";" - - - - Diğerleri";"-";40
+"null";"8537.20";" - Gerilimi 1000 voltu geçenler:";" ";
+"null";"8537.20.91.00.00";" - - Gerilimi 1000 voltu geçen fakat 72,5 kV.u geçmeyenler";"-";40
+"null";"8537.20.99.00.00";" - - Gerilimi 72,5 kV.u geçenler";"-";40
+"null";;;" ";
+"null";"85.38";"Sadece ve esas itibariyle 85.35, 85.36 veya 85.37 pozisyonlarında";;
+"null";;"yer alan cihazlarda kullanılmaya uygun aksam ve parçalar:";;
+"null";"8538.10.00.00.00";" - 85.37 Pozisyonunda yer alan eşya için tablolar, panolar, konsollar,";;
+"null";;"   masalar, kabinler ve diğer mesnetler (cihazla donatılmamış)";"-";25
+"null";"8538.90";" - Diğerleri:";" ";
+"null";;" - - Disk test edicilere mahsus olanlar :";;
+"null";"8538.90.11.00.00";" - - - Birleştirilmiş elektronik aksam ve parçalar";"-";25
+"null";"8538.90.19.00.00 ";" - - - Diğerleri";"-";25
+"null";;" - - Diğerleri";;
+"null";"8538.90.91.00.00";" - - - Birleştirilmiş elektronik aksam ve parçalar";"-";25
+"null";"8538.90.99.00.00";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"85.39";"Kızma esaslı veya deşarj esaslı elektrik ampulleri (monoblok far";;
+"null";;"üniteleri ve mor ötesi veya kızıl ötesi ışınlı ampuller dahil);";;
+"null";;"ark lambaları; LED ışık kaynakları:";;
+"null";"8539.10";" - Monoblok far üniteleri:";;
+"null";"8539.10.00.10.00";" - - Sivil hava taşıtlarında kullanılmaya mahsus olanlar ";"Adet";50
+"null";"8539.10.00.90.00";" - - Diğerleri";"Adet";40
+"null";;" - Diğer flamanlı ampuller (mor ötesi veya kızıl ötesi ışınlı ampuller";;
+"null";;"   hariç):";;
+"null";"8539.21";" - - Tungsten flamanlı halojenli ampuller:";;
+"null";"8539.21.30.00.00";" - - - Motosikletlerde veya diğer motorlu araçlarda kullanılan türden olanlar";"Adet";50
+"null";;" - - - Diğerleri:";" ";
+"null";"8539.21.92.00.00";" - - - - Gerilimi 100 voltu geçenler";"Adet";50
+"null";"8539.21.98.00.00";" - - - - Gerilimi 100 voltu geçmeyenler";"Adet";50
+"null";"8539.22";" - - Diğerleri (gücü 200 W.ı geçmeyen ve gerilimi 100 voltu geçenler):";" ";
+"null";"8539.22.10.00.00";" - - - Reflektör ampulleri";"Adet";50
+"null";" ";" - - - Diğerleri";;
+"null";"8539.22.90.00.11";" - - - - Cam kavanoz çapı 25 mm. veya daha yukarı genel amaçlı aydın-";;
+"null";" ";"           latma ampulleri (CRS) ";"Adet";50
+"null";"8539.22.90.00.12";" - - - - Cam kavanoz çapı 25 mm. veya daha yukarı dekoratif ampuller (sili-";" ";
+"null";" ";"           ka, mantar, mum, top, renkli)";"Adet";50
+"null";"8539.22.90.00.13";" - - - - Cam kavanoz çapı 25 mm.den az  dekoratif ampuller (25 mm. hariç)";"Adet";50
+"null";"8539.22.90.00.14";" - - - - Tüp şeklinde flamanlı ampuller";"Adet";50
+"null";"8539.22.90.00.19";" - - - - Diğerleri";"Adet";50
+"null";"8539.29";" - - Diğerleri:";;
+"null";"8539.29.30.00.00";" - - - Motosikletlerde veya diğer motorlu araçlarda kullanılan türden";;
+"null";;"       olanlar";"Adet";50
+"null";;" - - - Diğerleri:";;
+"null";" ";" - - - - Gerilimi 100 voltu geçenler";;
+"null";"8539.29.92.00.11";" - - - - - Cam kavanoz çapı 25 mm. veya daha yukarı genel amaçlı ay-";;
+"null";" ";"             dınlatma ampulleri (CRS) ";"Adet";50
+"null";"8539.29.92.00.12";" - - - - - Cam kavanoz çapı 25 mm. veya daha yukarı dekoratif ampuller (sili-";" ";
+"null";" ";"             ka, mantar, mum, top, renkli)";"Adet";50
+"null";"8539.29.92.00.19";" - - - - - Diğerleri";"Adet";50
+"null";" ";" - - - - Gerilimi 100 voltu geçmeyenler";;
+"null";"8539.29.98.00.11";" - - - - - Cam kavanoz çapı 25 mm.den az minyon ampuller (25 mm.ve oto";;
+"null";" ";"             ampulleri hariç)";"Adet";50
+"null";"8539.29.98.00.19";" - - - - - Diğerleri";"Adet";50
+"null";;" - Deşarj ampulleri (mor ötesi ışınlı ampuller hariç):";;
+"null";"8539.31";" - - Sıcak katodlu floresanslar:";;
+"null";" ";" - - - Çift dipli olanlar";;
+"null";"8539.31.10.00.11";" - - - - Boyu 590 mm.den az olan doğrusal tüp floresans ampuller (minyatür";" ";
+"null";"  ";"           floresans ampuller)";"Adet";50
+"null";"8539.31.10.00.12";" - - - - Boyu 590 mm.yi geçen fakat 1210 mm.yi geçmeyen  doğrusal tüp";" ";
+"null";" ";"           floresans ampuller";"Adet";50
+"null";"8539.31.10.00.13";" - - - - Boyu 1210 mm.den fazla doğrusal tüp floresans ampuller";"Adet";50
+"null";"8539.31.10.00.14";" - - - - Doğrusal olmayan floresans ampuller";"Adet";50
+"null";" ";" - - - Diğerleri";" ";
+"null";"8539.31.90.00.11";" - - - - Simit şeklinde olanlar";"Adet";50
+"null";"8539.31.90.00.19";" - - - - Diğerleri";"Adet";50
+"null";"8539.32";" - - Civa veya sodyum buharlı ampuller; metal halitli ampuller:";;
+"null";"8539.32.20.00.00";" - - - Civa veya sodyum buharlı ampuller ";"Adet";50
+"null";"8539.32.90.00.00";" - - - Metal halitli ampuller";"Adet";50
+"null";"8539.39";" - - Diğerleri:";;
+"null";"8539.39.20.00.00";" - - - Düz panel göstergelerin arka ışık üniteleri için soğuk katodlu floresanslar ";"Adet";50
+"null";"8539.39.80.00.00";" - - - Diğerleri";"Adet";50
+"null";;" - Morötesi veya kızılötesi ışınlı ampuller; ark lambaları:";" ";
+"null";"8539.41.00.00.00";" - - Ark lambaları";"Adet";50
+"null";"8539.49.00.00.00";" - - Diğerleri";"Adet";50
+"null";;" - LED ışık kaynakları:";;
+"null";"8539.51.00.00.00";" - - LED modüller";"Adet";50
+"null";"8539.52.00.00.00";" - - LED ampuller";"Adet";50
+"null";"8539.90";" - Aksam ve parçalar:";;
+"null";"8539.90.10.00.00";" - - Ampul dipleri";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8539.90.90.10.00";" - - - Monoblok farların aksam ve parçaları";"-";40
+"null";" ";" - - - Diğerleri";" ";
+"null";"8539.90.90.90.11";" - - - - Ampullerin iletken telleri";"-";50
+"null";"8539.90.90.90.19";" - - - - Diğerleri";"-";50
+"null";;;;
+"null";"85.40";"Sıcak katodlu, soğuk katodlu veya foto katodlu valfler,";;
+"null";;"tüpler ve lambalar (örneğin; vakumlu veya buhar veya gaz doldurul-";;
+"null";;"muş lamba, tüp ve valfler, civa buharlı redresör tüpleri, katod ışınlı";;
+"null";;"tüpler, televizyon kameralarına mahsus valf ve tüpler):";;
+"null";;" - Televizyon alıcıları için katod ışınlı görüntü tüpleri [katod ışınlı";;
+"null";;"   görüntü (video) monitör tüpleri dahil]:";;
+"null";"8540.11.00.00.00";" - - Renkli olanlar";"Adet";35
+"null";"8540.12.00.00.00";" - - Siyah beyaz veya diğer tek renkli olanlar";"Adet";35
+"null";"8540.20";" - Televizyon kamera tüpleri; görüntü çeviricileri ve görüntü yoğun-";;
+"null";;"    laştırıcıları; diğer foto katod tüpleri:";;
+"null";"8540.20.10.00.00";" - - Televizyon kamera tüpleri";"Adet";35
+"null";"8540.20.80.00.00";" - - Diğerleri";"Adet";20
+"null";"8540.40.00.00.00";" - Tek renkli veri/grafik gösterge tüpleri;  fosfor ekran noktaları 0,4 mm.'den ";;
+"null";;"    küçük renkli veri/grafik gösterge tüpleri";"Adet";20
+"null";"8540.60.00.00.00";" - Diğer katod ışınlı tüpler";"Adet";20
+"null";;" - Mikrodalga tüpleri (örneğin; magnetronlar, klistronlar, seyyar";;
+"null";;"   dalga tüpleri, karsinötronlar) (ızgara ile kumanda edilebilen ";;
+"null";;"    tüpler hariç):";;
+"null";"8540.71.00.00.00";" - - Magnetronlar";"Adet";20
+"null";"8540.79";" - - Diğerleri";" ";
+"null";"8540.79.00.00.11";" - - - Seyyar dalga tüpleri (TWT)";"Adet";20
+"null";"8540.79.00.00.19";" - - - Diğerleri";"Adet";20
+"null";;" - Diğer valfler ve tüpler:";;
+"null";"8540.81";" - - Alıcı veya yükseltici valf ve tüpler";;
+"null";"8540.81.00.00.11";" - - - Valfler";"Adet";20
+"null";"8540.81.00.00.12";" - - - Tüpler";"Adet";20
+"null";;" - - Diğerleri";;
+"null";"8540.89.00.00.11";" - - - Vakumlu gösterge tüpleri";"Adet";20
+"null";"8540.89.00.00.19";" - - - Diğer gösterge tüpleri";"Adet";20
+"null";"8540.89.00.00.29";" - - - Diğerleri";"Adet";20
+"null";;" - Aksam ve parçalar:";;
+"null";"8540.91";" - - Katod ışınlı tüplere ait olanlar";;
+"null";"8540.91.00.00.11";" - - - Saptırma (defleksiyon) bobinleri";"-";20
+"null";"8540.91.00.00.19";" - - - Diğerleri";"-";20
+"null";"8540.99.00.00.00";" - - Diğerleri";"-";20
+"null";;;;
+"null";"85.41";"Yarı iletken cihazlar (örneğin diyodlar, transistörler, yarı iletken tabanlı ";;
+"null";;"dönüştürücüler); ışığa duyarlı yarı iletken cihazlar (bir modül halinde birleştirilmiş ";;
+"null";;"veya panolarda düzenlenmiş olsun olmasın fotovoltaik hücreler dahil); ışık yayan ";;
+"null";;"diyodlar (LED) (başka LED'lerle biraraya getirilmiş olsun olmasın); monte edilmiş ";;
+"null";;"piezo elektrik kristaller:";;
+"null";"8541.10";" - Diyodlar (ışığa duyarlı veya ışık yayan diyodlar (LED) hariç):";;
+"null";"8541.10.00.00.11";" - - Chip halinde kesilmiş diyodlar";"-";20
+"null";"8541.10.00.00.12";" - - Bacakları takılmış diyodlar";"-";20
+"null";"8541.10.00.00.19";" - - Diğerleri";"-";20
+"null";;" - Transistörler (ışığa duyarlı transistörler hariç):";;
+"null";"8541.21";" - - Gücü 1 W. dan az olanlar";;
+"null";"8541.21.00.00.11";" - - - Chip halinde kesilmiş transistörler";"-";20
+"null";"8541.21.00.00.12";" - - - Bacakları takılmış transistörler";"-";20
+"null";"8541.21.00.00.19";" - - - Diğerleri";"-";20
+"null";"8541.29";" - - Diğerleri";" ";
+"null";"8541.29.00.00.11";" - - - Chip halinde kesilmiş transistörler";"-";20
+"null";"8541.29.00.00.12";" - - - Bacakları takılmış transistörler";"-";20
+"null";"8541.29.00.00.19";" - - - Diğerleri";"-";20
+"null";"8541.30";" - Tristörler, diyaklar ve triyaklar (ışığa duyarlı tertibat hariç)";;
+"null";"8541.30.00.00.11";" - - Tristörler";"-";20
+"null";"8541.30.00.00.12";" - - Diyaklar";"-";20
+"null";"8541.30.00.00.13";" - - Triyaklar";"-";20
+"null";;" - Işığa duyarlı yarı iletken cihazlar (bir modül halinde birleştirilmiş";;
+"null";;"   veya panolarda düzenlenmiş olsun olmasın fotovoltaik hücreler ";;
+"null";;"   dahil); ışık yayan diyodlar (LED):";;
+"null";"8541.41.00.00.00";" - - Işık yayan diyodlar (LED)";"-";20
+"null";"8541.42.00.00.00";" - - Bir modül halinde birleştirilmemiş veya panolarda düzenlenmemiş fotovoltaik hücreler";"-";20
+"null";"8541.43.00.00.00";" - - Bir modül halinde birleştirilmiş veya panolarda düzenlenmiş fotovoltaik hücreler";"-";20
+"null";"8541.49";" - - Diğerleri";;
+"null";"8541.49.00.00.12";" - - - Fotodiyodlar, fototransistörler, fototristörler veya optik bağlaçlar (fotocouples)";"-";20
+"null";"8541.49.00.00.13";" - - - Varaktörler";"-";20
+"null";"8541.49.00.00.19";" - - - Diğerleri";"-";20
+"null";;" - Diğer yarı iletken tertibat";" ";
+"null";"8541.51.00.00.00";" - - Yarı iletken tabanlı dönüştürücüler";"-";20
+"null";"8541.59";" - - Diğerleri";;
+"null";"8541.59.00.00.11";" - - - Chip halinde kesilmiş yarı iletken devre elemanları";"-";20
+"null";"8541.59.00.00.12";" - - - Bacakları takılmış yarı iletken devre elemanları";"-";20
+"null";"8541.59.00.00.19";" - - - Diğerleri";"-";20
+"null";"8541.60";" - Monte edilmiş piezoelektrik kristaller";" ";
+"null";"8541.60.00.00.11";" - - Kristal ve seramikten filtreler";"-";20
+"null";"8541.60.00.00.19";" - - Diğerleri";"-";20
+"null";"8541.90.00.00.00";" - Aksam ve parçalar";"-";20
+"null";;;;
+"null";"85.42";"Elektronik entegre devreler :";;
+"null";;" - Elektronik entegre devreler ";;
+"null";"8542.31";"  - - İşlemciler ve kontrolörler ( bellekler,dönüştürücüler,mantık devreleri,";;
+"null";;"      yükselteçler, saat ve zamanlama devreleri veya diğer devreler";;
+"null";;"      ile mücehhez olsun olmasın):";;
+"null";;" - - - Bu faslın 12 (b) (3 ve 4) nolu notunda belirtilmiş olanlar:";;
+"null";"8542.31.11.00.00";" - - - - Çok komponentli entegre devreler (MCO'lar)";"-";20
+"null";"8542.31.19.00.00";" - - - - Diğerleri";"-";20
+"null";"8542.31.90.00.00";" - - - Diğerleri";"-";20
+"null";"8542.32";" - - Bellekler:";;
+"null";;" - - - Bu faslın 12 (b) (3 ve 4) nolu notunda belirtilmiş olanlar";;
+"null";"8542.32.11.00.00";" - - - - Çok komponentli entegre devreler (MCO'lar)";"-";20
+"null";"8542.32.19.00.00";" - - - - Diğerleri";"-";20
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Dinamik rastgele erişim ana bellekler(D-RAM'lar):";;
+"null";"8542.32.31.00.00";" - - - - - Bellek kapasitesi 512 Mbit'i geçmeyenler";"Adet";20
+"null";"8542.32.39.00.00";" - - - - - Bellek kapasitesi 512 Mbit'i geçenler";"Adet";20
+"null";"8542.32.45.00.00";" - - - - Statik rastgele erişim ana bellekler (S-RAM'lar) ( rasgele erişimli";;
+"null";;"         ön bellekler (cache-RAM'lar) dahil)";"Adet";20
+"null";"8542.32.55.00.00";" - - - - UV ile silinebilen , programlanabilen, sadece okunabilen bellek -";;
+"null";;"             ler (EPROM'lar)";"Adet";20
+"null";;" - - - - Elektrikle silinebilen, programlanabilen ve sadece okunabilen bel -";;
+"null";;"             lekler  (E2PROM'lar), flash E2PROM'lar dahil:";;
+"null";;" - - - - - Flash E2PROM'lar:";;
+"null";"8542.32.61.00.00";" - - - - - - Bellek kapasitesi 512 Mbit'i geçmeyenler";"Adet";20
+"null";"8542.32.69.00.00";" - - - - - - Bellek kapasitesi 512 Mbit'i geçenler";"Adet";20
+"null";"8542.32.75.00.00";" - - - - - Diğerleri";"Adet";20
+"null";"8542.32.90.00.00";" - - - - Diğer bellekler";"-";20
+"null";"8542.33";" - - Yükselteçler:";;
+"null";"8542.33.10.00.00";" - - - Çok komponentli entegre devreler (MCO'lar)";"-";20
+"null";"8542.33.90.00.00";" - - - Diğerleri";"-";20
+"null";"8542.39";" - - Diğerleri";;
+"null";;" - - - Bu faslın 12 (b) (3 ve 4) nolu notunda belirtilmiş olanlar";;
+"null";"8542.39.11.00.00";" - - - - Çok komponentli entegre devreler (MCO'lar)";"-";20
+"null";"8542.39.19.00.00";" - - - - Diğerleri";"-";20
+"null";"8542.39.90.00.00";" - - - Diğerleri";"-";20
+"null";"8542.90.00.00.00";" - Aksam ve parçalar";"-";20
+"null";;;" ";
+"null";"85.43";"Bu Fasılın başka pozisyonlarında yer almayan veya belirtiImeyen";"  ";
+"null";;"kendine has bir fonksiyonu olan elektrikli makina ve cihazlar:";" ";
+"null";"8543.10.00.00.00";" - Tanecik hızlandırıcıları ";"-";50
+"null";"8543.20.00.00.00";" - Sinyal jeneratörleri";"-";50
+"null";"8543.30";" - Elektrolizle kaplama, elektroliz veya elektroforez için makina";;
+"null";;"   ve cihazlar: ";;
+"null";"8543.30.40.00.00";" - - Sadece veya esas itibarıyla baskılı devrelerin üretiminde kullanılan türde";;
+"null";;"      elektrolizle kaplama ve elektroliz makinaları";"-";50
+"null";"8543.30.70.00.00";" - - Diğerleri";"-";50
+"null";"8543.40.00.00.00";" - Elektronik sigaralar ve benzeri kişisel elektrikli buharlaştırıcı cihazlar";"-";50
+"null";"8543.70";" - Diğer makina ve cihazlar:";;
+"null";"8543.70.01.00.00";" - - Telgraf veya telefon cihazlarına ve aletlerine veya telgraf veya telefon ağlarına";;
+"null";;"    bağlanmak üzere tasarlanmış eşyalar";"-";50
+"null";"8543.70.02.00.00";" - - Mikrodalga yükselteçler";"-";50
+"null";"8543.70.03.00.00";" - - Video oyun konsolları için kablosuz kızılötesi uzaktan kumanda cihazları";"-";50
+"null";"8543.70.04.00.00";" - - Dijital uçuş bilgi kaydedicileri";"-";50
+"null";"8543.70.05.00.00";" - - Metin, sabit görüntü veya ses dosyalarını kayıt etme ve yeniden vermeye mahsus";;
+"null";;"     taşınabilir, pille çalışan, elektronik okuyucular";"-";50
+"null";"8543.70.06.00.00";" - - Ses miksajı için kablolu veya kablosuz ağlara bağlanabilen dijital sinyal işlemcileri";"-";50
+"null";"8543.70.07.00.00";" - - Esas olarak çocuklar için dizayn edilmiş taşınabilir interaktif elektronik eğitim cihazları ";"-";50
+"null";"8543.70.08.00.00";" - - Elektron mikroskopları için numunelerinden ve numune tutucularınından organik ";;
+"null";;"    kirleticilerin temizlenmesi için kullanılan plazma ile temizleme makineleri ";"-";50
+"null";"8543.70.09.00.00";" - - Gösterge alanındaki dokunma hareketinin varlığını ve yerini algılayan, gösterge içeren";;
+"null";;"      bir cihaza takılmak için tasarlanmış, gösterge özelliği olmayan, dokunmatik ";;
+"null";;"     veri giriş cihazları (touch screen)";"-";50
+"null";"8543.70.10.00.00";" - -Tercüme veya sözlük fonksiyonlu elektrikli   makinalar";"-";50
+"null";"8543.70.30.00.00";" - - Anten yükselteçleri";"-";50
+"null";"8543.70.50.00.00";" - - Güneş yatakları, güneş lambaları ve güneşlenmeye mahsus benzeri";;
+"null";;"     teçhizat ";"Adet";50
+"null";"8543.70.60.00.00";" - - Çitlere elektrik verici cihazlar";"-";50
+"null";;" - - Diğerleri";;
+"null";"8543.70.90.00.11";" - - - Maden dedektörleri";"-";50
+"null";"8543.70.90.00.12";" - - - Yüksek frekans (RF) veya ara frekans (IF) yükselteçleri ";"-";50
+"null";"8543.70.90.00.13";" - - - Ses birleştirme üniteleri";"-";50
+"null";"8543.70.90.00.14";" - - - Ses kayıt cihazlarında kullanılan gürültü azaltma üniteleri";"-";50
+"null";"8543.70.90.00.15";" - - - Infrared ile çalışan uzaktan kumanda cihazları (remote control)";"-";50
+"null";"8543.70.90.00.16";" - - - Kablosuz ateşleme/tetikleme sistemleri";"-";50
+"null";"8543.70.90.00.19";" - - - Diğerleri";"-";50
+"null";"8543.90";" - Aksam ve parçalar:";;
+"null";"8543.90.00.10.00";" - - Elektronik mikro montajlar";"-";20
+"null";"8543.90.00.90.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"85.44";"İzole edilmiş (emaye kaplanmış veya anodize edilmiş olanlar dahil) teller,";;
+"null";;"kablolar (koaksiyel kablolar dahil) ve diğer izole edilmiş elektrik iletkenler";;
+"null";;"(bağlantı parçaları ile teçhiz edilmiş olsun olmasın); tek tek kaplanmış";;
+"null";;"liflerden oluşan fiber optik kablolar (bağlantı parçalarıyla veya elektrik";;
+"null";;"iletkenleri ile teçhiz edilmiş olsun olmasın):";;
+"null";;" - Bobin telleri:";;
+"null";"8544.11";" - - Bakırdan olanlar:";;
+"null";" ";" - - - Verniklenmiş veya emaye kaplanmış";;
+"null";"8544.11.10.00.11";" - - - - Çapı 0,05 mm. (0,05 mm. dahil) yi geçmeyen bobin teli";"-";50
+"null";"8544.11.10.00.12";" - - - - Çapı 0,05 mm. yi geçen 0,1 mm.yi geçmeyen bobin teli";"-";50
+"null";"8544.11.10.00.19";" - - - - Diğerleri";"-";50
+"null";"8544.11.90.00.00";" - - - Diğerleri";"-";50
+"null";"8544.19.00.00.00";" - - Diğerleri";"-";50
+"null";"8544.20";" - Koaksiyel kablolar ve diğer koaksiyel elektrik iletkenleri:";;
+"null";" ";" - - Toprak ve su altı kabloları (herhangi bir madde ile tecrit edildikten";;
+"null";;"      sonra birden fazlasının biraraya getirilerek adi metallerden boru veya";;
+"null";;"      şeritlerle teçhiz edilmiş olanları): ";;
+"null";"8544.20.00.10.11";" - - - Telgraf ve  telefon hattı için olanlar";"-";50
+"null";"8544.20.00.10.19";" - - - Diğerleri";"-";50
+"null";" ";" - - Diğerleri";" ";
+"null";"8544.20.00.90.11";" - - - Telgraf ve  telefon hattı için olanlar";"-";50
+"null";"8544.20.00.90.19";" - - - Diğerleri";"-";50
+"null";"8544.30.00.00.00";" - Ateşleme bujilerine mahsus kablo bağlantı takımları; taşıtlarda,";;
+"null";;"   uçaklarda veya gemilerde kullanılan türden diğer kablo bağlantı ";;
+"null";;"   takımları";"-";50
+"null";;" - Gerilimi 1000 V.u geçmeyen diğer elektrik iletkenleri:";;
+"null";"8544.42";" - - Bağlantı parçaları takılmış olanlar:";;
+"null";"8544.42.10.00.00";" - - - Telekomünikasyonda kullanılan türde olanlar";"-";50
+"null";"8544.42.90.00.00";" - - - Diğerleri";"-";50
+"null";"8544.49";" - - Diğerleri:";;
+"null";"8544.49.20.00.00";" - - - Gerilimi 80 V.u geçmeyen, telekominikasyonda kullanılan türde olanlar";"-";50
+"null";;" - - - Diğerleri:";;
+"null";"8544.49.91.00.00";" - - - - Çapı 0,51 mm.yi geçen ayrı bir iletken teli olan kablo ve teller";"-";50
+"null";;" - - - - Diğerleri:";;
+"null";;" - - - - - Gerilimi 80 V.u geçmeyenler";;
+"null";;" - - - - - - Toprak ve su altı kabloları (herhangi bir madde ile tecrit edildikten";;
+"null";;"          sonra birden fazlasının biraraya getirilerek adi metallerden boru";;
+"null";;"           veya şeritlerle teçhiz edilmiş olanları)";;
+"null";"8544.49.93.11.11";" - - - - - - - Elektrik enerjisi nakli için kablolar";"-";50
+"null";"8544.49.93.11.19";" - - - - - - - Diğerleri";"-";50
+"null";;" - - - - - - Diğerleri";;
+"null";"8544.49.93.19.11";" - - - - - - - Elektrik enerjisi nakli için kablolar";"-";50
+"null";"8544.49.93.19.19";" - - - - - - - Diğerleri";"-";50
+"null";"8544.49.95.00.00";" - - - - - Gerilimi 80 V.u geçen fakat 1000V.dan az olanlar";"-";50
+"null";"8544.49.99.00.00";" - - - - - 1000 V.luk gerilim için olanlar";"-";50
+"null";"8544.60";" - Gerilimi 1000 V.u geçen diğer elektrik iletkenleri:";;
+"null";"8544.60.10.00.00";" - - Bakır iletkenli olanlar";"-";50
+"null";"8544.60.90.00.00";" - - Diğer tür iletkenli olanlar";"-";50
+"null";"8544.70.00.00.00";" - Fiber optik kablolar";"-";30
+"null";;;;
+"null";"85.45";"Elektrik işlerinde kullanılan kömür elektrotlar, kömür fırçalar, lamba";;
+"null";;"kömürleri, pil kömürleri ve grafit veya diğer kömürden diğer eşya";;
+"null";;"(metalli veya metalsiz) :";;
+"null";;" - Elektrotlar:";;
+"null";"8545.11";" - - Fırınlarda kullanılmaya mahsus olanlar";;
+"null";"8545.11.00.00.11";" - - - Ark ocağı için elektrotlar";"-";25
+"null";"8545.11.00.00.19";" - - - Diğerleri";"-";25
+"null";"8545.19.00.00.00";" - - Diğerleri";"-";25
+"null";"8545.20.00.00.00";" - Fırçalar";"-";35
+"null";"8545.90";" - Diğerleri:";" ";
+"null";"8545.90.10.00.00";" - - Isıtıcı rezistanslar";"-";25
+"null";" ";" - - Diğerleri";" ";
+"null";"8545.90.90.00.11";" - - - Pil kömürleri";"-";25
+"null";"8545.90.90.00.12";" - - - Ark lambaları ve diğer lambalara mahsus kömürler";"-";25
+"null";"8545.90.90.00.13";" - - - Mikrofonlar için kömürden parça";"-";25
+"null";"8545.90.90.00.19";" - - - Diğerleri";"-";25
+"null";;;;
+"null";"85.46";"Her tür maddeden elektrik izolatörleri:";;
+"null";"8546.10.00.00.00";" - Camdan olanlar";"-";50
+"null";"8546.20";" - Seramikten olanlar :";;
+"null";"8546.20.00.00.11";" - - Anma gerilimi 36 kV.yı geçmeyenler";"-";50
+"null";"8546.20.00.00.12";" - - Anma gerilimi 36 kV.yı geçen fakat 170 kV.yı geçmeyenler";"-";50
+"null";"8546.20.00.00.13";" - - Anma gerilimi 170 kV.yı geçenler";"-";50
+"null";"8546.90";" - Diğerleri:";;
+"null";;" - - Plastikten olanlar:";;
+"null";;" - - - Silikondan olanlar :";;
+"null";"8546.90.10.10.11";" - - - - Anma gerilimi 36 kV.yı geçmeyenler";"-";50
+"null";"8546.90.10.10.12";" - - - - Anma gerilimi 36 kV.yı geçen fakat 154 kV.yı geçmeyenler";"-";50
+"null";"8546.90.10.10.13";" - - - - Anma gerilimi 154 kV.yı geçenler";"-";50
+"null";"8546.90.10.90.00";" - - - Diğerleri";"-";50
+"null";"8546.90.90.00.00";" - - Diğerleri";"-";50
+"null";;;;
+"null";"85.47";"Elektrikli makina, cihaz, alet veya elektrik tesisatları için tamamen";;
+"null";;"izole edici maddelerden mamul (montaj amacıyla döküm sırasında";;
+"null";;"gövde içine gömülmüş küçük metal parçaları içerenler dahil) izole";;
+"null";;"edici bağlantı parçaları (örneğin; vidalı duylar) (85.46 pozisyonunda-";;
+"null";;"ki izolatörler hariç); adi metallerden elektrik için iç yüzeyleri izole";;
+"null";;"edilmiş borular ve bunların bağlantı parçaları:";;
+"null";"8547.10.00.00.00";" - Seramikten izole edici bağlantı parçaları";"-";50
+"null";"8547.20.00.00.00";" - Plastik maddelerden izole edici bağlantı parçaları";"-";50
+"null";"8547.90";" - Diğerleri:";;
+"null";"8547.90.00.10.00";" - - Adi metallerden iç yüzeyleri izole edilmiş borular ve bunların bağlantı ";;
+"null";;"     parçaları";"-";50
+"null";" ";" - - Diğerleri";" ";
+"null";"8547.90.00.90.11";" - - - Camdan olanlar";"-";50
+"null";"8547.90.00.90.12";" - - - Sertleştirilmiş kauçuk veya asfaltlı veya katranlı maddelerden olanlar";"-";50
+"null";"8547.90.00.90.19";" - - - Diğer maddelerden olanlar";"-";50
+"null";;;;
+"null";"8548.00";"Bu fasılın herhangi bir yerinde belirtilmeyen veya yer almayan makina,  ";;
+"null";;"cihaz veya aletlerin elektrikli aksam ve parçaları: ";;
+"null";"8548.00.20.00.00";" - Yığın (stack) D-RAM'lar ve modüller gibi çok kombinasyonlu ana bellekler";"-";50
+"null";"8548.00.30.00.00";" - Bir baskılı devre veya diğer benzeri bir yüzeye monte edilmiş bir veya daha fazla";;
+"null";;"     LED ve bir veya daha fazla konektör ve diğer pasif komponentlerden oluşan,";;
+"null";;"     ışık kaynağı olan, LCD göstergeler için arka ışık aydınlatması olarak kullanılan ";;
+"null";;"     LED arka ışık modülleri (optik bileşenler veya koruyucu diyotlar içersin içermesin) ";"-";50
+"null";;" - Diğerleri ";;
+"null";"8548.00.90.10.00";" - - Elektronik mikro montajlar";"-";20
+"null";"8548.00.90.90.00";" - - Diğerleri ";"-";50
+"null";;;;
+"null";"85.49";"Elektrikli ve elektronik hurda ve atıklar: ";;
+"null";;" - Primer hücreler, primer bataryalar ve elektrik akümülatörleri-";;
+"null";;"   nin döküntü ve hurdaları; bitmiş primer hücreler, primer bataryalar ve ";;
+"null";;"   elektrik akümülatörleri:";;
+"null";"8549.11";" - - Kurşun asitli akümülatörlerin hurda ve atıkları; bitmiş kurşun asitli akümülatörler";;
+"null";"8549.11.10.00.00";" - - - Bitmiş kurşun asitli akümülatörler";"-";50
+"null";"8549.11.90.00.00";" - - - Kurşun asitli akümülatörlerin hurda ve atıkları";"-";50
+"null";"8549.12";" - - Diğerleri, kurşun, kadmiyum veya cıva içerenler";;
+"null";"8549.12.10.00.00";" - - - Bitmiş primer hücreler ve bataryalar";"Adet";50
+"null";"8549.12.20.00.00";" - - - Bitmiş elektrik akümülatörleri";"-";50
+"null";"8549.12.90.00.00";" - - - Diğerleri";"-";50
+"null";"8549.13";" - - Kimyasal türüne göre tasnif edilmiş ve kurşun, kadmiyum veya cıva içermeyenler";;
+"null";"8549.13.10.00.00";" - - - Bitmiş primer hücreler ve bataryalar";"Adet";50
+"null";"8549.13.20.00.00";" - - - Bitmiş elektrik akümülatörleri";"-";50
+"null";"8549.13.90.00.00";" - - - Diğerleri";"-";50
+"null";"8549.14";" - - Kimyasal türüne göre tasnif edilmemiş ve kurşun, kadmiyum veya cıva içermeyenler";;
+"null";"8549.14.10.00.00";" - - - Bitmiş primer hücreler ve bataryalar";"Adet";50
+"null";"8549.14.20.00.00";" - - - Bitmiş elektrik akümülatörleri";"-";50
+"null";"8549.14.90.00.00";" - - - Diğerleri";"-";50
+"null";"8549.19";" - - Diğerleri:";;
+"null";"8549.19.10.00.00";" - - - Bitmiş primer hücreler ve bataryalar";"Adet";50
+"null";"8549.19.20.00.00";" - - - Bitmiş elektrik akümülatörleri";"-";50
+"null";"8549.19.90.00.00";" - - - Diğerleri";"-";50
+"null";;" - Esas olarak değerli metallerin geri kazanımı için kullanılanlar:";;
+"null";"8549.21.00.00.00";" - - Primer hücreler, primer bataryalar, elektrik akümülatörleri, cıva anahtarları, katot ışın ";;
+"null";;"     tüplerinden veya diğer aktifleştirilmiş camlardan cam içerenler, veya kadmiyum, cıva,  ";;
+"null";;"    kurşun veya poliklorlu bifeniller (PCB'ler) içeren elektrikli veya elektronik bileşenler";"-";50
+"null";"8549.29.00.00.00";" - - Diğerleri";"-";50
+"null";;" - Diğer elektrikli ve elektronik montajlar ve baskılı devre kartları ";;
+"null";"8549.31.00.00.00";" - - Primer hücreler, primer bataryalar, elektrik akümülatörleri, cıva anahtarları, katot ışın ";;
+"null";;"     tüplerinden veya diğer aktifleştirilmiş camlardan cam içerenler, veya kadmiyum, cıva,  ";;
+"null";;"    kurşun veya poliklorlu bifeniller (PCB'ler) içeren elektrikli veya elektronik bileşenler";"-";50
+"null";"8549.39.00.00.00";" - - Diğerleri";"-";50
+"null";;" - Diğerleri:";;
+"null";"8549.91.00.00.00";" - - Primer hücreler, primer bataryalar, elektrik akümülatörleri, cıva anahtarları, katot ışın ";;
+"null";;"     tüplerinden veya diğer aktifleştirilmiş camlardan cam içerenler, veya kadmiyum, cıva,  ";;
+"null";;"    kurşun veya poliklorlu bifeniller (PCB'ler) içeren elektrikli veya elektronik bileşenler";"-";50
+"null";"8549.99.00.00.00";" - - Diğerleri";"-";50

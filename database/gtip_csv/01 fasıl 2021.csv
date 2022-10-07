@@ -1,0 +1,181 @@
+﻿"null";"01.01";" Canlı atlar,eşekler,katırlar ve bardolar: ";" ";
+"null";;" - Atlar: ";;
+"null";"0101.21.00.00.00";" - - Damızlıklar ";"Baş";"10"
+"null";"0101.29";" - - Diğerleri :";;
+"null";"0101.29.10.00.00";" - - - Kesimlik atlar";" Baş";"35"
+"null";"0101.29.90.00.00";" - - - Diğerleri";" Baş";"35"
+"null";"0101.30";" - Eşekler:";;
+"null";"0101.30.00.10.00";" - - Damızlıklar";"Baş";"10"
+"null";"0101.30.00.90.00";" - - Diğerleri";"Baş";"35"
+"null";"0101.90";" - Diğerleri:";;
+"null";"0101.90.00.10.00";" - - Damızlıklar";"Baş";"10"
+"null";"0101.90.00.90.00";" - - Diğerleri";"Baş";"35"
+"null";"01.02";" Canlı büyükbaş hayvanlar:";;
+"null";;" - Sığırlar";;
+"null";"0102.21";"  - - Damızlıklar :";;
+"null";"0102.21.10.00.00";"  - - - Düveler (doğurmamış dişi sığırlar)";" Baş";"10 "
+"null";"0102.21.30.00.00";"  - - - İnekler";" Baş";"10 "
+"null";"0102.21.90.00.00";"  - - - Diğerleri";" Baş";"10 "
+"null";"0102.29";"  - - Diğerleri:";;
+"null";"0102.29.05.00.00";" - - - Bibos veya Poephagus alt cinsine ait olanlar";" Baş";"150 "
+"null";;" - - - Diğerleri:";;
+"null";"0102.29.10.00.00";"  - - - - Ağırlığı 80 kg.ı geçmeyenler";" Baş";"150 "
+"null";;"  - - - - Ağırlığı 80 kg.ı geçen fakat 160 kg.ı geçmeyenler:";;" "
+"null";"0102.29.21.00.00";"  - - - - - Kesimlik olanlar";" Baş";"150 "
+"null";"0102.29.29.00.00";"  - - - - - Diğerleri";" Baş";"150 "
+"null";;"  - - - - Ağırlığı 160 kg.ı geçen fakat 300 kg.ı geçmeyenler:";;" "
+"null";"0102.29.41.00.00";"  - - - - - Kesimlik olanlar";" Baş";"150 "
+"null";"0102.29.49.00.00";"  - - - - - Diğerleri";" Baş";"150 "
+"null";;"  - - - - Ağırlığı 300 kg.ı geçenler:";;
+"null";;"  - - - - - Düveler (doğurmamış dişi sığırlar):";;
+"null";;"  - - - - - - Kesimlik olanlar:";;
+"null";"0102.29.51.00.11";" - - - - - - - Ağırlığı 400 kg.ı geçenler";" Baş";"150 "
+"null";"0102.29.51.00.19";" - - - - - - - Diğerleri";" Baş";"150 "
+"null";"0102.29.59.00.00";"  - - - - - - Diğerleri";" Baş";"150 "
+"null";;"  - - - - - İnekler:";;
+"null";;"  - - - - - - Kesimlik olanlar:";;
+"null";"0102.29.61.00.11";" - - - - - - - Ağırlığı 400 kg.ı geçen dişi danalar";" Baş";"150 "
+"null";"0102.29.61.00.19";" - - - - - - - Diğerleri";" Baş";"150 "
+"null";"0102.29.69.00.00";"  - - - - - - Diğerleri";" Baş";"150 "
+"null";;"  - - - - - Diğerleri:";;
+"null";;"  - - - - - - Kesimlik olanlar:";;
+"null";"0102.29.91.00.11";" - - - - - - - Ağırlığı 400 kg.ı geçen erkek danalar";" Baş";"150 "
+"null";"0102.29.91.00.19";" - - - - - - - Diğerleri";" Baş";"150 "
+"null";"0102.29.99.00.00";"  - - - - - - Diğerleri";" Baş";"150 "
+"null";;"  - Bufalo:";;
+"null";"0102.31.00.00.00";" - - Damızlıklar";" Baş";"10 "
+"null";"0102.39";" - - Diğerleri :";;
+"null";"0102.39.10.00.00";" - - - Evcil türler";" Baş";"150"
+"null";"0102.39.90.00.00";" - - - Diğerleri";" Baş";"150"
+"null";"0102.90";" - Diğerleri";;
+"null";"0102.90.20.00.00";" - - Damızlıklar";" Baş";"10 "
+"null";;" - - Diğerleri :";;
+"null";"0102.90.91.00.00";" - - - Evcil türler";" Baş";"150"
+"null";"0102.90.99.00.00";" - - - Diğerleri";" Baş";"150"
+"null";;;;
+"null";"01.03";" Canlı domuzlar:";;
+"null";"0103.10";"  - Damızlıklar";;
+"null";"0103.10.00.10.00";"  - - Evcil damızlıklar ";" Baş";"30 "
+"null";"0103.10.00.90.00";"  - - Diğer damızlıklar";" Baş";"30 "
+"null";;"  - Diğerleri:";;
+"null";"0103.91";"  - - Ağırlığı 50 kg. dan az olanlar:";;
+"null";"0103.91.10.00.00";"  - - - Evcil türler";" Baş";"85 "
+"null";"0103.91.90.00.00";"  - - - Diğerleri";" Baş";"85 "
+"null";"0103.92";"  - -  Ağırlığı 50 kg. veya daha fazla olanlar:";;
+"null";;"  - - - Evcil türler:";;
+"null";"0103.92.11.00.00";"  - - - - Ağırlığı en az 160 kg. olan ve en az bir defa doğurmuş domuzlar ";" Baş";"85 "
+"null";"0103.92.19.00.00";"  - - - - Diğerleri";" Baş";"85 "
+"null";"0103.92.90.00.00";"  - - - Diğerleri";" Baş";"85 "
+"null";;;;
+"null";"01.04";" Canlı koyun ve keçiler: ";;
+"null";"0104.10";"  -  Koyunlar:";;" "
+"null";"0104.10.10.00.00";"  - - Damızlıklar";" Baş";"20"
+"null";;"  - - Diğerleri:";;
+"null";"0104.10.30.00.00";"  - - - Kuzular (1 yaşında veya daha küçük)";" Baş";"150 "
+"null";"0104.10.80.00.00";"  - - - Diğerleri";" Baş";"150 "
+"null";"0104.20";" - Keçiler:";;" "
+"null";"0104.20.10.00.00";"  - - Damızlıklar";" Baş";"20 "
+"null";;"  - - Diğerleri";;
+"null";"0104.20.90.00.13";"  - - - Oğlaklar";" Baş";"150 "
+"null";"0104.20.90.00.18";"  - - - Diğerleri";" Baş";"150"
+"null";;;;
+"null";"01.05";" Canlı kümes hayvanları [horozlar, tavuklar (""Gallus Domesticus"" türü)";;""
+"null";;" ördekler, kazlar,  hindiler ve beç tavukları gibi evcil türler]:";;
+"null";;"  -  Ağırlığı 185gr.ı geçmeyenler:";;""
+"null";"0105.11";"  - -  Horozlar ve tavuklar (""Gallus Domesticus"" türü):";;
+"null";;"  - - - Büyük ebeveyn ve ebeveyn dişi civcivler :";;
+"null";"0105.11.11.00.00";"  - - - - Damızlık olanlar ";"Adet";"30"
+"null";;"  - - - - Diğerleri:";;
+"null";"0105.11.19.00.11";" - - - - - Etlik";" Adet";"75 "
+"null";"0105.11.19.00.12";" - - - - - Yumurtacı";" Adet";"75 "
+"null";"0105.11.19.00.19";" - - - - - Diğerleri";" Adet";"75 "
+"null";;"  - - - Diğerleri:";;
+"null";;"  - - - - Damızlık olanlar ";;
+"null";"0105.11.91.00.11";" - - - - - Etlik ebeveyn";" Adet";"30 "
+"null";"0105.11.91.00.12";" - - - - - Yumurtacı ebeveyn";" Adet";"30 "
+"null";"0105.11.91.00.19";" - - - - - Diğerleri";" Adet";"30 "
+"null";;"  - - - - Diğerleri:";;
+"null";"0105.11.99.00.11";" - - - - - Etlik";" Adet";"75 "
+"null";"0105.11.99.00.12";" - - - - - Yumurtacı";" Adet";"75 "
+"null";"0105.11.99.00.19";" - - - - - Diğerleri";" Adet";"75 "
+"null";"0105.12";"  - - Hindiler:";;
+"null";;"  - - - Damızlık olanlar ";;
+"null";"0105.12.00.10.11";"  - - - - Hindi civcivi";" Adet";"30 "
+"null";"0105.12.00.10.19";"  - - - - Diğerleri";" Adet";"30 "
+"null";"0105.12.00.90.00";"  - - - Diğerleri";" Adet";"75 "
+"null";"0105.13.";"  - - Ördekler";;
+"null";"0105.13.00.00.11";"  - - - Damızlık olanlar ";" Adet";"30 "
+"null";"0105.13.00.00.12";"  - - - Diğerleri";" Adet";"75 "
+"null";"0105.14";"  - - Kazlar";;
+"null";"0105.14.00.00.11";"  - - - Damızlık olanlar ";" Adet";"30 "
+"null";"0105.14.00.00.12";"  - - - Diğerleri";" Adet";"75 "
+"null";"0105.15";"  - - Beç tavukları";;
+"null";"0105.15.00.00.11";"  - - - Damızlık olanlar ";" Adet";"30 "
+"null";"0105.15.00.00.12";"  - - - Diğerleri";" Adet";"75 "
+"null";;"  - Diğerleri";;
+"null";"0105.94";"  - - Tavuklar ve horozlar (Gallus Domesticus türü) ; ";;
+"null";"0105.94.00.10.00";"  - - - Damızlık olanlar ";" Adet";"30 "
+"null";;"  - - - Diğerleri:";;
+"null";"0105.94.00.90.11";" - - - - Etlik";" Adet";"75 "
+"null";"0105.94.00.90.12";" - - - - Yumurtacı";" Adet";"75 "
+"null";"0105.94.00.90.19";" - - - - Diğerleri";" Adet";"75 "
+"null";"0105.99";"  - - Diğerleri:";;
+"null";;"  - - - Ördekler: ";;
+"null";"0105.99.10.10.00";"  - - - - Damızlık olanlar ";" Adet";"30 "
+"null";"0105.99.10.90.00";"  - - - - Diğerleri";" Adet";"75 "
+"null";;"  - - - Kazlar: ";;
+"null";"0105.99.20.10.00";"  - - - - Damızlık olanlar ";" Adet";"30 "
+"null";"0105.99.20.90.00";"  - - - - Diğerleri";" Adet";"75 "
+"null";;"  - - - Hindiler:";;
+"null";"0105.99.30.10.00";"  - - - - Damızlık olanlar ";" Adet";"30 "
+"null";"0105.99.30.90.00";"  - - - - Diğerleri";" Adet";"75 "
+"null";;"  - - - Beç tavukları:";;
+"null";"0105.99.50.10.00";"  - - - - Damızlık olanlar ";" Adet";"30 "
+"null";"0105.99.50.90.00";"  - - - - Diğerleri";" Adet";"75"
+"null";;;;
+"null";"01.06";" Canlı diğer hayvanlar:";;
+"null";;" - Memeliler:";;
+"null";"0106.11.00.00.00";" - - Maymunlar (Primatlar)";"Adet";"30 "
+"null";"0106.12.00.00.00";" - - Balinalar, yunus balıkları ve domuzbalıkları ";;
+"null";;"    (Cetacea takımından memeliler); manati-deniz güzeli  ";;
+"null";;"    ve deniz inekleri (Sirenia takımından memeliler); fok, deniz";"Adet";"30 "
+"null";;"    aslanı ve deniz aygırları (Pinnipedia alt takımından memeliler):";;
+"null";"0106.13.00.00.00";" - - Develer ve diğer devegillerden olanlar (Camelidae)";"Adet";"30 "
+"null";"0106.14";" - - Tavşanlar veya yabani tavşanlar:";;
+"null";;" - - - Evcil tavşanlar:";;
+"null";"0106.14.10.10.00";" - - - -  Damızlıklar";"Adet";"30 "
+"null";"0106.14.10.90.00";" - - - -  Diğerleri";"Adet";"30 "
+"null";"0106.14.90.00.00";" - - - Diğerleri";"-";"30 "
+"null";"0106.19";" - - Diğerleri:";;
+"null";"0106.19.00.10.00";" - - - Kobaylar, fareler";"- ";"5"
+"null";"0106.19.00.90.00";" - - - Diğerleri";"- ";"30"
+"null";"0106.20";" - Sürüngenler (yılanlar ve kaplumbağalar dahil) :";;
+"null";"0106.20.00.00.11";" - - Süs kaplumbağası (akvaryum için)";"Adet";"30 "
+"null";"0106.20.00.00.19";" - - Diğerleri";"Adet";"30 "
+"null";;" - Kuşlar:";;" "
+"null";"0106.31.00.00.00";" - - Yırtıcı kuşlar";"Adet";"30 "
+"null";"0106.32.00.00.00";" - - Papağanımsılar (papağanlar, muhabbetkuşları, ";"Adet";"30 "
+"null";;"     makaolar ve kakadular dahil)";;" "
+"null";"0106.33";" - - Devekuşları; emular (Dromaius novaehollandiae): ";;
+"null";"0106.33.00.10.00";" - - - Damızlıklar";"Adet";"30 "
+"null";"0106.33.00.90.00";" - - - Diğerleri";"Adet";"30 "
+"null";"0106.39";" - - Diğerleri:";" ";
+"null";;" - - -  Güvercinler: ";;
+"null";"0106.39.10.10.00";" - - - - Damızlıklar";"Adet";"30 "
+"null";"0106.39.10.90.00";" - - - - Diğerleri";"Adet";"30 "
+"null";;" - - -  Diğerleri:";;
+"null";"0106.39.80.10.00";" - - - - Damızlıklar";"-";"30 "
+"null";"0106.39.80.90.00";" - - - - Diğerleri";"-";"30 "
+"null";;" -  Böcekler";;
+"null";"0106.41";" - - Arılar:";;
+"null";"0106.41.00.10.00";" - - - Damızlıklar";"-";"30 "
+"null";"0106.41.00.90.00";" - - - Diğerleri";"-";"30 "
+"null";"0106.49";" - - Diğerleri:";;
+"null";"0106.49.00.00.11";" - - - Biyolojik mücadelede kullanılan parazit ve predatörler";"-";"30 "
+"null";"0106.49.00.00.19";" - - - Diğerleri";"-";"30 "
+"null";"0106.90";" - Diğerleri:";;
+"null";"0106.90.00.10.00";" - - Damızlıklar";"-";"30 "
+"null";;" - - Diğerleri:";;
+"null";"0106.90.00.90.11";" - - - Kurbağalar";"-";"30 "
+"null";"0106.90.00.90.12";" - - - Biyolojik mücadelede kullanılan parazit ve predatörler";"-";"30 "
+"null";"0106.90.00.90.19";" - - - Diğerleri";"-";"30 "

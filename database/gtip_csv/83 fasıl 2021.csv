@@ -1,0 +1,159 @@
+﻿"null";"83.01";"Adi metallerden kilitler ve asma kilitler (anahtarlı, şifreli";;
+"null";;"veya elektrikli); adi metallerden bir kilidi olan, mesnetli veya mes-";;
+"null";;"netsiz kancalar; bunların adi metallerden anahtarları:";;
+"null";"8301.10";" - Asma kilitler :";;
+"null";"8301.10.00.00.11";" - - Şifreli olanlar";"-";75
+"null";"8301.10.00.00.19";" - - Diğerleri";"-";75
+"null";"8301.20.00.00.00";" - Nakil vasıtalarında kullanılan türden kilitler";"-";75
+"null";"8301.30.00.00.00";" - Mobilyalar için kullanılan türden kilitler";"-";75
+"null";"8301.40";" - Diğer kilitler:";" ";
+"null";;" - - Kapı kilitleri:";" ";
+"null";"8301.40.11.00.00";" - - - Silindirli kapı kilitleri";"-";75
+"null";;" - - - Diğerleri:";;
+"null";"8301.40.19.00.11";" - - - - Soğuk hava depolarına mahsus olanlar";"-";75
+"null";"8301.40.19.00.19";" - - - - Diğerleri";"-";75
+"null";"8301.40.90.00.00";" - - Diğer kilitler";"-";75
+"null";"8301.50.00.00.00";" - Kilidi olan, mesnetli veya mesnetsiz kancalar";"-";75
+"null";"8301.60";" - Aksam ve parçalar:";;
+"null";"8301.60.00.00.11";" - - Kapı kilidi silindirleri (barel)";"-";75
+"null";"8301.60.00.00.19";" - - Diğerleri";"-";75
+"null";"8301.70.00.00.00";" - Kilidi ile birlikte olmayan anahtarlar";"-";75
+"null";;;;
+"null";"83.02";"Adi metallerden donanım, tertibat ve benzeri eşya (mobilya, kapı,";;
+"null";;"merdiven, pencere, panjur, karoseri,eyer takımları, bavul, sandık,";;
+"null";;"mahfaza ve benzeri eşya için); adi metallerden sabit askılıklar, şap-";;
+"null";;"ka askıları, dirsekler ve benzeri eşya; adi metallerden donanımları ";;
+"null";;"ile birlikte olan küçük tekerlekler; adi metallerden otomatik kapı ";;
+"null";;"kapayıcıları:";;
+"null";"8302.10";" - Menteşeler:";;
+"null";"8302.10.00.00.11";" - - Soğuk hava depolarına mahsus olanlar";"-";100
+"null";"8302.10.00.00.12";" - - Nakil vasıtalarına mahsus olanlar";"-";100
+"null";"8302.10.00.00.19";" - - Diğerleri";"-";100
+"null";"8302.20.00.00.00";" - Küçük tekerlekler";"-";100
+"null";"8302.30.00.00.00";" - Nakil vasıtaları için diğer donanım, tertibat ve benzeri eşya";"-";100
+"null";;" - Diğer donanım, tertibat ve benzeri eşya:";;
+"null";;" - - Binalar için olanlar :";;
+"null";;" - - - Kapılar için olanlar:";;
+"null";"8302.41.10.00.11";" - - - - Soğuk hava depolarına mahsus olanlar";"-";100
+"null";"8302.41.10.00.19";" - - - - Diğerleri";"-";100
+"null";"8302.41.50.00.00";" - - - Pencere ve Fransız pencereleri için olanlar";"-";100
+"null";"8302.41.90.00.00";" - - - Diğerleri";"-";100
+"null";"8302.42";" - - Diğerleri, mobilyalar için olanlar:";;
+"null";"8302.42.00.00.11";" - - - Koltuk amörtisörleri";"-";100
+"null";"8302.42.00.00.19";" - - - Diğerleri";"-";100
+"null";"8302.49.00.00.00";" - - Diğerleri";"-";100
+"null";"8302.50.00.00.00";" - Sabit askılıklar, şapka askıları, dirsekler, benzeri eşya";"-";100
+"null";"8302.60.00.00.00";" - Otomatik kapı kapayıcıları";"-";100
+"null";;;;
+"null";"8303.00";"Adi metallerden kasalar, kasa daireleri için zırhlı kapı ve bölmeler,";;
+"null";;"emniyetli çekmeceler, kutular ve benzeri eşya:";;
+"null";"8303.00.40.00.00";" - Kasalar, kasa daireleri için zırhlı kapı ve bölmeler";"-";50
+"null";" ";" - Emniyetli çekmeceler, kutular ve benzeri eşya :";" ";
+"null";"8303.00.90.00.11";" - - Emniyetli çekmeceler ve kutular";"-";50
+"null";"8303.00.90.00.12";" - - Telefon kumbaraları";"-";50
+"null";"8303.00.90.00.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"8304.00";"Adi metallerden dosya kutuları, fiş kutuları, tasnif ve ayırım kutuları,";;
+"null";;"kağıtlıklar, kalem kutuları, kaşe askılıkları ve benzeri büro eşyası";;
+"null";;"(94.03 pozisyonundaki büro mobilyaları hariç):";;
+"null";" ";" - Bakırdan ve kurşundan olanlar .";;
+"null";"8304.00.00.10.11";" - - Dosya, fiş, tasnif ve ayırım kutuları";"-";40
+"null";"8304.00.00.10.19";" - - Diğerleri";"-";40
+"null";" ";" - Nikelden olanlar :";" ";
+"null";"8304.00.00.20.11";" - - Dosya, fiş, tasnif ve ayırım kutuları";"-";60
+"null";"8304.00.00.20.19";" - - Diğerleri";"-";60
+"null";" ";" - Diğerleri :";" ";
+"null";"8304.00.00.90.11";" - - Dosya, fiş, tasnif ve ayırım kutuları";"-";50
+"null";"8304.00.00.90.19";" - - Diğerleri";"-";50
+"null";;;;
+"null";"83.05";"Adi metallerden dosya, klasör ve ciltler için kağıt takılabilen meka-";;
+"null";;"nizmalar, kağıt raptiyeleri, kağıt köşebentleri, endeks kartekslerine ";;
+"null";;"mahsus işaret maşaları ve benzeri büro eşyası; adi metallerden şe-";;
+"null";;"rit halinde zımba telleri (bürolarda, döşemecilikte ve ambalaj işle-";;
+"null";;"rinde kullanılanlar gibi):";;
+"null";"8305.10.00.00.00";" - Dosya, klasör ve ciltler için kağıt takılabilen mekanizmalar";"-";50
+"null";"8305.20";" - Şerit halinde zımba telleri:";" ";
+"null";"8305.20.00.10.00";" - - Bürolarda kullanılanlar";"-";50
+"null";;" - - Döşemecilik ve ambalaj işlerinde kullanılanlar:";" ";
+"null";"8305.20.00.21.00";" - - - Demir veya çelikten olanlar";"-";60
+"null";"8305.20.00.25.00";" - - - Bakırdan olanlar";"-";40
+"null";"8305.90.00.00.00";" - Diğerleri (aksam ve parçalar dahil)";"-";50
+"null";;;;
+"null";"83.06";"Adi metallerden elektrikli olmayan ziller, çanlar, gonglar ve ben-";;
+"null";;"zerleri; adi metallerden heykelcikler ve diğer süs eşyası; adi metal-";;
+"null";;"lerden fotoğraf resim ve benzerleri için çerçeveler; adi metaller-";;
+"null";;"den aynalar:";;
+"null";"8306.10.00.00.00";" - Ziller, çanlar, gonglar ve benzerleri";"-";50
+"null";;" - Heykelcikler ve diğer süs eşyası:";" ";
+"null";"8306.21.00.00.00";" - - Kıymetli metallerle kaplanmış olanlar";"-";100
+"null";"8306.29";" - - Diğerleri:";" ";
+"null";"8306.29.00.10.00";" - - -  Demir veya çelikten ve aluminyumdan olanlar";"-";50
+"null";"8306.29.00.30.00";" - - -  Kurşundan ve bakırdan olanlar";"-";40
+"null";"8306.29.00.90.00";" - - -  Diğerleri";"-";100
+"null";"8306.30.00.00.00";" - Fotoğraf, resim ve benzerleri için çerçeveler; aynalar";"-";50
+"null";;;" ";
+"null";"83.07";"Adi metallerden eğilip bükülebilen borular (boru bağlantı parçala-";;
+"null";;"rıyla birlikte olsun olmasın):";;
+"null";"8307.10";" - Demir veya çelikten olanlar:";;
+"null";"8307.10.00.00.11";" - - Metal körükler";"-";50
+"null";"8307.10.00.00.12";" - - Çelikten hava kanalı";"-";50
+"null";"8307.10.00.00.18";" - - Diğerleri";"-";50
+"null";"8307.90";" - Diğer adi metallerden olanlar:";" ";
+"null";"8307.90.00.00.11";" - - Metal körükler";"-";50
+"null";"8307.90.00.00.12";" - - Bağlantı  fişli gaz hortumları ve gaz bağlantı armatürleri ";;
+"null";;"         (10 KPA'ya kadar) (Gaz tüketim cihazlarında kullanılan)";"-";50
+"null";"8307.90.00.00.13";" - - Alüminyumdan hava kanalı (izoleli olsun olmasın)";"-";50
+"null";"8307.90.00.00.18";" - - Diğerleri";"-";50
+"null";;;;
+"null";"83.08";"Adi metallerden kancalar, mesnetli kancalar, tokalar, kancalı";;
+"null";;"tokalar, kopçalar, çengelli kopçalar, bağ deliği kapsülleri ve benzeri";;
+"null";;"diğer eşya (giyim eşyası veya aksesuarı, ayakkabı, mücevherat, kol saati, ";;
+"null";;"kitap, tente, deri eşya, seyahat eşyası veya saraciye eşyası ve diğer hazır  ";;
+"null";;"eşya ve teçhizat için); adi metallerden boru şeklinde veya yarık saplı";;
+"null";;"perçinler; adi metallerden boncuklar ve kesilmiş ince pullar :";;
+"null";"8308.10";" - Kopçalar, çengelli kopçalar ve bağ deliği kapsülleri :";;
+"null";"8308.10.00.00.11";" - - Kopçalar (çengelli olanlar dahil)";"-";75
+"null";"8308.10.00.00.12";" - - Bağ deliği kapsülleri";"-";75
+"null";"8308.20.00.00.00";" - Boru şeklinde veya yarık saplı perçinler";"-";75
+"null";"8308.90";" - Diğerleri (aksam dahil):";" ";
+"null";"8308.90.00.10.00";" - - Boncuklar ve kesilmiş ince pullar";"-";100
+"null";"8308.90.00.90.00";" - - Diğerleri ";"-";75
+"null";;;" ";
+"null";"83.09";"Tıpalar (dişli tıpalar, vidalı tıpalar ve boşaltıcı tıpalar dahil),";;
+"null";;"şişeler için kapsüller, yırtılabilen kapsüller, dişli kapaklar, kapak";;
+"null";;"plakaları, mühür kurşunları ve ambalajlamada kullanılan benzeri ";;
+"null";;"teferruat:";;
+"null";"8309.10.00.00.00";" - Dişli tıpalar";"-";50
+"null";"8309.90";" - Diğerleri:";" ";
+"null";"8309.90.10.00.00";" - - Kurşun kapsüller; çapı 21 mm. yi geçen aluminyum kapsüller";"-";50
+"null";;" - - Diğerleri:";" ";
+"null";"8309.90.90.10.00";" - - - Demir veya çelikten olanlar";"-";50
+"null";;" - - - Diğerleri:";" ";
+"null";"8309.90.90.91.00";" - - - - Dişli kapaklar";"-";60
+"null";"8309.90.90.99.00";" - - - - Diğerleri";"-";50
+"null";;;;
+"null";"8310.00.00.00.00";"Adi metallerden işaret levhaları, tabelalar, adres levhaları ve ben-";;
+"null";;"zeri levhalar, rakamlar, harfler ve diğer işaretler (94.05 pozisyonun-";;
+"null";;"dakiler hariç)";"-";50
+"null";;;" ";
+"null";"83.11";"Adi metallerden veya metal karbürlerden teller, çubuklar, ince bo-";;
+"null";;"rular, levhalar, elektrotlar ve benzeri eşya (lehim ve kaynak işlerin-";;
+"null";;"de yahut metallerin veya metal karbürlerin bir noktada toplanması ";;
+"null";;"işlemlerinde kullanılmak amacıyla temizleyici veya eritici madde-";;
+"null";;"lerle üzerleri kaplanmış veya içleri doldurulmuş); püskürtme usu-";;
+"null";;"lüyle metal kaplamacılığında kullanılan aglomere adi metal tozla-";;
+"null";;"rından teller ve çubuklar:";;
+"null";"8311.10";" - Adi metallerden kaplanmış elektrotlar (elektrikli ark kaynağı yap-";;
+"null";;"   mak için):";;
+"null";"8311.10.00.10.00";" - - Çekirdeği nikel esaslı olanlar";"-";50
+"null";"8311.10.00.20.00";" - - Çekirdeği paslanmaz çelikten olanlar";"-";50
+"null";;" - - Diğerleri:";;
+"null";"8311.10.00.90.11";" - - - Örtüsü titandioksit esaslı olanlar";"-";50
+"null";"8311.10.00.90.12";" - - - Örtüsü toprak alkali metal bileşiği esaslı olanlar";"-";50
+"null";"8311.10.00.90.13";" - - - Örtüsü selüloz esaslı olanlar";"-";50
+"null";"8311.10.00.90.19";" - - - Diğerleri";"-";50
+"null";"8311.20.00.00.00";" - Adi metallerden içi doldurulmuş teller (elektrikli ark kaynağı yap-";" ";
+"null";;"   mak için)";"-";50
+"null";"8311.30.00.00.00";" - Adi metallerden kaplanmış çubuklar ve içi doldurulmuş teller ";" ";
+"null";;"   (alevle lehim veya kaynak yapmak için)";"-";50
+"null";"8311.90.00.00.00";" - Diğerleri";"-";50

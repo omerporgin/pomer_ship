@@ -1,0 +1,1571 @@
+﻿"null";;"I.İLK MADDELER ;GRANÜL VEYA TOZ HALİNDEKİ ÜRÜNLER";;
+"null";;;;
+"null";"72.01";"Dökme demir (pik demir) ve aynalı demir (kütle, külçe, blok veya";;
+"null";;"diğer ilk şekillerde) : ";;
+"null";"7201.10";" - Ağırlık itibariyle % 0,5 veya daha az fosfor içeren alaşımsız";;
+"null";;"   dökme demir: ";;
+"null";;" - - Ağırlık itibariyle en az %0,4 manganez içerenler:";;
+"null";"7201.10.11.00.00";" - - - Ağırlık itibariyle içerdiği silisyum oranı %1 'i geçmeyenler ";"-";10
+"null";"7201.10.19.00.00";" - - - Ağırlık itibariyle içerdiği silisyum oranı %1 'i geçenler";"-";10
+"null";"7201.10.30.00.00";" - - Ağırlık itibariyle en az %0,1 ,fakat %0,4' den az manganez içerenler ";"-";10
+"null";"7201.10.90.00.00";" - - Ağırlık itibariyle %0,1' den az manganez içerenler";"-";10
+"null";"7201.20";" - Ağırlık itibariyle % 0,5 den fazla fosfor içeren alaşımsız dökme";;
+"null";;"   demir";;
+"null";"7201.20.00.00.11";" - - Ağırlık itibariyle %1 veya daha az silisyum içerenler ";"-";10
+"null";"7201.20.00.00.12";" - - Ağırlık itibariyle %1' den fazla silisyum içerenler ";"-";10
+"null";"7201.50";" - Alaşımlı dökme demir; aynalı demir:";;
+"null";"7201.50.10.00.00";" - - Ağırlık itibariyle en az % 0,3, en fazla % 1 titanyum ve en az % 0,5,  ";;
+"null";" ";"     en fazla % 1 vanadyum içerenler";"-";10
+"null";"7201.50.90.00.00";" - - Diğerleri ";"-";10
+"null";;;;
+"null";"72.02";"Ferro -alyajlar:";;
+"null";;" - Ferro -manganez:";;
+"null";"7202.11";" - - Ağırlık itibariyle %2'den fazla karbon içerenler: ";;
+"null";"7202.11.20.00.00";" - - - Granülometrisi (tane boyutu) 5 mm. yi geçmeyen ve ağırlık itibariyle";;
+"null";;"        manganez miktarı % 65'i geçenler";"-";5
+"null";"7202.11.80.00.00";" - - - Diğerleri";"-";5
+"null";"7202.19";" - - Diğerleri:";;
+"null";"7202.19.00.00.11";" - - - Granülometrisi (tane boyutu) 0,4 mm'yi geçmeyen ve ";;
+"null";;"       ağırlık itibariyle manganez miktarı %78'i geçenler";"-";5
+"null";"7202.19.00.00.19";" - - - Diğerleri";"-";5
+"null";;" - Ferro -silisyum:";;
+"null";"7202.21";" - - Ağırlık itibariyle % 55' den fazla silisyum içerenler:";;
+"null";"7202.21.00.00.11";" - - - Ağırlık itibariyle % 55' den fazla fakat % 80' (dahil)den az silisyum";;
+"null";;"        içerenler";"-";5
+"null";"7202.21.00.00.12";" - - - Ağırlık itibariyle % 80'den fazla silisyum içerenler";"-";5
+"null";"7202.29";" - - Diğerleri:";" ";" "
+"null";"7202.29.10.00.00";" - - - Ağırlık itibariyle % 4 veya daha fazla fakat % 10'dan fazla olmayan ";;
+"null";;"        magnezyum içerenler";"-";5
+"null";"7202.29.90.00.00";" - - - Diğerleri";"-";5
+"null";"7202.30.00.00.00";" - Ferro -siliko -manganez";"-";5
+"null";;" - Ferro -krom:";;
+"null";"7202.41";" - - Ağırlık itibariyle % 4'den fazla karbon içerenler:";;
+"null";"7202.41.10.00.00";" - - - Ağırlık itibariyle % 4'den fazla fakat % 6' (dahil) dan az karbon";;
+"null";;"        içerenler";"-";10
+"null";;" - - - Ağırlık itibariyle % 6'dan fazla karbon içerenler:";;
+"null";"7202.41.90.00.11";" - - - - Ağırlık itibariyle % 60 veya daha az krom içerenler";"-";10
+"null";"7202.41.90.00.12";" - - - - Ağırlık itibariyle % 60'dan fazla krom içerenler";"-";10
+"null";"7202.49";" - - Diğerleri:";;
+"null";"7202.49.10.00.00";" - - - Ağırlık itibariyle % 0,05 veya daha az karbon içerenler";"-";10
+"null";"7202.49.50.00.00";" - - - Ağırlık itibariyle % 0,05' den fazla fakat % 0,5 (dahil) den az karbon";;
+"null";;"        içerenler";"-";10
+"null";"7202.49.90.00.00";" - - - Ağırlık itibariyle % 0,5' den fazla fakat % 4' (dahil)den az karbon";;
+"null";;"        içerenler";"-";10
+"null";"7202.50.00.00.00";" - Ferro -siliko -krom";"-";5
+"null";"7202.60.00.00.00";" - Ferro -nikel";"-";5
+"null";"7202.70.00.00.00";" - Ferro -molibden";"-";5
+"null";"7202.80.00.00.00";" - Ferro -tungsten ve ferro -siliko -tungsten";"-";5
+"null";;" - Diğerleri:";;
+"null";"7202.91.00.00.00";" - - Ferro -titanyum ve ferro -siliko -titanyum";"-";5
+"null";"7202.92.00.00.00";" - - Ferro -vanadyum";"-";5
+"null";"7202.93.00.00.00";" - - Ferro -niobyum";"-";5
+"null";"7202.99";" - - Diğerleri:";;
+"null";;" - - - Ferro fosfor:";;
+"null";"7202.99.10.10.00";" - - - - Ağırlık itibariyle % 15 veya daha fazla fosfor içerenler";"-";25
+"null";"7202.99.10.90.00";" - - - - Diğerleri";"-";5
+"null";"7202.99.30.00.00";" - - - Ferro -siliko -magnezyum";"-";5
+"null";"7202.99.80.00.00";" - - - Diğerleri";"-";5
+"null";;;;
+"null";"72.03";"Demir cevherinin doğrudan indirgenmesi ile elde edilen demirli";;
+"null";;"ürünler ve diğer sünger görünüşlü demirli ürünler (parça, pellet";;
+"null";;"veya benzeri şekillerde); minimum saflığı ağırlık itibariyle % 99,94 ";;
+"null";;"olan demir (parça,pellet veya benzeri şekillerde): ";;
+"null";"7203.10.00.00.00";" - Demir cevherinin doğrudan indirgenmesi suretiyle elde edilen";;
+"null";;"   ürünler";"-";5
+"null";"7203.90.00.00.00";" - Diğerleri";"-";5
+"null";;;;
+"null";"72.04";"Dökme demirin, demirin veya çeliğin döküntü ve hurdaları; demir";;
+"null";;"veya çelik döküntü ve hurdalarının yeniden ergitilmesi suretiyle ";;
+"null";;"elde edilen külçeler:";;
+"null";"7204.10";" - Dökme demir döküntü ve hurdaları ";;
+"null";"7204.10.00.00.11";" - - Sınıflandırılmış veya derecelendirilmiş olanlar";"-";5
+"null";"7204.10.00.00.19";" - - Diğerleri";"-";5
+"null";;" - Alaşımlı çelik döküntü ve hurdaları: ";;
+"null";"7204.21";" - - Paslanmaz çelikten olanlar:  ";;
+"null";" ";" - - - Ağırlık itibariyle % 8 veya daha fazla nikel içerenler ";;
+"null";"7204.21.10.00.11";" - - - - Sınıflandırılmış veya derecelendirilmiş olanlar";"-";5
+"null";"7204.21.10.00.19";" - - - - Diğerleri";"-";5
+"null";" ";" - - - Diğerleri";;
+"null";"7204.21.90.00.11";" - - - - Sınıflandırılmış veya derecelendirilmiş olanlar";"-";5
+"null";"7204.21.90.00.19";" - - - - Diğerleri";"-";5
+"null";"7204.29";" - - Diğerleri";;
+"null";"7204.29.00.00.11";" - - - Sınıflandırılmış veya derecelendirilmiş olanlar";"-";5
+"null";"7204.29.00.00.19";" - - - Diğerleri";"-";5
+"null";"7204.30.00.00.00";" - Kalaylı demir veya çelik döküntü ve hurdaları";"-";5
+"null";;" - Diğer döküntü ve hurdalar:";;
+"null";"7204.41";" - - Torna talaş ve döküntüleri,freze talaş ve döküntüleri, kıymıklar,";;
+"null";;"     öğütme artıkları, testere talaşları, eğe talaşları, pürüz giderme ";;
+"null";;"     ve preslemede meydana gelen çapaklar (paket halinde olsun";;
+"null";;"     olmasın): ";;
+"null";"7204.41.10.00.00";" - - - Torna talaş ve döküntüleri, freze talaş ve döküntüleri, kıymıklar,";;
+"null";;"        öğütme artıkları, testere talaşları, eğe talaşları";"-";5
+"null";;" - - - Pürüz giderme ve preslemede meydana gelen çapaklar:";;
+"null";"7204.41.91.00.00";" - - - - Paket halinde";"-";5
+"null";"7204.41.99.00.00";" - - - - Diğerleri";"-";5
+"null";"7204.49";" - - Diğerleri:";;
+"null";"7204.49.10.00.00";" - - - Parçalanmış olanlar";"-";5
+"null";;" - - - Diğerleri:";;
+"null";"7204.49.30.00.00";" - - - - Paket halinde";"-";5
+"null";;" - - - - Diğerleri:";;
+"null";"7204.49.90.00.11";" - - - - - Sınıflandırılmamış veya derecelendirilmemiş olanlar";"-";5
+"null";"7204.49.90.00.19";" - - - - - Diğerleri ";"-";5
+"null";"7204.50";" - Döküntü ve hurdaların yeniden ergitilmesi suretiyle elde edilen";;
+"null";;"   külçeler:";;
+"null";"7204.50.00.10.00";" - - Alaşımlı çelikten olanlar";"-";30
+"null";"7204.50.00.90.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";"72.05";"Dökme demir, aynalı demir, demir veya çelikten granül ve tozlar:";;
+"null";"7205.10";" - Granüller";;
+"null";"7205.10.00.00.11";" - - Dökme demir granülleri";"-";5
+"null";"7205.10.00.00.12";" - - Aynalı demir granülleri";"-";5
+"null";"7205.10.00.00.13";" - - Demir veya çelik granülleri";"-";5
+"null";;" - Tozlar:";;
+"null";"7205.21.00.00.00";" - - Alaşımlı çelikten olanlar";"-";5
+"null";"7205.29";" - - Diğerleri";;
+"null";"7205.29.00.00.11";" - - - Dökme demir tozları";"-";5
+"null";"7205.29.00.00.12";" - - - Aynalı demir tozları";"-";5
+"null";"7205.29.00.00.13";" - - - Demir veya çelik tozları";"-";5
+"null";;;;
+"null";;"II. DEMİR VEYA ALAŞIMSIZ ÇELİKLER";;
+"null";;;;
+"null";"72.06";"Külçe veya diğer ilk şekillerde demir ve alaşımsız çelik (72.03";;
+"null";;"pozisyonuna giren demir hariç): ";;
+"null";"7206.10";" - Külçeler:";;
+"null";"7206.10.00.10.00";" - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7206.10.00.90.00";" - - Diğerleri";"-";5
+"null";"7206.90";" - Diğerleri";;
+"null";"7206.90.00.00.11";" - - Pudla demirinden çubuk ve lokmalar";"-";5
+"null";"7206.90.00.00.12";" - - Blok ve kütle halinde demir ve alaşımsız çelik";"-";5
+"null";;;;
+"null";"72.07";"Demir veya alaşımsız çelikten yarı mamuller:";;
+"null";;" - Ağırlık itibariyle %0,25'den az karbon içerenler:";;
+"null";"7207.11";" - - Enine kesitleri dikdörtgen (kare dahil) şeklinde olup genişliği ";;
+"null";;"     kalınlığının iki katından az olanlar:";;
+"null";;" - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş: ";;
+"null";"7207.11.11.00.00";" - - - - Otomat çeliğinden olanlar";"-";15
+"null";;" - - - - Diğerleri:";;
+"null";"7207.11.14.00.00";" - - - - - Kalınlığı 130 mm.yi geçmeyenler ";"-";15
+"null";"7207.11.16.00.00";" - - - - - Kalınlığı 130 mm.yi geçenler ";"-";15
+"null";"7207.11.90.00.00";" - - - Dövülmüş";"-";15
+"null";"7207.12";" - - Diğerleri [enine kesitleri dikdörtgen (kare hariç) şeklinde";;
+"null";;"     olanlar]:";;
+"null";"7207.12.10.00.00";" - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş";"-";15
+"null";"7207.12.90.00.00";" - - - Dövülmüş";"-";15
+"null";"7207.19";" - - Diğerleri:";;
+"null";;" - - - Enine kesitleri daire veya çok kenarlı olanlar:";;
+"null";;" - - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş:";;
+"null";"7207.19.12.00.10";" - - - - - Otomat çeliğinden";"-";15
+"null";;" - - - - - Diğerleri:";;
+"null";"7207.19.12.00.21";" - - - - - - Sürekli döküm suretiyle elde edilmiş";"-";15
+"null";"7207.19.12.00.29";" - - - - - - Diğerleri ";"-";15
+"null";"7207.19.19.00.00";" - - - - Dövülmüş";"-";15
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Profil taslakları:";;
+"null";"7207.19.80.00.11";" - - - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş ";"-";15
+"null";"7207.19.80.00.12";" - - - - - Dövülmüş";"-";15
+"null";"7207.19.80.00.90";" - - - - Diğerleri";"-";15
+"null";"7207.20";" - Ağırlık itibariyle % 0,25 veya daha fazla karbon içerenler:";;
+"null";;" - - Enine kesitleri dikdörtgen (kare dahil) şeklinde olup genişliği";;
+"null";;"      kalınlığının iki katından az olanlar:";;
+"null";;" - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş: ";;
+"null";"7207.20.11.00.00";" - - - - Otomat çeliğinden";"-";15
+"null";;" - - - - Diğerleri:";;
+"null";"7207.20.15.00.00";" - - - - - Ağırlık itibariyle % 0,25 veya daha fazla fakat % 0,6'dan az karbon";;
+"null";;"            içerenler ";"-";15
+"null";"7207.20.17.00.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";15
+"null";"7207.20.19.00.00";" - - - Dövülmüş";"-";15
+"null";;" - - Diğerleri [enine kesitleri dikdörtgen (kare hariç) şeklinde olanlar]:";;
+"null";"7207.20.32.00.00";" - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş";"-";15
+"null";"7207.20.39.00.00";" - - - Dövülmüş";"-";15
+"null";;" - - Enine kesitleri daire veya çok kenarlı olanlar:";;
+"null";;" - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş:";;
+"null";"7207.20.52.00.10";" - - - - Otomat çeliğinden";"-";15
+"null";;" - - - - Diğerleri:";;
+"null";"7207.20.52.00.21";" - - - - - Ağırlık itibariyle %0,25 veya daha fazla fakat %0,6 dan az";;
+"null";;"            karbon içerenler";"-";15
+"null";"7207.20.52.00.29";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler ";"-";15
+"null";"7207.20.59.00.00";" - - - Dövülmüş ";"-";15
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";;" - - - - Profil taslakları:";;
+"null";"7207.20.80.10.11";" - - - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş";"-";30
+"null";"7207.20.80.10.19";" - - - - - Dövülmüş";"-";30
+"null";"7207.20.80.10.90";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Profil taslakları:";;
+"null";"7207.20.80.90.11";" - - - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş";"-";15
+"null";"7207.20.80.90.19";" - - - - - Dövülmüş";"-";15
+"null";"7207.20.80.90.90";" - - - - Diğerleri";"-";15
+"null";;;;
+"null";"72.08";"Demir veya alaşımsız çelikten yassı hadde ürünleri (genişlikleri ";;
+"null";;"600 mm veya daha fazla) (sıcak haddelenmiş) (kaplanmamış):";;
+"null";"7208.10";" - Rulo halinde sadece sıcak haddelenmiş olup üzerlerinde kabartmalı";;
+"null";;"   motifler bulunanlar";;
+"null";"7208.10.00.10.00";" - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.10.00.90.00";" - - Diğerleri";"-";15
+"null";;" - Diğerleri (rulo halinde, sadece sıcak haddelenmiş, dekapaj işlemi-  ";;
+"null";;"   ne tabi tutulmuş):";;
+"null";"7208.25";" - - Kalınlıkları 4,75 mm. veya daha fazla olanlar:";;
+"null";"7208.25.00.10.00";" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.25.00.90.00";" - - - Diğerleri";"-";15
+"null";"7208.26";" - - Kalınlıkları 3 mm. veya daha fazla fakat 4,75 mm.'den az olanlar:";;
+"null";"7208.26.00.10.00";" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.26.00.90.00";" - - - Diğerleri";"-";15
+"null";"7208.27";" - - Kalınlıkları 3 mm.'den az olanlar:";;
+"null";"7208.27.00.10.00";" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.27.00.90.00";" - - - Diğerleri";"-";15
+"null";;" - Diğerleri (rulo halinde, sadece sıcak haddelenmiş):";;
+"null";"7208.36";" - - Kalınlıkları 10 mm.'yi geçenler;";;
+"null";"7208.36.00.10.00";" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.36.00.90.00";" - - - Diğerleri";"-";15
+"null";"7208.37";" - - Kalınlıkları 4,75 mm. veya daha fazla fakat 10 mm.'yi geçme-";;
+"null";;"     yenler:";;
+"null";;" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7208.37.00.10.11";" - - - - Yeniden haddelemeye mahsus olanlar";"-";30
+"null";"7208.37.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Yeniden haddelemeye mahsus olanlar:";;
+"null";"7208.37.00.90.12";" - - - - - %0,006 veya daha az karbon içerenler";"-";15
+"null";"7208.37.00.90.18";" - - - - - Diğerleri";"-";15
+"null";"7208.37.00.90.19";" - - - - Diğerleri";"-";15
+"null";"7208.38";" - - Kalınlıkları 3 mm. veya daha fazla fakat 4,75 mm.'den az olanlar:";;
+"null";;" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7208.38.00.10.11";" - - - - Yeniden haddelemeye mahsus olanlar";"-";30
+"null";"7208.38.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Yeniden haddelemeye mahsus olanlar:";;
+"null";"7208.38.00.90.12";" - - - - - %0,006 veya daha az karbon içerenler";"-";15
+"null";"7208.38.00.90.18";" - - - - - Diğerleri";"-";15
+"null";"7208.38.00.90.19";" - - - - Diğerleri";"-";15
+"null";"7208.39";" - - Kalınlıkları 3 mm.'den az olanlar: ";;
+"null";;" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7208.39.00.10.11";" - - - - Yeniden haddelemeye mahsus olanlar";"-";30
+"null";"7208.39.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Yeniden haddelemeye mahsus olanlar:";;
+"null";"7208.39.00.90.12";" - - - - - %0,006 veya daha az karbon içerenler";"-";15
+"null";"7208.39.00.90.18";" - - - - - Diğerleri";"-";15
+"null";"7208.39.00.90.19";" - - - - Diğerleri";"-";15
+"null";"7208.40";" - Rulo halinde olmayıp sadece sıcak haddelenmiş olup üzerlerinde ";;
+"null";;"   kabartmalı motifler bulunanlar:";;
+"null";;" - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7208.40.00.10.11";" - - - Kalınlıkları 2 mm. veya daha fazla olanlar";"-";30
+"null";"7208.40.00.10.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7208.40.00.90.11";" - - - Kalınlıkları 2 mm. veya daha fazla olanlar";"-";30
+"null";"7208.40.00.90.19";" - - - Diğerleri";"-";30
+"null";;" - Diğerleri (rulo halinde olmayıp sadece sıcak haddelenmiş):";;
+"null";"7208.51";" - - Kalınlığı 10 mm.'yi geçenler: ";;
+"null";;" - - - Kalınlıkları 15 mm. yi geçenler:";;
+"null";;" - - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7208.51.20.10.11";" - - - - - Dört yüzeyi açık veya kapalı usulle haddelenmiş, genişlikleri ";;
+"null";;"           1250 mm.yi geçmeyenler";"-";30
+"null";"7208.51.20.10.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7208.51.20.90.11";" - - - - - Dört yüzeyi açık veya kapalı usulle haddelenmiş, genişlikleri ";;
+"null";;"           1250 mm.yi geçmeyenler";"-";30
+"null";"7208.51.20.90.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - Kalınlıkları 10 mm.'yi geçen fakat 15 mm.'yi geçmeyenler:";;
+"null";" ";" - - - - Genişlikleri 2050 mm. veya daha fazla olanlar: ";;
+"null";"7208.51.91.10.00";" - - - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.51.91.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Genişlikleri 2050 mm.'den az olanlar: ";;
+"null";"7208.51.98.10.00";" - - - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.51.98.90.00";" - - - - - Diğerleri";"-";30
+"null";"7208.52";" - - Kalınlığı 4,75 mm.veya daha fazla fakat 10 mm.yi geçmeyenler :";;
+"null";;" - - - Kapalı usulle veya dört yüzü haddelenmiş, genişliği 1250 mm.yi geçmeyenler :";;
+"null";"7208.52.10.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.52.10.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - -  Diğerleri";;
+"null";;" - - - - Genişlikleri 2050 mm. veya daha fazla olanlar";;
+"null";"7208.52.91.10.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.52.91.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - -  Genişlikleri 2050 mm.den az olanlar";;
+"null";"7208.52.99.10.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.52.99.90.00";" - - - - - Diğerleri";"-";30
+"null";"7208.53";" - - Kalınlığı 3 mm.veya daha fazla fakat 4,75 mm.den az olanlar :";;
+"null";;" - - - Kapalı usulle veya dört yüzü haddelenmiş, genişliği 1250 mm.yi geçmeyen,";;
+"null";;"kalınlıkları 4 mm veya daha fazla olanlar :";;
+"null";"7208.53.10.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.53.10.90.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri :";;
+"null";"7208.53.90.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7208.53.90.90.00";" - - - - Diğerleri";"-";30
+"null";"7208.54";" - - Kalınlığı 3 mm.den az olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7208.54.00.10.11";" - - - - Kalınlığı 2 mm.veya daha fazla olanlar";"-";30
+"null";"7208.54.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7208.54.00.90.11";" - - - - Kalınlığı 2 mm. veya daha fazla olanlar";"-";30
+"null";"7208.54.00.90.19";" - - - - Diğerleri";"-";30
+"null";"7208.90";" - Diğerleri:";;
+"null";;" - - Delinmiş (perfore edilmiş) olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7208.90.20.10.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"        dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7208.90.20.10.12";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7208.90.20.20.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"        dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7208.90.20.20.12";" - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7208.90.80.10.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"        dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7208.90.80.10.12";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7208.90.80.20.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"        dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7208.90.80.20.12";" - - - - Diğerleri";"-";30
+"null";"72.09";"Demir veya alaşımsız çelikten yassı hadde mamulleri (genişliği";;
+"null";;"600 mm. veya daha fazla, soğuk haddelenmiş, kaplanmamış):";;
+"null";;" - Rulo halinde olup sadece soğuk haddelenmiş:";;
+"null";"7209.15";" - - Kalınlıkları 3 mm. veya daha fazla olanlar:";;
+"null";"7209.15.00.10.00";" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.15.00.90.00";" - - - Diğerleri";"-";30
+"null";"7209.16";" - - Kalınlıkları 1 mm. yi geçen fakat 3 mm. den az olanlar: ";;
+"null";;" - - - Manyetik olanlar";;
+"null";"7209.16.10.00.11";" - - - - Vat kayıbı itibariyle 0,75 vat veya daha az vat kayıbı olanlar";"-";30
+"null";"7209.16.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri: ";;
+"null";"7209.16.90.10.00";" - - - - Ağırlık itibariyle % 0, 6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.16.90.90.00";" - - - - Diğerleri";"-";30
+"null";"7209.17";" - - Kalınlıkları 0,5 mm. veya daha fazla fakat 1 mm. yi geçmeyenler";;
+"null";;" - - - Manyetik olanlar";;
+"null";"7209.17.10.00.11";" - - - - Vat kayıbı itibariyle 0,75 vat veya daha az vat kayıbı olanlar";"-";30
+"null";"7209.17.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7209.17.90.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.17.90.90.00";" - - - - Diğerleri";"-";30
+"null";"7209.18";" - - Kalınlıkları 0,5 mm. den az olanlar: ";;
+"null";;" - - - Manyetik olanlar";;
+"null";"7209.18.10.00.11";" - - - - Vat kayıbı itibariyle 0,75 vat veya daha az vat kayıbı olanlar";"-";30
+"null";"7209.18.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Kalınlığı 0,35 mm. veya daha fazla fakat 0,5 mm.'den az olanlar:";;
+"null";"7209.18.91.10.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.18.91.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Kalınlığı 0,35 mm.'den az olanlar: ";;
+"null";"7209.18.99.10.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.18.99.90.00";" - - - - - Diğerleri";"-";30
+"null";;" - Diğerleri (rulo halinde olmayanlar, sadece soğuk haddelenmiş): ";;
+"null";"7209.25";" - - Kalınlıkları 3 mm. veya daha fazla olanlar:";;
+"null";"7209.25.00.10.00";" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.25.00.90.00";" - - - Diğerleri";"-";30
+"null";"7209.26";" - - Kalınlıkları 1 mm. yi geçen fakat 3 mm. den az olanlar:";;
+"null";;" - - - Manyetik olanlar ";;
+"null";"7209.26.10.00.11";" - - - - Vat kayıbı itibariyle 0,75 vat veya daha az vat kayıbı olanlar";"-";30
+"null";"7209.26.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri: ";;
+"null";"7209.26.90.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.26.90.90.00";" - - - - Diğerleri";"-";30
+"null";"7209.27";" - - Kalınlıkları 0,5 mm. veya daha fazla fakat 1 mm. yi geçmeyenler:";;" "
+"null";;" - - - Manyetik olanlar ";;
+"null";"7209.27.10.00.11";" - - - - Vat kayıbı itibariyle 0,75 vat veya daha az vat kayıbı olanlar";"-";30
+"null";"7209.27.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7209.27.90.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.27.90.90.00";" - - - - Diğerleri";"-";30
+"null";"7209.28";" - - Kalınlıkları 0,5 mm.den az olanlar:";;
+"null";;" - - - Manyetik olanlar ";;
+"null";"7209.28.10.00.11";" - - - - Vat kayıbı itibariyle 0,75 vat veya daha az vat kayıbı olanlar";"-";30
+"null";"7209.28.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri: ";;
+"null";"7209.28.90.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.28.90.90.00";" - - - - Diğerleri";"-";30
+"null";"7209.90";" - Diğerleri:";;
+"null";;" - - Delinmiş (perfore edilmiş) olanlar:";;
+"null";"7209.90.20.11.00";" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7209.90.20.19.00";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler:";;
+"null";"7209.90.80.21.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"        dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7209.90.80.21.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7209.90.80.29.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"        dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7209.90.80.29.19";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"72.10";"Demir veya alaşımsız çelikten yassı hadde mamulleri, genişliği";;
+"null";;"600 mm veya daha fazla olanlar (kaplanmış olanlar):";;
+"null";;" - Kalayla kaplanmış olanlar:";;
+"null";"7210.11";" - - Kalınlıkları 0,5 mm. veya daha fazla olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.11.00.10.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"        dahil) başka şekillerde basitçe kesilmiş";" -";30
+"null";"7210.11.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7210.11.00.90.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"        dahil) başka şekillerde basitçe kesilmiş";" -";30
+"null";"7210.11.00.90.19";" - - - - Diğerleri";"-";30
+"null";"7210.12";" - - Kalınlıkları 0,5 mm. den az olanlar:";;
+"null";;" - - - Teneke ";;
+"null";;" - - - - Elektrolitik tenekeler ve sıcak daldırma (kok) tenekeleri";;
+"null";"7210.12.20.00.11";" - - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";"-";30
+"null";;"          dahil) başka şekillerde basitçe kesilmiş";;
+"null";;" - - - - - Diğerleri:";;
+"null";"7210.12.20.00.21";" - - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7210.12.20.00.29";" - - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğer tenekeler";;
+"null";"7210.12.20.00.80";" - - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";"-";30
+"null";;"           dahil) başka şekillerde basitçe kesilmiş";;
+"null";;" - - - - - Diğerleri";;
+"null";"7210.12.20.00.91";" - - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7210.12.20.00.99";" - - - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.12.80.10.11";" - - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"          dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.12.80.10.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7210.12.80.90.11";" - - - - - Sadece yüzey işçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"           dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.12.80.90.19";" - - - - - Diğerleri";"-";30
+"null";"7210.20";" - Kurşunla kaplanmış olanlar (kalay ve kurşun alaşımı ile kaplı ";;
+"null";;"   olanlar dahil):";;
+"null";;" - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.20.00.10.11";" - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.20.00.10.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri";;
+"null";"7210.20.00.90.11";" - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.20.00.90.19";" - - - Diğerleri";"-";30
+"null";"7210.30";" - Elektrolitik olarak çinko ile kaplanmış olanlar:";;
+"null";;" - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.30.00.10.11";" - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.30.00.10.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri";;
+"null";"7210.30.00.90.11";" - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.30.00.90.19";" - - - Diğerleri";"-";30
+"null";;" - Başka bir usulle çinko kaplanmış olanlar:";;
+"null";"7210.41";" - - Oluklu olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.41.00.10.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.41.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.41.00.90.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.41.00.90.19";" - - - - Diğerleri";"-";30
+"null";"7210.49";" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.49.00.10.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.49.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.49.00.90.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.49.00.90.19";" - - - - Diğerleri";"-";30
+"null";"7210.50";" - Krom oksitlerle veya krom ve krom oksitlerle kaplanmış olanlar:";;
+"null";;" - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.50.00.10.11";" - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.50.00.10.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri";;
+"null";"7210.50.00.90.11";" - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.50.00.90.19";" - - - Diğerleri";"-";30
+"null";" ";" - Aluminyumla kaplanmış olanlar:";;
+"null";"7210.61";" - - Aluminyum-çinko alaşımlarıyla  kaplanmış olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.61.00.10.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.61.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.61.00.90.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.61.00.90.19";" - - - - Diğerleri";"-";30
+"null";"7210.69";" - - Diğerleri";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.69.00.10.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.69.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.69.00.90.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.69.00.90.19";" - - - - Diğerleri";"-";30
+"null";"7210.70";" - Boyanmış, verniklenmiş veya plastik maddelerle kaplanmış";;
+"null";;"   olanlar:";;
+"null";;" - - Krom oksitleri veya krom ve krom oksitleriyle kaplanmış ürünler ve";;
+"null";;"        tenekeler (verniklenmiş)";;
+"null";"7210.70.10.00.11";" - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.70.10.00.21";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7210.70.10.00.29";" - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.70.80.10.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.70.80.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.70.80.90.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.70.80.90.19";" - - - - Diğerleri";"-";30
+"null";"7210.90";" - Diğerleri:";;
+"null";;" - - Plakaj ameliyesine tabi tutulmuş olanlar: ";;
+"null";;" - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7210.90.30.10.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.90.30.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.90.30.90.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.90.30.90.19";" - - - - Diğerleri";"-";30
+"null";;" - - Kalaylanmış ve baskılı olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.90.40.10.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.90.40.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.90.40.90.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.90.40.90.19";" - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7210.90.80.10.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.90.80.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7210.90.80.90.11";" - - - - Sadece yüzey isçiliğine tabi tutulmuş veya dikdörtgenden (kare";;
+"null";;"      dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7210.90.80.90.19";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"72.11";"Demir ve alaşımsız çelikten yassı hadde mamulleri (genişlikleri";;
+"null";;"600 mm.den az ve kaplanmamış olanlar):";;
+"null";;" - Sadece sıcak haddelenmiş: ";;
+"null";"7211.13";" - - Dört yüzeyi açık veya kapalı usul ile haddelenmiş, genişliği";;
+"null";;"     150 mm.yi geçen ve kalınlığı 4 mm. den az olmayan (rulo";;
+"null";;"     halinde olmayan) ve üzerlerinde kabartmalı motifler ";;
+"null";;"     bulunmayanlar:";;
+"null";;" - - - Geniş levhalar:";;
+"null";"7211.13.00.11.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7211.13.00.19.00";" - - - - Diğerleri";"-";15
+"null";"7211.13.00.29.00";" - - - Diğerleri";"-";30
+"null";"7211.14";" - - Diğerleri (kalınlıkları 4,75 mm. veya daha fazla olanlar): ";;
+"null";"7211.14.00.10.00";" - - - Rulo halinde sac taslakları (ağırlık itibariyle % 0,6 veya daha fazla";;
+"null";;"          karbon içerenler hariç)";"-";15
+"null";;" - - - Geniş levhalar:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7211.14.00.21.11";" - - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7211.14.00.21.12";" - - - - - Genişliği 500 mm.yi geçmeyenler";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7211.14.00.29.11";" - - - - - Genişliği 500 mm.yi geçenler";"-";15
+"null";"7211.14.00.29.12";" - - - - - Genişliği 500 mm.yi geçmeyenler";"-";15
+"null";;" - - - Saclar:";;
+"null";"7211.14.00.31.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7211.14.00.39.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Şeritler:";;
+"null";"7211.14.00.41.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7211.14.00.49.00";" - - - - Diğerleri";"-";30
+"null";"7211.14.00.50.00";" - - - Yassı çubuklar (ağırlık itibariyle % 0,6 veya daha fazla karbon";;
+"null";;"           içerenler hariç)";"-";25
+"null";"7211.19";" - - Diğerleri: ";;
+"null";"7211.19.00.10.00";" - - - Rulo halinde sac taslakları (ağırlık itibariyle % 0,6 veya daha fazla";;
+"null";;"          karbon içerenler hariç)";"-";15
+"null";;" - - - Saclar:";;
+"null";"7211.19.00.21.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7211.19.00.29.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Şeritler:";;
+"null";"7211.19.00.31.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7211.19.00.39.00";" - - - - Diğerleri";"-";30
+"null";"7211.19.00.50.00";" - - - Yassı çubuklar (ağırlık itibariyle % 0,6 veya daha fazla karbon";;
+"null";;"           içerenler hariç)";"-";25
+"null";;" - Sadece soğuk haddelenmiş:";;
+"null";"7211.23";" - - Ağırlık itibariyle % 0,25'den az karbon içerenler: ";;
+"null";;" - - - Manyetik:";;
+"null";"7211.23.20.10.00";" - - - - Şeritler ";"-";30
+"null";"7211.23.20.20.00";" - - - - Yassı çubuklar";"-";25
+"null";;" - - - - Diğerleri:";;
+"null";"7211.23.20.90.11";" - - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7211.23.20.90.12";" - - - - - Genişliği 500 mm.yi geçmeyenler";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Kalınlığı 0,35 mm.veya daha fazla olanlar";;
+"null";"7211.23.30.00.11";" - - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";;" - - - - - Genişliği 500 mm.yi geçmeyenler";;
+"null";;" - - - - - - Şeritler: ";;
+"null";"7211.23.30.00.12";" - - - - - - - Teneke yapmaya mahsus rulo halinde olanlar";"-";30
+"null";"7211.23.30.00.19";" - - - - - - - Diğerleri";"-";30
+"null";"7211.23.30.00.22";" - - - - - - Yassı çubuklar";"-";30
+"null";;" - - - - Kalınlığı 0,35 mm.den az olanlar";;
+"null";;" - - - - - Şeritler: ";;
+"null";"7211.23.80.10.11";" - - - - - - Teneke yapmaya mahsus rulo halinde olanlar";"-";30
+"null";"7211.23.80.10.19";" - - - - - - Diğerleri";"-";30
+"null";"7211.23.80.20.00";" - - - - - Yassı çubuklar";"-";25
+"null";;" - - - - - Diğerleri: ";;
+"null";"7211.23.80.90.11";" - - - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";;" - - - - - - Genişliği 500 mm.yi geçmeyenler:";;
+"null";"7211.23.80.90.13";" - - - - - - - Teneke yapmaya mahsus rulo halinde olanlar";"-";30
+"null";"7211.23.80.90.19";" - - - - - - - Diğerleri";"-";30
+"null";"7211.29";" - - Diğerleri: ";;
+"null";;" - - - Şeritler";;
+"null";"7211.29.00.10.11";" - - - - Ağırlık itibariyle % 0,25 veya daha fazla fakat %0,6'dan az karbon ";;
+"null";;"          içerenler";"-";30
+"null";"7211.29.00.10.12";" - - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";;" - - -  Diğerleri";;
+"null";;" - - - - Genişliği 500 mm. yi geçenler:";;
+"null";"7211.29.00.21.00";" - - - - - Ağırlık itibariyle % 0,6 karbon içerenler";"-";30
+"null";"7211.29.00.29.00";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Genişliği 500 mm. yi geçmeyenler:";;
+"null";"7211.29.00.31.00";" - - - - - Ağırlık itibariyle % 0,25 veya daha fazla fakat %0,6'dan az karbon ";;
+"null";;"          içerenler:";"-";25
+"null";"7211.29.00.39.00";" - - - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7211.90";" - Diğerleri:";;
+"null";;" - - Delinmiş (perfore edilmiş) olanlar:";;
+"null";;" - - - Şeritler :";;
+"null";"7211.90.20.11.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7211.90.20.19.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7211.90.20.21.11";" - - - - - Sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7211.90.20.21.19";" - - - - - Diğerleri";"-";30
+"null";"7211.90.20.22.00";" - - - -Yassı çubuklar (ağırlık itibariyle %0,6 veya daha fazla karbon";;
+"null";;"       içerenler hariç)";"-";25
+"null";;" - - - - Diğerleri";;
+"null";"7211.90.20.29.11";" - - - - - Sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7211.90.20.29.19";" - - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Şeritler :";;
+"null";"7211.90.80.11.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7211.90.80.19.00";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";;" - - - - - Sadece yüzey işçiliğine tabi tutulmuş olanlar:";;
+"null";"7211.90.80.21.12";" - - - - - - Genişliği 500 mm. yi geçenler";"-";30
+"null";"7211.90.80.21.13";" - - - - - - Diğerleri";"-";30
+"null";"7211.90.80.21.19";" - - - - - Diğerleri";"-";30
+"null";"7211.90.80.22.00";" - - - -Yassı çubuklar (ağırlık itibariyle %0,6 veya daha fazla karbon";;
+"null";;"       içerenler hariç)";"-";25
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Sadece yüzey işçiliğine tabi tutulmuş olanlar:";;
+"null";"7211.90.80.29.12";" - - - - - - Genişliği 500 mm. yi geçenler";"-";30
+"null";"7211.90.80.29.13";" - - - - - - Diğerleri";"-";30
+"null";"7211.90.80.29.19";" - - - - - Diğerleri";"-";30
+"null";;;;
+"null";"72.12";"Demir veya alaşımsız çelikten yassı hadde ürünleri (genişlikleri";;
+"null";;"600 mm.den az ve kaplanmış olanlar):";;
+"null";"7212.10";" - Kalayla kaplanmış olanlar:";;
+"null";;" - - Teneke (sadece yüzey işçiliğine tabi tutulmuş olanlar) ";;
+"null";"7212.10.10.00.11";" - - - Elektrolitik tenekeler ve sıcak daldırma (kok) tenekeler";"-";30
+"null";"7212.10.10.00.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Sadece yüzey işçiliğine tabi tutulmuş:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.10.90.11.11";" - - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.10.90.11.12";" - - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7212.10.90.19.11";" - - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.10.90.19.12";" - - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.10.90.21.11";" - - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.10.90.21.12";" - - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7212.10.90.29.11";" - - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.10.90.29.12";" - - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";"7212.20";" - Elektrolitik olarak çinko ile kaplanmış olanlar:";;
+"null";;" - - Sadece yüzey işçiliğine tabi tutulmuş:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.20.00.11.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.20.00.11.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7212.20.00.19.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.20.00.19.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.20.00.21.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.20.00.21.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7212.20.00.29.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.20.00.29.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";"7212.30";" - Çinko ile başka bir usulle kaplanmış olanlar:";;
+"null";;" - -  Sadece yüzey işçiliğine tabi tutulmuş:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.30.00.11.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.30.00.11.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7212.30.00.19.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.30.00.19.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.30.00.21.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.30.00.21.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7212.30.00.29.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.30.00.29.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";"7212.40";" - Boyanmış, cilalanmış veya plastik maddelerle kaplanmış olanlar:";;
+"null";;" - - Teneke ( cilalanma işleminden öte işleme tabi tutulmamış); krom ";;
+"null";;"     oksitleri veya krom ve krom oksitleriyle kaplanmış ürünler (cilalanmış)";;
+"null";;" - - - Sadece yüzey işçiliğine tabi tutulmuş:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.40.20.11.11";" - - - - - Teneke (sadece cilalanmış)";"-";30
+"null";;" - - - - - Diğerleri";;
+"null";"7212.40.20.11.21";" - - - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7212.40.20.11.29";" - - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7212.40.20.19.11";" - - - - - Teneke (sadece cilalanmış)";"-";30
+"null";;" - - - - - Diğerleri";;
+"null";"7212.40.20.19.21";" - - - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7212.40.20.19.29";" - - - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.40.20.21.11";" - - - - - Teneke";"-";30
+"null";;" - - - - - Diğerleri";;
+"null";"7212.40.20.21.21";" - - - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7212.40.20.21.29";" - - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7212.40.20.29.11";" - - - - - Teneke";"-";30
+"null";;" - - - - - Diğerleri";;
+"null";"7212.40.20.29.21";" - - - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7212.40.20.29.29";" - - - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";;" - - - - Genişliği 500 mm.yi geçenler ";;
+"null";"7212.40.80.10.11";" - - - - - Sadece yüzey işçiliğine tabi tutulmuş";"-";30
+"null";"7212.40.80.10.19";" - - - - - Diğerleri";"-";30
+"null";"7212.40.80.10.21";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Genişliği 500 mm.yi geçenler ";;
+"null";"7212.40.80.90.11";" - - - - - Sadece yüzey işçiliğine tabi tutulmuş";"-";30
+"null";"7212.40.80.90.19";" - - - - - Diğerleri";"-";30
+"null";"7212.40.80.90.21";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";"7212.50";" - Başka bir usulle kaplanmış olanlar:";;
+"null";;" - - Krom oksitleri veya krom ve krom oksitleriyle kaplanmış ";;
+"null";;"      olanlar :";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler:";;
+"null";"7212.50.20.10.11";" - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.20.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7212.50.20.90.11";" - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.20.90.19";" - - - - Diğerleri";"-";30
+"null";;" - - Krom veya nikel ile kaplanmış olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler:";;
+"null";"7212.50.30.10.11";" - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.30.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7212.50.30.90.11";" - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.30.90.19";" - - - - Diğerleri";"-";30
+"null";;" - - Bakırla kaplanmış olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler:";;
+"null";"7212.50.40.10.11";" - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.40.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7212.50.40.90.11";" - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.40.90.19";" - - - - Diğerleri";"-";30
+"null";;" - - Aluminyum ile kaplanmış olanlar:";;
+"null";;" - - - Aluminyum -çinko alaşımlariyle kaplanmış olanlar";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.50.61.10.11";" - - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.61.10.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"7212.50.61.90.11";" - - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.61.90.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler:";;
+"null";"7212.50.69.10.11";" - - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.69.10.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri:";;
+"null";"7212.50.69.90.11";" - - - - - Genişliği 500 mm.yi geçen ve sadece yüzey işçiliğine tabi tutulmuş olanlar";"-";30
+"null";"7212.50.69.90.19";" - - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";;" - - - - Sadece yüzey işçiliğine tabi tutulmuş :";;
+"null";;" - - - - - Kurşunla kaplanmış olanlar:";;
+"null";"7212.50.90.10.12";" - - - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.50.90.10.13";" - - - - - - Diğerleri";"-";30
+"null";;" - - - - - Diğerleri:";;
+"null";"7212.50.90.10.14";" - - - - - - Genişliği 500 mm.yi geçenler (gümüş, altın veya platin yaldızlı veya ";;
+"null";;"             emaye olanlar hariç)";"-";30
+"null";"7212.50.90.10.18";" - - - - - - Diğerleri";"-";30
+"null";"7212.50.90.10.20";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";;" - - - - Sadece yüzey işçiliğine tabi tutulmuş :";;
+"null";;" - - - - - Kurşunla kaplanmış olanlar:";;
+"null";"7212.50.90.90.12";" - - - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.50.90.90.13";" - - - - - - Diğerleri";"-";30
+"null";;" - - - - - Diğerleri:";;
+"null";"7212.50.90.90.14";" - - - - - - Genişliği 500 mm.yi geçenler (gümüş, altın veya platin yaldızlı veya ";;
+"null";;"             emaye olanlar hariç)";"-";30
+"null";"7212.50.90.90.18";" - - - - - - Diğerleri";"-";30
+"null";"7212.50.90.90.20";" - - - - Diğerleri";"-";30
+"null";"7212.60";" - Plakaj yapılmış olanlar:";;
+"null";;" - - Sadece yüzey işçiliğine tabi tutulmuş:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.60.00.11.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";;" - - - - Genişliği 500 mm.yi geçmeyenler ";;
+"null";"7212.60.00.11.21";" - - - - - Sıcak haddelenmiş (sadece plakaj yapılmış)";"-";30
+"null";"7212.60.00.11.29";" - - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7212.60.00.19.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";;" - - - - Genişliği 500 mm.yi geçmeyenler ";;
+"null";"7212.60.00.19.21";" - - - - - Sıcak haddelenmiş (sadece plakaj yapılmış)";"-";30
+"null";"7212.60.00.19.29";" - - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7212.60.00.21.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.60.00.21.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7212.60.00.29.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7212.60.00.29.12";" - - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";;;;
+"null";"72.13";"Demir veya alaşımsız çelikten filmaşin (sıcak haddelenmiş, kangal";;
+"null";;"halinde) :";;
+"null";"7213.10.00.00.00";" - Haddeleme işlemi sırasında üzerlerinde çentikler, yivler, oluklar";;
+"null";;"   veya diğer şekil bozuklukları bulunanlar";"-";25
+"null";"7213.20";" - Diğerleri, otomat çeliğinden olanlar ";;
+"null";"7213.20.00.00.11";" - - Civata ve somun imali için filmaşin";"-";25
+"null";"7213.20.00.00.12";" - - Elektrot imali için filmaşin ";"-";25
+"null";"7213.20.00.00.13";" - - Tel ve çivi imali için filmaşin";"-";25
+"null";"7213.20.00.00.19";" - - Diğerleri";"-";25
+"null";;" - Diğerleri: ";;
+"null";"7213.91";" - - Enine kesiti daire şeklinde olup, çapı 14 mm. den az olanlar:";;
+"null";"7213.91.10.00.00";" - - - Betonun takviyesinde kullanılan türden olanlar  ";"-";25
+"null";"7213.91.20.00.00";" - - - Tekerlek dış lastiği çelik kordunda kullanılacak türde olanlar";"-";25
+"null";;" - - - Diğerleri:";;
+"null";" ";" - - - - Ağırlık itibariyle %0,06 veya daha az karbon içerenler ";;
+"null";"7213.91.41.00.11";" - - - - - Civata ve somun imali için filmaşin";"-";25
+"null";"7213.91.41.00.12";" - - - - - Elektrot imali için filmaşin ";"-";25
+"null";"7213.91.41.00.13";" - - - - - Tel ve çivi imali için filmaşin";"-";25
+"null";"7213.91.41.00.19";" - - - - - Diğerleri";"-";25
+"null";;" - - - - Ağırlık itibariyle %0,06 'dan fazla fakat %0,25'den az karbon ";;
+"null";;"          içerenler ";;
+"null";"7213.91.49.00.11";" - - - - - Civata ve somun imali için filmaşin";"-";25
+"null";"7213.91.49.00.12";" - - - - - Elektrot imali için filmaşin ";"-";25
+"null";"7213.91.49.00.13";" - - - - - Tel ve çivi imali için filmaşin";"-";25
+"null";"7213.91.49.00.19";" - - - - - Diğerleri";"-";25
+"null";;" - - - - Ağırlık itibariyle %0,25'den fazla fakat %0,75'den fazla olmayan karbon";;
+"null";;"          içerenler:";;
+"null";" ";" - - - - - Ağırlık itibariyle %0,25'den fazla fakat % 0,6'dan az karbon içerenler";;
+"null";"7213.91.70.10.11";" - - - - - - Civata ve somun imali için filmaşin";"-";25
+"null";"7213.91.70.10.12";" - - - - - - Elektrot imali için filmaşin ";"-";25
+"null";"7213.91.70.10.13";" - - - - - - Tel ve çivi imali için filmaşin";"-";25
+"null";"7213.91.70.10.19";" - - - - - - Diğerleri";"-";25
+"null";"7213.91.70.90.00";" - - - - - Diğerleri";"-";30
+"null";"7213.91.90.00.00";" - - - - Ağırlık itibariyle %0,75'den fazla karbon içerenler ";"-";30
+"null";"7213.99";" - - Diğerleri:";;
+"null";" ";" - - - Ağırlık itibariyle %0,25'den az karbon içerenler ";;
+"null";"7213.99.10.00.11";" - - - - Civata ve somun imali için filmaşin";"-";25
+"null";"7213.99.10.00.12";" - - - - Elektrot imali için filmaşin ";"-";25
+"null";"7213.99.10.00.13";" - - - - Tel ve çivi imali için filmaşin";"-";25
+"null";"7213.99.10.00.19";" - - - - Diğerleri";"-";25
+"null";" ";" - - - Ağırlık itibariyle %0,25 veya daha fazla karbon içerenler ";;
+"null";" ";" - - - - Ağırlık itibariyle %0,25'den fazla fakat % 0,6'dan az karbon içerenler";;
+"null";"7213.99.90.10.11";" - - - - - Civata ve somun imali için filmaşin";"-";25
+"null";"7213.99.90.10.12";" - - - - - Elektrot imali için filmaşin ";"-";25
+"null";"7213.99.90.10.13";" - - - - - Tel ve çivi imali için filmaşin";"-";25
+"null";"7213.99.90.10.19";" - - - - - Diğerleri";"-";25
+"null";"7213.99.90.90.00";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"72.14";"Demir veya alaşımsız çelikten çubuklar (sadece dövülmüş, sıcak ";;
+"null";;"haddelenmiş veya sıcak çekilmiş, haddeleme işleminden sonra ";;
+"null";;"burulmuş olanIar dahil):";;
+"null";"7214.10.00.00.00";" - Dövülmüş olanlar";"-";25
+"null";"7214.20";" - Haddeleme işlemi sırasında üzerlerinde çentikler, yivler, oluklar ";;
+"null";;"   veya diğer şekil bozuklukları bulunanlar veya haddeleme ";;
+"null";;"   işleminden sonra burulmuş olanlar ";;
+"null";"7214.20.00.00.11";" - - Enine kesiti 6-8 mm. (8 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.20.00.00.12";" - - Enine kesiti 8-10 mm. (10 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.20.00.00.13";" - - Enine kesiti 10-26 mm. (26 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.20.00.00.14";" - - Enine kesiti 26 mm. den fazla olan yuvarlak çubuklar";"-";25
+"null";"7214.20.00.00.15";" - - Dört köşeli çubuklar";"-";25
+"null";"7214.20.00.00.16";" - - Altı köşeli çubuklar";"-";25
+"null";"7214.20.00.00.19";" - - Diğer köşeli çubuklar";"-";25
+"null";"7214.30";" - Diğerleri, otomat çeliğinden olanlar :";;
+"null";"7214.30.00.00.11";" - - Enine kesiti 6-8 mm. (8 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.30.00.00.12";" - - Enine kesiti 8-10 mm. (10 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.30.00.00.13";" - - Enine kesiti 10-26 mm. (26 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.30.00.00.14";" - - Enine kesiti 26 mm. den büyük olan yuvarlak çubuklar";"-";25
+"null";"7214.30.00.00.15";" - - Dört köşeli çubuklar";"-";25
+"null";"7214.30.00.00.16";" - - Altı köşeli çubuklar";"-";25
+"null";"7214.30.00.00.19";" - - Diğer köşeli çubuklar";"-";25
+"null";" ";" - Diğerleri:";;
+"null";"7214.91";" - - Enine kesiti dikdörtgen (kare hariç)  olanlar :";;
+"null";"7214.91.10.00.00";" - - - Ağırlık itibariyle %0,25'den az karbon içerenler";"-";25
+"null";"7214.91.90.00.00";" - - - Ağırlık itibariyle %0,25 veya daha fazla karbon içerenler ";"-";25
+"null";"7214.99";" - - Diğerleri: ";;
+"null";;" - - - Ağırlık itibariyle %0,25'den az karbon içerenler:";;
+"null";"7214.99.10.00.00";" - - - - Betonun takviyesinde kullanılan türde olanlar  ";"-";25
+"null";" ";" - - - - Diğerleri (enine kesiti daire şeklinde olup en geniş yeri): ";;
+"null";"7214.99.31.00.00";" - - - - - 80 mm. veya daha fazla olanlar ";"-";25
+"null";" ";" - - - - - 80 mm. den az olanlar";;
+"null";"7214.99.39.00.11";" - - - - - - Enine kesiti 6-8 mm. (8 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.99.39.00.12";" - - - - - - Enine kesiti 8-10 mm. (10 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.99.39.00.13";" - - - - - - Enine kesiti 10-26 mm. (26 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.99.39.00.14";" - - - - - - Enine kesiti 26 mm. den fazla olan yuvarlak çubuklar";"-";25
+"null";" ";" - - - - Diğerleri";;
+"null";"7214.99.50.00.11";" - - - - - Dört köşeli çubuklar";"-";25
+"null";"7214.99.50.00.12";" - - - - - Altı köşeli çubuklar";"-";25
+"null";"7214.99.50.00.19";" - - - - - Diğer çubuklar";"-";25
+"null";;" - - - Ağırlık itibariyle % 0,25 veya daha fazla karbon içerenler";;
+"null";;" - - - - Enine kesiti daire şeklinde olup en geniş yeri:";;
+"null";"7214.99.71.00.00";" - - - - - 80 mm. veya daha fazla olanlar ";"-";25
+"null";;" - - - - - 80 mm. den az olanlar ";;
+"null";"7214.99.79.00.11";" - - - - - - Enine kesiti 6-8 mm. (8 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.99.79.00.12";" - - - - - - Enine kesiti 8-10 mm. (10 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.99.79.00.13";" - - - - - - Enine kesiti 10-26 mm. (26 dahil) ye kadar olan yuvarlak çubuklar";"-";25
+"null";"7214.99.79.00.14";" - - - - - - Enine kesiti 26 mm. den fazla olan yuvarlak çubuklar";"-";25
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7214.99.95.10.11";" - - - - - - Dört köşeli çubuklar";"-";30
+"null";"7214.99.95.10.12";" - - - - - - Altı köşeli çubuklar";"-";30
+"null";"7214.99.95.10.19";" - - - - - - Diğer çubuklar";"-";30
+"null";;" - - - - - Diğerleri";;
+"null";"7214.99.95.90.11";" - - - - - - Dört köşeli çubuklar";"-";25
+"null";"7214.99.95.90.12";" - - - - - - Altı köşeli çubuklar";"-";25
+"null";"7214.99.95.90.19";" - - - - - - Diğer çubuklar";"-";25
+"null";;;;
+"null";"72.15";"Demir veya alaşımsız çelikten diğer çubukIar:";;
+"null";"7215.10";" - Otomat çeliğinden olanlar (sadece soğuk olarak şekil verilmiş ";;
+"null";;"    veya işlenmiş)";;
+"null";"7215.10.00.00.11";" - - Soğuk olarak şekil verilmiş yuvarlak çubuklar";"-";25
+"null";"7215.10.00.00.12";" - - Soğuk olarak şekil verilmiş köşeli çubuklar";"-";25
+"null";"7215.10.00.00.19";" - - Diğerleri";"-";25
+"null";"7215.50";" - Diğerleri (sadece soğuk olarak şekil verilmiş veya işlenmiş olanlar):";;
+"null";" ";" - - Ağırlık itibariyle %0,25'den az karbon içerenler ";;
+"null";"7215.50.11.00.00";" - - - Enine kesiti dikdörtgen (kare hariç) ve dört yüzü haddelenmiş olanlar";"-";25
+"null";" ";" - - - Diğerleri";;
+"null";"7215.50.19.00.11";" - - - - Soğuk olarak şekil verilmiş yuvarlak çubuklar";"-";25
+"null";"7215.50.19.00.19";" - - - - Diğerleri";"-";25
+"null";" ";" - - Ağırlık itibariyle %0,25 veya daha fazla karbon içerenler";;
+"null";;" - - - Ağırlık itibariyle % 0,25 veya daha fazla fakat %0,6 dan az karbon";;
+"null";;"        içerenler ";;
+"null";"7215.50.80.10.11";" - - - - Soğuk olarak şekil verilmiş yuvarlak çubuklar";"-";25
+"null";"7215.50.80.10.12";" - - - - Soğuk olarak şekil verilmiş köşeli çubuklar";"-";25
+"null";"7215.50.80.10.19";" - - - - Diğerleri";"-";25
+"null";"7215.50.80.20.00";" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7215.90";" - Diğerleri:";;
+"null";"7215.90.00.00.11";" - - Sıcak haddelenmiş veya çekilmiş (sadece plakaj yapılmış) ";"-";25
+"null";"7215.90.00.00.19";" - - Diğerleri";"-";25
+"null";;;;
+"null";"72.16";"Demir veya alaşımsız çelikten profiller:";;
+"null";"7216.10";" - U,I veya H şeklinde profiller (sadece sıcak haddelenmiş, sıcak";;
+"null";;"   çekilmiş, yükseklikleri 80 mm. den az olanlar): ";;
+"null";;" - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7216.10.00.10.11";" - - - U şeklinde profiller";"-";30
+"null";"7216.10.00.10.12";" - - - I şeklinde profiller";"-";30
+"null";"7216.10.00.10.13";" - - - H şeklinde olanlar";"-";30
+"null";;" - - Diğerleri";;
+"null";"7216.10.00.90.11";" - - - U şeklinde profiller";"-";25
+"null";"7216.10.00.90.12";" - - - I şeklinde profiller";"-";25
+"null";"7216.10.00.90.13";" - - - H şeklinde olanlar";"-";25
+"null";;" - L veya T şeklinde profiller (sadece sıcak haddelenmiş, sıcak ";;
+"null";;"   çekilmiş, yükseklikleri 80 mm. den az olanlar): ";;
+"null";"7216.21";" - - L şeklinde profiller:";;
+"null";"7216.21.00.10.00";" - - - Ağırlık itibariyle % 0, 6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.21.00.90.00";" - - - Diğerleri";"-";25
+"null";"7216.22";" - - T şeklinde profiller:";;
+"null";"7216.22.00.10.00";" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.22.00.90.00";" - - - Diğerleri";"-";25
+"null";;" - U, I veya H şeklinde profiller (sadece sıcak haddelenmiş, sıcak";;
+"null";;"   çekilmiş, yükseklikleri 80 mm. veya daha fazla olanlar):";;
+"null";"7216.31";" - - U şeklinde profiller:";;
+"null";;" - - - Yüksekliği 80 mm. veya daha fazla fakat 220 mm yi geçmeyenler:";;
+"null";;" - - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7216.31.10.10.11";" - - - - - Flanş yüzleri paralel olanlar";"-";30
+"null";"7216.31.10.10.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7216.31.10.90.11";" - - - - - Flanş yüzleri paralel olanlar";"-";25
+"null";"7216.31.10.90.19";" - - - - - Diğerleri";"-";25
+"null";;" - - - Yüksekliği 220 mm. yi geçenler:";;
+"null";;" - - - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";;
+"null";"7216.31.90.10.11";" - - - - - Flanş yüzleri paralel olanlar";"-";30
+"null";"7216.31.90.10.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7216.31.90.90.11";" - - - - - Flanş yüzleri paralel olanlar";"-";25
+"null";"7216.31.90.90.19";" - - - - - Diğerleri";"-";25
+"null";"7216.32";" - - I şeklinde profiller:";;
+"null";;" - - - Yüksekliği 80 mm. veya daha fazla fakat 220 mm 'yi geçmeyenler:";;
+"null";;" - - - - Flanş yüzleri paralel olanlar:";;
+"null";"7216.32.11.10.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.32.11.90.00";" - - - - - Diğerleri";"-";25
+"null";;" - - - - Diğerleri:";;
+"null";"7216.32.19.10.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.32.19.90.00";" - - - - - Diğerleri";"-";25
+"null";;" - - - Yüksekliği 220 mm.yi geçenler:";;
+"null";;" - - - - Flanş yüzleri paralel olanlar: ";;
+"null";"7216.32.91.10.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.32.91.90.00";" - - - - - Diğerleri";"-";25
+"null";;" - - - - Diğerleri: ";;
+"null";"7216.32.99.10.00";" - - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.32.99.90.00";" - - - - - Diğerleri";"-";25
+"null";"7216.33";" - - H şeklinde profiller:";;
+"null";;" - - -Yüksekliği 80 mm. veya daha fazla fakat 180 mm yi geçmeyenler: ";;
+"null";"7216.33.10.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.33.10.90.00";" - - - - Diğerleri";"-";25
+"null";;" - - - Yüksekliği 180 mm.yi geçenler: ";;
+"null";"7216.33.90.10.00";" - - - - Ağırlık itibariyle % 0,6 veya dahafazla karbon içerenler";"-";30
+"null";"7216.33.90.90.00";" - - - - Diğerleri";"-";25
+"null";"7216.40";" - L veya T şeklinde profiller (sadece sıcak haddelenmiş, sıcak ";;
+"null";;"   çekilmiş, yükseklikleri 80 mm. veya daha fazla olanlar):";;
+"null";;" - - L şeklinde profiller: ";;
+"null";"7216.40.10.10.00";" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.40.10.90.00";" - - - Diğerleri";"-";25
+"null";;" - - T şeklinde profiller:";;
+"null";"7216.40.90.10.00";" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.40.90.90.00";" - - - Diğerleri";"-";25
+"null";"7216.50";" - Diğer profiller (sadece sıcak haddelenmiş, sıcak çekilmiş):";;
+"null";;" - - Enine kesiti, bir kenarı 80 mm. yi geçmeyen karenin içine girebilecek";;
+"null";;"      olanlar:";;
+"null";"7216.50.10.10.00";" - - - Ağırlık itibariyle % 0, 6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.50.10.90.00";" - - - Diğerleri";"-";25
+"null";;" - - Diğerleri:";;
+"null";"7216.50.91.00.00";" - - - Lama Demiri  ";"-";25
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7216.50.99.10.11";" - - - - - Z şeklinde olanlar";"-";30
+"null";"7216.50.99.10.19";" - - - - - Diğerleri";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7216.50.99.91.00";" - - - - - Z şeklinde olanlar";"-";25
+"null";"7216.50.99.99.00";" - - - - - Diğerleri";"-";25
+"null";" ";" - Profiller (sadece soğuk işlenmiş veya şekil verilmiş):";;
+"null";"7216.61";" - - Yassı hadde mamullerinden elde edilenler:";;
+"null";;" - - - C, L, U, Z, omega şeklinde veya açık profiller:";;
+"null";"7216.61.10.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.61.10.90.00";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğerleri:";;
+"null";"7216.61.90.10.00";" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.61.90.90.00";" - - - - Diğerleri";"-";25
+"null";"7216.69";" - - Diğerleri:";;
+"null";"7216.69.00.10.00";" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.69.00.90.00";" - - - Diğerleri";"-";25
+"null";" ";" - Diğerleri:";;
+"null";"7216.91";" - - Yassı hadde ürünlerinden soğuk olarak şekil verilmiş veya işlen-";;
+"null";;"     miş olanlar ";;
+"null";;" - - - Profil haline getirilmiş saclar:";;
+"null";"7216.91.10.10.00";" - - - - Ağırlık itibariyle % 0, 6 veya daha fazla karbon içerenler";"-";30
+"null";"7216.91.10.90.00";" - - - - Diğerleri";"-";25
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";;" - - - - - Çinko ile kaplanmış olanlar";;
+"null";"7216.91.80.10.11";" - - - - - -  Kalınlığı 2.5 mm.den az olanlar";"-";30
+"null";"7216.91.80.10.12";" - - - - - -  Kalınlığı 2.5 mm. veya daha fazla olanlar";"-";30
+"null";;" - - - - -  Diğerleri";;
+"null";"7216.91.80.10.21";" - - - - - -  Kalınlığı 2.5 mm.den az olanlar";"-";30
+"null";"7216.91.80.10.22";" - - - - - -  Kalınlığı 2.5 mm. veya daha fazla olanlar";"-";30
+"null";;" - - - - Diğerleri";;
+"null";;" - - - - - Çinko ile kaplanmış olanlar";;
+"null";"7216.91.80.90.11";" - - - - - -  Kalınlığı 2.5 mm.den az olanlar";"-";25
+"null";"7216.91.80.90.12";" - - - - - -  Kalınlığı 2.5 mm. veya daha fazla olanlar";"-";25
+"null";;" - - - - -  Diğerleri";;
+"null";"7216.91.80.90.21";" - - - - - -  Kalınlığı 2.5 mm.den az olanlar";"-";25
+"null";"7216.91.80.90.22";" - - - - - -  Kalınlığı 2.5 mm. veya daha fazla olanlar";"-";25
+"null";"7216.99";" - - Diğerleri:";;
+"null";;" - - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";;
+"null";"7216.99.00.10.11";" - - - -  Sıcak haddelenmiş veya çekilmiş (sadece plakaj yapılmış) olanlar";"-";30
+"null";"7216.99.00.10.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri";;
+"null";"7216.99.00.90.11";" - - - -  Sıcak haddelenmiş veya çekilmiş (sadece plakaj yapılmış) olanlar";"-";25
+"null";"7216.99.00.90.19";" - - - - Diğerleri";"-";25
+"null";;;;
+"null";"72.17";"Demir veya alaşımsız çelikten teller:";;
+"null";"7217.10";" - Kaplanmamış (cilalanmış olsun olmasın):";;
+"null";;" - - Ağırlık itibariyle %0,25'den az karbon içerenler:";;
+"null";"7217.10.10.00.00";" - - - Enine kesitinin en geniş yeri 0,8 mm. den az olanlar";"-";30
+"null";;" - - - Enine kesitinin en geniş yeri 0,8 mm. veya daha fazla olanlar:";;
+"null";;" - - - - Haddeleme işlemi sırasında ortaya çıkan çentikler, yivler,oluklar veya";;
+"null";;"          diğer şekil bozuklukları içerenler";;
+"null";"7217.10.31.00.11";"  - - - - - Enine kesitinin en geniş yeri 0,8 mm. veya 1,5 mm. (1,5 dahil) ye";;
+"null";;"             kadar olanlar ";"-";30
+"null";"7217.10.31.00.12";" - - - - - Enine kesitinin en geniş yeri 1,5-6 mm (6 dahil)ye kadar olanlar ";"-";30
+"null";"7217.10.31.00.13";" - - - - - Enine kesitinin en geniş yeri 6 mm.den fazla olanlar";"-";30
+"null";;" - - - - Diğerleri";;
+"null";"7217.10.39.00.11";" - - - - - Enine kesitinin en geniş yeri 0,8 mm. veya 1,5 mm. (1,5 dahil) ye";;
+"null";;"             kadar olanlar ";"-";30
+"null";"7217.10.39.00.12";" - - - - - Enine kesitinin en geniş yeri 1,5-6 mm (6 dahil)ye kadar olanlar ";"-";30
+"null";"7217.10.39.00.13";" - - - - - Enine kesitinin en geniş yeri 6 mm.den fazla olanlar";"-";30
+"null";;" - - Ağırlık itibariyle %0,25 veya daha fazla fakat %0,6'dan az karbon";;
+"null";;"     içerenler: ";;
+"null";"7217.10.50.00.11";" - - - Enine kesitinin en geniş yeri 0,8 mm. den az olanlar";"-";30
+"null";"7217.10.50.00.12";" - - - Enine kesitinin en geniş yeri 0,8 mm. veya 1,5 mm. (1,5 dahil) ye";;
+"null";" ";"        kadar olanlar ";"-";30
+"null";"7217.10.50.00.13";" - - - Enine kesitinin en geniş yeri 1,5-6 mm (6 dahil)ye kadar olanlar ";"-";30
+"null";"7217.10.50.00.14";" - - - Enine kesitinin en geniş yeri 6 mm.den fazla olanlar";"-";30
+"null";"7217.10.90.00.00";" - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7217.20";" - Çinko ile kaplanmış olanlar:";;
+"null";;" - - Ağırlık itibariyle %0,25'den az karbon içerenler: ";;
+"null";"7217.20.10.00.00";" - - - Enine kesitinin en geniş yeri 0,8 mm. den az olanlar";"-";30
+"null";;" - - - Enine kesitinin en geniş yeri 0,8 mm. veya daha fazla olanlar";;
+"null";"7217.20.30.00.11";" - - - - Enine kesitinin en geniş yeri 0,8 mm. veya 1,5 mm. (1,5 dahil) ye";;
+"null";;"          kadar olanlar ";"-";30
+"null";"7217.20.30.00.12";" - - - - Enine kesitinin en geniş yeri 1,5-6 mm (6 dahil)ye kadar olanlar ";"-";30
+"null";"7217.20.30.00.13";" - - - - Enine kesitinin en geniş yeri 6 mm.den fazla olanlar";"-";30
+"null";" ";" - - Ağırlık itibariyle %0,25 veya daha fazla fakat %0,6'dan az karbon";;
+"null";;"     içerenler: ";;
+"null";"7217.20.50.00.11";" - - - Enine kesitinin en geniş yeri 0,8 mm. den az olanlar";"-";30
+"null";"7217.20.50.00.12";" - - - Enine kesitinin en geniş yeri 0,8 mm. veya 1,5 mm. (1,5 dahil) ye";;
+"null";" ";"        kadar olanlar ";"-";30
+"null";"7217.20.50.00.13";" - - - Enine kesitinin en geniş yeri 1,5-6 mm (6 dahil)ye kadar olanlar ";"-";30
+"null";"7217.20.50.00.14";" - - - Enine kesitinin en geniş yeri 6 mm.den fazla olanlar";"-";30
+"null";"7217.20.90.00.00";" - - Ağırlık itibariyle % 0,6 veya daha fazla karbon içerenler";"-";30
+"null";"7217.30";" - Diğer adi metallerle kaplanmış olanlar:";;
+"null";;" - - Ağırlık itibariyle %0,25'den az karbon içerenler: ";;
+"null";"7217.30.41.00.00";" - - - Bakırla kaplanmış olanlar";"-";30
+"null";"7217.30.49.00.00";" - - - Diğerleri";"-";30
+"null";;" - - Ağırlık itibariyle %0,25 veya daha fazla fakat %0,6'dan az karbon";;
+"null";;"     içerenler: ";;
+"null";"7217.30.50.00.11";" - - - Enine kesitinin en geniş yeri 0,8 mm.den az olanların bakırla kaplanmış";;
+"null";;"        olanları";"-";30
+"null";"7217.30.50.00.12";" - - - Enine kesitinin en geniş yeri 0,8 mm veya 1,5 mm. (1,5 dahil)ye kadar ";;
+"null";;"        olanların bakırla kaplanmış olanları";"-";30
+"null";"7217.30.50.00.13";" - - - Enine kesitinin en geniş yeri 1,5-6 mm (6 dahil)ye kadar olanların ";;
+"null";;"        bakırla kaplanmış olanları";"-";30
+"null";"7217.30.50.00.14";" - - - Enine kesitinin en geniş yeri 6 mm.den fazla olanların bakırla kaplanmış";;
+"null";;"        olanları";"-";30
+"null";"7217.30.50.00.15";" - - - Enine kesitinin en geniş yeri 0,8 mm.den az olanların diğer adi metal-";;
+"null";;"        lerle kaplanmış olanları";"-";30
+"null";"7217.30.50.00.16";" - - - Enine kesitinin en geniş yeri 0,8 mm. veya 1,5 mm. (1,5 dahil) ye";;
+"null";;"        kadar olanların diğer adi metallerle kaplanmış olanları ";"-";30
+"null";"7217.30.50.00.17";" - - - Enine kesitinin en geniş yeri 1,5-6 mm (6 dahil)ye kadar olanların diğer ";;
+"null";;"        adi metallerle kaplanmış olanları";"-";30
+"null";"7217.30.50.00.18";" - - - Enine kesitinin en geniş yeri 6 mm.den fazla olanların diğer adi metal-";;
+"null";;"        lerle kaplanmış olanları";"-";30
+"null";"7217.30.90.00.00";" - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler:";"-";30
+"null";"7217.90";" - Diğerleri:";;
+"null";;" - - Ağırlık itibariyle %0,25'den az karbon içerenler: ";;
+"null";"7217.90.20.00.11";" - - - Plastik kaplı olanlar ";"-";30
+"null";"7217.90.20.00.19";" - - - Diğerleri";"-";30
+"null";" ";" - - Ağırlık itibariyle %0,25 veya daha fazla fakat %0,6'dan az karbon içerenler  ;";;
+"null";"7217.90.50.00.11";" - - - Enine kesitinin en geniş yeri 0,8 mm.'den az olanların plastikle kap-";;
+"null";;"        lanmış olanları";"-";30
+"null";"7217.90.50.00.12";" - - - Enine kesitinin en geniş yeri 0,8 mm. veya 1,5 mm. (1,5 dahil) ye ka-";;
+"null";" ";"       dar olanların plastikle kaplanmış olanları";"-";30
+"null";"7217.90.50.00.13";" - - - Enine kesitinin en geniş yeri 1,5 - 6 mm. (6 dahil) ye kadar olanların";;
+"null";" ";"        plastikle kaplanmış olanları";"-";30
+"null";"7217.90.50.00.14";" - - - Enine kesitinin en geniş yeri 6 mm. den fazla olanların plastikle";;
+"null";" ";"        kaplanmış olanları";"-";30
+"null";"7217.90.50.00.15";" - - - Enine kesitinin en geniş yeri 0,8 mm.'den az olanların diğer maddeler-";;
+"null";;"        le kaplanmış olanları";"-";30
+"null";"7217.90.50.00.16";" - - - Enine kesitinin en geniş yeri 0,8 mm. veya 1,5 mm. (1,5 dahil) ye";;
+"null";" ";"        kadar olanların diğer maddelerle kaplanmış olanları";"-";30
+"null";"7217.90.50.00.17";" - - - Enine kesitinin en geniş yeri 1,5-6 mm. (6 dahil)ye kadar olanların";;
+"null";" ";"        diğer maddelerle kaplanmış olanları";"-";30
+"null";"7217.90.50.00.18";" - - - Enine kesitinin en geniş yeri 6 mm. den fazla olanların diğer madde-";;
+"null";" ";"        lerle kaplanmış olanları";"-";30
+"null";"7217.90.90.00.00";" - - Ağırlık itibariyle %0,6 veya daha fazla karbon içerenler";"-";30
+"null";;;;
+"null";;"III.PASLANMAZ ÇELİKLER";;
+"null";;;;
+"null";"72.18";"Külçe veya diğer ilk şekillerde paslanmaz çeIik; paslanmaz çelikten";;
+"null";;"yarı mamuller:";;
+"null";"7218.10.00.00.00";" - Külçe veya diğer ilk şekillerde";"-";30
+"null";" ";" - Diğerleri:";;
+"null";"7218.91";" - - Enine kesiti dikdörtgen (kare hariç) şeklinde olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";;
+"null";"7218.91.10.00.11";" - - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş";"-";30
+"null";"7218.91.10.00.12";" - - - - Dövülmüş";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";;" "
+"null";"7218.91.80.00.11";" - - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş";"-";30
+"null";"7218.91.80.00.12";" - - - - Dövülmüş";"-";30
+"null";"7218.99";" - - Diğerleri:";;
+"null";;" - - - Enine kesiti kare şeklinde olanlar:";;
+"null";"7218.99.11.00.00";" - - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş ";"-";30
+"null";"7218.99.19.00.00";" - - - - Dövülmüş";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7218.99.20.00.00";" - - - - Haddelenmiş veya sürekli döküm suretiyle elde edilmiş ";"-";30
+"null";"7218.99.80.00.00";" - - - - Dövülmüş";"-";30
+"null";;;;
+"null";"72.19";"Paslanmaz çelikten yassı hadde mamulleri (genişliği 600 mm. veya";;
+"null";;"fazla olanlar :";;
+"null";;" - Sadece sıcak haddelenmiş (rulo halinde):";;
+"null";"7219.11";" - - Kalınlıkları 10 mm. yi geçenler: ";;
+"null";"7219.11.00.00.11";" - - - Sac taslağı";"-";30
+"null";"7219.11.00.00.19";" - - - Diğerleri";"-";30
+"null";"7219.12";" - - Kalınlıkları 4, 75 mm. veya daha fazla fakat 10 mm. yi geçme-";;
+"null";;"     yenler:";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";;
+"null";"7219.12.10.00.11";" - - - - Sac taslağı";"-";30
+"null";"7219.12.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";;
+"null";"7219.12.90.00.11";" - - - - Sac taslağı";"-";30
+"null";"7219.12.90.00.19";" - - - - Diğerleri";"-";30
+"null";"7219.13";" - - Kalınlıkları 3 mm. veya daha fazla fakat 4, 75 mm. den az olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";;
+"null";"7219.13.10.00.11";" - - - - Sac taslağı";"-";30
+"null";"7219.13.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";;
+"null";"7219.13.90.00.11";" - - - - Sac taslağı";"-";30
+"null";"7219.13.90.00.19";" - - - - Diğerleri";"-";30
+"null";"7219.14";" - - Kalınlıkları 3 mm. den az olanlar: ";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";;
+"null";"7219.14.10.00.11";" - - - - Sac taslağı";"-";30
+"null";"7219.14.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";;
+"null";"7219.14.90.00.11";" - - - - Sac taslağı";"-";30
+"null";"7219.14.90.00.19";" - - - - Diğerleri";"-";30
+"null";;" - Sadece sıcak haddelenmiş (rulo halinde olmayanlar): ";;
+"null";"7219.21";" - - Kalınlıkları 10 mm. yi geçenler: ";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";;
+"null";"7219.21.10.00.11";" - - - - Saclar";"-";30
+"null";"7219.21.10.00.12";" - - - - Geniş levhalar";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";;
+"null";"7219.21.90.00.11";" - - - - Saclar";"-";30
+"null";"7219.21.90.00.12";" - - - - Geniş levhalar";"-";30
+"null";"7219.22";" - - Kalınlıkları 4,75 mm. veya daha fazla fakat 10 mm. yi geçmeyen-";;
+"null";;"     ler:";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";;
+"null";"7219.22.10.00.11";" - - - - Saclar";"-";30
+"null";"7219.22.10.00.12";" - - - - Geniş levhalar";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";;
+"null";"7219.22.90.00.11";" - - - - Saclar";"-";30
+"null";"7219.22.90.00.12";" - - - - Geniş levhalar";"-";30
+"null";"7219.23";" - - Kalınlığı 3 mm. veya daha fazla fakat 4,75 mm. den az ";;
+"null";;"     olanlar :";;
+"null";"7219.23.00.00.11";" - - - Saclar";"-";30
+"null";"7219.23.00.00.12";" - - - Geniş levhalar";"-";30
+"null";"7219.24";" - - Kalınlığı 3 mm. den az olanlar :";;
+"null";"7219.24.00.00.11";" - - - Saclar";"-";30
+"null";"7219.24.00.00.12";" - - - Geniş levhalar";"-";30
+"null";;" - Sadece soğuk haddelenmiş:";;
+"null";"7219.31.00.00.00";" - - Kalınlığı 4,75 mm. veya daha fazla olanlar:";"-";30
+"null";"7219.32";" - - Kalınlığı 3 mm. veya daha fazla fakat 4,75 mm. den az ";;
+"null";;"     olanlar:";;
+"null";"7219.32.10.00.00";" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";"-";30
+"null";"7219.32.90.00.00";" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";"-";30
+"null";"7219.33";" - - Kalınlığı 1 mm. yi geçen fakat 3 mm. den az olanlar:";;
+"null";"7219.33.10.00.00";" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";"-";30
+"null";"7219.33.90.00.00";" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";"-";30
+"null";"7219.34";" - - Kalınlığı 0,5 mm. veya daha fazla fakat 1 mm. yi";;
+"null";;"      geçmeyenler: ";;
+"null";"7219.34.10.00.00";" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";"-";30
+"null";"7219.34.90.00.00";" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";"-";30
+"null";"7219.35";" - - Kalınlığı 0,5 mm. den az olanlar: ";;
+"null";"7219.35.10.00.00";" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";"-";30
+"null";"7219.35.90.00.00";" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";"-";30
+"null";"7219.90";" - Diğerleri:";;
+"null";"7219.90.20.00.00";" - - Delinmiş (perfore edilmiş) olanlar";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7219.90.80.00.11";" - - - Sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) veya dikdörtgenden ";;
+"null";;"       (kare dahil) başka şekillerde basitçe kesilmiş olanlar";"-";30
+"null";"7219.90.80.00.19";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"72.20";"Paslanmaz çelikten yassı hadde mamulleri (genişliği 600 mm. den az";;
+"null";;"olanlar):";;
+"null";;" - Sadece sıcak haddelenmiş:";;
+"null";"7220.11";" - - Kalınlığı 4, 75 mm. veya daha fazla olanlar";;
+"null";"7220.11.00.00.11";" - - - Sac taslağı";"-";30
+"null";"7220.11.00.00.12";" - - - Saclar";"-";30
+"null";"7220.11.00.00.13";" - - - Şeritler";"-";30
+"null";"7220.12";" - - Kalınlığı 4, 75 mm. den az olanlar ";;
+"null";"7220.12.00.00.11";" - - - Sac taslağı";"-";30
+"null";"7220.12.00.00.12";" - - - Saclar";"-";30
+"null";"7220.12.00.00.13";" - - - Şeritler";"-";30
+"null";"7220.20";" - Sadece soğuk haddelenmiş:";;
+"null";;" - - Kalınlığı 3 mm. veya daha fazla olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";;
+"null";"7220.20.21.00.11";" - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7220.20.21.00.12";" - - - - Genişliği 500 mm.yi geçmeyenler";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";;
+"null";"7220.20.29.00.11";" - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7220.20.29.00.12";" - - - - Genişliği 500 mm.yi geçmeyenler";"-";30
+"null";;" - - Kalınlığı 0,35 mm. yi geçen fakat 3 mm. den az olanlar:";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";;
+"null";"7220.20.41.00.11";" - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7220.20.41.00.12";" - - - - Genişliği 500 mm.yi geçmeyenler";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";;
+"null";"7220.20.49.00.11";" - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7220.20.49.00.12";" - - - - Genişliği 500 mm.yi geçmeyenler";"-";30
+"null";;" - - Kalınlığı 0,35 mm. yi geçmeyenler:";;
+"null";;" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";;
+"null";"7220.20.81.00.11";" - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7220.20.81.00.12";" - - - - Genişliği 500 mm.yi geçmeyenler";"-";30
+"null";;" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";;
+"null";"7220.20.89.00.11";" - - - - Genişliği 500 mm.yi geçenler";"-";30
+"null";"7220.20.89.00.12";" - - - - Genişliği 500 mm.yi geçmeyenler";"-";30
+"null";"7220.90";" - Diğerleri:";;
+"null";;" - - Delinmiş (perfore edilmiş) olanlar";;
+"null";;" - - - Genişliği 500 mm. yi geçenler:";;
+"null";"7220.90.20.00.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) ";"-";30
+"null";"7220.90.20.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Genişliği 500 mm. yi geçmeyenler:";;
+"null";;" - - - - Sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) ";;
+"null";"7220.90.20.00.21";" - - - - - Sıcak haddelenmiş sadece plakaj yapılmış ";"-";30
+"null";"7220.90.20.00.29";" - - - - - Diğerleri";"-";30
+"null";"7220.90.20.00.39";" - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri";;
+"null";;" - - - Genişliği 500 mm. yi geçenler:";;
+"null";"7220.90.80.00.11";" - - - - Sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) ";"-";30
+"null";"7220.90.80.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Genişliği 500 mm. yi geçmeyenler:";;
+"null";;" - - - - Sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) ";;
+"null";"7220.90.80.00.21";" - - - - - Sıcak haddelenmiş sadece plakaj yapılmış ";"-";30
+"null";"7220.90.80.00.29";" - - - - - Diğerleri";"-";30
+"null";"7220.90.80.00.39";" - - - - Diğerleri";"-";30
+"null";"7221.00";"Paslanmaz çelikten filmaşin (sıcak haddelenmiş, kangal";;
+"null";;"halinde) : ";;
+"null";"7221.00.10.00.00";" - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";"-";30
+"null";"7221.00.90.00.00";" - Ağırlık itibariyle % 2,5' dan az nikel içerenler ";"-";30
+"null";;;;
+"null";"72.22";"Paslanmaz çelikten çubuk ve profiller:";;
+"null";" ";" - Sadece sıcak haddelenmiş ve çekilmiş çubuklar:";;
+"null";"7222.11";" - - Enine kesiti daire şeklinde olanlar:";;
+"null";;" - - - Çapı 80 mm. veya daha fazla olanlar:";;
+"null";"7222.11.11.00.00";" - - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";"-";30
+"null";"7222.11.19.00.00";" - - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";"-";30
+"null";;" - - - Çapı 80 mm.den az olanlar :";;
+"null";"7222.11.81.00.00";" - - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler ";"-";30
+"null";"7222.11.89.00.00";" - - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler ";"-";30
+"null";"7222.19";" - - Diğerleri:";;
+"null";"7222.19.10.00.00";" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";"-";30
+"null";"7222.19.90.00.00";" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";"-";30
+"null";"7222.20";" - Sadece soğuk olarak şekil verilmiş veya işlenmiş çubuklar:";;
+"null";;" - - Enine kesiti daire şeklinde olanlar:";;
+"null";;" - - - Çapı 80 mm. veya daha fazla olanlar:";;
+"null";"7222.20.11.00.00";" - - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";"-";30
+"null";"7222.20.19.00.00";" - - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";"-";30
+"null";;" - - - Çapı 25 mm. veya daha fazla fakat 80 mm.den az olanlar:";;
+"null";"7222.20.21.00.00";" - - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";"-";30
+"null";"7222.20.29.00.00";" - - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";"-";30
+"null";;" - - - Çapı 25 mm.den az olanlar:";;
+"null";"7222.20.31.00.00";" - - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";"-";30
+"null";"7222.20.39.00.00";" - - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7222.20.81.00.00";" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";"-";30
+"null";"7222.20.89.00.00";" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";"-";30
+"null";"7222.30";" - Diğer çubuklar:";;
+"null";;" - - Dövülmüş";;
+"null";"7222.30.51.00.00";" - - - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler";"-";30
+"null";"7222.30.91.00.00";" - - - Ağırlık itibariyle % 2,5'dan az nikel içerenler";"-";30
+"null";;" - - Diğerleri";;
+"null";"7222.30.97.00.11";" - - - Sıcak haddelenmiş, sıcak çekilmiş, sadece plakaj ameliyisine tabi tutulmuş";"-";30
+"null";"7222.30.97.00.19";" - - - Diğerleri";"-";30
+"null";"7222.40";" - Profiller:";;
+"null";"7222.40.10.00.00";" - - Sadece sıcak haddelenmiş veya çekilmiş";"-";30
+"null";"7222.40.50.00.00";" - - Sadece soğuk olarak şekil verilmiş veya bitirilmiş";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7222.40.90.00.11";" - - - Sıcak haddelenmiş, sıcak çekilmiş, sadece plakaj ameliyesine tabi tutulmuş";"-";30
+"null";"7222.40.90.00.19";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"7223.00";"Paslanmaz çelikten teller:";;
+"null";;" - Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler:";;
+"null";"7223.00.11.00.00";" - - Ağırlık itibariyle %28 veya daha fazla,fakat %31'den fazla olmayan nikel";;
+"null";;"      ve %20 veya daha fazla,fakat %22'den fazla olmayan krom içerenler";"-";30
+"null";"7223.00.19.00.00";" - - Diğerleri";"-";30
+"null";;" - Ağırlık itibariyle % 2,5'dan az nikel içerenler:";;
+"null";"7223.00.91.00.00";" - - Ağırlık itibariyle % 13 veya daha fazla, fakat % 25'den fazla olmayan krom";;
+"null";;"      ve % 3,5 veya daha fazla, fakat % 6'dan fazla olmayan aliminyum içerenler";"-";30
+"null";"7223.00.99.00.00";" - - Diğerleri";"-";30
+"null";;;;
+"null";;"IV.DİĞER ALAŞIMLI ÇELİKLER; ALAŞIMLI VEYA ALAŞIMSIZ ÇELİK-";;
+"null";;"LERDEN SONDAJ  İŞLERİNDE KULLANILAN İÇİ BOŞ ÇUBUKLAR";;
+"null";;;;
+"null";"72.24";"Külçe veya diğer ilk şekillerde diğer alaşımlı çelikler; diğer";;
+"null";;"alaşımlı çelikten yarı mamuller:";;
+"null";;" - Külçe veya diğer ilk şekillerde ";;
+"null";"7224.10.10.00.00";" - - Takım çeliğinden olanlar";"-";30
+"null";"7224.10.90.00.00";" - - Diğerleri";"-";30
+"null";"7224.90";" - Diğerleri:";;
+"null";;" - - Takım çeliğinden olanlar:";;
+"null";"7224.90.02.00.11";" - - - Enine kesiti dikdörtgen (kare dahil) şeklinde olanlar veya sıcak haddelenmiş ";;
+"null";;"       veya sürekli döküm suretiyle elde edilmiş ve dövülmemiş olanlar";"-";30
+"null";"7224.90.02.00.19";" - - - Diğerleri";"-";30
+"null";;" - -  Diğerleri";;
+"null";;" - - - Enine kesiti dikdörtgen (kare dahil) şeklinde olanlar:";;
+"null";;" - - - - Sıcak haddelenmiş veya sürekli döküm suretiyle elde  edilmiş:";;
+"null";;" - - - - - Genişliği kalınlığının iki katından az olanlar:";;
+"null";"7224.90.03.00.00";" - - - - - -Yüksek hız çeliğinden olanlar ";"-";30
+"null";"7224.90.05.00.00";" - - - - - - Ağırlık itibariyle % 0,7 veya daha az karbon ve%0,5 veya daha fazla ";;
+"null";;"             fakat % 1,2 veya daha az manganez ve %0,6 veya daha fazla";;
+"null";;"             fakat %2,3 veya daha az silisyum içerenler;ağırlık itibariyle";;
+"null";;"             % 0,0008 veya daha fazla bor ile bu fasılın 1 (f) notunda belirtilen ";;
+"null";;"             minimum miktarlardan az oranda herhangi bir elementi içerenler ";"-";30
+"null";"7224.90.07.00.00";" - - - - - - Diğerleri ";"-";30
+"null";"7224.90.14.00.00";" - - - - - Diğerleri ";"-";30
+"null";"7224.90.18.00.00";" - - - - Dövülmüş";"-";30
+"null";;" - - - Diğerleri:";;
+"null";;" - - - - Sıcak haddelenmiş veya sürekli döküm suretiyle elde edilmiş:";;
+"null";"7224.90.31.00.00";" - - - - - Ağırlık itibariyle en az % 0,9  en fazla 1,15 karbon,en az % 0,5 en";;
+"null";;"          fazla %2 krom ve eğer varsa, en fazla %0,5 molibden içerenler ";"-";30
+"null";"7224.90.38.00.00";" - - - - - Diğerleri ";"-";30
+"null";"7224.90.90.00.00";" - - - - Dövülmüş";"-";30
+"null";;;;
+"null";"72.25";"Diğer alaşımlı çelikten yassı hadde mamulleri (genişliği 600 mm.veya";;
+"null";;"daha fazla):";;
+"null";" ";" - Silisyumlu manyetik çeliklerden: ";;
+"null";"7225.11.00.00.00";" - - Taneleri yönlendirilmiş ";"-";30
+"null";"7225.19";" - - Diğerleri";;
+"null";;" - - - Sıcak çekilmiş olanlar ";;
+"null";"7225.19.10.00.11";" - - - - Vat kayıbı itibariyle 0,75 vat ve daha az vat kayıbı olanlar";"-";30
+"null";"7225.19.10.00.19";" - - - - Diğerleri";"-";30
+"null";"7225.19.90.00.00";" - - - Soğuk çekilmiş olanlar ";"-";30
+"null";"7225.30";" - Diğerleri (sadece sıcak haddelenmiş) (rulo halinde) ";;
+"null";"7225.30.10.00.00";" - - Takım çeliğinden olanlar";"-";30
+"null";;" - - Yüksek hız çeliğinden:";;
+"null";"7225.30.30.00.11";" - - - Sadece haddelenmiş; sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) veya ";;
+"null";;"      dikdörtgenden (kare dahil) başka şekillerde basitçe kesilmiş ";"-";30
+"null";"7225.30.30.00.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7225.30.90.00.11";" - - - Asitlenmiş olanlar";"-";30
+"null";"7225.30.90.00.19";" - - - Diğerleri";"-";30
+"null";"7225.40";" - Diğerleri (sadece sıcak haddelenmiş) (rulo halinde olmayanlar):";;
+"null";"7225.40.12.00.00";" - - Takım çeliğinden olanlar";"-";30
+"null";;" - - Yüksek hız çeliğinden:";;
+"null";"7225.40.15.00.11";" - - - Sadece haddelenmiş; sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) veya ";;
+"null";;"      dikdörtgenden (kare dahil) başka şekillerde basitçe kesilmiş ";"-";30
+"null";"7225.40.15.00.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7225.40.40.00.00";" - - - Kalınlığı 10 mm. yi geçenler";"-";30
+"null";"7225.40.60.00.00";" - - - Kalınlığı 4,75 mm. veya daha fazla fakat 10 mm. yi geçmeyenler";"-";30
+"null";"7225.40.90.00.00";" - - - Kalınlığı 4,75 mm. den az olanlar";"-";30
+"null";"7225.50";" - Diğerleri (sadece soğuk haddelenmiş): ";;
+"null";;" - - Yüksek hız çeliğinden:";;
+"null";;" - - - Kalınlığı 3mm. veya daha fazla olanlar:";;
+"null";"7225.50.20.00.21";" - - - - Sadece haddelenmiş; sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) veya ";;
+"null";;"      dikdörtgenden (kare dahil) başka şekillerde basitçe kesilmiş ";"-";30
+"null";"7225.50.20.00.29";" - - - - Diğerleri";"-";30
+"null";;" - - - Kalınlığı 3mm. den az olanlar:";;
+"null";"7225.50.20.00.31";" - - - - Sadece haddelenmiş; sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) veya ";;
+"null";;"      dikdörtgenden (kare dahil) başka şekillerde basitçe kesilmiş ";"-";30
+"null";"7225.50.20.00.39";" - - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7225.50.80.00.11";" - - - Kalınlığı 3mm. veya daha fazla olanlar";"-";30
+"null";"7225.50.80.00.12";" - - - Kalınlığı 3mm. den az olanlar";"-";30
+"null";" ";" - Diğerleri:";;
+"null";"7225.91";" - - Elektrolitik olarak çinko ile kaplanmış olanlar:";;
+"null";"7225.91.00.00.10";" - - - Sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) veya dikdörtgenden ";;
+"null";;"        (kare dahil) başka şekillerde basitçe kesilmiş ";"-";30
+"null";"7225.91.00.00.90";" - - - Diğerleri";"-";30
+"null";"7225.92";" - - Başka bir usulle çinko ile kaplanmış olanlar:";;
+"null";"7225.92.00.00.10";" - - - Sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) veya dikdörtgenden ";;
+"null";;"        (kare dahil) başka şekillerde basitçe kesilmiş";"-";30
+"null";"7225.92.00.00.90";" - - - Diğerleri";"-";30
+"null";"7225.99";" - - Diğerleri:";;
+"null";"7225.99.00.00.10";" - - - Sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil) veya dikdörtgenden ";;
+"null";;"        (kare dahil) başka şekillerde basitçe kesilmiş ";"-";30
+"null";"7225.99.00.00.90";" - - - Diğerleri";"-";30
+"null";;;;
+"null";"72.26";"Diğer alaşımlı çelikten yassı hadde mamulleri (genişliği 600 mm. ";;
+"null";;"den az olanlar):";;
+"null";" ";" - Silisyumlu manyetik çeliklerden: ";;
+"null";"7226.11";" - - Taneleri yönlendirilmiş:";;
+"null";"7226.11.00.00.10";" - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7226.11.00.00.90";" - - - Genişliği 500 mm. yi geçmeyenler";"-";30
+"null";"7226.19";" - - Diğerleri:";;
+"null";;" - - - Sadece sıcak haddelenmiş olanlar ";;
+"null";"7226.19.10.00.11";" - - - - Vat kayıbı itibariyle 0,75 vat ve daha az vat kayıbı olanlar";"-";30
+"null";"7226.19.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7226.19.80.00.11";" - - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7226.19.80.00.12";" - - - - Genişliği 500 mm. yi geçmeyenler";"-";30
+"null";"7226.20";" - Yüksek hız çeliğinden:";;
+"null";;" - - Sadece sıcak haddelenmiş; sıcak haddelenmiş, sadece plakaj ameliye-";;
+"null";;"      sine tabi tutulmuş olup genişliği  500 mm.yi geçmeyenler; sadece soğuk";;
+"null";;"      haddelenmiş veya yüzey işçiliğine tabi tutulmuş (plakaj dahil) olup genişliği ";;
+"null";;"       500 mm. yi geçenler ";;
+"null";"7226.20.00.00.11";" - - - Sadece sıcak haddelenmiş";"-";30
+"null";"7226.20.00.00.12";" - - - Sıcak haddelenmiş, sadece plakaj ameliyesine tabi tutulmuş olup, ge-";;
+"null";;"        nişliği 500 mm. yi geçmeyenler";"-";30
+"null";"7226.20.00.00.13";" - - -  Sadece soğuk haddelenmiş veya sadece yüzey işçiliğine tabi tutulmuş ";;
+"null";;"         (plakaj dahil) olup genişliği 500 mm. yi geçenler";"-";30
+"null";"7226.20.00.00.21";" - - Diğerleri";"-";30
+"null";;" - Diğerleri:";;
+"null";"7226.91";" - - Sadece sıcak haddelenmiş:";;
+"null";"7226.91.20.00.00";" - - - Takım çeliğinden olanlar";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7226.91.91.00.00";" - - - - Kalınlığı 4,75 mm. veya daha fazla olanlar";"-";30
+"null";"7226.91.99.00.00";" - - - - Kalınlığı 4,75 mm.'den az olanlar";"-";30
+"null";"7226.92";" - - Sadece soğuk haddelenmiş:";;
+"null";"7226.92.00.00.11";" - - - Genişliği 500 mm.yi geçenler ";"-";30
+"null";"7226.92.00.00.12";" - - - Genişliği 500 mm.yi geçmeyenler ";"-";30
+"null";"7226.99";" - - Diğerleri:";;
+"null";;" - - - Elektrolitik olarak çinko ile kaplanmış olanlar:";;
+"null";"7226.99.10.00.11";" - - - - Sıcak haddelenmiş, sadece plakaj ameliyesine tabi tutulmuş, genişliği  ";;
+"null";;"        500 mm.yi geçmeyenler; sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil), ";;
+"null";;"        genişliği  500 mm. yi geçenler";"-";30
+"null";"7226.99.10.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Başka surette çinko ile kaplanmış olanlar:";;
+"null";"7226.99.30.00.11";" - - - - Sıcak haddelenmiş, sadece plakaj ameliyesine tabi tutulmuş, genişliği  ";;
+"null";;"        500 mm.yi geçmeyenler; sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil), ";;
+"null";;"        genişliği 500 mm. yi geçenler";"-";30
+"null";"7226.99.30.00.19";" - - - - Diğerleri";"-";30
+"null";;" - - - Diğerleri:";;
+"null";"7226.99.70.00.11";" - - - - Sıcak haddelenmiş, sadece plakaj ameliyesine tabi tutulmuş, genişliği  ";;
+"null";;"        500 mm.yi geçmeyenler; sadece yüzey işçiliğine tabi tutulmuş (plakaj dahil), genişliği ";;
+"null";;"        500 mm. yi geçenler";"-";30
+"null";"7226.99.70.00.19";" - - - - Diğerleri";"-";30
+"null";;;;
+"null";"72.27";"Diğer alaşımlı çelikten filmaşin (sıcak haddelenmiş, kangal halinde):";;
+"null";"7227.10.00.00.00";" - Yüksek hız çeliğinden";"-";30
+"null";"7227.20.00.00.00";" - Siliko manganez çeliğinden ";"-";30
+"null";"7227.90";" - Diğerleri:";;
+"null";"7227.90.10.00.00";" - - Ağırlık itibariyle %0,0008 veya daha fazla bor ile bu fasılın 1 (f)";;
+"null";;"      notunda belirtilen minimum miktarlardan az oranda herhangi bir";;
+"null";;"      elementi içerenler ";"-";30
+"null";"7227.90.50.00.00";" - - Ağırlık itibariyle en az % 0,9  en fazla %1,15 karbon, en az % 0,5, en";;
+"null";;"      fazla % 2 krom ve eğer varsa, en fazla %0,5 molibden içerenler ";"-";30
+"null";"7227.90.95.00.00";" - - Diğerleri ";"-";30
+"null";;;;
+"null";"72.28";"Diğer alaşımlı çelikten çubuk ve profiller; alaşımlı veya alaşımsız";;
+"null";;"çelikten sondaj işlerinde kullanılan içi boş çubuklar:";;
+"null";"7228.10";" - Yüksek hız çeliğinden çubuklar:";;
+"null";"7228.10.20.00.00";" - - Sadece sıcak haddelenmiş ve çekilmiş;  Sıcak haddelenmiş ve çekilmiş ";;
+"null";;"     (sadece plakaj yapılmış)";"-";30
+"null";"7228.10.50.00.00";" - - Dövülmüş";"-";30
+"null";"7228.10.90.00.00";" - - Diğerleri";"-";30
+"null";"7228.20";" - Siliko manganez çeliğinden çubuklar:";;
+"null";;" - - Enine kesiti dikdörtgen şeklinde  (kare hariç), dört yüzeyi de haddelenmiş:";;
+"null";"7228.20.10.00.11";" - - - Sadece sıcak haddelenmiş ve çekilmiş (sadece plakaj yapılmış)";"-";30
+"null";"7228.20.10.00.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7228.20.91.00.00";" - - - Sadece sıcak haddelenmiş ve çekilmiş; sıcak haddelenmiş";;
+"null";;"       ve çekilmiş (sadece plakaj yapılmış) ";"-";30
+"null";"7228.20.99.00.00";" - - - Diğerleri";"-";30
+"null";"7228.30";" - Diğer çubuklar (sadece sıcak haddelenmiş ve çekilmiş):";;
+"null";"7228.30.20.00.00";" - - Takım çeliğinden olanlar";"-";30
+"null";;" - - Ağırlık itibariyle en az % 0,9  en fazla %1,15 karbon,en az % 0,5 en";;
+"null";;"      fazla %2 krom ve eğer varsa, en fazla %0,5 molibden içerenler:";;
+"null";"7228.30.41.00.00";" - - - Çapı 80 mm veya daha fazla, enine kesiti daire şeklinde olanlar ";"-";30
+"null";"7228.30.49.00.00";" - - - Diğerleri ";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Enine kesiti daire şeklinde olanlar:";;
+"null";"7228.30.61.00.00";" - - - - Çapı 80 mm veya daha fazla olanlar";"-";30
+"null";"7228.30.69.00.00";" - - - - Çapı 80 mm .den az olanlar";"-";30
+"null";"7228.30.70.00.00";" - - - Enine kesiti dikdörtgen şeklinde olanlar (kare hariç), dört yüzeyi de";;
+"null";;"        sıcak haddelenmiş olanlar ";"-";30
+"null";"7228.30.89.00.00";" - - - Diğerleri ";"-";30
+"null";"7228.40";" - Diğer çubuklar (sadece dövülmüş):";;
+"null";"7228.40.10.00.00";" - - Takım çeliğinden olanlar";"-";30
+"null";"7228.40.90.00.00";" - - Diğerleri";"-";30
+"null";"7228.50";" - Diğer çubuklar (sadece soğuk olarak şekil verilmiş ve işlenmiş):";;
+"null";"7228.50.20.00.00";" - - Takım çeliğinden olanlar";"-";30
+"null";"7228.50.40.00.00";" - - Ağırlık itibariyle en az % 0,9  en fazla %1,15 karbon,en az % 0,5 en";;
+"null";;"      fazla % 2 krom ve eğer varsa, en fazla %0,5 molibden içerenler";"-";30
+"null";;" - - Diğerleri:";;
+"null";;" - - - Enine kesiti daire şeklinde olanlar:";;
+"null";"7228.50.61.00.00";" - - - - Çapı 80 mm veya daha fazla olanlar";"-";30
+"null";;" - - - - Çapı 80 mm .den az olanlar:";;
+"null";"7228.50.69.00.11";" - - - - - Çapı 10 mm. veya daha az olanlar";"-";30
+"null";"7228.50.69.00.19";" - - - - - Diğerleri";"-";30
+"null";"7228.50.80.00.00";" - - - Diğerleri";"-";30
+"null";"7228.60";" - Diğer çubuklar:";;
+"null";;" - - Takım çeliğinden olanlar:";;
+"null";"7228.60.20.00.11";" - - - Sıcak haddelenmiş ve çekilmiş (sadece plakaj yapılmış)";"-";30
+"null";"7228.60.20.00.19";" - - - Diğerleri";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7228.60.80.00.11";" - - - Sıcak haddelenmiş ve çekilmiş (sadece plakaj yapılmış)";"-";30
+"null";"7228.60.80.00.19";" - - - Diğerleri";"-";30
+"null";"7228.70";" - Profiller:";;
+"null";"7228.70.10.00.00";" - - Sadece sıcak haddelenmiş ve çekilmiş ";"-";30
+"null";;" - - Diğerleri:";;
+"null";"7228.70.90.00.11";" - - - Sıcak haddelenmiş ve çekilmiş (sadece plakaj yapılmış)";"-";30
+"null";"7228.70.90.00.19";" - - - Diğerleri";"-";30
+"null";"7228.80";" - Sondaj işlerinde kullanılan içi boş çubuklar: ";;
+"null";"7228.80.00.00.10";" - - Alaşımlı çelikten ";"-";30
+"null";"7228.80.00.00.90";" - - Alaşımsız çelikten";"-";30
+"null";;;;
+"null";"72.29";"Diğer alaşımlı çelikten teller:";;
+"null";"7229.20";" - Siliko manganez çeliğinden";;
+"null";"7229.20.00.00.11";" - - Çıplak teller";"-";30
+"null";"7229.20.00.00.12";" - - Kaplanmış teller";"-";30
+"null";"7229.90";" - Diğerleri:";;
+"null";"7229.90.20.00.00";" - - Yüksek hız çeliğinden";"-";30
+"null";;" - - Ağırlık itibariyle en az % 0,9  en fazla %1,15 karbon,en az % 0,5 en";;
+"null";;"      fazla % 2 krom ve eğer varsa, en fazla %0,5 molibden içerenler";;
+"null";"7229.90.50.00.11";" - - - Çıplak teller";"-";30
+"null";"7229.90.50.00.12";" - - - Kaplanmış teller";"-";30
+"null";;" - - Diğerleri";;
+"null";"7229.90.90.00.11";" - - - Çıplak teller";"-";30
+"null";"7229.90.90.00.12";" - - - Kaplanmış teller";"-";30
