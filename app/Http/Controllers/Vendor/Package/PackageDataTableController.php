@@ -1,13 +1,13 @@
 <?php
 
-namespace App\Http\Controllers\Vendor\API;
+namespace App\Http\Controllers\Vendor\Package;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\DatatableRequest;
-use Illuminate\Http\Request;
 use App\Services\OrderPackageService;
+use Illuminate\Http\Request;
 
-class PackageController extends Controller
+class PackageDataTableController extends Controller
 {
     /**
      * @var service
@@ -20,16 +20,6 @@ class PackageController extends Controller
     }
 
     /**
-     * @return \Illuminate\Http\Response
-     */
-    public function index($type)
-    {
-        return response()->view(vendorTheme() . '.packages', [
-            'type' => $type
-        ]);
-    }
-
-    /**
      * Display a listing of the resource.
      *
      * dataTableJson
@@ -37,7 +27,7 @@ class PackageController extends Controller
      * @param DatatableRequest $request
      * @return Response
      */
-    public function indexAjax(DatatableRequest $request)
+    public function index(DatatableRequest $request)
     {
 
         try {
@@ -88,41 +78,5 @@ class PackageController extends Controller
                 'debug' => __CLASS__,
             ];
         }
-    }
-
-    /**
-     * Store a newly created resource in storage.
-     *
-     * @param \Illuminate\Http\Request $request
-     * @return \Illuminate\Http\Response
-     */
-    public function store(Request $request)
-    {
-
-
-    }
-
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param \Illuminate\Http\Request $request
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, $id)
-    {
-        $request->request->add([
-            'id' => $id
-        ]);
-        return $this->store($request);
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy($id)
-    {
-        //
     }
 }

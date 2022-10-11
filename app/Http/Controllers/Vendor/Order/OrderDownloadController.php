@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Vendor;
+namespace App\Http\Controllers\Vendor\Order;
 
 use App\Http\Controllers\Controller;
 use App\Libraries\OrderEntegrationServices\EntegrationService;

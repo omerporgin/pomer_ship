@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Vendor;
+namespace App\Http\Controllers\Vendor\Order;
 
 use App\Http\Controllers\Controller;
 use App\Libraries\Documents\EtgbDocument;
@@ -27,7 +27,7 @@ class DocumentController extends Controller
         try {
             $order = service('Order', $request->orderId);
             if(!$order->hasItem()){
-                Throw InvalidArgumentException::class;
+                Throw new InvalidArgumentException('Order not found : '.$request->orderId);
             }
 
             new EtgbDocument($order);

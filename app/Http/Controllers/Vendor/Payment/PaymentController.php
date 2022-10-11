@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Vendor;
+namespace App\Http\Controllers\Vendor\Payment;
 
 use App\Http\Controllers\Controller;
 use App\Libraries\Payments\Payment_1\Services\CheckBinNumber;
@@ -13,6 +13,10 @@ use Illuminate\Support\Facades\Auth;
 
 class PaymentController extends Controller
 {
+    /**
+     * @var PaymentAccountService
+     */
+    protected $service;
 
     /**
      *
