@@ -11,14 +11,14 @@
         </button>
     </td>
 
-    <td colspan="5">
+    <td colspan="10">
         <div class="form-row">
 
             <input type="hidden" name="package_id[]" value="{{ $packageID }}">
 
             <div class="col">
                 <input type="text" class="form-control form-control-sm"
-                       name="package_F[]"
+                       name="package_description[]"
                        placeholder="{{ _('Description') }}"
                        value="{{ $package->description }}">
             </div>

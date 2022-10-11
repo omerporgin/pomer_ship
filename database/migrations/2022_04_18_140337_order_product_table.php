@@ -41,6 +41,7 @@ return new class extends Migration {
             $table->unsignedDecimal('width', 11, 2)->nullable()->comment('');
             $table->unsignedDecimal('height', 11, 2)->nullable()->comment('');
             $table->unsignedDecimal('length', 11, 2)->nullable()->comment('');
+            $table->unsignedDecimal('weight', 11, 2)->nullable()->comment('');
             $table->unsignedDecimal('desi', 11, 2)->nullable()->comment('Desi can be decimal');
             $table->unsignedTinyInteger('sort')->default(0)->nullable();
 

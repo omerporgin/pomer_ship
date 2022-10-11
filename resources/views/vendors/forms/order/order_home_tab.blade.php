@@ -8,6 +8,21 @@
         @endif
         {{ $item->order_id }}
     </div>
+    <div class="col-md-2 text-right">{{ _('Currency') }} :</div>
+    <div class="col-md-4">
+
+        <select class="form-control" name="currency">
+            <option value="" data-sign="?">
+                {{ _('Select') }}
+            </option>
+            @foreach($currencies as $currency)
+                <option value="{{ $currency->id }}" data-sign="{{ $currency->symbol }}" @if( $item->currency==$currency->id) selected @endif>
+                    {{ $currency->currency }}  {{ $currency->symbol }}
+                </option>
+            @endforeach
+        </select>
+
+    </div>
     {{--
     <div class="col-md-2 text-right">{{ _('Status') }} :</div>
     <div class="col-md-4">

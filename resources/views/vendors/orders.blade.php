@@ -71,7 +71,6 @@
                         <th>{{ _('Taşıyıcı') }}</th>
                         <th>{{ _('Ülke') }}</th>
                         <th>{{ _('Paket Adedi') }}</th>
-                        <th>{{ _('Upload Invoice') }}</th>
                         <th>{{ _('Update') }}</th>
                         <th>{{ _('Delete') }}</th>
                     </tr>

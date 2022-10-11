@@ -45,8 +45,9 @@
 }
 
 .vendor-img-sm {
-    width: 50px;
+    width: auto;
     padding-right: 10px;
+    height: 20px;
 }
 
 /* Order table */

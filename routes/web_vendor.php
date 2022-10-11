@@ -29,6 +29,7 @@ use \App\Http\Controllers\Vendor\API\{
     NotificationController,
     MessageController,
 };
+use App\Http\Controllers\LocationController;
 
 Route::get('', [VendorPagesController::class, 'index'])->name('vendor');
 
@@ -36,7 +37,8 @@ Route::get('notifications', [NotificationsController::class, 'notifications'])->
 
 Route::get('messages', [MesagesController::class, 'messages'])->name('vendor_messages');
 
-Route::post('api_add_location', [App\Http\Controllers\LocationController::class, 'apiAddLocation'])->name('api_add_location');
+Route::post('api_add_city', [LocationController::class, 'apiAddCity'])->name('api.add_city');
+Route::post('api_add_state', [LocationController::class, 'apiAddState'])->name('api.add_state');
 
 Route::post('api_print_label', [ LabelController::class, 'print'])->name('api_print_label');
 

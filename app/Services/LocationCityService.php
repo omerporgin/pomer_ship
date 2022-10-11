@@ -2,13 +2,9 @@
 
 namespace App\Services;
 
-
 use App\Models\LocationCity as Item;
-use \App\Models\LocationCountry;
-use \App\Models\LocationState;
-use  Illuminate\Http\Request;
-use Illuminate\Support\Facades\Validator;
-use InvalidArgumentException;
+use App\Models\LocationCountry;
+use App\Models\LocationState;
 
 class LocationCityService extends abstractService
 {
@@ -159,61 +155,69 @@ class LocationCityService extends abstractService
     }
 
     /**
-     * @param Request $request
+     * @param object $request
+     * @return array[]
+     */
+    public function saveOrderCity(object $request): array
+    {
+        $state = service('LocationState', $request->state_id);
+        if (!$state->hasItem()) {
+            return [];
+        }
+
+        $newCity = Item::create([
+            'name' => $request->city_name,
+            'state_id' => $state->id,
+            'is_accepted' => 0,
+            'country_id' => $state->country_id,
+            'country_code' => $state->country_code,
+        ]);
+
+        return ['city' => [
+            'id' => $newCity->id,
+            'text' => $newCity->name,
+        ]];
+    }
+
+    /**
+     * @param object $request
      * @return array
      */
-    public function saveLocation(Request $request): array
+    public function saveOrderState(object $request): array
     {
-        $return = [];
-
-        $validator = Validator::make($request->All(), self::saveFormRules());
-
-        if ($validator->fails()) {
-            throw new InvalidArgumentException($validator->errors());
-        } else {
-
-            // Get country
-            $country = app()->make(LocationCountryService::class, [
-                'id' => $request->country_id
-            ])->get();
-            if (is_null($country->id)) {
-                throw new InvalidArgumentException(_('Country not found.'));
-            }
-
-            if (is_null($request->state_id)) {
-                // state ekle
-                $state = new \App\Models\LocationState;
-                $state->name = $request->state_name;
-                $state->is_accepted = 0;
-                $state->country_id = $country->id;
-                $state->country_code = $country->iso2;
-                $state->type = '';
-                $state->save();
-                $stateID = $state->id;
-
-                $return['state'] = [
-                    'id' => $stateID,
-                    'text' => $request->state_name,
-                ];
-
-            } else {
-                $stateID = $request->state_id;
-            }
-
-            // City ekle
-            $city = new \App\Models\LocationCity();
-            $city->name = $request->city_name;
-            $city->state_id = $stateID;
-            $city->is_accepted = 0;
-            $city->country_id = $country->id;
-            $city->country_code = $country->iso2;
-            $city->save();
-            $return['city'] = [
-                'id' => $city->id,
-                'text' => $city->name,
-            ];
-
+        $country = service('LocationCountry', $request->country_id);
+        if (!$country->hasItem()) {
+            return [];
         }
-        return $return;
+
+        $newState = LocationState::create([
+            'name' => $request->state_name,
+            'country_id' => $country->id,
+            'is_accepted' => 0,
+            'country_code' => $country->iso2,
+        ]);
+
+       if(is_null($newState)){
+           return [];
+       }
+
+        $newCity = Item::create([
+            'name' => $request->city_name,
+            'state_id' => $newState->id,
+            'is_accepted' => 0,
+            'country_id' => $country->id,
+            'country_code' => $country->iso2,
+        ]);
+
+        return [
+            'city' => [
+                'id' => $newCity->id,
+                'text' => $newCity->name,
+            ],
+            'state' => [
+                'id' => $newState->id,
+                'text' => $newState->name,
+            ]
+        ];
     }
 }

@@ -236,6 +236,7 @@ class OrderService extends abstractService
             $orderProduct->width = isset($data->product_width[$key]) ? $data->product_width[$key] : null;
             $orderProduct->height = isset($data->product_height[$key]) ? $data->product_height[$key] : null;
             $orderProduct->length = isset($data->product_length[$key]) ? $data->product_length[$key] : null;
+            $orderProduct->weight = isset($data->product_weight[$key]) ? $data->product_weight[$key] : null;
             $orderProduct->desi = isset($data->product_desi[$key]) ? $data->product_desi[$key] : null;
             $countProducts++;
 

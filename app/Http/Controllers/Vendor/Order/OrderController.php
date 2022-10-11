@@ -218,6 +218,9 @@ class OrderController extends Controller
             ]]
         ]);
 
+        $currencyService = service('Currency');
+        $currencies = $currencyService->getActiveItems();
+
         return response()->view(vendorTheme('forms.order'), [
             'productList' => $productList,
             'packageList' => $packageList,
@@ -238,6 +241,7 @@ class OrderController extends Controller
             'pdfFiles' => $pdfFileList,
             'stateList' => $list['list'],
             'dateList' => $dateList,
+            'currencies' => $currencies,
         ]);
     }
 

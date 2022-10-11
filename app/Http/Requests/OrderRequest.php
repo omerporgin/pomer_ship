@@ -84,7 +84,16 @@ class OrderRequest extends FormRequest
             'quantity' => 'array',
             'quantity.*' => 'required|integer',
             'gtip_code' => 'array',
-            'gtip_code.*' => 'required|string',
+            'gtip_code.*' => 'nullable|string',
+
+            'product_width' => 'array',
+            'product_width.*' => 'nullable|numeric|between:0,999999.99',
+            'product_height' => 'array',
+            'product_height.*' => 'nullable|numeric|between:0,999999.99',
+            'product_length' => 'array',
+            'product_length.*' => 'nullable|numeric|between:0,999999.99',
+            'product_weight' => 'array',
+            'product_weight.*' => 'nullable|numeric|between:0,999999.99',
 
             'package' => 'nullable', // stores new products package data
 

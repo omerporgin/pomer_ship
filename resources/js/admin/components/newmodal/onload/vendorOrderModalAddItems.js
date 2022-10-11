@@ -30,7 +30,7 @@ export class VendorOrderModalAddItems {
         $(document).off('click', ".add_package").on('click', ".add_package", function () {
 
             var packageDivContent = $("#template_div #package_div_content").html();
-            var thead = $("#form_order_table thead").html();
+            var thead = $(".form_order_table thead").html();
             var tfoot = $("#template_div #template_package").html();
 
             packageDivContent = packageDivContent.replace(/<\/thead>/g, thead + '</thead>');

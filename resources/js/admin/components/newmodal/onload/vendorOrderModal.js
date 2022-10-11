@@ -24,10 +24,8 @@ export class FormModalOnLoad {
         let location = new VendorOrderModalLocation('#modal_theme_primary');
         location.reset();
 
-
-            $(".full_search").removeClass("d-none");
-            $(".toggle_full_search").removeClass("d-none");
-
+        $(".full_search").removeClass("d-none");
+        $(".toggle_full_search").removeClass("d-none");
 
         new SelectPostCode();
 
@@ -43,6 +41,12 @@ export class FormModalOnLoad {
     events() {
 
         var self = this;
+
+        // Currency
+        $("select[name=currency]").change(function () {
+            $(".js_currency").text($(this).find(':selected').data('sign'));
+        });
+        $(".js_currency").text($("select[name=currency]").find(':selected').data('sign'));
 
         $(".number_packages").click(function () {
             $(".main_button").trigger('click');

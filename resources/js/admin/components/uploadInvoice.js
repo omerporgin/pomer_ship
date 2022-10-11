@@ -10,14 +10,6 @@ export class UploadInvoice {
 
         var self = this;
 
-        $(document).off('click', ".upload_invoice").on('click', ".upload_invoice", function () {
-
-        });
-
-        $(document).off('click', ".upload_invoice").on('click', ".upload_invoice", function () {
-
-        });
-
         $(document).off('change', ".custom-file-input").on('change', ".custom-file-input", function () {
             let fileInput = $(this);
 

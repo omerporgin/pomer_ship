@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\Admin\Location;
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\DatatableRequest;
 use App\Http\Requests\LocationCityRequest;
 use App\Services\LocationCityService;
 use Illuminate\Http\Request;

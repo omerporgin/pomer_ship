@@ -9,7 +9,8 @@ use App\Services\LocationCountryService;
 use App\Services\LocationStateService;
 use App\Services\LocationCityService;
 use  Illuminate\Http\Request;
-use Illuminate\Support\Facades\Http;
+use App\Http\Requests\OrderCityAddRequest;
+use App\Http\Requests\OrderStateAddRequest;
 
 class LocationController extends Controller
 {
@@ -149,10 +150,22 @@ class LocationController extends Controller
      * @param Request $request
      * @return void
      */
-    public function apiAddLocation(Request $request)
+    public function apiAddCity(OrderCityAddRequest $request)
     {
-        $service = app()->make(LocationCityService::class);
-        return response()->json($service->saveLocation($request));
+
+        $data = (object)$request->All();
+        return response()->json(service('LocationCity')->saveOrderCity($data));
+    }
+
+    /**
+     * @param Request $request
+     * @return void
+     */
+    public function apiAddState(OrderStateAddRequest $request)
+    {
+        $data = (object)$request->All();
+        return response()->json(service('LocationCity')->saveOrderState($data));
+
     }
 
 }

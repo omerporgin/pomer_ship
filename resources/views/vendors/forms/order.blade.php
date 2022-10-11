@@ -135,17 +135,21 @@
                             <div id="packages_container">
                                 <h5>{{ _('PACKAGES') }}</h5>
 
-                                @foreach($productList as $packageID=>$products)
-                                    <table class="table package" id="form_order_table">
+                                @foreach($productList as $packageID => $products)
+                                    <table class="table package form_order_table" id="form_order_table_{{ $packageID }}">
                                         <thead class="thead-dark">
                                         <tr>
                                             <th>{{ _('Move') }}</th>
                                             <th>{{ _('Type') }}</th>
-                                            <th>{{ _('Content') }}<sup>*</sup></th>
-                                            <th>{{ _('Quantity') }}<sup>*</sup></th>
-                                            <th>{{ _('Unit Price') }}<sup>*</sup></th>
+                                            <th class="w-25">{{ _('Content') }}<sup>*</sup></th>
+                                            <th>{{ _('Qnt') }}<sup>*</sup></th>
+                                            <th style="width:10%">{{ _('Unit Price') }}<sup>*</sup></th>
                                             <th>{{ _('SKU') }}</th>
                                             <th>{{ _('Gtip') }}</th>
+                                            <th>{{ _('Width') }}</th>
+                                            <th>{{ _('Height') }}</th>
+                                            <th>{{ _('Length') }}</th>
+                                            <th>{{ _('Weight') }}</th>
                                             <th>{{ _('Delete') }}</th>
                                         </tr>
                                         </thead>
@@ -185,7 +189,7 @@
                                                         <input type="text" value="{{ $product['unit_price'] }}"
                                                                class="form-control form-control-sm" name="unit_price[]">
                                                         <div class="input-group-append">
-                                                            <span class="input-group-text">TL</span>
+                                                            <span class="input-group-text js_currency"></span>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -210,6 +214,23 @@
                                                         </div>
                                                     </div>
                                                 </td>
+                                                <td>
+                                                    <input type="text" value="{{ $product['width'] }}"
+                                                           class="form-control form-control-sm" name="product_width[]">
+                                                </td>
+                                                <td>
+                                                    <input type="text" value="{{ $product['height'] }}"
+                                                           class="form-control form-control-sm" name="product_height[]">
+                                                </td>
+                                                <td>
+                                                    <input type="text" value="{{ $product['length'] }}"
+                                                           class="form-control form-control-sm" name="product_length[]">
+                                                </td>
+                                                <td>
+                                                    <input type="text" value="{{ $product['weight'] }}"
+                                                           class="form-control form-control-sm" name="product_weight[]">
+                                                </td>
+
                                                 <td class="text-center">
                                                     <button class="btn btn-danger btn-circle btn-sm delete_row"
                                                             type="button">
@@ -264,13 +285,12 @@
 
         <div class="modal-footer">
 
-
-                        <button class="btn btn-warning  btn-icon-split add_package" type="button">
-                            <span class="icon text-white-50">
-                               <i class="fas fa-box"></i>
-                            </span>
-                            <span class="text">{{ _('New Package') }}</span>
-                        </button>
+            <button class="btn btn-warning  btn-icon-split add_package" type="button">
+                <span class="icon text-white-50">
+                   <i class="fas fa-box"></i>
+                </span>
+                <span class="text">{{ _('New Package') }}</span>
+            </button>
 
             <button type="button" class="btn btn-primary" data-bs-dismiss="modal">{{ _('Close') }}</button>
             {{--

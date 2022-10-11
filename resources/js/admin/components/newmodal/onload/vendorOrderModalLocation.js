@@ -7,17 +7,21 @@ export class VendorOrderModalLocation {
 
 
     constructor(parentId) {
+
+        this.partialSearch = []
+
         /**
          * Select2 modal üzerinde düzgün çalışması için gerekli.
          *
          * @type {*|jQuery|HTMLElement}
          */
-        this.dropdownParent = $(parentId);
+        this.dropdownParent = $(parentId)
 
-        this.createPartialSearch();
+        this.createPartialSearch()
 
-        new orderAddLocation(this);
+        new orderAddLocation(this)
 
+        this.addInsertButtons()
     }
 
     /**
@@ -74,14 +78,15 @@ export class VendorOrderModalLocation {
 
         self.createPartialSelect2(city, state, null);
 
-
         country.on('select2:select', function (e) {
             state.empty();
             city.empty();
         });
+
         state.on('select2:select', function (e) {
             city.empty();
         });
+
         city.on('select2:select', function (e) {
         });
     }
@@ -101,7 +106,7 @@ export class VendorOrderModalLocation {
         var placeholder = item.data('placeholder');
         var url = item.data('url');
 
-        var partialSearch = item.select2({
+        let select2 = item.select2({
             placeholder: placeholder,
             dropdownParent: self.dropdownParent,
             minimumInputLength: 1, // only start searching when the user has input 3 or more characters
@@ -118,18 +123,16 @@ export class VendorOrderModalLocation {
                         targetVal = targetVal.id;
                     }
 
-                    var query = {
+                    return {
                         search: params.term,
                         type: 'public',
                         id: targetVal,
-                    }
-
-                    return query;
+                    };
                 },
                 processResults: function (data, params) {
                     var res = {
                         results: data.results
-                    };
+                    }
 
                     if (resetItem != null) {
                         resetItem.empty();
@@ -150,16 +153,30 @@ export class VendorOrderModalLocation {
         });
 
         // Add "Create new item" button
-        if (resetItem == null) {
-            partialSearch.on('select2:open', () => {
-                var ifNotExistSelector = ":not(:has(.select2-new-item))";
-                $(".select2-results" + ifNotExistSelector).append(`
-                    <small class="select2-new-item">
-                        <i class="fas fa-plus-circle"></i> <b>Create new item</b>
-                    </small>
-                `);
-            });
-        }
+        select2.on('select2:open', (e) => {
+
+            $('.select2-new-item').remove()
+
+            switch (item.attr('name')) {
+                case 'country_id':
+                    break
+                case 'state_id':
+                    $(".select2-results").append(`
+                        <small class="select2-new-item state">
+                            <i class="fas fa-plus-circle"></i> <b>Create new item</b>
+                        </small>`)
+                    break
+                case 'city_id':
+                    $(".select2-results").append(`
+                        <small class="select2-new-item city">
+                            <i class="fas fa-plus-circle"></i> <b>Create new item</b>
+                        </small>`)
+                    break
+            }
+        });
+
+        self.partialSearch.push(select2)
+
     }
 
 }
