@@ -32,6 +32,7 @@ class EntegrationDataRequest extends FormRequest
             'user_id' => 'nullable',
             'last_date' => 'required|date',
             'days' => 'required|integer|min:1',
+            'cargo_id' => 'nullable|integer',
             'statuses' => 'nullable|string',
             'max' => 'required|integer|max:100|min:1',
         ];

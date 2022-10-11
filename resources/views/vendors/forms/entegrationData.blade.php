@@ -79,22 +79,25 @@
 
                 <div class="form-group row">
                     <div class="col-md-2 text-right">{{ _('Statuses') }} :</div>
-                    <div class="col-md-4">
+                    <div class="col-md-2">
                         <input type="text" name="statuses" value="{{ $item?->statuses }}" class="form-control"/>
                         <small>{{ _('Saparate values wth comma.') }}</small>
                     </div>
+                    <div class="col-md-2 text-right">{{ _('Cargo Id') }} :</div>
+                    <div class="col-md-2">
+                        <input type="text" name="cargo_id" value="{{ $item?->cargo_id }}" class="form-control"/>
+                        <small>{{ _('Saparate values wth comma.') }}</small>
+                    </div>
                     <div class="col-md-2 text-right">{{ _('Max Orders') }} :</div>
-                    <div class="col-md-4">
+                    <div class="col-md-2">
                         <input type="text" name="max" value="{{ $item?->max }}" class="form-control"/>
                     </div>
                 </div>
 
             </div>
-        </div>
-
+        </div
 
         @csrf
-
 
         <div class="modal-footer">
             <button type="button" class="btn btn-primary " data-bs-dismiss="modal">{{ _('Close') }}</button>
