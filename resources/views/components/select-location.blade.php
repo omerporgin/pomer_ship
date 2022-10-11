@@ -1,37 +1,27 @@
-<input type="hidden" name="city_id" value="{{ $item->city_id }}">
-<input type="hidden" name="state_id" value="{{ $item->state_id }}">
-<input type="hidden" name="country_id" value="{{ $item->country_id }}">
-
 <div class="form-group row">
-    <div class="col-md-2 text-right full_search @if(isset($location)) d-none @endif">
-        {{ _('Select District') }} :
-    </div>
-    <div class="col-md-10 full_search @if(isset($location)) d-none @endif">
-        <select name="fake_city_id" class="select2"
-                data-placeholder="{{ _('Select city/district') }}"
-                data-url="{{ route('selectCity') }}"
-        ></select>
-    </div>
 
-    <div class="col-md-2 text-right partial_search">{{ _('Country > District') }} :</div>
+    <div class="col-md-2 text-right partial_search">{{ _('Location') }} :</div>
     <div class="col-md-3 partial_search">
-        <select name="fake_country_id" class="select2"
+        <select name="country_id" class="select2"
                 data-placeholder="{{ _('Select country') }}"
-                data-url="{{ route('selectSingleCountry') }}"
-        ></select>
+                data-url="{{ route('selectSingleCountry') }}">
+            <option value="{{ $item->country_id }}" selected>{{ $item->country_name }}</option>
+        </select>
     </div>
 
     <div class="col-md-3 partial_search">
-        <select name="fake_state_id" class="select2"
+        <select name="state_id" class="select2"
                 data-placeholder="{{ _('Select city') }}"
-                data-url="{{ route('selectSingleState') }}"
-        ></select>
+                data-url="{{ route('selectSingleState') }}">
+            <option value="{{ $item->state_id }}" selected>{{ $item->state_name }}</option>
+        </select>
     </div>
     <div class="col-md-4 partial_search">
-        <select name="fake_city_id" class="select2"
+        <select name="city_id" class="select2"
                 data-placeholder="{{ _('Select district') }}"
-                data-url="{{ route('selectSingleCity') }}"
-        ></select>
+                data-url="{{ route('selectSingleCity') }}">
+            <option value="{{ $item->city_id }}" selected>{{ $item->city_name }}</option>
+        </select>
     </div>
 
     <div class="col-12 text-right">

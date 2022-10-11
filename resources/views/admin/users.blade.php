@@ -29,8 +29,8 @@
                     <tr>
                         <th>{{ _('ID') }}</th>
                         <th>{{ _('Image') }}</th>
-                        <th>{{ _('Name') }}</th>
-                        <th>{{ _('Surname') }}</th>
+                        <th>{{ _('Full Name') }}</th>
+                        <th>{{ _('Company Name') }}</th>
                         <th>{{ _('Email') }}</th>
                         <th>{{ _('Permissions') }}</th>
                         <th>{{ _('User Type') }}</th>

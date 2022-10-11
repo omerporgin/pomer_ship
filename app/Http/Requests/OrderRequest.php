@@ -24,10 +24,9 @@ class OrderRequest extends FormRequest
      */
     public function rules()
     {
-
         $rules = [
             'id' => 'nullable|integer',
-            'status' => 'required|integer|max:255', // unsigned tinyint max
+            'status' => 'nullable|integer|max:255', // unsigned tinyint max
             'real_status' => 'nullable|integer|max:255', // unsigned tinyint max
             'vendor_id' => 'nullable|integer', // Required for admin, Nullable for user
             'entegration_id' => 'nullable|integer',
@@ -41,9 +40,9 @@ class OrderRequest extends FormRequest
             'invoice_no' => 'nullable|string',
 
             // Personal data
-            'firstname' => 'required|string',
-            'lastname' => 'required|string',
-            'phone' => 'nullable|string|max:100',
+            'full_name' => 'required|string',
+            'company_name' => 'nullable|string',
+            'phone' => 'required|string|max:100',
             'email' => 'nullable|string|max:100',
 
             // Shipment details
@@ -85,7 +84,7 @@ class OrderRequest extends FormRequest
             'quantity' => 'array',
             'quantity.*' => 'required|integer',
             'gtip_code' => 'array',
-            'gtip_code.*' => 'nullable|string',
+            'gtip_code.*' => 'required|string',
 
             'package' => 'nullable', // stores new products package data
 

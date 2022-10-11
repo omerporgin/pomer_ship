@@ -41,8 +41,8 @@ return new class extends Migration {
             $table->string('invoice_no', 50)->comment('Fatura numarası')->nullable();
 
             // Personal data
-            $table->string('firstname', 50)->comment('Alıcı Adı')->nullable();
-            $table->string('lastname', 50)->comment('Alıcı Soyad')->nullable();
+            $table->string('full_name', 255)->comment('Alıcı Adı Soyadı')->nullable();
+            $table->string('company_name', 255)->nullable();
             $table->string('phone', 100)->nullable();
             $table->string('email', 100)->nullable();
             $table->string('message', 500)->comment('Hediye mesajı')->nullable();

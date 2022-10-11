@@ -30,7 +30,7 @@ let DataTableOnLoad = function (formatObj, item, data) {
         </span>`,
         '<img src="/img/entegrations/' + item.entegration_id + '.png" class="vendor-img-sm">',
         item.email,
-        '<b>' + item.firstname + " " + item.lastname + '</b>',
+        '<b>' + item.full_name + '</b>',
         item.tracking_no,
         item.shipment_name,
         item.country,

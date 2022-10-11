@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Admin\API;
+namespace App\Http\Controllers\Admin\Location;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\DatatableRequest;
@@ -28,52 +28,6 @@ class LocationCountryController extends Controller
     public function index()
     {
         return response()->view(adminTheme() . '.location_country');
-    }
-
-    /**
-     * Display a listing of the resource.
-     *
-     * dataTableJson
-     *
-     * @param DatatableRequest $request
-     * @return Response
-     */
-    public function indexAjax(DatatableRequest $request)
-    {
-        try {
-            $list = $this->service->getAll([
-                "start" => $request->start,
-                "length" => $request->length,
-                "search" => $request->search,
-                "order" => $request->order,
-            ]);
-            $data = [];
-            foreach ($list["list"] as $item) {
-                $data[] = array_merge($item->toArray(),[
-                    'deletable' => $this->service->deletable($item->id),
-                    'deletableMsg' => $this->service->deletableMsg,
-                    'DestroyUrl' => route("admin_location_country.destroy", $item->id),
-                ]);
-            }
-
-            return [
-                'status' => 200,
-                "total" => $list["total"],
-                "data" => $data,
-                "draw" => $request->draw,
-                "recordsTotal" => $list["total"],
-                "recordsFiltered" => $list["total"],
-            ];
-        } catch (\Exception $e) {
-
-            reportException($e);
-
-            return [
-                'status' => 500,
-                'error' => $e->getMessage(),
-                'debug' => __CLASS__,
-            ];
-        }
     }
 
     /**

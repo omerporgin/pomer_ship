@@ -24,13 +24,13 @@ class DatatableRequest extends FormRequest
     public function rules()
     {
         return [
-            "draw" => "integer",
+            "draw"    => "integer",
             "columns" => 'array',
-            "order" => 'array',
-            "start" => "required|integer",
-            "length" => "required|integer",
-            "search" => 'array',
-            "data" => "string|nullable",
+            "order"   => 'array',
+            "start"   => "required|integer",
+            "length"  => "required|integer",
+            "search"  => 'array',
+            "data"    => "string|nullable",
         ];
     }
 }

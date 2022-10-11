@@ -70,7 +70,7 @@ class Shipping extends Model
                 }
                 return $value;
             },
-            set: fn($value) => strtolower($value),
+            set: fn($value) => $value,
         );
     }
 
@@ -88,7 +88,7 @@ class Shipping extends Model
                 }
                 return $value;
             },
-            set: fn($value) => strtolower($value),
+            set: fn($value) => $value,
         );
     }
 }

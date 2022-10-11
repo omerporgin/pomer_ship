@@ -13,8 +13,8 @@ let DataTableOnLoad = function (formatObj, item, data) {
     return [
         item.id,
         '<img src="'+item.avatar+'" class="img-thumbnail rounded-circle">',
-        '<b>' + item.name + '</b>',
-        '<b>' + item.surname + '</b>',
+        '<b>' + item.full_name + '</b>',
+        item.company_name ,
         item.email,
         item.permission_name,
         userType[item.user_type],

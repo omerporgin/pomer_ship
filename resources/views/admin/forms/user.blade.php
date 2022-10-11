@@ -52,12 +52,13 @@
                             @endif
 
                             <div class="form-group row">
-                                <div class="col-md-2 text-right">{{ _('Name') }} :</div>
-                                <div class="col-md-5">
-                                    <input type="text" name="name" class="form-control" value="{{ $item->name }}">
+                                <div class="col-md-2 text-right">{{ _('Full Name') }} :</div>
+                                <div class="col-md-4">
+                                    <input type="text" name="full_name" class="form-control" value="{{ $item->full_name }}">
                                 </div>
-                                <div class="col-md-5">
-                                    <input type="text" name="surname" class="form-control" value="{{ $item->surname }}">
+                                <div class="col-md-2 text-right">{{ _('Company Name') }} :</div>
+                                <div class="col-md-4">
+                                    <input type="text" name="company_name" class="form-control" value="{{ $item->company_name }}">
                                 </div>
                             </div>
 

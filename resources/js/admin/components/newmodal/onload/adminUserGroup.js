@@ -71,14 +71,18 @@ export class FormModalOnLoad {
      *
      */
     createTable() {
-        var pagetable = new dataTable(".price-data-table");
+        this.table = new dataTable(".price-data-table");
     }
 
+    /**
+     *
+     */
     resetForm() {
         $("input[name=is_default]").val(0).trigger('change');
         $("input[name=min]").val('');
         $("input[name=max]").val('');
         $("input[name=price]").val('');
         $("input[name=discount]").val('');
+        this.table.refresh()
     }
 }

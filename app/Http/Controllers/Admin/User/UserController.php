@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Admin\API;
+namespace App\Http\Controllers\Admin\User;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\UserRequest;
@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Gate;
 use App\Http\Requests\DatatableRequest;
 
-class UsersController extends Controller
+class UserController extends Controller
 {
     /**
      * @var service
@@ -34,62 +34,6 @@ class UsersController extends Controller
         return response()->view(adminTheme() . '.users', [
             'type' => $type
         ]);
-    }
-
-    /**
-     * Display a listing of the resource.
-     *
-     * dataTableJson
-     *
-     * @param DatatableRequest $request
-     * @return Response
-     */
-    public function indexAjax(DatatableRequest $request)
-    {
-        $data = parseBase64data($request->data);
-
-        try {
-            $filters = [
-                "start" => $request->start,
-                "length" => $request->length,
-                "search" => $request->search,
-                "order" => $request->order,
-                "type" => $data->type,
-            ];
-
-            $list = $this->service->getAll($filters);
-            $items = $list["list"];
-            $data = [];
-
-
-            foreach ($items as $item) {
-                $permissionName = service('Permission', $item->permission_id)?->name;
-                $data[] = array_merge($item->toArray(), [
-                    'permission_name' =>  $permissionName,
-                    'deletable' => $this->service->deletable($item->id),
-                    'deletableMsg' => $this->service->deletableMsg,
-                    'DestroyUrl' => route("admin_users.destroy", $item->id),
-                ]);
-            }
-
-            return [
-                'status' => 200,
-                "total" => $list["total"],
-                "data" => $data,
-                "draw" => $request->draw,
-                "recordsTotal" => $list["total"],
-                "recordsFiltered" => $list["total"],
-            ];
-        } catch (\Exception $e) {
-
-            reportException($e);
-
-            return [
-                'status' => 500,
-                'error' => $e->getMessage(),
-                'debug' => __CLASS__,
-            ];
-        }
     }
 
     /**

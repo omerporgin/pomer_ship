@@ -61,7 +61,7 @@ class UserService extends abstractService
     public function getAllFiltered(object $filters): array
     {
 
-        $columns = ['id', '', 'name', 'surname', 'email', 'permission_id', 'user_type', 'active'];
+        $columns = ['id', '', 'full_name', 'company_name', 'email', 'permission_id', 'user_type', 'active'];
 
         $list = $this->item;
 
@@ -90,7 +90,7 @@ class UserService extends abstractService
                     $list = $list->where(function ($list) use ($text) {
                         $list
                             ->orWhere('id', $text)
-                            ->orWhere('name', 'LIKE', '%' . $text . '%')
+                            ->orWhere('full_name', 'LIKE', '%' . $text . '%')
                             ->orWhere('email', 'LIKE', '%' . $text . '%');
                     });
                 }

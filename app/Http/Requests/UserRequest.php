@@ -25,8 +25,9 @@ class UserRequest extends FormRequest
      */
     public function authorize()
     {
+        // dd($this->route()->uri);
         $this->userId = match ($this->route()->uri) {
-            'register' => $this->route('admin_user'), // Register page
+            '{lang}/register' => $this->route('admin_user'), // Register page
             'dashboard' => Auth::id(), // User dashboard update
             'admin/admin_users/{admin_user}' => $this->route('admin_user'), // Admin update
         };
@@ -50,8 +51,9 @@ class UserRequest extends FormRequest
 
         $rules = [
             'id' => 'nullable|integer',
-            'name' => 'required|string|max:100',
-            'surname' => 'required|string|max:100',
+            'full_name' => 'required|string|max:100',
+            'company_name' => 'required|string|max:100',
+            'account_name' => 'nullable|string|max:255',
             'user_type' => 'required|in:0,1',
             'identity' => [
                 'required_if:user_type,=,0',

@@ -8,6 +8,7 @@
         @endif
         {{ $item->order_id }}
     </div>
+    {{--
     <div class="col-md-2 text-right">{{ _('Status') }} :</div>
     <div class="col-md-4">
 
@@ -20,16 +21,17 @@
         </select>
 
     </div>
+    --}}
 </div>
 
 <div class="form-group row">
-    <div class="col-md-2 text-right">{{ _('Name') }} :</div>
+    <div class="col-md-2 text-right">{{ _('Full Name') }} :</div>
     <div class="col-md-4">
-        <input type="text" name="firstname" value="{{ $item->firstname }}" class="form-control"/>
+        <input type="text" name="full_name" value="{{ $item->full_name }}" class="form-control"/>
     </div>
-    <div class="col-md-2 text-right">{{ _('Surname') }} :</div>
+    <div class="col-md-2 text-right">{{ _('Company Name') }} :</div>
     <div class="col-md-4">
-        <input type="text" name="lastname" value="{{ $item->lastname }}" class="form-control"/>
+        <input type="text" name="company_name" value="{{ $item->company_name }}" class="form-control"/>
     </div>
 </div>
 
@@ -72,33 +74,6 @@
 
     </div>
 </div>
-<div class="form-group row">
-    <div class="col-md-2 text-right">{{ _('Description') }} :</div>
-    <div class="col-md-10">
-
-        <div class="input-group mb-3">
-            <div class="input-group-prepend">
-                <span class="input-group-text"><i class="fas fa-mortar-pestle"></i></span>
-            </div>
-            <textarea name="description"
-                      class="form-control">{{ $item->description }}</textarea>
-        </div>
-
-    </div>
-</div>
-
-@if(isset($location))
-    <div class="form-group row">
-        <div class="col-md-2 text-right">{{ _('Location') }} :</div>
-        <div class="col-md-5" id="selected_location" data-country="{{ $item->country_id }}">
-            {!! $location !!}
-        </div>
-        <div class="col-md-5 text-right">
-            <small role="button" id="change_location"
-                   class="text-danger">{{ _('change_location') }}</small>
-        </div>
-    </div>
-@endif
 
 @include('components.select-location', [
     'location' => $location,

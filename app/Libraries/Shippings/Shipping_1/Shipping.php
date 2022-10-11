@@ -31,7 +31,7 @@ return new class extends AbstractShipping {
      */
     public function getUrl($url): string
     {
-        if ($this->isTest) {
+        if ($this->shipping->is_test) {
             $baseUrl = $this->testUrl;
         } else {
             $baseUrl = $this->url;

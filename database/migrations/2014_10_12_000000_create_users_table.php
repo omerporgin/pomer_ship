@@ -14,9 +14,9 @@ return new class extends Migration {
     {
         Schema::create('users', function (Blueprint $table) {
             $table->id()->from(140000);
-            $table->string('name', 100);
-            $table->string('surname', 100)->nullable();
-
+            $table->string('full_name', 255);
+            $table->string('company_name', 255)->nullable();
+            $table->string('account_name', 255)->nullable();
 
             $table->unsignedTinyInteger('user_type')->default(0)->comment('0->Kişisel , 1->Kurumsal');
             $table->string('identity', 30)->nullable();
@@ -26,6 +26,7 @@ return new class extends Migration {
             $table->string('company_taxid', 100)->nullable();
             $table->string('bank', 100)->nullable();
             $table->string('email', 100)->unique();
+            $table->string('api_pass', 255)->nullable();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
             $table->rememberToken();

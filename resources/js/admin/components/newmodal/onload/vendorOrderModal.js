@@ -24,7 +24,10 @@ export class FormModalOnLoad {
         let location = new VendorOrderModalLocation('#modal_theme_primary');
         location.reset();
 
-        this.changeLocationButton();
+
+            $(".full_search").removeClass("d-none");
+            $(".toggle_full_search").removeClass("d-none");
+
 
         new SelectPostCode();
 
@@ -81,17 +84,6 @@ export class FormModalOnLoad {
                 'overflow-y': 'auto'
             })
         })
-    }
-
-    /**
-     * change_location button event
-     */
-    changeLocationButton() {
-        $("#change_location").on("click", function () {
-            $(this).hide();
-            $(".full_search").removeClass("d-none");
-            $(".toggle_full_search").removeClass("d-none");
-        });
     }
 
     /**

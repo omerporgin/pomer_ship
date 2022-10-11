@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Admin\API;
+namespace App\Http\Controllers\Admin\Gtip;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\DatatableRequest;
@@ -26,52 +26,6 @@ class GtipController extends Controller
     public function index()
     {
         return response()->view(adminTheme() . '.gtip');
-    }
-
-    /**
-     * Display a listing of the resource.
-     *
-     * dataTableJson
-     *
-     * @param DatatableRequest $request
-     * @return \Illuminate\Http\Response
-     */
-    public function indexAjax(DatatableRequest $request)
-    {
-        try {
-            $filters = [
-                "start" => $request->start,
-                "length" => $request->length,
-                "search" => $request->search,
-                "order" => $request->order,
-            ];
-
-            $list = $this->service->getAll($filters);
-            $items = $list["list"];
-            $data = [];
-            foreach ($items as $item) {
-                $item->deletable = $this->service->deletable($item->id);
-                $data[] = $item;
-            }
-
-            return [
-                'status' => 200,
-                "total" => $list["total"],
-                "data" => $data,
-                "draw" => $request->draw,
-                "recordsTotal" => $list["total"],
-                "recordsFiltered" => $list["total"],
-            ];
-        } catch (\Exception $e) {
-
-            reportException($e);
-
-            return [
-                'status' => 500,
-                'error' => $e->getMessage(),
-                'debug' => __CLASS__,
-            ];
-        }
     }
 
     /**

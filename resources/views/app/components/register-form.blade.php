@@ -63,15 +63,15 @@
 </div>
 
 <div class="col-6 mb-2">
-    <x-label for="name" :value="_('Name')"/>
-    <input type="text" id="name" name="name" value="@if(isset( $data->name )){{ $data->name }}@endif"
+    <x-label for="account_name" :value="_('Account Name')"/>
+    <input type="text" id="account_name" name="account_name" value="@if(isset( $data->account_name )){{ $data->account_name }}@endif"
            class="form-control" autofocus="autofocus">
 </div>
 
 <div class="col-6 mb-2">
-    <x-label for="surname" :value="_('Surname')"/>
-    <input type="text" id="surname" name="surname" value="@if(isset( $data->surname )){{ $data->surname }}@endif"
-           class="form-control">
+    <x-label for="full_name" :value="_('Full Name')"/>
+    <input type="text" id="full_name" name="full_name" value="@if(isset( $data->full_name )){{ $data->full_name }}@endif"
+           class="form-control" autofocus="autofocus">
 </div>
 
 <div class="col-12 mb-2">
@@ -120,7 +120,6 @@
         <input type="password" id="password_confirmation" name="password_confirmation" value=""
                class="form-control" autocomplete="new-password"/>
     </div>
-
 </div>
 
 <div class="container">

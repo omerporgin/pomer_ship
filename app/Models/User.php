@@ -21,9 +21,10 @@ class User extends Authenticatable implements MustVerifyEmail
     protected $table = 'users';
 
     protected $fillable = [
-        'name',
-        'surname',
+        'account_name',
+        'full_name',
         'email',
+        'api_pass',
         'password',
         'address',
         'user_type',
@@ -75,7 +76,6 @@ class User extends Authenticatable implements MustVerifyEmail
     ];
 
     protected $appends = [
-        'full_name',
         'real_company_name',
         'real_owner_name',
         'real_tax_id',
@@ -89,23 +89,11 @@ class User extends Authenticatable implements MustVerifyEmail
      *
      * @return string
      */
-    public function fullName(): Attribute
-    {
-        return Attribute::make(
-            get: fn($value) => $this->name.' '.$this->surname,
-        );
-    }
-
-    /**
-     * Kişisel üyelik ise kendi ismi, kurumsal üyelik ise company owner
-     *
-     * @return string
-     */
     public function realOwnerName(): Attribute
     {
         $name = $this->company_owner;
         if ($this->user_type == 0) {
-            $name = $this->name . ' ' . $this->surname;
+            $name = $this->full_name;
         }
 
         return Attribute::make(
@@ -122,7 +110,7 @@ class User extends Authenticatable implements MustVerifyEmail
     {
         $name = $this->company_name;
         if ($this->user_type == 0) {
-            $name = $this->name . ' ' . $this->surname;
+            $name = $this->full_name;
         }
         return Attribute::make(
             get: fn($value) => $name,

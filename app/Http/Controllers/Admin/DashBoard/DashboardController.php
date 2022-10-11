@@ -1,18 +1,16 @@
 <?php
 
-namespace App\Http\Controllers\Admin;
+namespace App\Http\Controllers\Admin\Dashboard;
 
+use App\Http\Controllers\Controller;
 use App\Models\Order;
 use App\Models\PaymentAccount;
 use App\Models\User;
-use App\Services\OrderStatusService;
-use App\Http\Controllers\Controller;
 use Carbon\Carbon;
-use Illuminate\Support\Facades\Gate;
+use Illuminate\Http\Request;
 
-class PagesController extends Controller
+class DashboardController extends Controller
 {
-
     /**
      * @return \Illuminate\Http\Response
      */
@@ -81,23 +79,5 @@ class PagesController extends Controller
                 'total' => $total
             ]
         );
-    }
-
-    /**
-     * @return \Illuminate\Http\Response
-     */
-    public function userGates()
-    {
-        return response()->view(adminTheme() . '.gates', [
-            'gateList' => Gate::abilities()
-        ]);
-    }
-
-    /**
-     * @return void
-     */
-    public function orderStatusses()
-    {
-        return response()->view(adminTheme() . '.order_status');
     }
 }

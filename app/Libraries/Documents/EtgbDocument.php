@@ -4,9 +4,7 @@ namespace App\Libraries\Documents;
 
 use Illuminate\Support\Facades\Storage;
 use setasign\Fpdi\Tcpdf\Fpdi;
-
 use App\Services\OrderService;
-
 
 class EtgbDocument extends AbstractDocument
 {
@@ -56,33 +54,16 @@ class EtgbDocument extends AbstractDocument
         $pdf->SetTextColor(0, 0, 0);
 
         $html = '
-            <div>
                 <br>
                 <br>
-                Değerli Müşterimiz,
                 <br>
-                <br>
-                <b>ShipExporgin</b> ile ihracatınızı hızlı ve kaliteli olarak sonuçlandırmak için lütfen aşağıdaki formu eksiksiz olarak bize gönderiniz. Gönderinizin
-                konşimento numarası, detaylı eşya içeriği (cinsi,türü vb..), telefon numaranız ve imzanız işlemlerinizde gecikme yaşanmaması için son
-                derece önemlidir.
-                <br>
-                <br>
-                İşbirliğiniz için şimdiden teşekkür ederiz.
-            </div>
+                <h2>ETGB İHRACAT BİLGİ FORMU</h2>
                 ' . $this->createDataTable() . '
                 <br>
                 <br>
                 ' . $this->createProductTable() . '
                  <br>
             <div>
-                Eşyamızın, Türkiye kanunlarına göre ihracı yasak, kısıtlamalı, izne tabi olan eşya olmadığını beyan eder; yukarıdaki bilgiler kullanılarak
-                gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasından doğacak yükümlülükleri, sorumlulukları kabul ederiz.<br/>
-                Kuryelerin topladığı gönderilerinizin ihracat işlemleri ertesi işgünü yapılmaktadır.
-                <br>
-                <br>
-                <b>ÖNEMLİ</b> : Navlun ve sigorta gönderici tarafından ödendiyse faturada navlun ayrı sigorta ayrı olarak belirtilmelidir
-                <br>
-                <br>
                 <b>AD – SOYAD / KAŞE / İMZA</b>
             </div>';
 
@@ -169,7 +150,7 @@ class EtgbDocument extends AbstractDocument
                 <td  width="60" align="center">' . $product['quantity'] . ' ADET</td>
                 <td width="60" align="center">' . number_format($product['quantity'] * $product['unit_price'], 2) . '</td>
                 <td width="60" align="center">1</td>
-                <td width="45" align="center">2</td>
+                <td width="45" align="center">'.$product['desi'].'</td>
             </tr>';
             $row++;
         }

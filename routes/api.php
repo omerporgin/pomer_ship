@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
+Route::apiResources([
+    'order' => \App\Http\Controllers\API\OrderController::class,
+]);
 
 Route::post('api_gtip',  [App\Http\Controllers\GtipController::class, 'apiGtip'])->name('api_gtip');
 

@@ -460,6 +460,7 @@ abstract class abstractService
         }
 
         $data = Arr::only($data, $this->tableFieldNames());
+
         if (isset($data['id']) and !is_null($data['id'])) {
             $newItem = $this->item::find($data['id']);
             if (!is_null($newItem)) {

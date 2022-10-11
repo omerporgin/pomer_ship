@@ -199,13 +199,11 @@ class Entegration2 extends AbstrackOrderEntegrationService
 
         $curencyList = json_decode($order->payment_info->currency_list_json, true);
 
-
         $order->order_id = (string)$order->order_id;
         $order->entegration_id = $this->entegrationID();
         $order->total_price = $order->total;
         $order->order_date = date("Y-m-d H:i:s", $order->timestamp);
-        $order->firstname = $order->s_firstname;
-        $order->lastname = $order->s_lastname;
+        $order->full_name = $order->s_firstname.' '.$order->s_lastname;
         $order->address = $order->s_address . ' ' . $order->s_address_2;
         $order->post_code = $order->s_zipcode;
         $order->phone = $order->s_phone;

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Admin\API;
+namespace App\Http\Controllers\Admin\Shipping;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\DatatableRequest;
@@ -9,7 +9,7 @@ use Illuminate\Http\Response;
 use App\Services\UserGroupPriceService;
 use App\Http\Requests\UserGroupPriceRequest;
 
-class UserGroupPricesController extends Controller
+class UserGroupPriceController extends Controller
 {
     /**
      * @var service
@@ -27,60 +27,6 @@ class UserGroupPricesController extends Controller
     public function index()
     {
 
-    }
-
-    /**
-     * Display a listing of the resource.
-     *
-     * dataTableJson
-     *
-     * @param DatatableRequest $request
-     * @return Response
-     */
-    public function indexAjax(DatatableRequest $request)
-    {
-        $data = parseBase64data($request->data);
-        try {
-            $filters = [
-                "start" => $request->start,
-                "length" => $request->length,
-                "search" => $request->search,
-                "order" => $request->order,
-                'user_group' => $data->id // Required
-            ];
-
-            $list = $this->service->getAll($filters);
-            $items = $list["list"];
-            $data = [];
-
-            foreach ($items as $item) {
-                $item = $item->toArray();
-                $item['deletable'] = $this->service->deletable($item['id']);
-                $item['deletableMsg'] = $this->service->deletableMsg;
-                $item['DestroyUrl'] = ifExistRoute('api_admin_user_group_prices.destroy', [
-                    'api_admin_user_group_price' => $item['id']
-                ]);
-                $data[] = $item;
-            }
-
-            return [
-                'status' => 200,
-                "total" => $list["total"],
-                "data" => $data,
-                "draw" => $request->draw,
-                "recordsTotal" => $list["total"],
-                "recordsFiltered" => $list["total"],
-            ];
-        } catch (\Exception $e) {
-
-            reportException($e, 1);
-
-            return [
-                'status' => 500,
-                'error' => $e->getMessage(),
-                'debug' => __CLASS__,
-            ];
-        }
     }
 
     /**
