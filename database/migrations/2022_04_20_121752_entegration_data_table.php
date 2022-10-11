@@ -29,7 +29,7 @@ return new class extends Migration {
             $table->string('pass', 100)->comment('Api pass')->nullable();
             $table->dateTime('last_date')->comment('En son indirilen tarih.')->nullable();
             $table->unsignedTinyInteger('days')->comment('Son tarihten sonra kaç gün indirilecek.')->default(1);
-            $table->unsignedTinyInteger('cargo_id')->comment('')->nullable();
+            $table->string('cargo_id', 255)->comment('Can be integer with ","')->nullable();
             $table->string('statuses', 20)->comment('Statusses of orders.')->nullable();
             $table->unsignedTinyInteger('max')->comment('Indirilecek max sipariş')->default(100);
 
