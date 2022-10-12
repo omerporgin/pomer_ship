@@ -17,6 +17,7 @@
 
                 </select>
             </div>
+
             <div class="col-6 {{ $hideOnSuccess }}">
                 {{ _('Description') }} :
                 <input name="description[]" type="text" class="form-control form-control-sm" value="__DESCRIPTION__">
@@ -43,7 +44,6 @@
             <thead class="thead-dark">
             <tr>
                 <th>{{ _('Check') }}</th>
-                <th>{{ _('Description') }}</th>
                 <th>{{ _('Height') }}</th>
                 <th>{{ _('Width') }}</th>
                 <th>{{ _('Length') }}</th>

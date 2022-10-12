@@ -20,8 +20,6 @@
             <input type="hidden" name="_method" value="put"/>
         @endif
 
-        <input type="hidden" name="currency" value="120"/>
-
         <input type="hidden" name="entegration_id" value="{{ $item->entegration_id }}"/>
 
         <div class="modal-body">

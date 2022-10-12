@@ -15,14 +15,14 @@
         <div class="form-row">
 
             <input type="hidden" name="package_id[]" value="{{ $packageID }}">
-
+            {{--
             <div class="col">
                 <input type="text" class="form-control form-control-sm"
                        name="package_description[]"
                        placeholder="{{ _('Description') }}"
                        value="{{ $package->description }}">
             </div>
-
+            --}}
             <div class="col">
 
                 <div class="input-group input-group-sm mb-3">
