@@ -6,10 +6,13 @@
                 <input class="form-check-input" type="checkbox">
             </div>
         </td>
-        <td>
-            <input type="hidden" class="form-control form-control-sm" name="package_id[]" value="__PAKAGE_ID__">
-            <input type="text" class="form-control form-control-sm" name="description[]" value="__DESCTIPTION__">
-        </td>
+        {{-- <td> --}}
+           <input type="hidden" class="form-control form-control-sm" name="package_id[]" value="__PAKAGE_ID__">
+
+           {{--
+           <input type="text" class="form-control form-control-sm" name="description[]" value="__DESCTIPTION__">
+
+       </td> --}}
         <td>
             <div class="input-group input-group-sm mb-3">
                 <input type="text" class="form-control form-control-sm"
