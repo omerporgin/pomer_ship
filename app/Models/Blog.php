@@ -14,8 +14,8 @@ class Blog extends Model
      *
      * @var array
      */
+    protected $table = 'blogs';
     protected $fillable = [
-        'id',
         'active',
         'lang',
         'user_id',

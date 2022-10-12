@@ -11,6 +11,7 @@ class LocationCity extends Model
 
     use HasFactory;
 
+    protected $table = 'location_cities';
     protected $fillable = [
         'name',
         'state_id',
@@ -21,7 +22,7 @@ class LocationCity extends Model
         'longitude',
         'flag',
         'wikiDataId',
-        's_accepted',
+        'is_accepted',
     ];
 
     protected $appends = [

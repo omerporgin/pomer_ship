@@ -10,9 +10,19 @@ class OrderStatuses extends Model
 
     use HasFactory;
 
+    public $table = 'order_statuses';
+    public $fillable=[
+        'name',
+        'from',
+        'to',
+        'color',
+        'status_of',
+        'show_on_menu'
+    ];
+
     public $timestamps = false;
 
-        /**
+    /**
      * Relationship
      */
     public function order()

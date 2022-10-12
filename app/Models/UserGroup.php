@@ -9,6 +9,10 @@ class UserGroup extends Model
 {
     use HasFactory;
 
+    protected $table = 'user_groups';
+    protected $fillable = [
+        'name'
+    ];
     public $timestamps = false;
 
     /**
@@ -24,6 +28,6 @@ class UserGroup extends Model
      */
     public function userGroupPrice()
     {
-        return $this->hasMany(UserGroupPrice::class, 'user_group', 'id' );
+        return $this->hasMany(UserGroupPrice::class, 'user_group', 'id');
     }
 }
