@@ -44,7 +44,7 @@
                                 </select>
                             </div>
                             <div class="col-md-3">
-                                <select name="shipping_service_id" class="form-control"></select>
+                                <select name="shipping_service_name" class="form-control"></select>
                             </div>
                             <div class="col-md-2">
                                 {{ _('Is Default') }} :
@@ -117,7 +117,7 @@
                                 <thead>
                                 <tr>
                                     <th>{{ _('ID') }}</th>
-                                    <th>{{ _('Shipping_id') }}</th>
+                                    <th>{{ _('Shipping/Service') }}</th>
                                     <th>{{ _('is_default') }}</th>
                                     <th>{{ _('Min') }}</th>
                                     <th>{{ _('Max') }}</th>

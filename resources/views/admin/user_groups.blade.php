@@ -29,7 +29,7 @@
                     <thead>
                     <tr>
                         <th>{{ _('ID') }}</th>
-                        <th>{{ _('Name') }}</th>
+                        <th class="w-50">{{ _('Name') }}</th>
                         <th>{{ _('Update') }}</th>
                         <th>{{ _('Delete') }}</th>
                     </tr>

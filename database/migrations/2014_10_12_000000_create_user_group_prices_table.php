@@ -22,9 +22,10 @@ return new class extends Migration {
             $table->id();
             $table->unsignedSmallInteger('user_group');
             $table->unsignedSmallInteger('shipping_id');
+            $table->string('shipping_name',100)->nullable();
             $table->unsignedTinyInteger('is_default')->default(0);
-            $table->unsignedTinyInteger('min')->comment('Minimum desi');
-            $table->unsignedTinyInteger('max')->comment('Maximum desi');
+            $table->unsignedSmallInteger('min')->comment('Minimum desi');
+            $table->unsignedSmallInteger('max')->comment('Maximum desi');
             $table->double('price', 10, 2)->default(0.00)->comment('Default price');
             $table->double('discount', 10, 2)->nullable();
         });

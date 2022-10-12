@@ -107,10 +107,11 @@ Route::post('update_shipping_prices', [ShippingPriceController::class, 'updateSh
 Route::get('shipping_prices/{id}', [ShippingPriceController::class, 'shippingPrices'])->name('admin_shipping_prices');
 Route::get('update_shipping_prices/{shipping_id}', [ShippingPriceController::class, 'updateShippingPriceView'])->name('admin_shipping_prices_update');
 Route::resource('admin_user_group_prices', UserGroupPriceController::class);
+// Route::resource('user_group_prices', UserGroupPriceController::class); // Emin değilim yukarıdaki route ile aynı
 Route::get('api_admin_user_group_prices_ajax', [UserGroupPricesDataTableController::class, 'index'])->name('api_admin_user_group_prices_ajax');
 Route::resource('admin_user_groups', UserGroupController::class);
 Route::get('user_groups_ajax', [UserGroupDataTableController::class, 'index'])->name('api_admin_user_groups_ajax');
-Route::resource('user_group_prices', UserGroupPriceController::class);
+
 Route::post('get_shipping_services', [GetShippingServiceController::class, '__invoke'])->name('api.get_shipping_services');
 
 # User

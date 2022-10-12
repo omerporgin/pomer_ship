@@ -3,10 +3,20 @@
 namespace App\Http\Controllers\Admin\Localization;
 
 use App\Http\Controllers\Controller;
+use App\Services\LocalizationService;
 use Illuminate\Http\Request;
 
 class ScanVariablesStatusController extends Controller
 {
+    /**
+     * @var service
+     */
+    protected $service;
+
+    public function __construct(LocalizationService $service)
+    {
+        $this->service = $service;
+    }
 
     /**
      * scans for language variables

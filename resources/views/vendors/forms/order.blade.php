@@ -142,15 +142,15 @@
                                             <th>{{ _('Move') }}</th>
                                             <th>{{ _('Type') }}</th>
                                             <th class="w-25">{{ _('Content') }}<sup>*</sup></th>
-                                            <th>{{ _('Qnt') }}<sup>*</sup></th>
+                                            <th data-toggle="tooltip" title="Quantity">{{ _('Qnt') }}<sup>*</sup></th>
                                             <th style="width:10%">{{ _('Unit Price') }}<sup>*</sup></th>
                                             <th>{{ _('SKU') }}</th>
                                             <th>{{ _('Gtip') }}</th>
-                                            <th>{{ _('Width') }}</th>
-                                            <th>{{ _('Height') }}</th>
-                                            <th>{{ _('Length') }}</th>
-                                            <th>{{ _('Weight') }}</th>
-                                            <th>{{ _('Delete') }}</th>
+                                            <th data-toggle="tooltip" title="Width in cm">{{ _('W-cm') }}</th>
+                                            <th data-toggle="tooltip" title="Height in cm">{{ _('H-cm') }}</th>
+                                            <th data-toggle="tooltip" title="Length in cm">{{ _('L-cm') }}</th>
+                                            <th data-toggle="tooltip" title="Weight in kg">{{ _('W-kg') }}</th>
+                                            <th data-toggle="tooltip" title="Delete">{{ _('Del') }}</th>
                                         </tr>
                                         </thead>
                                         <tbody class="sortable_tbody">
@@ -257,7 +257,7 @@
                                         @include(vendorTheme().'.templates.formOrderPackageFooterTemplate', [
                                             'package' => $package,
                                             'packageID' => $packageID,
-                                            'shippings' => $shippings,
+                                            'serviceNames' => $serviceNames,
                                         ])
 
                                     </table>
@@ -326,7 +326,7 @@
         <table>
             @include(vendorTheme().'.templates.formOrderPackageFooterTemplate', [
                 'packageID' => null,
-                'shippings' => $shippings,
+                'shippings' => $serviceNames,
             ])
         </table>
     </div>

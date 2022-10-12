@@ -3,6 +3,7 @@
 namespace App\Services;
 
 use App\Models\Shipping as Item;
+use App\Models\ShippingService as ServiceNameModel;
 use App\Services\Traits\ImageTrait;
 
 class ShippingService extends abstractService
@@ -70,7 +71,21 @@ class ShippingService extends abstractService
         return [$list, $columns];
     }
 
-    public function getServiceNames(){
+    /**
+     * @param int $shipingId
+     * @return array
+     */
+    public static function getServicesByShippingId(int $shipingId): array
+    {
+        return ServiceNameModel::where('shipping_id', $shipingId)->get()->toArray();
+    }
 
+    public function getWithServiceName(?string $name)
+    {
+        if (is_null($name)) {
+            return $this->name . ' - Not found';
+        }
+        $service = ServiceNameModel::where('shipping_id', $this->id)->where('name', $name)->first();
+        return $this->name . ' - ' . $service?->name;
     }
 }

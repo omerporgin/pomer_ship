@@ -95,8 +95,6 @@ class OrderController extends Controller
     public function create(Request $request)
     {
         $item = service('Order');
-        $shippingService = service('Shipping');
-        $all = $shippingService->getAll();
 
         /**
          * array_reverse() kullanılırsa package_id kaybolur!
@@ -118,6 +116,10 @@ class OrderController extends Controller
             ]]
         ]);
 
+        $currencyService = service('Currency');
+
+        $userGroupService = service('UserGroup', Auth::user()->user_group_id);
+
         return response()->view(vendorTheme('forms.order'), [
             'productList' => [[]],
             'packageList' => [],
@@ -129,13 +131,14 @@ class OrderController extends Controller
             'orderSelectedShipmentId' => '',
             'labels' => $item->dhlLabels(),
             'order_status' => $orderStatusList,
-            'shippings' => $all['list'],
             'location' => null,
             'barcodes' => [],
             'item' => $item,
             'isNew' => true,
             'updatable' => $item->updatable(),
             'stateList' => $list['list'],
+            'currencies' => $currencyService->getActiveItems(),
+            'serviceNames' => $userGroupService->serviceNameList(),
         ]);
     }
 
@@ -206,9 +209,6 @@ class OrderController extends Controller
         ]);
         $orderStatusList = $orderStatus[0]->get();
 
-        $shippingService = service('Shipping');
-        $all = $shippingService->getAll();
-
         $stateService = service('LocationState');
         $list = $stateService->getAll((object)[
             'country_id' => 225,
@@ -219,7 +219,8 @@ class OrderController extends Controller
         ]);
 
         $currencyService = service('Currency');
-        $currencies = $currencyService->getActiveItems();
+
+        $userGroupService = service('UserGroup', Auth::user()->user_group_id);
 
         return response()->view(vendorTheme('forms.order'), [
             'productList' => $productList,
@@ -232,7 +233,6 @@ class OrderController extends Controller
             'orderSelectedShipmentId' => $orderSelectedShipmentId,
             'labels' => $item->dhlLabels(),
             'order_status' => $orderStatusList,
-            'shippings' => $all['list'],
             'location' => (new OrderLocation($item))?->getFullName(),
             'barcodes' => $this->barcodes($item->id, count($packageList)),
             'isNew' => false,
@@ -241,7 +241,8 @@ class OrderController extends Controller
             'pdfFiles' => $pdfFileList,
             'stateList' => $list['list'],
             'dateList' => $dateList,
-            'currencies' => $currencies,
+            'currencies' => $currencyService->getActiveItems(),
+            'serviceNames' => $userGroupService->serviceNameList(),
         ]);
     }
 

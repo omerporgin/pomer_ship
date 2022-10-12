@@ -10,7 +10,7 @@ let DataTableOnLoad = function (formatObj, item, data) {
     var self = this;
     return [
         item.id,
-        item.shipping_id,
+        '<b>' + item.name + '</b> <br><small>' + item.serviceName+'</small>',
         self.format.yesNo(item.is_default),
         item.min,
         item.max,

@@ -24,6 +24,6 @@ class UserGroup extends Model
      */
     public function userGroupPrice()
     {
-        return $this->hasMany(UserGroupPrice::class, 'user_group', 'id' );
+        return $this->hasMany(UserGroupPrice::class, 'user_group', 'id');
     }
 }

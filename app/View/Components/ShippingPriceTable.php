@@ -2,6 +2,7 @@
 
 namespace App\View\Components;
 
+use Illuminate\Support\Facades\Auth;
 use Illuminate\View\Component;
 
 class ShippingPriceTable extends Component
@@ -41,8 +42,11 @@ class ShippingPriceTable extends Component
 
         $cacheName = 'shipping_price.' . $id . '.' . $userGroupId;
 
+
+
         return \Cache::rememberForever($cacheName, function () use ($id, $userGroupId) {
             $service = service('shippingPrices', $id);
+
             $data = $service->getShipingPricesByUserGroup($userGroupId);
             $data['id'] = $id;
             $view = \View::make('components.shipping-price-table', $data);

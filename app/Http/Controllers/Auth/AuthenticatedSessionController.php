@@ -34,6 +34,9 @@ class AuthenticatedSessionController extends Controller
 
         $request->session()->regenerate();
 
+        // App açılınca kaldırılacak.
+        return redirect()->route('vendor');
+
         return redirect()->intended(RouteServiceProvider::HOME);
     }
 

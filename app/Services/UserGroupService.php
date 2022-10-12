@@ -147,12 +147,18 @@ class UserGroupService extends abstractService
      * @param float $desi
      * @return array
      */
-    public function getCalculatedPriceByCountryId(int $countryId, float $desi): array
+    public function getCalculatedPriceByCountryId(int $countryId, float $desi): ?array
     {
         $country = service('LocationCountry', $countryId);
         if( $country->hasItem()){
             $region = $country->cargo_dhl_id;
             return $this->getCalculatedPrice($region, $desi);
         }
+        return null;
+    }
+
+    public function serviceNameList()
+    {
+        return $this->item->userGroupPrice()->pluck('service_name')->toArray();
     }
 }

@@ -38,7 +38,10 @@ class UserGroupPricesDataTableController extends Controller
             $data = [];
 
             foreach ($items as $item) {
-                $data[] = array_merge($item->toArray(), [
+                $shipping = service('Shipping', $item->shipping_id);
+                $data[] = array_merge($item->toArray($item), [
+                    'name' => $shipping->name,
+                    'serviceName' => $item->service_name,
                     'deletable' => $this->service->deletable($item->id),
                     'deletableMsg' => $this->service->deletableMsg,
                     'DestroyUrl' => route('admin_user_group_prices.destroy', $item->id),

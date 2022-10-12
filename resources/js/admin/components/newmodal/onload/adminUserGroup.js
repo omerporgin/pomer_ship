@@ -24,14 +24,17 @@ export class FormModalOnLoad {
             self.addPrice(ajaxUrl);
         })
 
+        /**
+         * Create shippng servicess
+         */
         $("select[name=shipping_id]").change(function () {
             let shippingId = $(this).val()
             let url = $(this).data('url')
-            self.getShippingService(shippingId, url)
+            self.getShippingServiceName(shippingId, url)
         })
     }
 
-    getShippingService(shippingId, url) {
+    getShippingServiceName(shippingId, url) {
         $.ajax({
             type: 'post',
             url: url,
@@ -42,6 +45,12 @@ export class FormModalOnLoad {
                 shipping_id: shippingId
             },
         }).done(function (result) {
+            let select =  $('select[name=shipping_service_name]');
+            select.find('option').remove()
+            select.append('<option value="">Select</option>')
+            $.each(result, function (index, item) {
+                select.append('<option value="'+item.name+'">'+item.name+'</option>')
+            })
 
             return true;
 
@@ -68,6 +77,7 @@ export class FormModalOnLoad {
 
         var data = {
             shipping_id: $("select[name=shipping_id]").val(),
+            service_name: $("select[name=shipping_service_name]").val(),
             is_default: getLgSwitchVal('is_default'),
             min: $("input[name=min]").val(),
             max: $("input[name=max]").val(),

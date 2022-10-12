@@ -3,6 +3,7 @@
 namespace App\Services;
 
 use App\Models\ShippingPrices as Item;
+use Illuminate\Support\Facades\Auth;
 
 class ShippingPricesService extends abstractService
 {
@@ -38,6 +39,8 @@ class ShippingPricesService extends abstractService
     }
 
     /**
+     * Yetiştirmek için yazıldı güncellenmeli.
+     *
      * @param int|null $user
      * @return array
      */
@@ -65,9 +68,23 @@ class ShippingPricesService extends abstractService
 
         $desiList = $this->item->where('shipping_id', $shippingId)->select('desi')->distinct()->pluck('desi')
             ->toArray();
+
         sort($desiList);
 
+        // If not admin
+        if (!is_null($userGroupId)) {
+            $userGroupService = service('UserGroup', $userGroupId);
+            $serviceList = $userGroupService->serviceNameList();
+        }
+
         foreach ($serviceList as $service) {
+
+            if (!is_null($userGroupId)) {
+                if (!in_array($service, $serviceList)) {
+                    continue;
+                }
+            }
+
             foreach ($desiList as $desi) {
                 foreach ($regionList as $region) {
                     $price = [

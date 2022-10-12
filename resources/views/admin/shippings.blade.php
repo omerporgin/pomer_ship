@@ -30,7 +30,7 @@
                         <th>{{ _('ID') }}</th>
                         <th>{{ _('Image') }}</th>
                         <th>{{ _('Account') }}</th>
-                        <th>{{ _('Name') }}</th>
+                        <th class="w-50">{{ _('Name') }}</th>
                         <th>{{ _('Update Zones') }}</th>
                         <th>{{ _('Update Prices') }}</th>
                         <th>{{ _('Prices') }}</th>

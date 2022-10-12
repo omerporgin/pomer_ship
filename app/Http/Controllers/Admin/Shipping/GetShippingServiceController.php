@@ -13,6 +13,7 @@ class GetShippingServiceController extends Controller
             throw new InvalidArgumentException('shipping_id required');
         }
 
-        return response()->json([]);
+        $service = service('ShippingService');
+        return response()->json($service->getServicesByShippingId($request->shipping_id));
     }
 }

@@ -27,9 +27,10 @@ class UserGroupPriceRequest extends FormRequest
             'id' => 'nullable|integer',
             'user_group' => 'required|integer',
             'shipping_id' => 'required|integer',
+            'service_name' => 'required|string|max:100',
             'is_default' => 'in:1,0|required',
-            'min' => 'required|min:0|max:70',
-            'max' => 'required|min:0|max:70',
+            'min' => 'required|min:0|max:299',
+            'max' => 'required|min:0|max:300|gt:min',
             'price' => 'required|numeric|between:0,999999.99',
             'discount' => 'nullable|numeric|between:0,999999.99',
         ];
