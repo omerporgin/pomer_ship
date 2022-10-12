@@ -14,6 +14,27 @@ class OrderProducts extends Model
      * Relationship
      */
     protected $table = 'order_products';
+    protected $fillable = [
+        'unique_id',
+        'type',
+        'order_id',
+        'name',
+        'quantity',
+        'declared_quantity',
+        'unit_price',
+        'total_price',
+        'declared_price',
+        'total_custom_value',
+        'sku',
+        'gtip_code',
+        'package_id',
+        'sort',
+        'width',
+        'height',
+        'length',
+        'weight',
+        'desi'
+    ];
 
     protected $appends = [
         'calculated_desi',

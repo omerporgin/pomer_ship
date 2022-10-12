@@ -12,6 +12,23 @@ class Shipping extends Model
     use HasFactory;
 
     public $timestamps = false;
+    protected $table = 'shippings';
+    protected $fillable=[
+        'name',
+        'processor',
+        'account_number',
+        'user',
+        'api_key',
+        'api_secret',
+        'zone_field',
+        'is_active',
+        'is_test',
+        'sort',
+        'test_account_number',
+        'test_user',
+        'test_api_key',
+        'test_api_secret'
+    ];
 
     protected $appends = [
         'account_number',

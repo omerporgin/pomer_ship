@@ -9,10 +9,12 @@ class Image extends Model
 {
     use HasFactory;
 
+    public $table = 'images';
+    protected $fillable=['type','type_id','active','sort'];
     public static $upload_dir = 'storage/app/public/images';
 
     /**
-     *   Upload directory for images 
+     *   Upload directory for images
      */
     public static $dir = 'app/public/images/';
 
