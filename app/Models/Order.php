@@ -17,7 +17,7 @@ class Order extends Model
      */
     protected $table = 'order_table';
 
-    protected $appends = [
+    protected $fillable = [
         'status',
         'real_status',
         'vendor_id',

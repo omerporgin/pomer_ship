@@ -8,8 +8,8 @@ use Illuminate\Database\Eloquent\Model;
 class Localization extends Model
 {
     use HasFactory;
-    protected $table='localizations';
-    protected $fillable=['lang','variable','value'];
+
+    protected $fillable = ['lang', 'variable', 'value'];
 
     public $timestamps = FALSE;
 }

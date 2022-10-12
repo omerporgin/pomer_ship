@@ -10,7 +10,6 @@ class Language extends Model
 
     use HasFactory;
 
-    protected $table = 'languages';
     protected $fillable = ['code', 'name', 'currency_id','active','sort','direction'];
 
     public static function all_langs()

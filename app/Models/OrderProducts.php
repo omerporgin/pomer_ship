@@ -13,7 +13,6 @@ class OrderProducts extends Model
     /**
      * Relationship
      */
-    protected $table = 'order_products';
     protected $fillable = [
         'unique_id',
         'type',

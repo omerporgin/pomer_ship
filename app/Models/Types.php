@@ -9,7 +9,7 @@ class Types extends Model
 {
 
     use HasFactory;
-    protected $table='';
+
     protected $fillable=[];
 
     public $timestamps = false;

@@ -9,7 +9,6 @@ class UserGroupPrice extends Model
 {
     use HasFactory;
 
-    protected $table = 'user_group_prices';
     protected $fillable = [
         'user_group',
         'shipping_id',

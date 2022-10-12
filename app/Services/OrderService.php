@@ -146,11 +146,17 @@ class OrderService extends abstractService
         $data->post_code = substr(trim($data->post_code), 0, 10); // Must not be grater than 10
         $data->phone = preg_replace('/\D/', '', $data->phone); // Only numbers
 
-        // On this occasions we must update
-        if (!is_null($order = Item::where('vendor_id', $data->vendor_id)
+        if(is_null($data->order_id)){
+            $data->order_id = now().rand(10,100);
+        }
+
+        $order = Item::where('vendor_id', $data->vendor_id)
             ->where('entegration_id', $data->entegration_id)
             ->where('order_id', $data->order_id)
-            ->first())) {
+            ->first();
+
+        // On this occasions we must update
+        if (!is_null($order)) {
             if (isset($data->id)) {
                 NotificationService::notify('Order id overwritten (' . $data->id . ')');
             }

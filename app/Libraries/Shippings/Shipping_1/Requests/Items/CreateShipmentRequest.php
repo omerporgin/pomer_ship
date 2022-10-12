@@ -195,8 +195,8 @@ return new class($shipping, $order) extends Request implements RequestInterface 
                 "email" => $this->order->email,
                 "phone" => strval($this->order->phone),
                 "mobilePhone" => strval($this->order->phone),
-                "fullName" => $this->order->firstname . " " . $this->order->lastname,
-                "companyName" => $this->order->firstname . " " . $this->order->lastname, // Must not be required, but it is
+                "fullName" => $this->order->full_name,
+                "companyName" => $this->order->company_name, // Must not be required, but it is
             ],
             "typeCode" => "direct_consumer" // "business","direct_consumer","government","other","private","reseller"
         ];
@@ -230,7 +230,7 @@ return new class($shipping, $order) extends Request implements RequestInterface 
         $return = [
             "isCustomsDeclarable" => true, // Vergiye tabi mi?
             "declaredValue" => $this->order->declared_value,
-            "declaredValueCurrency" => "EUR",
+            "declaredValueCurrency" => $this->order->currency_code,
 
             "exportDeclaration" => [
                 "invoice" => [

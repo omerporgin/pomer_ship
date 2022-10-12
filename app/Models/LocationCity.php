@@ -11,7 +11,6 @@ class LocationCity extends Model
 
     use HasFactory;
 
-    protected $table = 'location_cities';
     protected $fillable = [
         'name',
         'state_id',

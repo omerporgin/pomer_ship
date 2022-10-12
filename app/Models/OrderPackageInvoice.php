@@ -8,8 +8,8 @@ use Illuminate\Database\Eloquent\Model;
 class OrderPackageInvoice extends Model
 {
     use HasFactory;
-    protected $table='order_package_invoices';
-    protected $fillable=[
+ 
+    protected $fillable = [
         'order_package_id',
         'status',
         'price',

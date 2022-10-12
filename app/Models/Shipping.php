@@ -12,8 +12,8 @@ class Shipping extends Model
     use HasFactory;
 
     public $timestamps = false;
-    protected $table = 'shippings';
-    protected $fillable=[
+
+    protected $fillable = [
         'name',
         'processor',
         'account_number',

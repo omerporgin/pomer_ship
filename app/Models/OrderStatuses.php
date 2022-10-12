@@ -10,8 +10,7 @@ class OrderStatuses extends Model
 
     use HasFactory;
 
-    public $table = 'order_statuses';
-    public $fillable=[
+    public $fillable = [
         'name',
         'from',
         'to',

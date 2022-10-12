@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class ShippingService extends Model
 {
     use HasFactory;
-    protected $table='shipping_services';
+
     protected $fillable=[
         'shipping_id',
         'name',

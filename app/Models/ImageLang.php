@@ -10,7 +10,7 @@ class ImageLang extends Model
     use HasFactory;
 
     public $timestamps = FALSE;
-    protected $table = 'image_langs';
+
     protected $fillable = ['lang', 'alt', 'title', 'real_name'];
 
     /**

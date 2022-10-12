@@ -11,8 +11,7 @@ class EntegrationData extends Model
 
     use HasFactory;
 
-    protected $table='entegration_data';
-    protected $fillable = ['entegration_id','user_id','url','user','pass','last_date','days','cargo_id','statuses','max'];
+    protected $fillable = ['entegration_id', 'user_id', 'url', 'user', 'pass', 'last_date', 'days', 'cargo_id', 'statuses', 'max'];
 
     protected $appends = [
         'cargo_list',

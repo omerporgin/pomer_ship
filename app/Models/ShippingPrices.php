@@ -9,7 +9,6 @@ class ShippingPrices extends Model
 {
     use HasFactory;
 
-    protected $table = 'shipping_prices';
     protected $fillable = [
         'shipping_id',
         'service',
