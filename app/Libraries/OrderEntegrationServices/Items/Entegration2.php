@@ -166,7 +166,6 @@ class Entegration2 extends AbstrackOrderEntegrationService
      */
     protected function isDownloadable(object $order): bool
     {
-        dd($order->shipping );
         if (!in_array($order->status, $this->downloadableStatusses())) {
             return false;
         }
@@ -200,6 +199,7 @@ class Entegration2 extends AbstrackOrderEntegrationService
 
         $curencyList = json_decode($order->payment_info->currency_list_json, true);
 
+
         $order->order_id = (string)$order->order_id;
         $order->entegration_id = $this->entegrationID();
         $order->total_price = $order->total;
@@ -210,6 +210,11 @@ class Entegration2 extends AbstrackOrderEntegrationService
         $order->phone = $order->s_phone;
         $order->status = $this->convertStatus($order->status);
         $order->invoice_no = $order->order_id;
+
+        // Currency
+        $currencyService = service('Currency');
+        $order->currency = is_null($currencyService) ?: $currencyService::getCurrencyIdByCode
+    ($order->secondary_currency);
 
         // Locations
         list($cityID, $stateID, $countryID) = $this->convertLocation([

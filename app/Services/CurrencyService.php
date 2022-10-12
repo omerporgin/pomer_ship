@@ -86,11 +86,12 @@ class CurrencyService extends abstractService
      * @param string $code
      * @return mixed|null
      */
-    public static function getCurrencyIdByCode(string $code)
+    public static function getCurrencyIdByCode(string $code): ?int
     {
-        if (!is_null($currency = Item::where('code', $code)->first())) {
-            return $currency->id;
+        $currency = Item::where('code', $code)->where('active', 1)->first();
+        if (is_null($currency)) {
+            return null;
         }
-        return null;
+        return $currency->id;
     }
 }

@@ -18,6 +18,7 @@ class Order extends Model
     protected $table = 'order_table';
 
     protected $appends = [
+        'currency_code',
         'document_custom',
         'document_etgb',
         'document_invoice',
@@ -28,6 +29,21 @@ class Order extends Model
         'pickup_state_name',
         'declared_value',
     ];
+
+    /**
+     * @return void
+     */
+    public function currencyCode(): Attribute
+    {
+        $code = null;
+        $currency = Currency::find($this->currency);
+        if (!is_null($currency)) {
+            $code = $currency->code;
+        }
+        return Attribute::make(
+            get: fn($value) => $code,
+        );
+    }
 
     /**
      * @return void
@@ -45,21 +61,21 @@ class Order extends Model
         );
     }
 
-		/**
-		 * @return void
-		 */
-		public function documentInvoice(): Attribute
-		{
-			$file = storage_path('app/public/documents/commerical_invoice_' . $this->id . '.pdf');
-			if (!file_exists($file)) {
-				$url = '';
-			} else {
-				$url = url('/storage/documents/commerical_invoice_' . $this->id . '.pdf');
-			}
-			return Attribute::make(
-				get: fn($value) => $url,
-			);
-		}
+    /**
+     * @return void
+     */
+    public function documentInvoice(): Attribute
+    {
+        $file = storage_path('app/public/documents/commerical_invoice_' . $this->id . '.pdf');
+        if (!file_exists($file)) {
+            $url = '';
+        } else {
+            $url = url('/storage/documents/commerical_invoice_' . $this->id . '.pdf');
+        }
+        return Attribute::make(
+            get: fn($value) => $url,
+        );
+    }
 
     /**
      * @return void

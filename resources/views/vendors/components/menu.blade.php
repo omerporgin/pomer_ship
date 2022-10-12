@@ -97,9 +97,8 @@
          data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Entegrasyon Listesi:</h6>
-            @foreach($orderServices as $entegration_id=>$entegrationData)
-                <div class="collapse-item open-modal"  data-url="{{ route('vendor_entegration_data.show', $entegration_id ) }}">
-
+            @foreach($orderServices as $entegrationData)
+                <div class="collapse-item open-modal"  data-url="{{ route('vendor_entegration_data.show', $entegrationData['id'] ) }}">
                     <img src="{{ asset('img/entegrations/'.$entegrationData['entegration_id'].".png") }}"
                          class="vendor-img-sm">
                     {{ $entegrationData['name'] }}

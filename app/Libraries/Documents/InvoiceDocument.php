@@ -135,8 +135,8 @@ class InvoiceDocument extends AbstractDocument
                 <td style="text-align:center"></td>
                 <td style="text-align:center"></td>
                 <td width="30" style="text-align:center">' . $product->quantity . '</td>
-                <td width="50" style="text-align:center">' . $product->unit_price . '  EUR</td>
-                <td width="50" style="text-align:center">' . $sumRow . '  EUR</td>
+                <td width="50" style="text-align:center">' . $product->unit_price . '  '.$this->order->currency_code.'</td>
+                <td width="50" style="text-align:center">' . $sumRow . '  '.$this->order->currency_code.'</td>
             </tr>';
             $total += $sumRow;
         }
@@ -152,8 +152,8 @@ class InvoiceDocument extends AbstractDocument
                 <td width="130">' . $product->name . '</td>
                 <td style="text-align:right" colspan="5">'.$type.'</td>
                 <td width="30" style="text-align:center">' . $product->quantity . '</td>
-                <td width="50" style="text-align:center">' . $product->unit_price . '  EUR</td>
-                <td width="50" style="text-align:center">' . $sumRow . '  EUR</td>
+                <td width="50" style="text-align:center">' . $product->unit_price . '  '.$this->order->currency_code.'</td>
+                <td width="50" style="text-align:center">' . $sumRow . '  '.$this->order->currency_code.'</td>
             </tr>';
             $total += $sumRow;
         }
