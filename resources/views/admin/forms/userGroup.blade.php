@@ -34,18 +34,22 @@
 
                         <h6 class="modal-title">{{ _('New Price Rule') }}</h6>
                         <div class="form-group row">
-                            <div class="col-md-2 text-right">{{ _('Shipping Id') }} :</div>
-                            <div class="col-md-5">
-                                <select name="shipping_id" class="form-control">
+                            <div class="col-md-2 text-right">{{ _('Shipping Id/Service') }} :</div>
+                            <div class="col-md-3">
+                                <select name="shipping_id" class="form-control" data-url="{{ route('api.get_shipping_services') }}">
+                                    <option value="">{{ _('Select') }}</option>
                                     @foreach($shippingList as $shipping)
                                         <option value="{{ $shipping->id }}">{{ $shipping->name }}</option>
                                     @endforeach
                                 </select>
                             </div>
+                            <div class="col-md-3">
+                                <select name="shipping_service_id" class="form-control"></select>
+                            </div>
                             <div class="col-md-2">
                                 {{ _('Is Default') }} :
                             </div>
-                            <div class="col-md-3">
+                            <div class="col-md-2">
                                 <input type="hidden" name="is_default" value="0"/>
                                 <input type="checkbox" name="is_default" value="1" data-on_txt="Yes" data-off_txt="No"
                                        class="switch" @if ($item->is_default == 1) checked="checked" @endif>

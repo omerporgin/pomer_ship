@@ -69,4 +69,8 @@ class ShippingService extends abstractService
 
         return [$list, $columns];
     }
+
+    public function getServiceNames(){
+
+    }
 }

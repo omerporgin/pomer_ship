@@ -181,19 +181,19 @@ class InvoiceDocument extends AbstractDocument
             <tbody>
             <tr>
                 <td>Total Goods Value:</td>
-                <td>' . $totalGoods . ' EUR</td>
+                <td>' . $totalGoods . '  '.$this->order->currency_code.'</td>
                 <td>Total line items:</td>
                 <td>' . $this->order->get()->orderProducts()->count() . '</td>
             </tr>
             <tr>
                 <td>Total Invoice Amount:</td>
-                 <td>' . $totalInvoice . ' EUR</td>
+                 <td>' . $totalInvoice . '  '.$this->order->currency_code.'</td>
                 <td>Number of Pallets:</td>
                 <td>0</td>
             </tr>
             <tr>
                 <td>Currency Code: </td>
-                 <td>EUR</td>
+                 <td> '.$this->order->currency_code.'</td>
                 <td>Total units</td>
                 <td></td>
             </tr>

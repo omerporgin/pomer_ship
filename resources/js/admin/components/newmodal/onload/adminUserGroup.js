@@ -8,6 +8,7 @@ import {dataTable} from "../../datatables/dataTable";
 export class FormModalOnLoad {
 
     constructor() {
+
         this.userGroup = $("input[name=user_group]").val();
         this.events();
         this.createTable();
@@ -22,6 +23,37 @@ export class FormModalOnLoad {
             var ajaxUrl = $(this).data("url");
             self.addPrice(ajaxUrl);
         })
+
+        $("select[name=shipping_id]").change(function () {
+            let shippingId = $(this).val()
+            let url = $(this).data('url')
+            self.getShippingService(shippingId, url)
+        })
+    }
+
+    getShippingService(shippingId, url) {
+        $.ajax({
+            type: 'post',
+            url: url,
+            dataType: 'json',
+            cache: false,
+            crossDomain: true,
+            data: {
+                shipping_id: shippingId
+            },
+        }).done(function (result) {
+
+            return true;
+
+        }).fail(function (xhr, textStatus, errorThrown) {
+
+            var form = $("#user_group_form")
+            var errors = new formErrors(xhr.responseJSON.errors, form);
+            errors.showErrors();
+
+            return false;
+
+        });
     }
 
     /**

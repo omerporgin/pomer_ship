@@ -227,6 +227,9 @@ class Entegration2 extends AbstrackOrderEntegrationService
         $order->country_id = $countryID;
         $order->state_id = $stateID;
 
+        // Currency
+        $currency = $curencyList[$order->secondary_currency];
+
         // Add products
         foreach ($order->products as $product) {
 
@@ -274,7 +277,7 @@ class Entegration2 extends AbstrackOrderEntegrationService
             $order->type[] = 0;
             $order->quantity[] = $quantity;
             $order->declared_quantity[] = $product->amount;
-            $order->unit_price[] = $product->price / $curencyList['EUR'];
+            $order->unit_price[] = $product->price / $currency;
             $order->gtip_code[] = 'gtip_code';
             $order->sku[] = 'sku';
         }
@@ -287,7 +290,7 @@ class Entegration2 extends AbstrackOrderEntegrationService
             $order->quantity[] = 1;
             $order->declared_quantity[] = 1;
             // Cs-Cart'ta TL geliyor, currency ile bölünmeli
-            $order->unit_price[] = $order->shipping_cost / $curencyList['EUR'];
+            $order->unit_price[] = $order->shipping_cost / $currency;
             $order->gtip_code[] = '';
             $order->sku[] = 'sku';
         }
@@ -300,7 +303,7 @@ class Entegration2 extends AbstrackOrderEntegrationService
             $order->quantity[] = 1;
             $order->declared_quantity[] = 1;
             // Cs-Cart'ta TL geliyor, currency ile bölünmeli
-            $order->unit_price[] = $order->payment_surcharge / $curencyList['EUR'];
+            $order->unit_price[] = $order->payment_surcharge / $currency;
             $order->gtip_code[] = '';
             $order->sku[] = 'sku';
         }

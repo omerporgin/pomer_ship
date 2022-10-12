@@ -78,6 +78,7 @@ class ShippingPriceController extends Controller
      */
     public function shippingPrices()
     {
+        // dd(Auth::user()->userGroup()->first()->userGroupPrice()->get());
         return response()->view(vendorTheme('shipping_prices'), [
             'id' => 1, // We only show DHL
             'userGroupId' => Auth::user()->user_group_id
