@@ -21,22 +21,32 @@ class User extends Authenticatable implements MustVerifyEmail
     protected $table = 'users';
 
     protected $fillable = [
-        'account_name',
         'full_name',
-        'email',
-        'api_pass',
-        'password',
-        'address',
+        'account_name',
         'user_type',
         'identity',
+
         'company_name',
         'company_owner',
         'company_tax',
-        'company_taxid',
 
         'bank',
+        'email',
+        'api_pass',
+        'email_verified_at',
+        'password',
+
+        'two_factor_secret',
+        'two_factor_recovery_codes',
+        'two_factor_confirmed_at',
+        'two_factor_recovery_codes',
+        'two_factor_confirmed_at',
+
+        'remember_token',
+        'current_team_id',
+        'profile_photo_path',
+        'permisson_id',
         'user_group_id',
-        'permission_id',
         'lang',
 
         'is_same_address',

@@ -8,6 +8,20 @@ use Illuminate\Database\Eloquent\Model;
 class OrderPackages extends Model
 {
     use HasFactory;
+    protected $table='order_packages';
+    protected $fillable=[
+        'order_id',
+        'width',
+        'height',
+        'length',
+        'weight',
+        'desi',
+        'calculated_desi',
+        'region',
+        'shipment_id',
+        'tracking_number',
+        'tracking_status'
+    ];
 
     /**
      * Relationship
