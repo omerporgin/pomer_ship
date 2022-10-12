@@ -166,7 +166,7 @@ class Entegration2 extends AbstrackOrderEntegrationService
      */
     protected function isDownloadable(object $order): bool
     {
-
+        dd($order->shipping );
         if (!in_array($order->status, $this->downloadableStatusses())) {
             return false;
         }
@@ -176,10 +176,11 @@ class Entegration2 extends AbstrackOrderEntegrationService
         }
 
         // Only orders with this shipping id
-        if (!in_array($order->shipping[0]->shipping_id, [137, 138])) {
-            return false;
+        if (!empty($this->entegration->cargo_list)) {
+            if (!in_array($order->shipping[0]->shipping_id, $this->entegration->cargo_list)) {
+                return false;
+            }
         }
-
         return true;
     }
 
@@ -203,7 +204,7 @@ class Entegration2 extends AbstrackOrderEntegrationService
         $order->entegration_id = $this->entegrationID();
         $order->total_price = $order->total;
         $order->order_date = date("Y-m-d H:i:s", $order->timestamp);
-        $order->full_name = $order->s_firstname.' '.$order->s_lastname;
+        $order->full_name = $order->s_firstname . ' ' . $order->s_lastname;
         $order->address = $order->s_address . ' ' . $order->s_address_2;
         $order->post_code = $order->s_zipcode;
         $order->phone = $order->s_phone;

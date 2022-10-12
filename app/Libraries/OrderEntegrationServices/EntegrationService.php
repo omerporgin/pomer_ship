@@ -29,28 +29,29 @@ class   EntegrationService
         $savedItems = 0;
 
         // Get users all entegrations
-        $entegrationData = EntegrationDataService::getUserData(Auth::id());
+        $entegrationDataList = EntegrationDataService::getUserData(Auth::id());
         $result = true;
 
         // Get order list one by one
-        foreach ($entegrationData as $data) {
-
+        foreach ($entegrationDataList as $entegration) {
             try {
-                $entegrationService = self::factory($data);
+
+                $entegrationService = self::factory($entegration);
                 $savedItems += $entegrationService->getOrders();
                 $this->setErrorList($entegrationService->getErrorList());
                 $count += $entegrationService->sumItems();
+
             } catch (\Exception $e) {
+
                 $result = false;
                 $this->setError($e->getMessage());
-                //reportException($e, true);
-            }
 
+            }
         }
 
         $errList = $this->getErrorList();
 
-        if(!empty($errList)){
+        if (!empty($errList)) {
             $result = false;
         }
         return [

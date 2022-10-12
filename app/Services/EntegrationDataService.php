@@ -40,17 +40,15 @@ class EntegrationDataService extends abstractService
      */
     public static function getUserData($userID): array
     {
-        $entegrationService = app()->make(EntegrationService::class);
-
         $service = new Static;
         $item = $service->get();
         $list = $item->where('user_id', $userID)->get();
 
         $return = [];
         foreach ($list as $entegration) {
-
-            $entegrationObj = $entegrationService->getById($entegration->entegration_id);
-            $return[$entegration->id] = [
+            $entegrationObj = service('EntegrationData', $entegration->entegration_id);
+            $return[] = [
+                'id' => $entegration->id,
                 'name' => $entegrationObj->name,
                 'entegration_id' => $entegrationObj->id,
                 'entegration_data' => $entegrationObj,
