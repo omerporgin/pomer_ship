@@ -3,6 +3,7 @@
 namespace App\Services;
 
 use App\Models\UserGroup as Item;
+use App\Models\ShippingService;
 
 class UserGroupService extends abstractService
 {
@@ -114,11 +115,17 @@ class UserGroupService extends abstractService
      */
     public function getCalculatedPrice(int $region, float $desi): array
     {
+
         $priceList = $this->getPricesOfUserGroup();
         $increament = $this->desiPrice($priceList, $desi);
 
         $shippinhPriceService = service('ShippingPrices');
-        $return = $shippinhPriceService->get()->where('region', $region)->where('desi', $desi)->get();
+        $return = $shippinhPriceService
+            ->get()
+            ->where('region', $region)
+            ->where('desi', $desi)
+            ->whereIn('service', $this->serviceNameList())
+            ->get();
 
         $calculatedPrices = [];
         foreach ($return as $item) {
@@ -150,15 +157,27 @@ class UserGroupService extends abstractService
     public function getCalculatedPriceByCountryId(int $countryId, float $desi): ?array
     {
         $country = service('LocationCountry', $countryId);
-        if( $country->hasItem()){
+        if ($country->hasItem()) {
             $region = $country->cargo_dhl_id;
             return $this->getCalculatedPrice($region, $desi);
         }
         return null;
     }
 
-    public function serviceNameList()
+    /**
+     * @return array
+     */
+    public function serviceNameList(): array
     {
         return $this->item->userGroupPrice()->pluck('service_name')->toArray();
+    }
+
+    /**
+     * @return mixed
+     */
+    public function serviceList()
+    {
+        $names = $this->serviceNameList();
+        return ShippingService::whereIn('name', $names )->get();
     }
 }

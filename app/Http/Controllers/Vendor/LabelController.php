@@ -34,7 +34,7 @@ class LabelController extends Controller
                 $request = Factory::request('CreateShipment', $shipping, $order);
 
                 $data = $request->build();
-dd($data);
+
                 if ($shipping->withData($data)->createShipment()) {
                     $response = $shipping->response();
 

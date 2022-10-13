@@ -8,8 +8,14 @@ use Illuminate\Support\Facades\Auth;
 class OrderPackageRequest extends FormRequest
 {
 
+    /**
+     * @var
+     */
     private $package;
 
+    /**
+     * @var
+     */
     private $order;
 
     /**

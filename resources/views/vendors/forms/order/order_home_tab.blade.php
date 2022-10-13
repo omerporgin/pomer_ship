@@ -105,10 +105,10 @@
     <div class="col-md-4">
         <select class="form-control form-control" name="shipment_id">
             <option value="">{{ _('Select') }}</option>
-            @foreach($serviceNames as $name)
-                <option value="{{ $name}}"
-                        @if($orderSelectedShipmentId ==$name ) selected @endif>
-                    {{ $name  }}
+            @foreach($serviceNames as $service)
+                <option value="{{ $service->id }}"
+                        @if($orderSelectedShipmentId == $service->id ) selected @endif>
+                    {{ $service->name  }}
                 </option>
             @endforeach
         </select>

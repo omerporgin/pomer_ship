@@ -21,7 +21,7 @@ export class VendorOrderModalLocation {
 
         new orderAddLocation(this)
 
-        this.addInsertButtons()
+       // this.addInsertButtons()
     }
 
     /**

@@ -5,7 +5,6 @@ use App\Libraries\Shippings\Shipping_1\Requests\Request;
 
 return new class($shipping, $order) extends Request implements RequestInterface {
 
-
     /**
      * @return array
      */
@@ -83,7 +82,9 @@ return new class($shipping, $order) extends Request implements RequestInterface 
         ];
 
         $this->addDocuments();
+
         $this->pickup();
+
         $this->addAccounts();
     }
 
@@ -91,6 +92,9 @@ return new class($shipping, $order) extends Request implements RequestInterface 
     {
 
         $path = $this->order->document_invoice;
+        if ($path == '') {
+            throw new InvalidArgumentException('Create Invoice');
+        }
         $type = pathinfo($path, PATHINFO_EXTENSION);
 
         $data = file_get_contents($path);
@@ -228,7 +232,7 @@ return new class($shipping, $order) extends Request implements RequestInterface 
     {
 
         $return = [
-            "isCustomsDeclarable" => true, // Vergiye tabi mi?
+            "isCustomsDeclarable" => true,
             "declaredValue" => $this->order->declared_value,
             "declaredValueCurrency" => $this->order->currency_code,
 
@@ -237,8 +241,8 @@ return new class($shipping, $order) extends Request implements RequestInterface 
                     "number" => $this->order->invoice_no,
                     "date" => date("Y-m-d", strtotime($this->order->order_date)),
                 ],
-                "exportReference" => "export reference",
-                "exportReason" => "export reason",
+                // "exportReference" => "export reference",
+                "exportReason" => "Micro Export",
                 "exportReasonType" => "permanent",
                 "licenses" => [
                     [
@@ -255,6 +259,7 @@ return new class($shipping, $order) extends Request implements RequestInterface 
         if (!is_null($this->order->description)) {
             $return["description"] = $this->order->description;
         }
+
         $packages = [];
         $lineItems = [];
 
@@ -348,7 +353,7 @@ return new class($shipping, $order) extends Request implements RequestInterface 
             ];
         }
 
-        if(!empty($additionalCharges)){
+        if (!empty($additionalCharges)) {
             $return['exportDeclaration']['additionalCharges'] = $additionalCharges;
         }
 

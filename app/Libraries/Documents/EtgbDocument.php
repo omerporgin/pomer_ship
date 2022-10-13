@@ -9,7 +9,6 @@ use App\Services\OrderService;
 class EtgbDocument extends AbstractDocument
 {
 
-
     /**
      * @param int $orderId
      */
@@ -85,13 +84,13 @@ class EtgbDocument extends AbstractDocument
             $desi = $orderInfo->tracking_number;
         }
 
-        $name = $this->order->firstname . ' ' . $this->order->lastname;
+        $name = $this->order->full_name;
 
         $inputFileds = [
             'İHRACATÇI FİRMA' => $user->company_name,
             'ADRES' => $user->warehouse_address,
             'TELEFON,FAX VE E-MAIL' => $user->warehouse_phone . ' | ' . $user->email,
-            'İLGİLİ KİŞİ' => $user->name . ' ' . $user->surname,
+            'İLGİLİ KİŞİ' => $user->full_name,
             'VERGİ DAİRESİ VE NO' => $user->company_tax . ' | ' . $user->company_taxid,
             'HAVALİMANI GÜMRÜK KAYDI' => 'VAR | YOK',
             'BANKA BİLGİSİ ' => $user->bank,
@@ -148,9 +147,9 @@ class EtgbDocument extends AbstractDocument
                 <td  width="100" align="center">' . $product['gtip_code'] . '</td>
                 <td  width="150">' . $product['name'] . '</td>
                 <td  width="60" align="center">' . $product['quantity'] . ' ADET</td>
-                <td width="60" align="center">' . number_format($product['quantity'] * $product['unit_price'], 2) . '</td>
+                <td width="60" align="center">' . number_format($product['quantity'] * $product['unit_price'], 2) . ' ' . $this->order->currency_code . '</td>
                 <td width="60" align="center">1</td>
-                <td width="45" align="center">'.$product['desi'].'</td>
+                <td width="45" align="center">'.$product['weight'].' Kg</td>
             </tr>';
             $row++;
         }

@@ -3,7 +3,7 @@
 namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
-use Illuminate\Support\Facades\Auth;
+use App\Rules\HiddenChars;
 
 class OrderRequest extends FormRequest
 {
@@ -37,20 +37,20 @@ class OrderRequest extends FormRequest
             'total_price' => 'nullable|numeric|between:0,99999999.99',
             'declared_price' => 'nullable|numeric|between:0,99999999.99',
             'se_label' => 'nullable|string',
-            'invoice_no' => 'nullable|string',
+            'invoice_no' => 'required|string',
 
             // Personal data
-            'full_name' => 'required|string',
-            'company_name' => 'nullable|string',
-            'phone' => 'required|string|max:100',
-            'email' => 'nullable|string|max:100',
+            'full_name' =>  [new HiddenChars(), 'required', 'string', 'max:255'],
+            'company_name' => [new HiddenChars(), 'nullable', 'string', 'max:100'],
+            'phone' =>  [new HiddenChars(), 'required', 'string', 'max:100'],
+            'email' => [new HiddenChars(), 'required', 'string', 'max:100'],
 
             // Shipment details
             'message' => 'nullable|string|max:500',
             'description' => 'nullable|string|max:500',
-            'address' => 'required|string|max:1000',
-            'country_id' => 'nullable|integer',
-            'state_id' => 'nullable|integer',
+            'address' =>  [new HiddenChars(), 'required', 'string', 'max:1000'],
+            'country_id' => 'required|integer',
+            'state_id' => 'required|integer',
             'city_id' => 'nullable|integer',
             'post_code' => 'nullable|string|max:10',
 
@@ -99,7 +99,7 @@ class OrderRequest extends FormRequest
 
             'package_list' => 'required',
             'shipment_id' => 'nullable|integer',
-            'order_date' => 'nullable|date',
+            'order_date' => ['required', 'date', 'date_format:Y-m-d'],
             'data' => 'string|nullable',
 
             // Package data
@@ -114,7 +114,7 @@ class OrderRequest extends FormRequest
             'package_id' => 'array',
             'package_id.*' => 'nullable|integer',
 
-            'shipped_at' => 'date_format:Y-m-d|nullable',
+            'shipped_at' => ['required', 'date_format:Y-m-d', 'after:' . date('Y-m-d')],
         ];
 
         return $rules;

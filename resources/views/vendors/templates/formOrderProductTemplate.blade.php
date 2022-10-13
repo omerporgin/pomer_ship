@@ -54,16 +54,16 @@
                 </div>
             </td>
             <td>
-                <input type="text" value="" class="form-control form-control-sm" name="product_width[]">
+                <input type="text" value="" class="form-control form-control-sm show_by_type" name="product_width[]">
             </td>
             <td>
-                <input type="text" value="" class="form-control form-control-sm" name="product_height[]">
+                <input type="text" value="" class="form-control form-control-sm show_by_type" name="product_height[]">
             </td>
             <td>
-                <input type="text" value="" class="form-control form-control-sm" name="product_length[]">
+                <input type="text" value="" class="form-control form-control-sm show_by_type" name="product_length[]">
             </td>
             <td>
-                <input type="text" value="" class="form-control form-control-sm" name="product_weight[]">
+                <input type="text" value="" class="form-control form-control-sm show_by_type" name="product_weight[]">
             </td>
             <td class="text-center">
                 <button class="btn btn-danger btn-circle btn-sm delete_row" type="button">

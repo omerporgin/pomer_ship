@@ -9,9 +9,10 @@ class ShippingService extends Model
 {
     use HasFactory;
 
-    protected $fillable=[
+    protected $fillable = [
         'shipping_id',
         'name',
-        'is_active'
+        'code',
+        'is_active',
     ];
 }

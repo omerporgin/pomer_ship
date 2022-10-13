@@ -51,7 +51,18 @@ class Order extends Model
         'data',
         'order_date',
         'shipped_at'
+    ];
 
+    protected $appends = [
+        'document_custom',
+        'document_etgb',
+        'document_invoice',
+        'city_name',
+        'state_name',
+        'country_name',
+        'pickup_city_name',
+        'pickup_state_name',
+        'declared_value',
     ];
 
     /**

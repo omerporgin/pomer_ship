@@ -7,7 +7,8 @@
 </li>
 
 <!-- // SHIPPING PRICE MODAL / This is not displayed -->
-<div class="modal fade" id="modal_shipping_price" tabindex="-1" role="dialog" aria-labelledby="modal_shipping_price"
+<div class="modal fade" id="modal_shipping_price" tabindex="-1" role="dialog"
+     aria-labelledby="modal_shipping_price"
      aria-hidden="true">
     <div class="modal-dialog modal-xl" role="document">
         <div class="modal-content">
@@ -39,10 +40,10 @@
                         <div class="col-12 col-lg-10">
 
                             <div class="form-group row">
-                                <div class="col">
+                                <div class="col-12 col-md-3">
 
                                     <div class="input-group">
-                                        <input type="text" name="width" class="form-control" placeholder="En">
+                                        <input type="text" name="width" class="form-control js-change-calculate_desi" placeholder="En">
                                         <div class="input-group-append">
                                             <span class="input-group-text">cm</span>
                                         </div>
@@ -50,10 +51,10 @@
 
                                 </div>
 
-                                <div class="col">
+                                <div class="col-12 col-md-3">
 
                                     <div class="input-group">
-                                        <input type="text" name="height" class="form-control" placeholder="Boy">
+                                        <input type="text" name="height" class="form-control js-change-calculate_desi" placeholder="Boy">
                                         <div class="input-group-append">
                                             <span class="input-group-text">cm</span>
                                         </div>
@@ -61,10 +62,10 @@
 
                                 </div>
 
-                                <div class="col">
+                                <div class="col-12 col-md-3">
 
                                     <div class="input-group">
-                                        <input type="text" name="length" class="form-control" placeholder="Yükseklik">
+                                        <input type="text" name="length" class="form-control js-change-calculate_desi" placeholder="Yükseklik">
                                         <div class="input-group-append">
                                             <span class="input-group-text">cm</span>
                                         </div>
@@ -72,18 +73,20 @@
 
                                 </div>
 
-                                <div class="col">
+                                <div class="col-12 col-md-3">
 
                                     <div class="input-group">
-                                        <input type="text" name="weight" class="form-control" placeholder="Ağırlık">
+                                        <input type="text" name="weight" class="form-control js-change-calculate_desi" placeholder="Ağırlık">
                                         <div class="input-group-append">
                                             <span class="input-group-text">kg</span>
                                         </div>
                                     </div>
 
                                 </div>
+                            </div>
+                            <div class="form-group row">
 
-                                <div class="col ">
+                                <div class="col-12  ">
 
                                     <div class="input-group">
                                         <input type="text" name="desi" class="form-control" placeholder="Desi">

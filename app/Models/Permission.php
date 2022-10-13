@@ -14,6 +14,8 @@ class Permission extends Model
         'permisson'
     ];
 
+    protected $table = 'user_permissions';
+
     use HasFactory;
 
     /**

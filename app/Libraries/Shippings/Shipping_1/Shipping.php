@@ -47,6 +47,16 @@ return new class extends AbstractShipping {
         return $this->desiList;
     }
 
+    public function getStandartDesi(float $desi): float
+    {
+        foreach ($this->desiList as $currentDesi) {
+            if ($desi < $currentDesi) {
+                return $currentDesi;
+            }
+        }
+        return $desi;
+    }
+
     /**
      * @param $response
      * @return object

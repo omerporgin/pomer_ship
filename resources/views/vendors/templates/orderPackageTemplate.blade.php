@@ -25,7 +25,7 @@
 
             <div class="col-3">
                 <br>
-                <button type="button" class="btn btn-primary btn-sm btn-icon-split btn_label"
+                <button type="button" class="btn btn-primary btn-sm btn-icon-split print-label"
                         data-order_id="__ORDER_ID__"
                         data-text_success="{{ _('Success') }}"
                         data-text_processing="{{ _('Processing') }}"

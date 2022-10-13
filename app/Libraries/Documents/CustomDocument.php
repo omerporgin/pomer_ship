@@ -88,7 +88,8 @@ class CustomDocument extends AbstractDocument
             .$user->state_name.'</u> (posta kodu dahil) adresinde faaliyet gösteren [Vergi
             Kimlik No:] <u>'.$user->real_tax_id.'</u> vergi numaralı [Unvan:]<u>'.$user->real_owner_name.'</u> (Kısaca “Müşteri” olarak anılacaktır) firması
             arasında imzalanmıştır. (Eğer şahıs ise İsim Soy isim ve TC Kimlik No olarak doldurulması gerekir)
-            Müşterinin İmza Yetkili Personeli Adı, Soyadı: <u>'.$user->name.' '.$user->surname.'</u> ve telefon no: <u>'.$user->warehouse_phone.'</u>
+            Müşterinin İmza Yetkili Personeli Adı, Soyadı: <u>'.$user->full_name.'</u> ve telefon no: <u>'
+            .$user->warehouse_phone.'</u>
             Müşterinin DHL Aboneliği var ise Abone numarası: .............................................
             </li>
             </ol>

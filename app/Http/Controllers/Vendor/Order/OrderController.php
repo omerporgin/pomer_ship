@@ -94,6 +94,13 @@ class OrderController extends Controller
      */
     public function create(Request $request)
     {
+        $dateList = [];
+        $after = 1;
+        while ($after < 11) {
+            $dateList[] = Carbon::now()->addDays($after);
+            $after++;
+        }
+
         $item = service('Order');
 
         /**
@@ -137,8 +144,9 @@ class OrderController extends Controller
             'isNew' => true,
             'updatable' => $item->updatable(),
             'stateList' => $list['list'],
+            'dateList' => $dateList,
             'currencies' => $currencyService->getActiveItems(),
-            'serviceNames' => $userGroupService->serviceNameList(),
+            'serviceNames' => $userGroupService->serviceList(),
         ]);
     }
 
@@ -242,7 +250,7 @@ class OrderController extends Controller
             'stateList' => $list['list'],
             'dateList' => $dateList,
             'currencies' => $currencyService->getActiveItems(),
-            'serviceNames' => $userGroupService->serviceNameList(),
+            'serviceNames' => $userGroupService->serviceList(),
         ]);
     }
 

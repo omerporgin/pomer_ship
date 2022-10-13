@@ -16,7 +16,7 @@ export class PrintLabel {
     events() {
         var self = this;
 
-        $(document).off('click', ".btn_label").on('click', ".btn_label", function () {
+        $(document).off('click', ".print-label").on('click', ".print-label", function () {
 
             self.button = $(this);
             self.save();
@@ -57,11 +57,11 @@ export class PrintLabel {
             length: parentTable.find('input[name^=length]').val(),
             height: parentTable.find('input[name^=height]').val(),
             weight: parentTable.find('input[name^=weight]').val(),
-            description: parentTable.find('input[name^=description]').val(),
+            description: parentTable.parent().find('input[name^=description]').val(),
             package_id: parentTable.find('input[name^=package_id]').val(),
             shipment_id: parentTable.parent().find('select[name^=select_shippings]').val(),
         };
-        console.log(data)
+
         $.ajax({
             type: 'post',
             url: url,

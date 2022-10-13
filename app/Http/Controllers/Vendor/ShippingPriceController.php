@@ -6,7 +6,8 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Auth;
-use \App\Libraries\Shippings\Factory;
+use App\Libraries\Shippings\Factory;
+use App\Http\Requests\Vendor\ShippingPriceRequest;
 
 class ShippingPriceController extends Controller
 {
@@ -20,51 +21,32 @@ class ShippingPriceController extends Controller
      * @param Request $request
      * @return \Illuminate\Http\JsonResponse|void
      */
-    public function getPrice(Request $request)
+    public function getPrice(ShippingPriceRequest $request)
     {
         $user = Auth::user();
 
-        $cache = 1;
+
         $countryService = service('LocationCountry', $request->country_id);
         if (!$countryService->hasItem()) {
-            return response()->json(['Coutry not exist.'], 500);
+            return response()->json(['Country not exist.'], 500);
         }
 
         $result = [];
-        // Sadece dhl var.
-        foreach ([1] as $shippingId) {
+
+        foreach ([1] as $shippingId) {// Sadece dhl var.
 
             $shipping = Factory::shipping($shippingId);
-
+            $desi = $shipping->getStandartDesi($request->desi);
             $shipping->setCountryService($countryService);
 
-            $region = getRegionByShippingId($shippingId);
+            $region = $countryService->getRegionByShippingId($shippingId);
 
-            if (!is_null($region)) {
-
-                try {
-                    $desi = $shipping->calculateDesi($request);
-                } catch (\Exception $e) {
-                    return response()->json([$e->getMessage()], 500);
-                }
-
-                if (!$cache) {
-                    $results = array_merge($result, $shipping->getPrice([
-                        'region' => $region,
-                        'desi' => $desi,
-                        'post_code' => $request->post_code,
-                        'shipping_id' => $shippingId
-                    ]));
-                    foreach ($results as $item) {
-                        array_push($result, $item);
-                    }
-                } else {
-                    $userGroupService = service('UserGroup', $user->user_group_id);
-                    foreach ($userGroupService->getCalculatedPrice($region, $desi) as $item) {
-                        array_push($result, $item);
-                    }
-                }
+            if (is_null($region)) {
+                return response()->json(['Region not exist.'], 500);
             }
+
+            $userGroupService = service('UserGroup', $user->user_group_id);
+            $result = $userGroupService->getCalculatedPrice($region, $desi);
         }
 
         $price = array_column($result, 'price');
@@ -125,7 +107,7 @@ class ShippingPriceController extends Controller
                         'countryAlternatives' => json_decode($country->translations),
                         'minDesi' => $minDesi,
                         'maxDesi' => $row->desi,
-                        'price' => $row->price  * $userGroupService->desiPrice($priceList, $row->desi),
+                        'price' => $row->price * $userGroupService->desiPrice($priceList, $row->desi),
                     ];
 
                 }

@@ -104,7 +104,7 @@ class InvoiceDocument extends AbstractDocument
                             <b>SHIP TO:</b><br>
                              <table border="0" cellpadding="5">
                             <tr><td style="border:1px solid #ddd">
-                            <u>' . $this->order->firstname . ' ' . $this->order->lastname . '</u><br>
+                            <u>' . $this->order->full_name . '</u><br>
                             ' . $this->order->address . ' ' . $this->order->post_code . '<br>
                            ' . $this->order->city_name . ' / ' . $this->order->state_name . ' / ' . $this->order->country_name . '<br>
                            ' . $this->order->phone . '<br>
