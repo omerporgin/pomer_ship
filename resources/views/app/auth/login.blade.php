@@ -34,7 +34,7 @@
 
                 <form method="POST" action="{{ route('login', ['lang' => $lang]) }}">
 
-                    <h3 class="text-uppercase">{{ _('ShipExporgin User Login') }}</h3>
+                    <h3 class="text-uppercase">{{ _('ShipExporgin User Login') }}n</h3>
                     <p>
                         {{ _('Log in or ') }} <a href="{{ ifExistRoute('register',  ['lang' => $lang ]) }}"><b> {{ _('Create a new account!') }}</b></a>
                     </p>
