@@ -51,7 +51,7 @@
                                 <div class="col-md-8">
                                     <h2 class="mb-3">E-İhracat süreçlerinizi ShipExporgin ile yönetin,zamandan ve
                                         paradan tasarruf
-                                        edinnnnn!</h2>
+                                        edinnnnnn!</h2>
 
                                     <p>Pazar yerlerindeki mağazalarınızı entegre etmenin,
                                         lojistik hizmetlerimiz ile yurt dışına en uygun kargo gönderimi yapmanın,
