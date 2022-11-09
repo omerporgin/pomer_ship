@@ -4,3 +4,7 @@ os: linux
 files:
   - source: /
     destination: /var/www/exporgin.com/demo
+permissions:
+  - object: /var/www/exporgin.com/demo
+    owner: ubuntu
+    group: ubuntu
